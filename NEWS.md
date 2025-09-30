@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-09-30 17:14:16.708642+07:00**_
+_Last update: **2025-09-30 18:11:34.877106+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-09-30 17:14:16.708642+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 30-9-2025: [V/v nộp luận văn tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T9/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16973)
  - 30-9-2025: [Thông báo đăng ký tham dự Chuỗi Hội thảo kỹ năng - Công nghệ 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16972)
  - 26-9-2025: [[CQ] DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2022-đợt 2 (bảo vệ T3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16969)
  - 26-9-2025: [Học bổng Toàn phần Chương trình Học giả Nghiên cứu Xuất sắc – VinUni & Viện Nghiên cứu Dữ liệu lớn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16968)
@@ -59,7 +60,6 @@ _Last update: **2025-09-30 17:14:16.708642+07:00**_
  - 17-9-2025: [Thông tin Hội đồng bảo vệ luận văn/ đồ án tốt nghiệp đợt tháng 9/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16958)
  - 16-9-2025: [Thông báo v/v đăng ký đội tham dự ICPC-HCMUS 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16953)
  - 16-9-2025: [[CQ] Danh sách lớp học phần hủy, HK1/2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16952)
- - 15-9-2025: [Lịch trực Cố vấn học tập HK1/ NH 2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16947)
 
 ## Thông tin dành cho sinh viên
 - 29/09/2025: [Thông báo thay đổi phòng học tại CS2 từ ngày 30/9/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-cs2-tu-ngay-30-9-2025/)
