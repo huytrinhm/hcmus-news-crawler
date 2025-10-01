@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-10-01 16:14:42.943400+07:00**_
+_Last update: **2025-10-01 17:14:08.082430+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-10-01 16:14:42.943400+07:00**_
  - 16-9-2025: [[CQ] Danh sách lớp học phần hủy, HK1/2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16952)
 
 ## Thông tin dành cho sinh viên
+- 01/10/2025: [Thông báo thay đổi phòng học tại cơ sở 2 từ ngày 02/10/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-tu-ngay-02-10-2025/)
 - 01/10/2025: [THÔNG BÁO về việc đeo thẻ sinh viên, học viên khi vào khuôn viên Trường](https://hcmus.edu.vn/thong-bao-ve-viec-deo-the-sinh-vien-hoc-vien-khi-vao-khuon-vien-truong/)
 - 01/10/2025: [TB Chương trình học bổng tài năng Công nghệ CT group năm học 2025-2026](https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-tai-nang-cong-nghe-ct-group-nam-hoc-2025-2026/)
 - 01/10/2025: [THÔNG BÁO về việc lộ trình triển khai giới hạn dung lượng tài khoản email sinh viên](https://hcmus.edu.vn/thong-bao-ve-viec-lo-trinh-trien-khai-gioi-han-dung-luong-tai-khoan-email-sinh-vien/)
@@ -71,7 +72,6 @@ _Last update: **2025-10-01 16:14:42.943400+07:00**_
 - 26/09/2025: [Thông báo thay đổi lịch học,  phòng học tại CS2 từ ngày 29/9/2025](https://hcmus.edu.vn/thong-bao-thay-doi-lich-hoc-phong-hoc-tai-cs2-tu-ngay-29-9-2025/)
 - 26/09/2025: [Lịch học Thể dục 1 HK1/2025-2026 chính thức kèm thông tin giảng viên](https://hcmus.edu.vn/lich-hoc-the-duc-1-hk1-2025-2026-chinh-thuc-kem-thong-tin-giang-vien/)
 - 25/09/2025: [Thông báo thực hiện miễn, giảm học phí và chế độ chính sách cho sinh viên học kỳ 1/2025-2026](https://hcmus.edu.vn/thong-bao-thuc-hien-mien-giam-hoc-phi-va-che-do-chinh-sach-cho-sinh-vien-hoc-ky-1-2025-2026/)
-- 24/09/2025: [Thông báo thay đổi phòng học từ ngày 25/9 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tu-ngay-25-9-tai-co-so-2/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/905-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-khoa-cntt)
