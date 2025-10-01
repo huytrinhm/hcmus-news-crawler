@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-10-01 13:20:21.701496+07:00**_
+_Last update: **2025-10-01 14:13:54.683731+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-10-01 13:20:21.701496+07:00**_
  - 16-9-2025: [[CQ] Danh sách lớp học phần hủy, HK1/2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16952)
 
 ## Thông tin dành cho sinh viên
+- 01/10/2025: [THÔNG BÁO về việc lộ trình triển khai giới hạn dung lượng tài khoản email sinh viên](https://hcmus.edu.vn/thong-bao-ve-viec-lo-trinh-trien-khai-gioi-han-dung-luong-tai-khoan-email-sinh-vien/)
 - 29/09/2025: [Thông báo thay đổi phòng học tại CS2 từ ngày 30/9/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-cs2-tu-ngay-30-9-2025/)
 - 28/09/2025: [Thông báo thay đổi phòng học tại CS2 từ ngày 29/9](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-cs2-tu-ngay-29-9/)
 - 26/09/2025: [THÔNG BÁO V/v triển khai khảo sát sự hài lòng của người học với trải nghiệm học tập tại Đại học Quốc gia Thành phố Hồ Chí Minh năm 2025](https://hcmus.edu.vn/thong-bao-v-v-trien-khai-khao-sat-su-hai-long-cua-nguoi-hoc-voi-trai-nghiem-hoc-tap-tai-dai-hoc-quoc-gia-thanh-pho-ho-chi-minh-nam-2025/)
@@ -71,7 +72,6 @@ _Last update: **2025-10-01 13:20:21.701496+07:00**_
 - 24/09/2025: [Thông báo thay đổi phòng học từ ngày 25/9 tại cơ sở 2](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tu-ngay-25-9-tai-co-so-2/)
 - 24/09/2025: [Thông báo Tổ chức hội thảo “Caravan Văn hóa SHTT Sinh viên ĐHQG-HCM lần 2”  Tại Trường Đại học Khoa học tự nhiên, ĐHQG-HCM](https://hcmus.edu.vn/tb-to-chuc-hoi-thao-caravan-van-hoa-shtt-sinh-vien-dhqg-hcm-lan-2-tai-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
 - 23/09/2025: [[THÔNG BÁO] Chương trình trao đổi kỳ học mùa xuân năm 2026 – Đại học Kyushu, Nhật Bản](https://hcmus.edu.vn/thong-bao-chuong-trinh-trao-doi-ky-hoc-mua-xuan-nam-2026-dai-hoc-kyushu-nhat-ban/)
-- 23/09/2025: [[THÔNG BÁO] Cuộc thi về Du học Ý và Ngày hội Thông tin du học Ý năm 2025](https://hcmus.edu.vn/thong-bao-cuoc-thi-ve-du-hoc-y-va-ngay-hoi-thong-tin-du-hoc-y-nam-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/905-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-khoa-cntt)
