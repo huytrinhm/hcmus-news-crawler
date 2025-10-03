@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-10-03 14:12:30.589246+07:00**_
+_Last update: **2025-10-03 15:16:42.531183+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-10-03 14:12:30.589246+07:00**_
  - 16-9-2025: [Thông báo v/v đăng ký đội tham dự ICPC-HCMUS 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16953)
 
 ## Thông tin dành cho sinh viên
+- 03/10/2025: [Thông báo thay đổi phòng học tại CS2 từ ngày 06/10/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-cs2-tu-ngay-06-10-2025/)
 - 01/10/2025: [Thông báo thay đổi phòng học tại cơ sở 2 từ ngày 02/10/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-tu-ngay-02-10-2025/)
 - 01/10/2025: [THÔNG BÁO về việc đeo thẻ sinh viên, học viên khi vào khuôn viên Trường](https://hcmus.edu.vn/thong-bao-ve-viec-deo-the-sinh-vien-hoc-vien-khi-vao-khuon-vien-truong/)
 - 01/10/2025: [TB Chương trình học bổng tài năng Công nghệ CT group năm học 2025-2026](https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-tai-nang-cong-nghe-ct-group-nam-hoc-2025-2026/)
@@ -71,7 +72,6 @@ _Last update: **2025-10-03 14:12:30.589246+07:00**_
 - 26/09/2025: [THÔNG BÁO V/v triển khai khảo sát sự hài lòng của người học với trải nghiệm học tập tại Đại học Quốc gia Thành phố Hồ Chí Minh năm 2025](https://hcmus.edu.vn/thong-bao-v-v-trien-khai-khao-sat-su-hai-long-cua-nguoi-hoc-voi-trai-nghiem-hoc-tap-tai-dai-hoc-quoc-gia-thanh-pho-ho-chi-minh-nam-2025/)
 - 26/09/2025: [Thông báo thay đổi lịch học,  phòng học tại CS2 từ ngày 29/9/2025](https://hcmus.edu.vn/thong-bao-thay-doi-lich-hoc-phong-hoc-tai-cs2-tu-ngay-29-9-2025/)
 - 26/09/2025: [Lịch học Thể dục 1 HK1/2025-2026 chính thức kèm thông tin giảng viên](https://hcmus.edu.vn/lich-hoc-the-duc-1-hk1-2025-2026-chinh-thuc-kem-thong-tin-giang-vien/)
-- 25/09/2025: [Thông báo thực hiện miễn, giảm học phí và chế độ chính sách cho sinh viên học kỳ 1/2025-2026](https://hcmus.edu.vn/thong-bao-thuc-hien-mien-giam-hoc-phi-va-che-do-chinh-sach-cho-sinh-vien-hoc-ky-1-2025-2026/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK3/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/905-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-khoa-cntt)
