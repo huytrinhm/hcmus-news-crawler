@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-10-04 06:11:34.529613+07:00**_
+_Last update: **2025-10-04 07:57:46.800229+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
