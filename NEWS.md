@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-10-08 15:18:32.135259+07:00**_
+_Last update: **2025-10-08 16:14:17.945550+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-10-08 15:18:32.135259+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 8-10-2025: [Không gian Triển lãm FIT30 – Nơi hành trình được kể bằng hình ảnh](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16989)
  - 8-10-2025: [Thông báo v/v đăng ký tham dự Kỳ thi Olympic tin học sinh viên trường Đại học Khoa học Tự nhiên năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16985)
  - 8-10-2025: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 17/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16984)
  - 7-10-2025: [Đăng ký tham quan công ty DXC Vietnam ngày 21/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16983)
@@ -59,7 +60,6 @@ _Last update: **2025-10-08 15:18:32.135259+07:00**_
  - 26-9-2025: [[CQ] DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2022-đợt 2 (bảo vệ T3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16969)
  - 26-9-2025: [Học bổng Toàn phần Chương trình Học giả Nghiên cứu Xuất sắc – VinUni & Viện Nghiên cứu Dữ liệu lớn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16968)
  - 23-9-2025: [Mời tham dự buổi bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt tháng 9/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16966)
- - 22-9-2025: [[CQ] Thông báo kiểm tra kết quả kiểm duyệt đăng ký học phần HK1, NH 2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16963)
 
 ## Thông tin dành cho sinh viên
 - 08/10/2025: [[THÔNG BÁO] Chương trình Trường Lãnh đạo trẻ Đông Nam Á (YouLead 2025) – Universiti Kebangsaan Malaysia (UKM)](https://hcmus.edu.vn/thong-bao-chuong-trinh-truong-lanh-dao-tre-dong-nam-a-youlead-2025-universiti-kebangsaan-malaysia-ukm/)
