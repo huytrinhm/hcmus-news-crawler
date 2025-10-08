@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-10-08 10:25:50.029007+07:00**_
+_Last update: **2025-10-08 11:15:22.095561+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-10-08 10:25:50.029007+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 8-10-2025: [Thông báo v/v đăng ký tham dự Kỳ thi Olympic tin học sinh viên trường Đại học Khoa học Tự nhiên năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16985)
  - 8-10-2025: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 17/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16984)
  - 7-10-2025: [Đăng ký tham quan công ty DXC Vietnam ngày 21/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16983)
  - 2-10-2025: [Tổng kết Chương trình ngày 29/9/2025 - Lễ khánh thành các Phòng thí nghiệm, Buổi ra mắt Câu lạc bộ Nghiên cứu Khoa học và Seminar Học thuật của Sinh viên Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16978)
@@ -59,7 +60,6 @@ _Last update: **2025-10-08 10:25:50.029007+07:00**_
  - 26-9-2025: [Học bổng Toàn phần Chương trình Học giả Nghiên cứu Xuất sắc – VinUni & Viện Nghiên cứu Dữ liệu lớn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16968)
  - 23-9-2025: [Mời tham dự buổi bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt tháng 9/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16966)
  - 22-9-2025: [[CQ] Thông báo kiểm tra kết quả kiểm duyệt đăng ký học phần HK1, NH 2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16963)
- - 20-9-2025: [Thông báo đăng ký tham gia CLB NCKH Khoa CNTT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16961)
 
 ## Thông tin dành cho sinh viên
 - 06/10/2025: [Kết quả xét tốt nghiệp đợt tháng 9/2025 – các chương trình Tiên tiến, Chất lượng cao, Việt Pháp](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dot-thang-9-2025-cac-chuong-trinh-tien-tien-chat-luong-cao-viet-phap/)
