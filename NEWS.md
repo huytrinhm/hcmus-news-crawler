@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-10-13 16:16:33.014401+07:00**_
+_Last update: **2025-10-13 17:16:41.518488+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-10-13 16:16:33.014401+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 13-10-2025: [Thông báo đăng ký tín chỉ học phần 4 chương trình cao học khoá 34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17000)
  - 13-10-2025: [Khảo sát chủ đề hội thảo sinh viên đang quan tâm](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16999)
  - 13-10-2025: [Khoa Công nghệ thông tin - 30 năm Ươm mầm tinh hoa, Vững bước vươn xa](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16998)
  - 12-10-2025: [Đăng ký tham quan công ty Endava ngày 30/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16996)
@@ -59,7 +60,6 @@ _Last update: **2025-10-13 16:16:33.014401+07:00**_
  - 8-10-2025: [Thông báo v/v đăng ký tham dự Kỳ thi Olympic tin học sinh viên trường Đại học Khoa học Tự nhiên năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16985)
  - 8-10-2025: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 17/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16984)
  - 7-10-2025: [Đăng ký tham quan công ty DXC Vietnam ngày 21/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16983)
- - 2-10-2025: [Tổng kết Chương trình ngày 29/9/2025 - Lễ khánh thành các Phòng thí nghiệm, Buổi ra mắt Câu lạc bộ Nghiên cứu Khoa học và Seminar Học thuật của Sinh viên Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16978)
 
 ## Thông tin dành cho sinh viên
 - 08/10/2025: [Triển khai chương trình  “ACB đồng hành cùng sinh viên ĐHQG-HCM” Đợt 2](https://hcmus.edu.vn/trien-khai-chuong-trinh-acb-dong-hanh-cung-sinh-vien-dhqg-hcm-dot-2/)
@@ -74,11 +74,11 @@ _Last update: **2025-10-13 16:16:33.014401+07:00**_
 - 01/10/2025: [TB Chương trình học bổng tài năng Công nghệ CT group năm học 2025-2026](https://hcmus.edu.vn/tb-chuong-trinh-hoc-bong-tai-nang-cong-nghe-ct-group-nam-hoc-2025-2026/)
 
 ## Các thông báo về Khảo thí
+ - [Thông báo khảo sát thông tin việc học việc làm của sinh viên tốt nghiệp đợt tháng 8, 9, 10 năm 2025](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/906-thong-bao-kh-o-sat-thong-tin-vi-c-h-c-vi-c-lam-c-a-sinh-vien-t-t-nghi-p-d-t-thang-8-9-10-nam-2025)
  - [Thông báo phúc khảo HK3/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/905-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-khoa-cntt)
  - [Thông báo phúc khảo HK3/24-25 hệ Chính quy](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/904-thong-bao-phuc-kh-o-hk3-24-25-h-chinh-quy)
  - [Thông báo phúc khảo bổ sung HK3/24-25 CT đề án khóa 2024](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/903-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-b-sung-cho-khoa-2024)
  - [Thông báo phúc khảo HK3/24-25 CT đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/902-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-cac-khoa)
- - [Thông báo phúc khảo bổ sung HK2/24-25 hệ Chính quy](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/901-thong-bao-phuc-kh-o-b-sung-hk2-24-25-h-chinh-quy)
 
 ***
 
