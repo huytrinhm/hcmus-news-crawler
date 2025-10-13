@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-10-13 11:16:22.335230+07:00**_
+_Last update: **2025-10-13 12:13:43.866669+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-10-13 11:16:22.335230+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 13-10-2025: [Khoa Công nghệ thông tin - 30 năm Ươm mầm tinh hoa, Vững bước vươn xa](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16998)
  - 12-10-2025: [Đăng ký tham quan công ty Endava ngày 30/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16996)
  - 9-10-2025: [Đăng ký tham gia Mini-course Introduction to Multiagent Learning](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16994)
  - 8-10-2025: [Danh sách sinh viên tham quan công ty DXC Vietnam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16990)
@@ -59,7 +60,6 @@ _Last update: **2025-10-13 11:16:22.335230+07:00**_
  - 7-10-2025: [Đăng ký tham quan công ty DXC Vietnam ngày 21/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16983)
  - 2-10-2025: [Tổng kết Chương trình ngày 29/9/2025 - Lễ khánh thành các Phòng thí nghiệm, Buổi ra mắt Câu lạc bộ Nghiên cứu Khoa học và Seminar Học thuật của Sinh viên Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16978)
  - 30-9-2025: [V/v nộp luận văn tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T9/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16973)
- - 30-9-2025: [Thông báo đăng ký tham dự Chuỗi Hội thảo kỹ năng - Công nghệ 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16972)
 
 ## Thông tin dành cho sinh viên
 - 08/10/2025: [Triển khai chương trình  “ACB đồng hành cùng sinh viên ĐHQG-HCM” Đợt 2](https://hcmus.edu.vn/trien-khai-chuong-trinh-acb-dong-hanh-cung-sinh-vien-dhqg-hcm-dot-2/)
