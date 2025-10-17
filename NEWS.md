@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-10-17 16:14:55.337981+07:00**_
+_Last update: **2025-10-17 17:14:37.148911+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-10-17 16:14:55.337981+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 17-10-2025: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ 07-08/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17008)
  - 16-10-2025: [Danh sách sinh viên tham quan công ty Endava ngày 30/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17007)
  - 16-10-2025: [Hội thảo Kết nối Doanh nghiệp lần thứ 15: Nâng cao chất lượng đào tạo trong kỷ nguyên AI](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17006)
  - 16-10-2025: [Hội thảo trực tuyến Japan-ASEAN Online Program Towards SDGs 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17005)
@@ -59,7 +60,6 @@ _Last update: **2025-10-17 16:14:55.337981+07:00**_
  - 13-10-2025: [Khảo sát chủ đề hội thảo sinh viên đang quan tâm](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16999)
  - 13-10-2025: [Khoa Công nghệ thông tin - 30 năm Ươm mầm tinh hoa, Vững bước vươn xa](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16998)
  - 12-10-2025: [Đăng ký tham quan công ty Endava ngày 30/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16996)
- - 9-10-2025: [Đăng ký tham gia Mini-course Introduction to Multiagent Learning](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16994)
 
 ## Thông tin dành cho sinh viên
 - 16/10/2025: [Thông báo khai báo thông tin Bảo hiểm y tế được cấp miễn phí hoặc mua tại doanh nghiệp năm học 2025-2026 (Đối với sinh viên từ khóa 2024 trở về trước)](https://hcmus.edu.vn/thong-bao-khai-bao-thong-tin-bao-hiem-y-te-duoc-cap-mien-phi-hoac-mua-tai-doanh-nghiep-nam-hoc-2025-2026-doi-voi-sinh-vien-tu-khoa-2024-tro-ve-truoc/)
