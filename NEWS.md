@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-10-20 17:15:32.850462+07:00**_
+_Last update: **2025-10-20 18:11:47.495586+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -51,6 +51,7 @@ _Last update: **2025-10-20 17:15:32.850462+07:00**_
 
 ## FIT
  - 20-10-2025: [Danh sách sinh viên tham quan công ty Bosch Global Software Technologies ngày 6/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17010)
+ - 20-10-2025: [[CQ] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2022- Đợt 1 (bảo vệ tháng 03/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17009)
  - 17-10-2025: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ 07-08/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17008)
  - 16-10-2025: [Danh sách sinh viên tham quan công ty Endava ngày 30/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17007)
  - 16-10-2025: [Hội thảo Kết nối Doanh nghiệp lần thứ 15: Nâng cao chất lượng đào tạo trong kỷ nguyên AI](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17006)
@@ -59,9 +60,9 @@ _Last update: **2025-10-20 17:15:32.850462+07:00**_
  - 14-10-2025: [Đăng ký tham gia Seminar chủ đề “Formal Specification and Verification of Post-quantum Cryptographic Protocols with Proof Scores”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17002)
  - 13-10-2025: [Thông báo đăng ký tín chỉ học phần 4 chương trình cao học khoá 34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17000)
  - 13-10-2025: [Khảo sát chủ đề hội thảo sinh viên đang quan tâm](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16999)
- - 13-10-2025: [Khoa Công nghệ thông tin - 30 năm Ươm mầm tinh hoa, Vững bước vươn xa](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=16998)
 
 ## Thông tin dành cho sinh viên
+- 20/10/2025: [Thông báo tổ chức Chuyên đề “Nhận diện thủ đoạn lừa đảo công nghệ cao – bảo vệ bản thân trên không gian mạng”](https://hcmus.edu.vn/thong-bao-to-chuc-chuyen-de-nhan-dien-thu-doan-lua-dao-cong-nghe-cao-bao-ve-ban-than-tren-khong-gian-mang/)
 - 20/10/2025: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2024-2025 (CT Đại trà) và HK3/2024-2025 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2024-2025-ct-dai-tra-va-hk3-2024-2025-ct-de-an/)
 - 20/10/2025: [Thông báo chuyển tiền Học bổng khuyến khích HK2/2024-2025 dành cho sinh viên Đại học Chính quy (Chương trình Đề án)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk2-2024-2025-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-de-an/)
 - 19/10/2025: [THÔNG BÁO Đăng ký lịch Sinh hoạt công dân – sinh viên đầu năm, năm học 2025-2026](https://hcmus.edu.vn/thong-bao-dang-ky-lich-sinh-hoat-cong-dan-dau-nam-nam-hoc-2025-2026/)
@@ -71,7 +72,6 @@ _Last update: **2025-10-20 17:15:32.850462+07:00**_
 - 08/10/2025: [Thông báo Chương trình học bổng Mitsubishi UFJ Foundation năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-mitsubishi-ufj-foundation-nam-hoc-2025-2026/)
 - 08/10/2025: [[THÔNG BÁO] Chương trình Trường Lãnh đạo trẻ Đông Nam Á (YouLead 2025) – Universiti Kebangsaan Malaysia (UKM)](https://hcmus.edu.vn/thong-bao-chuong-trinh-truong-lanh-dao-tre-dong-nam-a-youlead-2025-universiti-kebangsaan-malaysia-ukm/)
 - 06/10/2025: [Kết quả xét tốt nghiệp đợt tháng 9/2025 – các chương trình Tiên tiến, Chất lượng cao, Việt Pháp](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dot-thang-9-2025-cac-chuong-trinh-tien-tien-chat-luong-cao-viet-phap/)
-- 06/10/2025: [Thông báo tổ chức hoạt động Workshop “Hơn một lần cố gắng”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-hon-mot-lan-co-gang/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo khảo sát thông tin việc học việc làm của sinh viên tốt nghiệp đợt tháng 8, 9, 10 năm 2025](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/906-thong-bao-kh-o-sat-thong-tin-vi-c-h-c-vi-c-lam-c-a-sinh-vien-t-t-nghi-p-d-t-thang-8-9-10-nam-2025)
