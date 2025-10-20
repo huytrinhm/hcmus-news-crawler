@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-10-20 22:13:47.276778+07:00**_
+_Last update: **2025-10-20 23:16:24.861624+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-10-20 22:13:47.276778+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 20-10-2025: [Thông báo đăng ký Học phần 4 cùng lớp cao học khóa 34/2024 đối với sinh viên khóa 2022 liên thông ĐH-ThS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17012)
  - 20-10-2025: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17011)
  - 20-10-2025: [Danh sách sinh viên tham quan công ty Bosch Global Software Technologies ngày 6/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17010)
  - 20-10-2025: [[CQ] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2022- Đợt 1 (bảo vệ tháng 03/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17009)
@@ -59,7 +60,6 @@ _Last update: **2025-10-20 22:13:47.276778+07:00**_
  - 16-10-2025: [Hội thảo trực tuyến Japan-ASEAN Online Program Towards SDGs 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17005)
  - 15-10-2025: [Đăng ký tham quan Bosch Global Software Technologies ngày 6/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17004)
  - 14-10-2025: [Đăng ký tham gia Seminar chủ đề “Formal Specification and Verification of Post-quantum Cryptographic Protocols with Proof Scores”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17002)
- - 13-10-2025: [Thông báo đăng ký tín chỉ học phần 4 chương trình cao học khoá 34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17000)
 
 ## Thông tin dành cho sinh viên
 - 20/10/2025: [Thông báo tổ chức Chuyên đề “Nhận diện thủ đoạn lừa đảo công nghệ cao – bảo vệ bản thân trên không gian mạng”](https://hcmus.edu.vn/thong-bao-to-chuc-chuyen-de-nhan-dien-thu-doan-lua-dao-cong-nghe-cao-bao-ve-ban-than-tren-khong-gian-mang/)
