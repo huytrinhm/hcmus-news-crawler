@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-10-21 14:14:02.828440+07:00**_
+_Last update: **2025-10-21 15:19:20.856310+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -74,11 +74,11 @@ _Last update: **2025-10-21 14:14:02.828440+07:00**_
 - 06/10/2025: [Kết quả xét tốt nghiệp đợt tháng 9/2025 – các chương trình Tiên tiến, Chất lượng cao, Việt Pháp](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dot-thang-9-2025-cac-chuong-trinh-tien-tien-chat-luong-cao-viet-phap/)
 
 ## Các thông báo về Khảo thí
+ - [Thông báo khảo sát sự hài lòng VC-NLĐ về các hoạt động hỗ trợ của trường năm 2025](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/910-thong-bao-kh-o-sat-s-hai-long-vc-nld-v-cac-ho-t-d-ng-h-tr-c-a-tru-ng-nam-2025)
  - [Thông báo khảo sát thông tin việc học việc làm của sinh viên tốt nghiệp đợt tháng 8, 9, 10 năm 2025](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/906-thong-bao-kh-o-sat-thong-tin-vi-c-h-c-vi-c-lam-c-a-sinh-vien-t-t-nghi-p-d-t-thang-8-9-10-nam-2025)
  - [Thông báo phúc khảo HK3/24-25 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/905-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-khoa-cntt)
  - [Thông báo phúc khảo HK3/24-25 hệ Chính quy](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/904-thong-bao-phuc-kh-o-hk3-24-25-h-chinh-quy)
  - [Thông báo phúc khảo bổ sung HK3/24-25 CT đề án khóa 2024](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/903-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-b-sung-cho-khoa-2024)
- - [Thông báo phúc khảo HK3/24-25 CT đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/902-thong-bao-phuc-kh-o-hk3-24-25-ct-d-an-cac-khoa)
 
 ***
 
