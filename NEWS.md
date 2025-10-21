@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-10-21 10:00:57.318611+07:00**_
+_Last update: **2025-10-21 11:16:00.495945+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,8 @@ _Last update: **2025-10-21 10:00:57.318611+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 21-10-2025: [Đăng ký đội thi Olympic AI Việt Nam 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17014)
+ - 21-10-2025: [Đăng ký tham quan TMA Tech Group ngày 5/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17013)
  - 20-10-2025: [Thông báo đăng ký Học phần 4 cùng lớp cao học khóa 34/2024 đối với sinh viên khóa 2022 liên thông ĐH-ThS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17012)
  - 20-10-2025: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17011)
  - 20-10-2025: [Danh sách sinh viên tham quan công ty Bosch Global Software Technologies ngày 6/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17010)
@@ -58,8 +60,6 @@ _Last update: **2025-10-21 10:00:57.318611+07:00**_
  - 16-10-2025: [Danh sách sinh viên tham quan công ty Endava ngày 30/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17007)
  - 16-10-2025: [Hội thảo Kết nối Doanh nghiệp lần thứ 15: Nâng cao chất lượng đào tạo trong kỷ nguyên AI](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17006)
  - 16-10-2025: [Hội thảo trực tuyến Japan-ASEAN Online Program Towards SDGs 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17005)
- - 15-10-2025: [Đăng ký tham quan Bosch Global Software Technologies ngày 6/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17004)
- - 14-10-2025: [Đăng ký tham gia Seminar chủ đề “Formal Specification and Verification of Post-quantum Cryptographic Protocols with Proof Scores”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17002)
 
 ## Thông tin dành cho sinh viên
 - 20/10/2025: [Thông báo tổ chức Chuyên đề “Nhận diện thủ đoạn lừa đảo công nghệ cao – bảo vệ bản thân trên không gian mạng”](https://hcmus.edu.vn/thong-bao-to-chuc-chuyen-de-nhan-dien-thu-doan-lua-dao-cong-nghe-cao-bao-ve-ban-than-tren-khong-gian-mang/)
