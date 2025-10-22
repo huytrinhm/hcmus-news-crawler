@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-10-22 16:16:08.820521+07:00**_
+_Last update: **2025-10-22 17:15:25.291545+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-10-22 16:16:08.820521+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 22-10-2025: [STUDENT RESEARCH WORKSHOP - Cơ hội học bổng sau đại học tại Viện Bách khoa Paris dành cho sinh viên Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17022)
  - 22-10-2025: [Các mốc thời gian đăng ký và thực hiện đề tài tốt nghiệp Khóa 2022 (cập nhật)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17020)
  - 22-10-2025: [Tổng kết Mini-course Introduction to Multiagent Learning](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17017)
  - 21-10-2025: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 34/2024 - đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17015)
@@ -59,7 +60,6 @@ _Last update: **2025-10-22 16:16:08.820521+07:00**_
  - 20-10-2025: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17011)
  - 20-10-2025: [Danh sách sinh viên tham quan công ty Bosch Global Software Technologies ngày 6/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17010)
  - 20-10-2025: [[CQ] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2022- Đợt 1 (bảo vệ tháng 03/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17009)
- - 17-10-2025: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ 07-08/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17008)
 
 ## Thông tin dành cho sinh viên
 - 22/10/2025: [Thông báo nộp học phí HK1/2025-2026, chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk1-2025-2026-chuong-trinh-dai-tra/)
