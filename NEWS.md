@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-10-22 11:16:35.498304+07:00**_
+_Last update: **2025-10-22 12:13:58.997747+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,8 @@ _Last update: **2025-10-22 11:16:35.498304+07:00**_
  - 16-10-2025: [Danh sách sinh viên tham quan công ty Endava ngày 30/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17007)
 
 ## Thông tin dành cho sinh viên
+- 22/10/2025: [Thông báo nộp học phí HK1/2025-2026, chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk1-2025-2026-chuong-trinh-dai-tra/)
+- 22/10/2025: [Thông báo nộp học phí HK1/2025-2026, chương trình theo đề án](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk1-2025-2026-chuong-trinh-theo-de-an/)
 - 22/10/2025: [THÔNG BÁO CHƯƠNG TRÌNH HỌC BỔNG ĐỒNG HÀNH  NĂM HỌC 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dong-hanh-nam-hoc-2025-2026/)
 - 20/10/2025: [Thông báo tổ chức Chuyên đề “Nhận diện thủ đoạn lừa đảo công nghệ cao – bảo vệ bản thân trên không gian mạng”](https://hcmus.edu.vn/thong-bao-to-chuc-chuyen-de-nhan-dien-thu-doan-lua-dao-cong-nghe-cao-bao-ve-ban-than-tren-khong-gian-mang/)
 - 20/10/2025: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2024-2025 (CT Đại trà) và HK3/2024-2025 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2024-2025-ct-dai-tra-va-hk3-2024-2025-ct-de-an/)
@@ -70,8 +72,6 @@ _Last update: **2025-10-22 11:16:35.498304+07:00**_
 - 16/10/2025: [Thông báo khai báo thông tin Bảo hiểm y tế được cấp miễn phí hoặc mua tại doanh nghiệp năm học 2025-2026 (Đối với sinh viên từ khóa 2024 trở về trước)](https://hcmus.edu.vn/thong-bao-khai-bao-thong-tin-bao-hiem-y-te-duoc-cap-mien-phi-hoac-mua-tai-doanh-nghiep-nam-hoc-2025-2026-doi-voi-sinh-vien-tu-khoa-2024-tro-ve-truoc/)
 - 16/10/2025: [Thông tin về chương trình trao đổi Học kỳ hè năm 2026 tại Đại học OTH Regensburg-CHLB Đức](https://hcmus.edu.vn/thong-tin-ve-chuong-trinh-trao-doi-hoc-ky-he-nam-2026-tai-dai-hoc-oth-regensburg-chlb-duc/)
 - 08/10/2025: [Triển khai chương trình  “ACB đồng hành cùng sinh viên ĐHQG-HCM” Đợt 2](https://hcmus.edu.vn/trien-khai-chuong-trinh-acb-dong-hanh-cung-sinh-vien-dhqg-hcm-dot-2/)
-- 08/10/2025: [Thông báo Chương trình học bổng Mitsubishi UFJ Foundation năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-mitsubishi-ufj-foundation-nam-hoc-2025-2026/)
-- 08/10/2025: [[THÔNG BÁO] Chương trình Trường Lãnh đạo trẻ Đông Nam Á (YouLead 2025) – Universiti Kebangsaan Malaysia (UKM)](https://hcmus.edu.vn/thong-bao-chuong-trinh-truong-lanh-dao-tre-dong-nam-a-youlead-2025-universiti-kebangsaan-malaysia-ukm/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo khảo sát sự hài lòng VC-NLĐ về các hoạt động hỗ trợ của trường năm 2025](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/910-thong-bao-kh-o-sat-s-hai-long-vc-nld-v-cac-ho-t-d-ng-h-tr-c-a-tru-ng-nam-2025)
