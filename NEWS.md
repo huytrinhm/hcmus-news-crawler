@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-10-22 14:13:32.906205+07:00**_
+_Last update: **2025-10-22 15:20:12.999865+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -14,6 +14,7 @@ _Last update: **2025-10-22 14:13:32.906205+07:00**_
  - 30/09/2022: [[CTĐA] Kế hoạch mở học phần năm học 2022-2023 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2022/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2022-2023-du-kien/)
 
 ### Giáo vụ
+ - 22/10/2025: [[CTĐA] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2021- Đợt 2 (bảo vệ tháng 04/2026)](https://www.ctda.hcmus.edu.vn/vi/2025/10/ctda-thong-bao-nop-de-cuong-de-tai-tot-nghiep-khoa-2021-dot-2-bao-ve-thang-04-2026/)
  - 18/10/2025: [Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, Khóa 2022](https://www.ctda.hcmus.edu.vn/vi/2025/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-khoa-2022/)
  - 29/09/2025: [CTTT_Thông báo về việc sử dụng tài khoản học vụ Khoá 2025](https://www.ctda.hcmus.edu.vn/vi/2025/09/cttt_thong-bao-ve-viec-su-dung-tai-khoan-hoc-vu-khoa-2025/)
  - 29/09/2025: [TCTA_Thông báo về việc sử dụng tài khoản học vụ Khoá 2025](https://www.ctda.hcmus.edu.vn/vi/2025/09/tcta_thong-bao-ve-viec-su-dung-tai-khoan-hoc-vu-khoa-2025/)
@@ -23,7 +24,6 @@ _Last update: **2025-10-22 14:13:32.906205+07:00**_
  - 04/09/2025: [Thông báo về việc khảo sát năng lực lập trình đầu khóa cho sinh viên khóa tuyển 2025 Khoa Công nghệ thông tin](https://www.ctda.hcmus.edu.vn/vi/2025/09/thong-bao-ve-viec-khao-sat-nang-luc-lap-trinh-dau-khoa-cho-sinh-vien-khoa-tuyen-2025-khoa-cong-nghe-thong-tin/)
  - 29/08/2025: [Thông báo về việc khảo sát năng lực Anh văn đầu khóa đối với sinh viên chương trình Đề án Khoa Công nghệ thông tin khóa tuyển 2025](https://www.ctda.hcmus.edu.vn/vi/2025/08/thong-bao-ve-viec-khao-sat-nang-luc-anh-van-dau-khoa-doi-voi-sinh-vien-chuong-trinh-de-an-khoa-cong-nghe-thong-tin-khoa-tuyen-2025/)
  - 29/08/2025: [Quy định về chuẩn ngoại ngữ đầu ra đối với chương trình Tiên tiến, chương trình Tăng cường tiếng Anh – Khóa 2025 trở về sau](https://www.ctda.hcmus.edu.vn/vi/2025/08/quy-dinh-ve-chuan-ngoai-ngu-dau-ra-doi-voi-chuong-trinh-tien-tien-chuong-trinh-tang-cuong-tieng-anh-khoa-2025/)
- - 21/08/2025: [CTĐA_Quy trình nộp đơn đăng ký thực hiện Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2021 – Đợt 2](https://www.ctda.hcmus.edu.vn/vi/2025/08/ctda_quy-trinh-nop-don-dang-ky-thuc-hien-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-khoa-2021-dot-2/)
 
 ### Trợ lí sinh viên
  - 18/09/2025: [Thông báo danh sách khảo sát trình độ tiếng Anh khoá 2025 – CTDA](https://www.ctda.hcmus.edu.vn/vi/2025/09/thong-bao-danh-sach-khao-sat-trinh-do-tieng-anh-khoa-2025-ctda/)
@@ -50,6 +50,7 @@ _Last update: **2025-10-22 14:13:32.906205+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 22-10-2025: [Các mốc thời gian đăng ký và thực hiện đề tài tốt nghiệp Khóa 2022 (cập nhật)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17020)
  - 22-10-2025: [Tổng kết Mini-course Introduction to Multiagent Learning](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17017)
  - 21-10-2025: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 34/2024 - đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17015)
  - 21-10-2025: [Đăng ký đội thi Olympic AI Việt Nam 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17014)
@@ -59,7 +60,6 @@ _Last update: **2025-10-22 14:13:32.906205+07:00**_
  - 20-10-2025: [Danh sách sinh viên tham quan công ty Bosch Global Software Technologies ngày 6/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17010)
  - 20-10-2025: [[CQ] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2022- Đợt 1 (bảo vệ tháng 03/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17009)
  - 17-10-2025: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ 07-08/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17008)
- - 16-10-2025: [Danh sách sinh viên tham quan công ty Endava ngày 30/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17007)
 
 ## Thông tin dành cho sinh viên
 - 22/10/2025: [Thông báo nộp học phí HK1/2025-2026, chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk1-2025-2026-chuong-trinh-dai-tra/)
@@ -82,11 +82,11 @@ _Last update: **2025-10-22 14:13:32.906205+07:00**_
 
 ***
 
+ - [Lịch thi giữa kỳ HK1/25-26 Chính quy tại LT và NVC](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/911-l-ch-thi-gi-a-ky-hk1-25-26-chinh-quy-t-i-lt-va-nvc)
  - [Lịch thi HK1/25-26 hệ ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/909-l-ch-thi-hk1-25-26-h-dttx)
  - [Lịch thi giữa kỳ HK1/25-26 CT đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/908-l-ch-thi-gi-a-ky-hk1-25-26-ct-d-an-cac-khoa)
  - [Lịch thi giữa kỳ HK1/25-26 CT đề án khoa Hóa học](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/907-l-ch-thi-gi-a-ky-hk1-25-26-ct-d-an-khoa-hoa-h-c)
  - [Lịch thi cuối kỳ HK3/24-25 tại Linh trung (Cập nhật 18/08)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/899-l-ch-thi-cu-i-ky-hk3-24-25-t-i-linh-trung)
- - [Lịch thi cuối kỳ HK3/24-25 CT đề án khoa CNTT (Cập nhật 20/07)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/882-l-ch-thi-cu-i-ky-hk3-24-25-ct-d-an-khoa-cntt)
 
 ***
 
