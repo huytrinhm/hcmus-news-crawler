@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-10-24 10:29:46.359333+07:00**_
+_Last update: **2025-10-24 11:16:29.527451+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-10-24 10:29:46.359333+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 24-10-2025: [Danh sách sinh viên tham quan TMA Tech Group ngày 5/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17027)
  - 24-10-2025: [Tổng kết Seminar chủ đề “Formal Specification and Verification of Post-quantum Cryptographic Protocols with Proof Scores”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17026)
  - 23-10-2025: [Thời khóa biểu có phòng các lớp Học phần 4 Khóa 34/2024 - bắt đầu học 27/10/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17024)
  - 22-10-2025: [STUDENT RESEARCH WORKSHOP - Cơ hội học bổng sau đại học tại Viện Bách khoa Paris dành cho sinh viên Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17022)
@@ -59,7 +60,6 @@ _Last update: **2025-10-24 10:29:46.359333+07:00**_
  - 21-10-2025: [Đăng ký đội thi Olympic AI Việt Nam 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17014)
  - 21-10-2025: [Đăng ký tham quan TMA Tech Group ngày 5/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17013)
  - 20-10-2025: [Thông báo đăng ký Học phần 4 cùng lớp cao học khóa 34/2024 đối với sinh viên khóa 2022 liên thông ĐH-ThS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17012)
- - 20-10-2025: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17011)
 
 ## Thông tin dành cho sinh viên
 - 23/10/2025: [Thông báo về chương trình “Học bổng Future VPBanker 2025”](https://hcmus.edu.vn/thong-bao-ve-chuong-trinh-hoc-bong-future-vpbanker-2025/)
