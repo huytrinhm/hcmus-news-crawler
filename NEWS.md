@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-10-24 16:15:14.903989+07:00**_
+_Last update: **2025-10-24 17:15:15.976861+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-10-24 16:15:14.903989+07:00**_
  - 20-10-2025: [Thông báo đăng ký Học phần 4 cùng lớp cao học khóa 34/2024 đối với sinh viên khóa 2022 liên thông ĐH-ThS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17012)
 
 ## Thông tin dành cho sinh viên
+- 24/10/2025: [Thông báo tuyển sinh đại học ngành Công nghệ thông tin – hệ đào tạo từ xa năm 2025 đợt 2](https://hcmus.edu.vn/thong-bao-tuyen-sinh-dai-hoc-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-nam-2025-dot-2/)
 - 23/10/2025: [Thông báo về chương trình “Học bổng Future VPBanker 2025”](https://hcmus.edu.vn/thong-bao-ve-chuong-trinh-hoc-bong-future-vpbanker-2025/)
 - 22/10/2025: [Thông báo nộp học phí HK1/2025-2026, chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk1-2025-2026-chuong-trinh-dai-tra/)
 - 22/10/2025: [Thông báo nộp học phí HK1/2025-2026, chương trình theo đề án](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk1-2025-2026-chuong-trinh-theo-de-an/)
@@ -71,6 +72,5 @@ _Last update: **2025-10-24 16:15:14.903989+07:00**_
 - 20/10/2025: [Thông báo chuyển tiền Học bổng khuyến khích HK2/2024-2025 dành cho sinh viên Đại học Chính quy (Chương trình Đề án)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk2-2024-2025-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-de-an/)
 - 19/10/2025: [THÔNG BÁO Đăng ký lịch Sinh hoạt công dân – sinh viên đầu năm, năm học 2025-2026](https://hcmus.edu.vn/thong-bao-dang-ky-lich-sinh-hoat-cong-dan-dau-nam-nam-hoc-2025-2026/)
 - 16/10/2025: [Thông báo khai báo thông tin Bảo hiểm y tế được cấp miễn phí hoặc mua tại doanh nghiệp năm học 2025-2026 (Đối với sinh viên từ khóa 2024 trở về trước)](https://hcmus.edu.vn/thong-bao-khai-bao-thong-tin-bao-hiem-y-te-duoc-cap-mien-phi-hoac-mua-tai-doanh-nghiep-nam-hoc-2025-2026-doi-voi-sinh-vien-tu-khoa-2024-tro-ve-truoc/)
-- 16/10/2025: [Thông tin về chương trình trao đổi Học kỳ hè năm 2026 tại Đại học OTH Regensburg-CHLB Đức](https://hcmus.edu.vn/thong-tin-ve-chuong-trinh-trao-doi-hoc-ky-he-nam-2026-tai-dai-hoc-oth-regensburg-chlb-duc/)
 
 ## Các thông báo về Khảo thí
