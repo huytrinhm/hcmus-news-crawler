@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-10-29 14:13:34.968011+07:00**_
+_Last update: **2025-10-29 15:19:15.411905+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -14,6 +14,7 @@ _Last update: **2025-10-29 14:13:34.968011+07:00**_
  - 30/09/2022: [[CTĐA] Kế hoạch mở học phần năm học 2022-2023 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2022/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2022-2023-du-kien/)
 
 ### Giáo vụ
+ - 29/10/2025: [Khảo sát sử dụng công cụ AI trong học tập](https://www.ctda.hcmus.edu.vn/vi/2025/10/khao-sat-su-dung-cong-cu-ai-trong-hoc-tap/)
  - 29/10/2025: [Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2022 bảo vệ T8/2026](https://www.ctda.hcmus.edu.vn/vi/2025/10/thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2022-bao-ve-t8-2026/)
  - 29/10/2025: [Quy định đăng ký thực hiện và bảo vệ đề tài tốt nghiệp áp dụng từ HK1/2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/10/quy-dinh-dang-ky-thuc-hien-va-bao-ve-de-tai-tot-nghiep-ap-dung-tu-hk1-2025-2026/)
  - 22/10/2025: [[CTĐA] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2021- Đợt 2 (bảo vệ tháng 04/2026)](https://www.ctda.hcmus.edu.vn/vi/2025/10/ctda-thong-bao-nop-de-cuong-de-tai-tot-nghiep-khoa-2021-dot-2-bao-ve-thang-04-2026/)
@@ -23,7 +24,6 @@ _Last update: **2025-10-29 14:13:34.968011+07:00**_
  - 24/09/2025: [[CTĐA] – DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2021-đợt 2 (bảo vệ 04/2026)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-dssv-chinh-thuc-thuc-hien-de-tai-tot-nghiep-khoa-2021-dot-2-bao-ve-04-2026/)
  - 21/09/2025: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2025 – Chương trình Chất lượng cao](https://www.ctda.hcmus.edu.vn/vi/2025/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2025-chuong-trinh-chat-luong-cao/)
  - 19/09/2025: [[CTĐA] – Thông báo phúc khảo HK3/2425](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-thong-bao-phuc-khao-hk3-2425/)
- - 04/09/2025: [Thông báo về việc khảo sát năng lực lập trình đầu khóa cho sinh viên khóa tuyển 2025 Khoa Công nghệ thông tin](https://www.ctda.hcmus.edu.vn/vi/2025/09/thong-bao-ve-viec-khao-sat-nang-luc-lap-trinh-dau-khoa-cho-sinh-vien-khoa-tuyen-2025-khoa-cong-nghe-thong-tin/)
 
 ### Trợ lí sinh viên
  - 18/09/2025: [Thông báo danh sách khảo sát trình độ tiếng Anh khoá 2025 – CTDA](https://www.ctda.hcmus.edu.vn/vi/2025/09/thong-bao-danh-sach-khao-sat-trinh-do-tieng-anh-khoa-2025-ctda/)
@@ -62,6 +62,7 @@ _Last update: **2025-10-29 14:13:34.968011+07:00**_
  - 22-10-2025: [Tổng kết Mini-course Introduction to Multiagent Learning](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17017)
 
 ## Thông tin dành cho sinh viên
+- 29/10/2025: [Thông báo nhận chứng chỉ Ứng dụng Công nghệ thông tin đối với Khóa 2024 và 2025](https://hcmus.edu.vn/thong-bao-nhan-chung-chi-ung-dung-cong-nghe-thong-tin-doi-voi-khoa-2024-va-2025/)
 - 29/10/2025: [Thông báo nộp hồ sơ xét hoàn tất chương trình đào tạo  trình độ đại học hệ chính quy các chương trình – đợt tháng 12 năm 2025](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-dot-thang-12-nam-2025/)
 - 28/10/2025: [Học bổng LOTTE năm 2025](https://hcmus.edu.vn/hoc-bong-lotte-nam-2025/)
 - 28/10/2025: [Thông báo Học bổng Nâng Bước Thủ Khoa 2025](https://hcmus.edu.vn/thong-bao-hoc-bong-nang-buoc-thu-khoa-2025/)
@@ -71,7 +72,6 @@ _Last update: **2025-10-29 14:13:34.968011+07:00**_
 - 22/10/2025: [Thông báo nộp học phí HK1/2025-2026, chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk1-2025-2026-chuong-trinh-dai-tra/)
 - 22/10/2025: [Thông báo nộp học phí HK1/2025-2026, chương trình theo đề án](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk1-2025-2026-chuong-trinh-theo-de-an/)
 - 22/10/2025: [THÔNG BÁO CHƯƠNG TRÌNH HỌC BỔNG ĐỒNG HÀNH  NĂM HỌC 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dong-hanh-nam-hoc-2025-2026/)
-- 20/10/2025: [Thông báo tổ chức Chuyên đề “Nhận diện thủ đoạn lừa đảo công nghệ cao – bảo vệ bản thân trên không gian mạng”](https://hcmus.edu.vn/thong-bao-to-chuc-chuyen-de-nhan-dien-thu-doan-lua-dao-cong-nghe-cao-bao-ve-ban-than-tren-khong-gian-mang/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo khảo sát sự hài lòng VC-NLĐ về các hoạt động hỗ trợ của trường năm 2025](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/910-thong-bao-kh-o-sat-s-hai-long-vc-nld-v-cac-ho-t-d-ng-h-tr-c-a-tru-ng-nam-2025)
