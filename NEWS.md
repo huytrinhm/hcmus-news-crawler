@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-10-30 14:13:36.819586+07:00**_
+_Last update: **2025-10-30 15:18:32.875812+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-10-30 14:13:36.819586+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 30-10-2025: [Khảo sát sử dụng công cụ AI trong học tập](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17039)
  - 30-10-2025: [Hai nữ sinh Khoa Công nghệ Thông tin được vinh danh Giải thưởng “Nữ sinh Khoa học Công nghệ Việt Nam” năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17038)
  - 28-10-2025: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 1, NH 2025 - 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17034)
  - 27-10-2025: [Đăng ký tham quan FireGroup ngày 17/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17031)
@@ -59,7 +60,6 @@ _Last update: **2025-10-30 14:13:36.819586+07:00**_
  - 24-10-2025: [Tổng kết Seminar chủ đề “Formal Specification and Verification of Post-quantum Cryptographic Protocols with Proof Scores”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17026)
  - 23-10-2025: [Thời khóa biểu có phòng các lớp Học phần 4 Khóa 34/2024 - bắt đầu học 27/10/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17024)
  - 22-10-2025: [STUDENT RESEARCH WORKSHOP - Cơ hội học bổng sau đại học tại Viện Bách khoa Paris dành cho sinh viên Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17022)
- - 22-10-2025: [Các mốc thời gian đăng ký và thực hiện đề tài tốt nghiệp Khóa 2022 (cập nhật)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17020)
 
 ## Thông tin dành cho sinh viên
 - 29/10/2025: [Thông báo nhận chứng chỉ Ứng dụng Công nghệ thông tin đối với Khóa 2024 và 2025](https://hcmus.edu.vn/thong-bao-nhan-chung-chi-ung-dung-cong-nghe-thong-tin-doi-voi-khoa-2024-va-2025/)
