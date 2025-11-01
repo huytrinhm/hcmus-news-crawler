@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-11-01 12:12:49.904591+07:00**_
+_Last update: **2025-11-01 13:18:16.284079+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-11-01 12:12:49.904591+07:00**_
  - 22-10-2025: [STUDENT RESEARCH WORKSHOP - Cơ hội học bổng sau đại học tại Viện Bách khoa Paris dành cho sinh viên Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17022)
 
 ## Thông tin dành cho sinh viên
+- 31/10/2025: [[THÔNG BÁO] Chương trình thực tập nghiên cứu 2026 – Viện Kỹ thuật Toyota (TTI), Nhật Bản](https://hcmus.edu.vn/thong-bao-chuong-trinh-thuc-tap-nghien-cuu-2026-vien-ky-thuat-toyota-tti-nhat-ban/)
 - 29/10/2025: [Thông báo nhận chứng chỉ Ứng dụng Công nghệ thông tin đối với Khóa 2024 và 2025](https://hcmus.edu.vn/thong-bao-nhan-chung-chi-ung-dung-cong-nghe-thong-tin-doi-voi-khoa-2024-va-2025/)
 - 29/10/2025: [Thông báo nộp hồ sơ xét hoàn tất chương trình đào tạo  trình độ đại học hệ chính quy các chương trình – đợt tháng 12 năm 2025](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-dot-thang-12-nam-2025/)
 - 28/10/2025: [Học bổng LOTTE năm 2025](https://hcmus.edu.vn/hoc-bong-lotte-nam-2025/)
@@ -71,7 +72,6 @@ _Last update: **2025-11-01 12:12:49.904591+07:00**_
 - 23/10/2025: [Thông báo về chương trình “Học bổng Future VPBanker 2025”](https://hcmus.edu.vn/thong-bao-ve-chuong-trinh-hoc-bong-future-vpbanker-2025/)
 - 22/10/2025: [Thông báo nộp học phí HK1/2025-2026, chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk1-2025-2026-chuong-trinh-dai-tra/)
 - 22/10/2025: [Thông báo nộp học phí HK1/2025-2026, chương trình theo đề án](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk1-2025-2026-chuong-trinh-theo-de-an/)
-- 22/10/2025: [THÔNG BÁO CHƯƠNG TRÌNH HỌC BỔNG ĐỒNG HÀNH  NĂM HỌC 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dong-hanh-nam-hoc-2025-2026/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo khảo sát sự hài lòng VC-NLĐ về các hoạt động hỗ trợ của trường năm 2025](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/910-thong-bao-kh-o-sat-s-hai-long-vc-nld-v-cac-ho-t-d-ng-h-tr-c-a-tru-ng-nam-2025)
