@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-11-03 10:12:11.002002+07:00**_
+_Last update: **2025-11-03 11:22:34.331516+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-11-03 10:12:11.002002+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 3-11-2025: [Danh sách sinh viên tham quan FireGroup ngày 17/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17041)
  - 3-11-2025: [Danh sách sinh viên tham quan VNG ngày 10/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17040)
  - 30-10-2025: [Khảo sát sử dụng công cụ AI trong học tập](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17039)
  - 30-10-2025: [Hai nữ sinh Khoa Công nghệ Thông tin được vinh danh Giải thưởng “Nữ sinh Khoa học Công nghệ Việt Nam” năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17038)
@@ -59,7 +60,6 @@ _Last update: **2025-11-03 10:12:11.002002+07:00**_
  - 27-10-2025: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17019)
  - 24-10-2025: [Danh sách sinh viên tham quan TMA Tech Group ngày 5/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17027)
  - 24-10-2025: [Tổng kết Seminar chủ đề “Formal Specification and Verification of Post-quantum Cryptographic Protocols with Proof Scores”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17026)
- - 23-10-2025: [Thời khóa biểu có phòng các lớp Học phần 4 Khóa 34/2024 - bắt đầu học 27/10/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17024)
 
 ## Thông tin dành cho sinh viên
 - 31/10/2025: [[THÔNG BÁO] Chương trình thực tập nghiên cứu 2026 – Viện Kỹ thuật Toyota (TTI), Nhật Bản](https://hcmus.edu.vn/thong-bao-chuong-trinh-thuc-tap-nghien-cuu-2026-vien-ky-thuat-toyota-tti-nhat-ban/)
