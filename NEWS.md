@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-11-04 14:14:22.067983+07:00**_
+_Last update: **2025-11-04 15:19:14.911060+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -83,7 +83,7 @@ _Last update: **2025-11-04 14:14:22.067983+07:00**_
 ***
 
  - [Lịch thi cuối kỳ (sớm) HK1/25-26 tại LT và NVC](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/912-l-ch-thi-cu-i-ky-s-m-hk1-25-26-t-i-lt-va-nvc)
- - [Lịch thi giữa kỳ HK1/25-26 Chính quy tại LT và NVC](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/911-l-ch-thi-gi-a-ky-hk1-25-26-chinh-quy-t-i-lt-va-nvc)
+ - [Lịch thi giữa kỳ HK1/25-26 Chính quy tại LT và NVC (Cập nhật 04/11)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/911-l-ch-thi-gi-a-ky-hk1-25-26-chinh-quy-t-i-lt-va-nvc)
  - [Lịch thi HK1/25-26 hệ ĐTTX](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/909-l-ch-thi-hk1-25-26-h-dttx)
  - [Lịch thi giữa kỳ HK1/25-26 CT đề án các khoa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/908-l-ch-thi-gi-a-ky-hk1-25-26-ct-d-an-cac-khoa)
  - [Lịch thi giữa kỳ HK1/25-26 CT đề án khoa Hóa học](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/907-l-ch-thi-gi-a-ky-hk1-25-26-ct-d-an-khoa-hoa-h-c)
