@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-11-04 10:05:37.021482+07:00**_
+_Last update: **2025-11-04 11:16:38.315584+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-11-04 10:05:37.021482+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 4-11-2025: [Đăng ký tham gia Seminar chủ đề “Autonomous Machine Learning for Decision Support in Complex Environments”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17045)
  - 3-11-2025: [Tổng kết Student Research Workshop - Cơ hội học bổng sau đại học tại Viện Bách khoa Paris dành cho sinh viên Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17043)
  - 3-11-2025: [Danh sách sinh viên tham quan FireGroup ngày 17/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17041)
  - 3-11-2025: [Danh sách sinh viên tham quan VNG ngày 10/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17040)
@@ -59,7 +60,6 @@ _Last update: **2025-11-04 10:05:37.021482+07:00**_
  - 27-10-2025: [Đăng ký tham quan FireGroup ngày 17/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17031)
  - 27-10-2025: [Đăng ký tham quan VNG ngày 10/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17030)
  - 27-10-2025: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17019)
- - 24-10-2025: [Danh sách sinh viên tham quan TMA Tech Group ngày 5/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17027)
 
 ## Thông tin dành cho sinh viên
 - 04/11/2025: [Thông báo kết quả đăng ký lịch Sinh hoạt công dân – sinh viên đầu năm, năm học 2025-2026 (Chuyên đề A)](https://hcmus.edu.vn/thong-bao-ket-qua-dang-ky-lich-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2025-2026-chuyen-de-a/)
