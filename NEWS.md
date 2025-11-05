@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-11-05 11:17:26.279365+07:00**_
+_Last update: **2025-11-05 12:14:06.552683+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-11-05 11:17:26.279365+07:00**_
  - 28-10-2025: [Đăng ký học bổng "Hành trang hướng nghiệp" học kỳ 1, NH 2025 - 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17034)
 
 ## Thông tin dành cho sinh viên
+- 05/11/2025: [THÔNG BÁO THƯỜNG CÔNG BỐ QUỐC TẾ TẠI ĐHQG-HCM NĂM 2025](https://hcmus.edu.vn/thong-bao-thuong-cong-bo-quoc-te-tai-dhqg-hcm-nam-2025/)
 - 04/11/2025: [Thông báo thay đổi phòng học tại cơ sở 2 các môn Kinh tế chính trị, Lịch sử Đảng – áp dụng từ 01/12/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-cac-mon-kinh-te-chinh-tri-lich-su-dang-ap-dung-tu-01-12-2025/)
 - 04/11/2025: [Thông báo kết quả đăng ký lịch Sinh hoạt công dân – sinh viên đầu năm, năm học 2025-2026 (Chuyên đề A)](https://hcmus.edu.vn/thong-bao-ket-qua-dang-ky-lich-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2025-2026-chuyen-de-a/)
 - 31/10/2025: [[THÔNG BÁO] Chương trình thực tập nghiên cứu 2026 – Viện Kỹ thuật Toyota (TTI), Nhật Bản](https://hcmus.edu.vn/thong-bao-chuong-trinh-thuc-tap-nghien-cuu-2026-vien-ky-thuat-toyota-tti-nhat-ban/)
@@ -71,7 +72,6 @@ _Last update: **2025-11-05 11:17:26.279365+07:00**_
 - 28/10/2025: [Thông báo Học bổng Nâng Bước Thủ Khoa 2025](https://hcmus.edu.vn/thong-bao-hoc-bong-nang-buoc-thu-khoa-2025/)
 - 27/10/2025: [Thông báo Tổ chức hoạt động Workshop “Tâm bất biến giữa dòng đời vạn biến”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-tam-bat-bien-giua-dong-doi-van-bien/)
 - 24/10/2025: [Thông báo tuyển sinh đại học ngành Công nghệ thông tin – hệ đào tạo từ xa năm 2025 đợt 2](https://hcmus.edu.vn/thong-bao-tuyen-sinh-dai-hoc-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-nam-2025-dot-2/)
-- 23/10/2025: [Thông báo về chương trình “Học bổng Future VPBanker 2025”](https://hcmus.edu.vn/thong-bao-ve-chuong-trinh-hoc-bong-future-vpbanker-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo khảo sát học viên chương trình Thạc sĩ đánh giá môn học - GV (Khóa 2024)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/913-thong-bao-kh-o-sat-h-c-vien-chuong-trinh-th-c-si-danh-gia-mon-h-c-gv-khoa-2024)
