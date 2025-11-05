@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-11-05 15:19:20.026442+07:00**_
+_Last update: **2025-11-05 16:16:06.983212+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,8 @@ _Last update: **2025-11-05 15:19:20.026442+07:00**_
  - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
+ - 5-11-2025: [Chương trình giao lưu sinh viên BioXplore 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17054)
+ - 5-11-2025: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 14/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17053)
  - 5-11-2025: [Đăng ký tham dự hội thảo "Cách xây dựng hồ sơ cá nhân nổi bật trong lĩnh vực IT"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17052)
  - 5-11-2025: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17050)
  - 4-11-2025: [Lễ trao học bổng Cựu sinh viên khoa Công nghệ thông tin ASF – TIẾP SỨC VƯƠN XA, LAN TỎA YÊU THƯƠNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17049)
@@ -58,8 +60,6 @@ _Last update: **2025-11-05 15:19:20.026442+07:00**_
  - 3-11-2025: [Tổng kết Student Research Workshop - Cơ hội học bổng sau đại học tại Viện Bách khoa Paris dành cho sinh viên Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17043)
  - 3-11-2025: [Danh sách sinh viên tham quan FireGroup ngày 17/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17041)
  - 3-11-2025: [Danh sách sinh viên tham quan VNG ngày 10/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17040)
- - 30-10-2025: [Khảo sát sử dụng công cụ AI trong học tập](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17039)
- - 30-10-2025: [Hai nữ sinh Khoa Công nghệ Thông tin được vinh danh Giải thưởng “Nữ sinh Khoa học Công nghệ Việt Nam” năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17038)
 
 ## Thông tin dành cho sinh viên
 - 05/11/2025: [THÔNG BÁO THƯỜNG CÔNG BỐ QUỐC TẾ TẠI ĐHQG-HCM NĂM 2025](https://hcmus.edu.vn/thong-bao-thuong-cong-bo-quoc-te-tai-dhqg-hcm-nam-2025/)
