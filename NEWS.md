@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-11-07 13:21:02.169528+07:00**_
+_Last update: **2025-11-07 14:13:36.147406+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -38,6 +38,7 @@ _Last update: **2025-11-07 13:21:02.169528+07:00**_
  - 05/08/2024: [Chương trình sinh viên vay ưu đãi để học tập lãi suất 0% dành cho sinh viên ĐHQG-HCM, năm học 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/08/chuong-trinh-sinh-vien-vay-uu-dai-de-hoc-tap-lai-suat-0-danh-cho-sinh-vien-dhqg-hcm-nam-hoc-2024-2025/)
 
 ### Kế toán - Tài chính
+ - 07/11/2025: [Thông báo về quy định đóng học phí học kỳ 1 năm học: 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/11/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2025-2026/)
  - 21/02/2025: [Thông báo về quy định đóng học phí học kỳ 2 năm học: 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2025/02/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-2-nam-hoc-2024-2025/)
  - 16/10/2024: [Thông báo về quy định đóng học phí học kỳ 1 năm học: 2024-2025](https://www.ctda.hcmus.edu.vn/vi/2024/10/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-1-nam-hoc-2024-2025/)
  - 31/05/2024: [Thông báo về quy định đóng học phí học kỳ 3 năm học: 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2024/05/thong-bao-ve-quy-dinh-dong-hoc-phi-hoc-ky-3-nam-hoc-2023-2024/)
@@ -47,7 +48,6 @@ _Last update: **2025-11-07 13:21:02.169528+07:00**_
  - 29/10/2021: [CTĐA – Về việc gia hạn học phí](https://www.ctda.hcmus.edu.vn/vi/2021/10/ctda-ve-viec-gia-han-hoc-phi/)
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
- - 27/04/2020: [CTDA- Thông báo học phí HK2, năm học: 2019-2020](https://www.ctda.hcmus.edu.vn/vi/2020/04/ctda-thong-bao-hoc-phi-hk2-nam-hoc-2019-2020/)
 
 ## FIT
  - 5-11-2025: [Chương trình giao lưu sinh viên BioXplore 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17054)
