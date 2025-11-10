@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-11-11 04:12:35.691044+07:00**_
+_Last update: **2025-11-11 05:13:28.595630+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,16 +50,6 @@ _Last update: **2025-11-11 04:12:35.691044+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
- - 10-11-2025: [Danh sách tham gia hội thảo Clean code](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17064)
- - 10-11-2025: [DSHV đăng ký bảo vệ luận văn/ đồ án tốt nghiệp đợt cuối tháng 12/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17063)
- - 7-11-2025: [Đăng ký tham gia Hội thảo Clean code](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17062)
- - 7-11-2025: [Thông báo v/v báo cáo định kỳ tình hình hướng dẫn và kết quả học tập của nghiên cứu sinh năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17061)
- - 7-11-2025: [Danh sách sinh viên tham quan công ty TecAlliance Việt Nam ngày 14/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17060)
- - 5-11-2025: [Chương trình giao lưu sinh viên BioXplore 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17054)
- - 5-11-2025: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 14/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17053)
- - 5-11-2025: [Đăng ký tham dự hội thảo "Cách xây dựng hồ sơ cá nhân nổi bật trong lĩnh vực IT"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17052)
- - 5-11-2025: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17050)
- - 4-11-2025: [Lễ trao học bổng Cựu sinh viên khoa Công nghệ thông tin ASF – TIẾP SỨC VƯƠN XA, LAN TỎA YÊU THƯƠNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17049)
 
 ## Thông tin dành cho sinh viên
 - 10/11/2025: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 1) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2025)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-1-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2025/)
