@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-11-10 08:08:54.470442+07:00**_
+_Last update: **2025-11-10 10:14:30.597804+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-11-10 08:08:54.470442+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 10-11-2025: [DSHV đăng ký bảo vệ luận văn/ đồ án tốt nghiệp đợt cuối tháng 12/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17063)
  - 7-11-2025: [Đăng ký tham gia Hội thảo Clean code](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17062)
  - 7-11-2025: [Thông báo v/v báo cáo định kỳ tình hình hướng dẫn và kết quả học tập của nghiên cứu sinh năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17061)
  - 7-11-2025: [Danh sách sinh viên tham quan công ty TecAlliance Việt Nam ngày 14/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17060)
@@ -59,7 +60,6 @@ _Last update: **2025-11-10 08:08:54.470442+07:00**_
  - 5-11-2025: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17050)
  - 4-11-2025: [Lễ trao học bổng Cựu sinh viên khoa Công nghệ thông tin ASF – TIẾP SỨC VƯƠN XA, LAN TỎA YÊU THƯƠNG](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17049)
  - 4-11-2025: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 34/2024](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17048)
- - 4-11-2025: [Đăng ký tham gia Seminar chủ đề “Autonomous Machine Learning for Decision Support in Complex Environments”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17045)
 
 ## Thông tin dành cho sinh viên
 - 09/11/2025: [THÔNG BÁO  Cuộc thi trực tuyến “Sinh viên Trường ĐH KHTN tìm hiểu pháp luật 2025”](https://hcmus.edu.vn/thong-bao-cuoc-thi-truc-tuyen-sinh-vien-truong-dh-khtn-tim-hieu-phap-luat-2/)
