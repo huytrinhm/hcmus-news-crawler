@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-11-12 10:07:38.700992+07:00**_
+_Last update: **2025-11-12 11:17:52.728105+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,8 @@ _Last update: **2025-11-12 10:07:38.700992+07:00**_
  - 5-11-2025: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 14/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17053)
 
 ## Thông tin dành cho sinh viên
+- 12/11/2025: [Phòng học môn Vi tích phân 1A tại CS2](https://hcmus.edu.vn/phong-hoc-mon-vi-tich-phan-1a-tai-cs2/)
+- 12/11/2025: [Thông báo tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 2 năm 2025](https://hcmus.edu.vn/thong-bao-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-2-nam-2025/)
 - 10/11/2025: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 1) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2025)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-1-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2025/)
 - 10/11/2025: [THÔNG BÁO VV TIẾP NHẬN ĐỀ XUẤT NHIỆM VỤ, CHUỖI NHIỆM VỤ, CỤM NHIỆM VỤ KHOA HỌC, CÔNG NGHỆ VÀ ĐỔI MỚI SÁNG TẠO ĐẾN NĂM 2030](https://hcmus.edu.vn/thong-bao-vv-tiep-nhan-de-xuat-nhiem-vu-chuoi-nhiem-vu-cum-nhiem-vu-khoa-hoc-cong-nghe-va-doi-moi-sang-tao-den-nam-2030/)
 - 09/11/2025: [THÔNG BÁO  Cuộc thi trực tuyến “Sinh viên Trường ĐH KHTN tìm hiểu pháp luật 2025”](https://hcmus.edu.vn/thong-bao-cuoc-thi-truc-tuyen-sinh-vien-truong-dh-khtn-tim-hieu-phap-luat-2/)
@@ -70,8 +72,6 @@ _Last update: **2025-11-12 10:07:38.700992+07:00**_
 - 04/11/2025: [Thông báo thay đổi phòng học tại cơ sở 2 các môn Kinh tế chính trị, Lịch sử Đảng – áp dụng từ 01/12/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-cac-mon-kinh-te-chinh-tri-lich-su-dang-ap-dung-tu-01-12-2025/)
 - 04/11/2025: [Thông báo kết quả đăng ký lịch Sinh hoạt công dân – sinh viên đầu năm, năm học 2025-2026 (Chuyên đề A)](https://hcmus.edu.vn/thong-bao-ket-qua-dang-ky-lich-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2025-2026-chuyen-de-a/)
 - 31/10/2025: [[THÔNG BÁO] Chương trình thực tập nghiên cứu 2026 – Viện Kỹ thuật Toyota (TTI), Nhật Bản](https://hcmus.edu.vn/thong-bao-chuong-trinh-thuc-tap-nghien-cuu-2026-vien-ky-thuat-toyota-tti-nhat-ban/)
-- 29/10/2025: [Thông báo nhận chứng chỉ Ứng dụng Công nghệ thông tin đối với Khóa 2024 và 2025](https://hcmus.edu.vn/thong-bao-nhan-chung-chi-ung-dung-cong-nghe-thong-tin-doi-voi-khoa-2024-va-2025/)
-- 29/10/2025: [Thông báo nộp hồ sơ xét hoàn tất chương trình đào tạo  trình độ đại học hệ chính quy các chương trình – đợt tháng 12 năm 2025](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-dot-thang-12-nam-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo sinh viên đánh giá khóa học đối với sinh viên năm cuối ĐHCQ khóa 2022](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/914-thong-bao-sinh-vien-danh-gia-khoa-h-c-d-i-v-i-sinh-vien-nam-cu-i-dhcq-khoa-2022)
