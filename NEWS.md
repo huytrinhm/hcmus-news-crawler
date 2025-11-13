@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-11-13 19:29:12.123486+07:00**_
+_Last update: **2025-11-13 20:28:17.152400+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-11-13 19:29:12.123486+07:00**_
  - 5-11-2025: [Chương trình giao lưu sinh viên BioXplore 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17054)
 
 ## Thông tin dành cho sinh viên
+- 13/11/2025: [Thông báonhận bằng tốt nghiệp bậc Đại học hệ Chính quy, bậc Cao đẳng ngành  Công nghệ thông tin, hệ đào tạo từ xa và Liên thông đại học cho các đợt xét tốt nghiệp tháng 8, 9 và 10 năm2025)](https://hcmus.edu.vn/thong-baonhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-cac-dot-xet-tot-nghiep-thang-8-9-va-10-nam2025/)
 - 13/11/2025: [Thông báo điều chỉnh thời gian công bố danh sách tốt nghiệp đợt tháng 11 năm 2025 đối với sinh viên trình độ đại học hệ chính quy và hệ đào tạo từ xa](https://hcmus.edu.vn/thong-bao-dieu-chinh-thoi-gian-cong-bo-danh-sach-tot-nghiep-dot-thang-11-nam-2025-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-va-he-dao-tao-tu-xa/)
 - 13/11/2025: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt Công dân – sinh viên đầu năm, năm học 2025 – 2026 (Chuyên đề A), ngày 08-09/11/2025](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2025-2026-chuyen-de-a-ngay-08-09-11-2025/)
 - 13/11/2025: [Thông báo cung cấp thông tin lưu trú năm học 2025-2026 (Dành cho sinh viên Khóa 2025)](https://hcmus.edu.vn/thong-bao-cung-cap-thong-tin-luu-tru-nam-hoc-2025-2026-danh-cho-sinh-vien-khoa-2025/)
@@ -71,7 +72,6 @@ _Last update: **2025-11-13 19:29:12.123486+07:00**_
 - 10/11/2025: [THÔNG BÁO VV TIẾP NHẬN ĐỀ XUẤT NHIỆM VỤ, CHUỖI NHIỆM VỤ, CỤM NHIỆM VỤ KHOA HỌC, CÔNG NGHỆ VÀ ĐỔI MỚI SÁNG TẠO ĐẾN NĂM 2030](https://hcmus.edu.vn/thong-bao-vv-tiep-nhan-de-xuat-nhiem-vu-chuoi-nhiem-vu-cum-nhiem-vu-khoa-hoc-cong-nghe-va-doi-moi-sang-tao-den-nam-2030/)
 - 09/11/2025: [THÔNG BÁO  Cuộc thi trực tuyến “Sinh viên Trường ĐH KHTN tìm hiểu pháp luật 2025”](https://hcmus.edu.vn/thong-bao-cuoc-thi-truc-tuyen-sinh-vien-truong-dh-khtn-tim-hieu-phap-luat-2/)
 - 06/11/2025: [[THÔNG BÁO] Chương trình học bổng Jensen Huang năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-jensen-huang-nam-2025/)
-- 05/11/2025: [THÔNG BÁO THƯỜNG CÔNG BỐ QUỐC TẾ TẠI ĐHQG-HCM NĂM 2025](https://hcmus.edu.vn/thong-bao-thuong-cong-bo-quoc-te-tai-dhqg-hcm-nam-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo thay đổi Phòng thi HKI/25-26 tại cơ sở NVC](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/915-thong-bao-thay-d-i-phong-thi-hki-25-26-t-i-co-s-nvc)
