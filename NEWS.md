@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-11-17 02:10:19.748194+07:00**_
+_Last update: **2025-11-17 03:14:20.128437+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -74,3 +74,28 @@ _Last update: **2025-11-17 02:10:19.748194+07:00**_
 - 06/11/2025: [[THÔNG BÁO] Chương trình học bổng Jensen Huang năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-jensen-huang-nam-2025/)
 
 ## Các thông báo về Khảo thí
+ - [Thông báo thay đổi Phòng thi HKI/25-26 tại cơ sở NVC](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/915-thong-bao-thay-d-i-phong-thi-hki-25-26-t-i-co-s-nvc)
+ - [Thông báo sinh viên đánh giá khóa học đối với sinh viên năm cuối ĐHCQ khóa 2022](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/914-thong-bao-sinh-vien-danh-gia-khoa-h-c-d-i-v-i-sinh-vien-nam-cu-i-dhcq-khoa-2022)
+ - [Thông báo khảo sát học viên chương trình Thạc sĩ đánh giá môn học - GV (Khóa 2024)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/913-thong-bao-kh-o-sat-h-c-vien-chuong-trinh-th-c-si-danh-gia-mon-h-c-gv-khoa-2024)
+ - [Thông báo khảo sát sự hài lòng VC-NLĐ về các hoạt động hỗ trợ của trường năm 2025](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/910-thong-bao-kh-o-sat-s-hai-long-vc-nld-v-cac-ho-t-d-ng-h-tr-c-a-tru-ng-nam-2025)
+ - [Thông báo khảo sát thông tin việc học việc làm của sinh viên tốt nghiệp đợt tháng 8, 9, 10 năm 2025](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/906-thong-bao-kh-o-sat-thong-tin-vi-c-h-c-vi-c-lam-c-a-sinh-vien-t-t-nghi-p-d-t-thang-8-9-10-nam-2025)
+
+***
+
+ - [Lịch thi cuối kỳ (sớm) HK1/25-26 tại LT và NVC](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/912-l-ch-thi-cu-i-ky-s-m-hk1-25-26-t-i-lt-va-nvc)
+ - [Lịch thi giữa kỳ HK1/25-26 Chính quy tại LT và NVC (Cập nhật 12/11)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/911-l-ch-thi-gi-a-ky-hk1-25-26-chinh-quy-t-i-lt-va-nvc)
+ - [Lịch thi HK1/25-26 hệ ĐTTX](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/909-l-ch-thi-hk1-25-26-h-dttx)
+ - [Lịch thi giữa kỳ HK1/25-26 CT đề án các khoa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/908-l-ch-thi-gi-a-ky-hk1-25-26-ct-d-an-cac-khoa)
+ - [Lịch thi giữa kỳ HK1/25-26 CT đề án khoa Hóa học](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/907-l-ch-thi-gi-a-ky-hk1-25-26-ct-d-an-khoa-hoa-h-c)
+
+***
+
+ - [Thông báo về việc Tra cứu Kết quả học tập](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/798-thong-bao-v-vi-c-tra-c-u-k-t-qu-h-c-t-p)
+ - [Kết quả thi giữa kỳ HK1/23-24 (CẬP NHẬT 20/12)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/778-k-t-qu-thi-gi-a-ky-hk1-23-24)
+ - [Kết quả thi giữa kỳ HK3/22-23 (CẬP NHẬT 15/9)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/714-k-t-qu-thi-gi-a-ky-hk3-22-23-clc)
+
+***
+
+ - [Kết quả phúc khảo HK2/22-23 CT Đề án khoa Hóa, Sinh-CNSH, ĐTVT và Môi trường](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-phuc-tra/726-k-t-qu-phuc-kh-o-hk2-22-23-ct-d-an-khoa-hoa-sinh-cnsh-dtvt-va-moi-tru-ng)
+ - [Kết quả phúc khảo HK1/22-23 HCĐH 22HCB](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-phuc-tra/723-k-t-qu-phuc-kh-o-hk1-22-23-hcdh-22hcb)
+ - [Kết quả phúc khảo HK1/22-23_Hệ CQ_Đợt cuối](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-phuc-tra/691-k-t-qu-phuc-kh-o-hk1-22-23-h-cq-d-t-cu-i)
