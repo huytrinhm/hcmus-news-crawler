@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-11-20 10:04:58.358718+07:00**_
+_Last update: **2025-11-20 11:16:37.855091+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-11-20 10:04:58.358718+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 20-11-2025: [Danh sách sinh viên tham quan Netcompany ngày 3/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17081)
  - 19-11-2025: [Danh sách sinh viên tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17080)
  - 18-11-2025: [Danh sách tham quan công ty KMS Technology ngày 26/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17078)
  - 17-11-2025: [Đăng ký tham quan công ty Netcompany ngày 3/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17076)
@@ -59,7 +60,6 @@ _Last update: **2025-11-20 10:04:58.358718+07:00**_
  - 14-11-2025: [Danh sách sinh viên tham quan công ty OPSWAT ngày 27/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17070)
  - 13-11-2025: [Đăng ký tham dự hội thảo : Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17069)
  - 11-11-2025: [Danh sách sinh viên tham dự hội thảo "Cách xây dựng hồ sơ cá nhân nổi bật trong lĩnh vực IT"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17067)
- - 11-11-2025: [Đăng ký tham quan công ty OPSWAT ngày 27/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17066)
 
 ## Thông tin dành cho sinh viên
 - 18/11/2025: [THÔNG BÁO ĐĂNG KÝ CHUYÊN ĐỀ “TÌNH HÌNH CHÍNH TRỊ – XÃ HỘI VIỆT NAM HƯỚNG TỚI ĐẠI HỘI ĐẠI BIỂU TOÀN QUỐC LẦN THỨ XIV CỦA ĐẢNG”](https://hcmus.edu.vn/thong-bao-dang-ky-chuyen-de-tinh-hinh-chinh-tri-xa-hoi-viet-nam-huong-toi-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang/)
