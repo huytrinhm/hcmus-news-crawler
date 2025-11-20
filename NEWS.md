@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-11-20 19:28:24.678784+07:00**_
+_Last update: **2025-11-20 20:25:54.952955+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -65,13 +65,13 @@ _Last update: **2025-11-20 19:28:24.678784+07:00**_
 - 20/11/2025: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 2 năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sinh-vien-cua-cong-ty-duong-nhat-dot-2-nam-2025/)
 - 20/11/2025: [Thông báo kết quả dự kiến HBKK HK3/2024-2025 Khoa Hóa học, Môi trường, Điện tử-Viễn thông, Sinh học-CNSH, Khoa học&CNVL, Vật lý-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2024-2025-khoa-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-khoa-hoccnvl-vat-ly-vlkt-ctda/)
 - 18/11/2025: [THÔNG BÁO ĐĂNG KÝ CHUYÊN ĐỀ “TÌNH HÌNH CHÍNH TRỊ – XÃ HỘI VIỆT NAM HƯỚNG TỚI ĐẠI HỘI ĐẠI BIỂU TOÀN QUỐC LẦN THỨ XIV CỦA ĐẢNG”](https://hcmus.edu.vn/thong-bao-dang-ky-chuyen-de-tinh-hinh-chinh-tri-xa-hoi-viet-nam-huong-toi-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang/)
+- 17/11/2025: [Lễ Công bố Quỹ học bổng GS. Trần Kim Thạch trị giá 1 tỷ đồng](https://hcmus.edu.vn/le-cong-bo-quy-hoc-bong-gs-tran-kim-thach-tri-gia-1-ty-dong/)
 - 13/11/2025: [Thông báo nhận bằng tốt nghiệp  (các đợt xét tốt nghiệp tháng 8, 9 và 10 năm 2025)](https://hcmus.edu.vn/thong-baonhan-bang-tot-nghiep-bac-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-he-dao-tao-tu-xa-va-lien-thong-dai-hoc-cho-cac-dot-xet-tot-nghiep-thang-8-9-va-10-nam2025/)
 - 13/11/2025: [Thông báo điều chỉnh thời gian công bố danh sách tốt nghiệp đợt tháng 11 năm 2025 đối với sinh viên trình độ đại học hệ chính quy và hệ đào tạo từ xa](https://hcmus.edu.vn/thong-bao-dieu-chinh-thoi-gian-cong-bo-danh-sach-tot-nghiep-dot-thang-11-nam-2025-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-va-he-dao-tao-tu-xa/)
 - 13/11/2025: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt Công dân – sinh viên đầu năm, năm học 2025 – 2026 (Chuyên đề A), ngày 08-09/11/2025](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2025-2026-chuyen-de-a-ngay-08-09-11-2025/)
 - 13/11/2025: [Thông báo cung cấp thông tin lưu trú năm học 2025-2026 (Dành cho sinh viên Khóa 2025)](https://hcmus.edu.vn/thong-bao-cung-cap-thong-tin-luu-tru-nam-hoc-2025-2026-danh-cho-sinh-vien-khoa-2025/)
 - 12/11/2025: [Phòng học môn Vi tích phân 1A tại CS2](https://hcmus.edu.vn/phong-hoc-mon-vi-tich-phan-1a-tai-cs2/)
 - 12/11/2025: [Thông báo tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 2 năm 2025](https://hcmus.edu.vn/thong-bao-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-2-nam-2025/)
-- 10/11/2025: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 1) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2025)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-1-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo điều chỉnh thời gian khảo sát học viên chương trình Thạc sĩ đánh giá môn học - GV (Khóa 2024)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/917-thong-bao-di-u-ch-nh-th-i-gian-kh-o-sat-h-c-vien-chuong-trinh-th-c-si-danh-gia-mon-h-c-gv-khoa-2024)
