@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-11-24 08:10:44.944359+07:00**_
+_Last update: **2025-11-24 10:18:55.080306+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-11-24 08:10:44.944359+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 24-11-2025: [Quỹ SLA Unity - Chương trình Hỗ trợ Sinh viên vùng lũ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17084)
  - 22-11-2025: [Đăng ký tham gia Seminar chủ đề “From HCI to HRI - Introducing Human-Robot Interaction"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17083)
  - 20-11-2025: [Danh sách sinh viên tham quan Netcompany ngày 3/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17081)
  - 19-11-2025: [Danh sách sinh viên tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17080)
@@ -59,7 +60,6 @@ _Last update: **2025-11-24 08:10:44.944359+07:00**_
  - 14-11-2025: [HCMUS-AleaJactaEst Vô địch Quốc Gia ICPC Việt Nam 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17072)
  - 14-11-2025: [Đăng ký tham quan công ty KMS Technology ngày 26/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17071)
  - 14-11-2025: [Danh sách sinh viên tham quan công ty OPSWAT ngày 27/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17070)
- - 13-11-2025: [Đăng ký tham dự hội thảo : Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17069)
 
 ## Thông tin dành cho sinh viên
 - 20/11/2025: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 2 năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sinh-vien-cua-cong-ty-duong-nhat-dot-2-nam-2025/)
