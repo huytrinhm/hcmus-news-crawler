@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-11-24 14:14:39.605402+07:00**_
+_Last update: **2025-11-24 15:20:47.489797+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-11-24 14:14:39.605402+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 24-11-2025: [Đăng ký tham dự Hội thảo “AI – Từ công cụ đến cộng sự”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17086)
  - 24-11-2025: [Quỹ SLA Unity - Chương trình Hỗ trợ Sinh viên vùng lũ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17084)
  - 22-11-2025: [Đăng ký tham gia Seminar chủ đề “From HCI to HRI - Introducing Human-Robot Interaction"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17083)
  - 20-11-2025: [Danh sách sinh viên tham quan Netcompany ngày 3/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17081)
@@ -59,9 +60,9 @@ _Last update: **2025-11-24 14:14:39.605402+07:00**_
  - 14-11-2025: [Tổng kết Seminar chủ đề “Autonomous Machine Learning for Decision Support in Complex Environments”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17073)
  - 14-11-2025: [HCMUS-AleaJactaEst Vô địch Quốc Gia ICPC Việt Nam 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17072)
  - 14-11-2025: [Đăng ký tham quan công ty KMS Technology ngày 26/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17071)
- - 14-11-2025: [Danh sách sinh viên tham quan công ty OPSWAT ngày 27/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17070)
 
 ## Thông tin dành cho sinh viên
+- 24/11/2025: [[THÔNG BÁO] TIN TUYỂN DỤNG – TRUYỀN THÔNG CHƯƠNG TRÌNH QUẢN TRỊ VIÊN DỰ NGUỒN HOA SEN HOME](https://hcmus.edu.vn/thong-bao-tin-tuyen-dung-truyen-thong-chuong-trinh-quan-tri-vien-du-nguon-hoa-sen-home/)
 - 20/11/2025: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 2 năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sinh-vien-cua-cong-ty-duong-nhat-dot-2-nam-2025/)
 - 20/11/2025: [Thông báo kết quả dự kiến HBKK HK3/2024-2025 Khoa Hóa học, Môi trường, Điện tử-Viễn thông, Sinh học-CNSH, Khoa học&CNVL, Vật lý-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2024-2025-khoa-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-khoa-hoccnvl-vat-ly-vlkt-ctda/)
 - 18/11/2025: [THÔNG BÁO ĐĂNG KÝ CHUYÊN ĐỀ “TÌNH HÌNH CHÍNH TRỊ – XÃ HỘI VIỆT NAM HƯỚNG TỚI ĐẠI HỘI ĐẠI BIỂU TOÀN QUỐC LẦN THỨ XIV CỦA ĐẢNG”](https://hcmus.edu.vn/thong-bao-dang-ky-chuyen-de-tinh-hinh-chinh-tri-xa-hoi-viet-nam-huong-toi-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiv-cua-dang/)
@@ -71,7 +72,6 @@ _Last update: **2025-11-24 14:14:39.605402+07:00**_
 - 13/11/2025: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt Công dân – sinh viên đầu năm, năm học 2025 – 2026 (Chuyên đề A), ngày 08-09/11/2025](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2025-2026-chuyen-de-a-ngay-08-09-11-2025/)
 - 13/11/2025: [Thông báo cung cấp thông tin lưu trú năm học 2025-2026 (Dành cho sinh viên Khóa 2025)](https://hcmus.edu.vn/thong-bao-cung-cap-thong-tin-luu-tru-nam-hoc-2025-2026-danh-cho-sinh-vien-khoa-2025/)
 - 12/11/2025: [Phòng học môn Vi tích phân 1A tại CS2](https://hcmus.edu.vn/phong-hoc-mon-vi-tich-phan-1a-tai-cs2/)
-- 12/11/2025: [Thông báo tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 2 năm 2025](https://hcmus.edu.vn/thong-bao-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-2-nam-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo điều chỉnh thời gian khảo sát học viên chương trình Thạc sĩ đánh giá môn học - GV (Khóa 2024)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/917-thong-bao-di-u-ch-nh-th-i-gian-kh-o-sat-h-c-vien-chuong-trinh-th-c-si-danh-gia-mon-h-c-gv-khoa-2024)
