@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-11-25 16:17:13.584753+07:00**_
+_Last update: **2025-11-25 17:17:12.583556+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-11-25 16:17:13.584753+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 25-11-2025: [[Quỹ học bổng Cựu sinh viên ASF] Thông báo tiếp nhận hỗ trợ dành cho sinh viên CNTT ảnh hưởng bởi bão lũ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17088)
  - 24-11-2025: [Đăng ký tham dự Hội thảo “AI – Từ công cụ đến cộng sự”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17086)
  - 24-11-2025: [Quỹ SLA Unity - Chương trình Hỗ trợ Sinh viên vùng lũ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17084)
  - 22-11-2025: [Đăng ký tham gia Seminar chủ đề “From HCI to HRI - Introducing Human-Robot Interaction"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17083)
@@ -59,7 +60,6 @@ _Last update: **2025-11-25 16:17:13.584753+07:00**_
  - 17-11-2025: [Đăng ký tham quan công ty Netcompany ngày 3/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17076)
  - 14-11-2025: [Tổng kết Seminar chủ đề “Autonomous Machine Learning for Decision Support in Complex Environments”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17073)
  - 14-11-2025: [HCMUS-AleaJactaEst Vô địch Quốc Gia ICPC Việt Nam 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17072)
- - 14-11-2025: [Đăng ký tham quan công ty KMS Technology ngày 26/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17071)
 
 ## Thông tin dành cho sinh viên
 - 25/11/2025: [Giới thiệu Sổ tay Chăm sóc Sức khỏe Tinh thần dành cho sinh viên, học sinh và đội ngũ tư vấn học đường](https://hcmus.edu.vn/gioi-thieu-so-tay-cham-soc-suc-khoe-tinh-than-danh-cho-sinh-vien-hoc-sinh-va-doi-ngu-tu-van-hoc-duong/)
