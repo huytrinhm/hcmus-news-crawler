@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-11-26 13:22:10.892300+07:00**_
+_Last update: **2025-11-26 14:14:08.531858+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -74,11 +74,11 @@ _Last update: **2025-11-26 13:22:10.892300+07:00**_
 - 13/11/2025: [Thông báo điều chỉnh thời gian công bố danh sách tốt nghiệp đợt tháng 11 năm 2025 đối với sinh viên trình độ đại học hệ chính quy và hệ đào tạo từ xa](https://hcmus.edu.vn/thong-bao-dieu-chinh-thoi-gian-cong-bo-danh-sach-tot-nghiep-dot-thang-11-nam-2025-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-va-he-dao-tao-tu-xa/)
 
 ## Các thông báo về Khảo thí
+ - [Thông báo thu thập thông tin việc học việc làm của SVTN đợt tháng 11 năm 2025](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/922-thong-bao-thu-th-p-thong-tin-vi-c-h-c-vi-c-lam-c-a-svtn-d-t-thang-11-nam-2025)
  - [Thông báo thay đổi phòng thi HK1/25-26 hệ ĐTTX](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/921-thong-bao-thay-d-i-phong-thi-hk1-25-26-h-dttx)
  - [Thông báo điều chỉnh thời gian khảo sát học viên chương trình Thạc sĩ đánh giá môn học - GV (Khóa 2024)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/917-thong-bao-di-u-ch-nh-th-i-gian-kh-o-sat-h-c-vien-chuong-trinh-th-c-si-danh-gia-mon-h-c-gv-khoa-2024)
  - [Thông báo SV đánh giá môn học - GV HK1/2025-2026 (Chương trình đề án)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/916-thong-bao-sv-danh-gia-mon-h-c-gv-hk1-2025-2026-chuong-trinh-d-an)
  - [Thông báo thay đổi Phòng thi HKI/25-26 tại cơ sở NVC](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/915-thong-bao-thay-d-i-phong-thi-hki-25-26-t-i-co-s-nvc)
- - [Thông báo sinh viên đánh giá khóa học đối với sinh viên năm cuối ĐHCQ khóa 2022](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/914-thong-bao-sinh-vien-danh-gia-khoa-h-c-d-i-v-i-sinh-vien-nam-cu-i-dhcq-khoa-2022)
 
 ***
 
