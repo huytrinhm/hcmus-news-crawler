@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-11-28 14:14:36.860137+07:00**_
+_Last update: **2025-11-28 15:20:01.367977+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-11-28 14:14:36.860137+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 28-11-2025: [DSHV Khóa 34/2024 đăng ký đề tài luận văn/ đồ án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17095)
  - 27-11-2025: [Kết quả tuyển sinh Sau Đại học năm 2025 – đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17094)
  - 26-11-2025: [Đăng ký tham quan công ty Saritasa Việt Nam ngày 10/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17093)
  - 25-11-2025: [[Quỹ học bổng Cựu sinh viên ASF] Thông báo tiếp nhận hỗ trợ dành cho sinh viên CNTT ảnh hưởng bởi bão lũ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17088)
@@ -59,7 +60,6 @@ _Last update: **2025-11-28 14:14:36.860137+07:00**_
  - 20-11-2025: [Danh sách sinh viên tham quan Netcompany ngày 3/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17081)
  - 19-11-2025: [Danh sách sinh viên tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17080)
  - 18-11-2025: [Danh sách tham quan công ty KMS Technology ngày 26/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17078)
- - 17-11-2025: [Đăng ký tham quan công ty Netcompany ngày 3/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17076)
 
 ## Thông tin dành cho sinh viên
 - 28/11/2025: [Thông báo đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2026 (dành cho các sinh viên tham gia BHYT tại Trường)](https://hcmus.edu.vn/thong-bao-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2026-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/)
