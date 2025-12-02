@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-12-02 08:07:42.331809+07:00**_
+_Last update: **2025-12-02 10:13:32.203833+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-12-02 08:07:42.331809+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 1-12-2025: [Danh sách sinh viên tham quan Saritasa Việt Nam ngày 10/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17100)
  - 1-12-2025: [Danh sách sinh viên tham dự Hội thảo AI – Từ công cụ đến cộng sự](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17098)
  - 28-11-2025: [DSHV Khóa 34/2024 đăng ký đề tài luận văn/ đồ án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17095)
  - 27-11-2025: [Kết quả tuyển sinh Sau Đại học năm 2025 – đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17094)
@@ -59,7 +60,6 @@ _Last update: **2025-12-02 08:07:42.331809+07:00**_
  - 24-11-2025: [Quỹ SLA Unity - Chương trình Hỗ trợ Sinh viên vùng lũ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17084)
  - 22-11-2025: [Đăng ký tham gia Seminar chủ đề “From HCI to HRI - Introducing Human-Robot Interaction"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17083)
  - 20-11-2025: [Danh sách sinh viên tham quan Netcompany ngày 3/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17081)
- - 19-11-2025: [Danh sách sinh viên tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17080)
 
 ## Thông tin dành cho sinh viên
 - 01/12/2025: [Thông báo kết quả chính thức HBKK HK3/2024-2025 Khoa Điện tử-Viễn thông, Hóa học, Khoa học&CNVL, Môi trường, Sinh học-CNSH, Vật lý-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2024-2025-khoa-dien-tu-vien-thong-hoa-hoc-khoa-hoccnvl-moi-truong-sinh-hoc-cnsh-vat-ly-vlkt-ctda/)
