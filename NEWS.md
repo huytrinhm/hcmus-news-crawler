@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-12-04 20:31:47.541632+07:00**_
+_Last update: **2025-12-04 21:15:43.910131+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-12-04 20:31:47.541632+07:00**_
  - 22-11-2025: [Đăng ký tham gia Seminar chủ đề “From HCI to HRI - Introducing Human-Robot Interaction"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17083)
 
 ## Thông tin dành cho sinh viên
+- 04/12/2025: [Thông báo kết quả dự kiến HBKK HK3/2024-2025 Khoa Công nghệ Thông tin (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2024-2025-khoa-cong-nghe-thong-tin-ctda/)
 - 01/12/2025: [Thông báo kết quả chính thức HBKK HK3/2024-2025 Khoa Điện tử-Viễn thông, Hóa học, Khoa học&CNVL, Môi trường, Sinh học-CNSH, Vật lý-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2024-2025-khoa-dien-tu-vien-thong-hoa-hoc-khoa-hoccnvl-moi-truong-sinh-hoc-cnsh-vat-ly-vlkt-ctda/)
 - 01/12/2025: [Thông báo thay đổi phòng học tại cơ sở 2 các môn Kinh tế chính trị, Lịch sử Đảng – áp dụng từ 01/12/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-cac-mon-kinh-te-chinh-tri-lich-su-dang-ap-dung-tu-01-12-2025/)
 - 28/11/2025: [Thông báo kết quả dự kiến học bổng khuyến khích học tập HK2/2024-2025 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2024-2025-chuong-trinh-chuan/)
@@ -71,7 +72,6 @@ _Last update: **2025-12-04 20:31:47.541632+07:00**_
 - 25/11/2025: [Thông báo Tổ chức hoạt động Workshop: “The Butterfly Effect: Cánh bướm nhỏ, thay đổi lớn”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-the-butterfly-effect-canh-buom-nho-thay-doi-lon/)
 - 24/11/2025: [Thông báo tổ chức chuyên đề “Nhận diện thủ đoạn lừa đảo công nghệ cao – bảo vệ bản thân trên không gian mạng”](https://hcmus.edu.vn/thong-bao-to-chuc-chuyen-de-nhan-dien-thu-doan-lua-dao-cong-nghe-cao-bao-ve-ban-than-tren-khong-gian-mang-2/)
 - 24/11/2025: [[THÔNG BÁO] TIN TUYỂN DỤNG – TRUYỀN THÔNG CHƯƠNG TRÌNH QUẢN TRỊ VIÊN DỰ NGUỒN HOA SEN HOME](https://hcmus.edu.vn/thong-bao-tin-tuyen-dung-truyen-thong-chuong-trinh-quan-tri-vien-du-nguon-hoa-sen-home/)
-- 20/11/2025: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 2 năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sinh-vien-cua-cong-ty-duong-nhat-dot-2-nam-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo thu thập thông tin việc học việc làm của SVTN đợt tháng 11 năm 2025](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/922-thong-bao-thu-th-p-thong-tin-vi-c-h-c-vi-c-lam-c-a-svtn-d-t-thang-11-nam-2025)
