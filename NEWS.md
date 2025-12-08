@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-12-08 08:08:33.237046+07:00**_
+_Last update: **2025-12-08 10:16:49.453094+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-12-08 08:08:33.237046+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 8-12-2025: [[CQ] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp (K2022-Đợt 2, bảo vệ 07/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17109)
  - 7-12-2025: [Tổng kết Seminar chủ đề “From HCI to HRI - Introducing Human-Robot Interaction”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17108)
  - 5-12-2025: [Đăng ký tham quan công ty ELCA](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17107)
  - 5-12-2025: [Danh sách sinh viên tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ (Lớp 2)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17106)
@@ -59,9 +60,9 @@ _Last update: **2025-12-08 08:08:33.237046+07:00**_
  - 28-11-2025: [DSHV Khóa 34/2024 đăng ký đề tài luận văn/ đồ án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17095)
  - 27-11-2025: [Kết quả tuyển sinh Sau Đại học năm 2025 – đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17094)
  - 26-11-2025: [Đăng ký tham quan công ty Saritasa Việt Nam ngày 10/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17093)
- - 25-11-2025: [[Quỹ học bổng Cựu sinh viên ASF] Thông báo tiếp nhận hỗ trợ dành cho sinh viên CNTT ảnh hưởng bởi bão lũ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17088)
 
 ## Thông tin dành cho sinh viên
+- 08/12/2025: [TB Cuộc thi tuyên truyền phòng chống lừa đảo trực tuyến, đảm bảo an toàn, an ninh mạng “Không một mình – Cùng nhau an toàn trực tuyến”](https://hcmus.edu.vn/tb-cuoc-thi-tuyen-truyen-phong-chong-lua-dao-truc-tuyen-dam-bao-an-toan-an-ninh-mang-khong-mot-minh-cung-nhau-an-toan-truc-tuyen/)
 - 04/12/2025: [Thông báo kết quả dự kiến Học bổng khuyến khích HK3/2024-2025 Khoa Công nghệ Thông tin (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2024-2025-khoa-cong-nghe-thong-tin-ctda/)
 - 01/12/2025: [Thông báo kết quả chính thức HBKK HK3/2024-2025 Khoa Điện tử-Viễn thông, Hóa học, Khoa học&CNVL, Môi trường, Sinh học-CNSH, Vật lý-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2024-2025-khoa-dien-tu-vien-thong-hoa-hoc-khoa-hoccnvl-moi-truong-sinh-hoc-cnsh-vat-ly-vlkt-ctda/)
 - 01/12/2025: [Thông báo thay đổi phòng học tại cơ sở 2 các môn Kinh tế chính trị, Lịch sử Đảng – áp dụng từ 01/12/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-cac-mon-kinh-te-chinh-tri-lich-su-dang-ap-dung-tu-01-12-2025/)
@@ -71,7 +72,6 @@ _Last update: **2025-12-08 08:08:33.237046+07:00**_
 - 25/11/2025: [Giới thiệu Sổ tay Chăm sóc Sức khỏe Tinh thần dành cho sinh viên, học sinh và đội ngũ tư vấn học đường](https://hcmus.edu.vn/gioi-thieu-so-tay-cham-soc-suc-khoe-tinh-than-danh-cho-sinh-vien-hoc-sinh-va-doi-ngu-tu-van-hoc-duong/)
 - 25/11/2025: [Thông báo Tổ chức hoạt động Workshop: “The Butterfly Effect: Cánh bướm nhỏ, thay đổi lớn”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-the-butterfly-effect-canh-buom-nho-thay-doi-lon/)
 - 24/11/2025: [Thông báo tổ chức chuyên đề “Nhận diện thủ đoạn lừa đảo công nghệ cao – bảo vệ bản thân trên không gian mạng”](https://hcmus.edu.vn/thong-bao-to-chuc-chuyen-de-nhan-dien-thu-doan-lua-dao-cong-nghe-cao-bao-ve-ban-than-tren-khong-gian-mang-2/)
-- 24/11/2025: [[THÔNG BÁO] TIN TUYỂN DỤNG – TRUYỀN THÔNG CHƯƠNG TRÌNH QUẢN TRỊ VIÊN DỰ NGUỒN HOA SEN HOME](https://hcmus.edu.vn/thong-bao-tin-tuyen-dung-truyen-thong-chuong-trinh-quan-tri-vien-du-nguon-hoa-sen-home/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo thu thập thông tin việc học việc làm của SVTN đợt tháng 11 năm 2025](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/922-thong-bao-thu-th-p-thong-tin-vi-c-h-c-vi-c-lam-c-a-svtn-d-t-thang-11-nam-2025)
