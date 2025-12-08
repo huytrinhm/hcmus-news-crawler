@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-12-08 10:16:49.453094+07:00**_
+_Last update: **2025-12-08 11:28:18.991073+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-12-08 10:16:49.453094+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 8-12-2025: [Khoa Công nghệ Thông tin ghi dấu ấn tại Giải thưởng Sinh viên Nghiên cứu Khoa học Euréka lần thứ 27, năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17110)
  - 8-12-2025: [[CQ] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp (K2022-Đợt 2, bảo vệ 07/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17109)
  - 7-12-2025: [Tổng kết Seminar chủ đề “From HCI to HRI - Introducing Human-Robot Interaction”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17108)
  - 5-12-2025: [Đăng ký tham quan công ty ELCA](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17107)
@@ -59,7 +60,6 @@ _Last update: **2025-12-08 10:16:49.453094+07:00**_
  - 1-12-2025: [Danh sách sinh viên tham dự Hội thảo AI – Từ công cụ đến cộng sự](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17098)
  - 28-11-2025: [DSHV Khóa 34/2024 đăng ký đề tài luận văn/ đồ án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17095)
  - 27-11-2025: [Kết quả tuyển sinh Sau Đại học năm 2025 – đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17094)
- - 26-11-2025: [Đăng ký tham quan công ty Saritasa Việt Nam ngày 10/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17093)
 
 ## Thông tin dành cho sinh viên
 - 08/12/2025: [TB Cuộc thi tuyên truyền phòng chống lừa đảo trực tuyến, đảm bảo an toàn, an ninh mạng “Không một mình – Cùng nhau an toàn trực tuyến”](https://hcmus.edu.vn/tb-cuoc-thi-tuyen-truyen-phong-chong-lua-dao-truc-tuyen-dam-bao-an-toan-an-ninh-mang-khong-mot-minh-cung-nhau-an-toan-truc-tuyen/)
