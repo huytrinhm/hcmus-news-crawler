@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-12-09 06:13:35.605500+07:00**_
+_Last update: **2025-12-09 08:08:05.285231+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-12-09 06:13:35.605500+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 9-12-2025: [Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17111)
  - 8-12-2025: [Khoa Công nghệ Thông tin ghi dấu ấn tại Giải thưởng Sinh viên Nghiên cứu Khoa học Euréka lần thứ 27, năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17110)
  - 8-12-2025: [[CQ] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp (K2022-Đợt 2, bảo vệ 07/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17109)
  - 7-12-2025: [Tổng kết Seminar chủ đề “From HCI to HRI - Introducing Human-Robot Interaction”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17108)
@@ -59,7 +60,6 @@ _Last update: **2025-12-09 06:13:35.605500+07:00**_
  - 1-12-2025: [Danh sách sinh viên tham quan Saritasa Việt Nam ngày 10/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17100)
  - 1-12-2025: [Danh sách sinh viên tham dự Hội thảo AI – Từ công cụ đến cộng sự](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17098)
  - 28-11-2025: [DSHV Khóa 34/2024 đăng ký đề tài luận văn/ đồ án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17095)
- - 27-11-2025: [Kết quả tuyển sinh Sau Đại học năm 2025 – đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17094)
 
 ## Thông tin dành cho sinh viên
 - 08/12/2025: [Thông báo kết quả dự kiến Học bổng khuyến khích HK3/2024-2025 Khoa Công nghệ Thông tin (bổ sung Chương trình Tiên tiến)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2024-2025-khoa-cong-nghe-thong-tin-ctda/)
