@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-12-09 08:08:05.285231+07:00**_
+_Last update: **2025-12-09 10:13:47.700234+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,8 @@ _Last update: **2025-12-09 08:08:05.285231+07:00**_
  - 28-11-2025: [DSHV Khóa 34/2024 đăng ký đề tài luận văn/ đồ án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17095)
 
 ## Thông tin dành cho sinh viên
+- 09/12/2025: [Thông báo kết quả dự kiến Học bổng khuyến khích HK2/2024-2025 Chương trình cử nhân tài năng Khoa Công nghệ Thông tin](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2024-2025-chuong-trinh-cu-nhan-tai-nang-khoa-cong-nghe-thong-tin/)
+- 09/12/2025: [Thông báo nhận hình Lễ Trao Bằng tốt nghiệp Cử nhân Khoa học Đợt 2 năm 2025 do Trường tổ chức ngày 29/11, 04/12 và 06/12/2025](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-dot-2-nam-2025-do-truong-to-chuc-ngay-29-11-04-12-va-06-12-2025/)
 - 08/12/2025: [Thông báo kết quả dự kiến Học bổng khuyến khích HK3/2024-2025 Khoa Công nghệ Thông tin (bổ sung Chương trình Tiên tiến)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2024-2025-khoa-cong-nghe-thong-tin-ctda/)
 - 08/12/2025: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK2/2024-2025 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk2-2024-2025-chuong-trinh-chuan/)
 - 08/12/2025: [TB Cuộc thi tuyên truyền phòng chống lừa đảo trực tuyến, đảm bảo an toàn, an ninh mạng “Không một mình – Cùng nhau an toàn trực tuyến”](https://hcmus.edu.vn/tb-cuoc-thi-tuyen-truyen-phong-chong-lua-dao-truc-tuyen-dam-bao-an-toan-an-ninh-mang-khong-mot-minh-cung-nhau-an-toan-truc-tuyen/)
@@ -70,14 +72,12 @@ _Last update: **2025-12-09 08:08:05.285231+07:00**_
 - 28/11/2025: [Thông báo kết quả dự kiến học bổng khuyến khích học tập HK2/2024-2025 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2024-2025-chuong-trinh-chuan/)
 - 28/11/2025: [Thông báo đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2026 (dành cho các sinh viên tham gia BHYT tại Trường)](https://hcmus.edu.vn/thong-bao-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2026-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/)
 - 27/11/2025: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt Công dân – sinh viên đầu năm, năm học 2025 – 2026 (Chuyên đề A), ngày 15-16-22/11/2025](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2025-2026-chuyen-de-a-ngay-15-16-22-11-2025/)
-- 25/11/2025: [Giới thiệu Sổ tay Chăm sóc Sức khỏe Tinh thần dành cho sinh viên, học sinh và đội ngũ tư vấn học đường](https://hcmus.edu.vn/gioi-thieu-so-tay-cham-soc-suc-khoe-tinh-than-danh-cho-sinh-vien-hoc-sinh-va-doi-ngu-tu-van-hoc-duong/)
-- 25/11/2025: [Thông báo Tổ chức hoạt động Workshop: “The Butterfly Effect: Cánh bướm nhỏ, thay đổi lớn”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-the-butterfly-effect-canh-buom-nho-thay-doi-lon/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo thu thập thông tin việc học việc làm của SVTN đợt tháng 11 năm 2025](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/922-thong-bao-thu-th-p-thong-tin-vi-c-h-c-vi-c-lam-c-a-svtn-d-t-thang-11-nam-2025)
  - [Thông báo thay đổi phòng thi HK1/25-26 hệ ĐTTX](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/921-thong-bao-thay-d-i-phong-thi-hk1-25-26-h-dttx)
  - [Thông báo điều chỉnh thời gian khảo sát học viên chương trình Thạc sĩ đánh giá môn học - GV (Khóa 2024)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/917-thong-bao-di-u-ch-nh-th-i-gian-kh-o-sat-h-c-vien-chuong-trinh-th-c-si-danh-gia-mon-h-c-gv-khoa-2024)
- - [Thông báo SV đánh giá môn học - GV HK1/2025-2026 (Chương trình đề án)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/916-thong-bao-sv-danh-gia-mon-h-c-gv-hk1-2025-2026-chuong-trinh-d-an)
+ - [Thông báo SV đánh giá môn học - GV HK1/2025-2026 (Chương trình đề án) (Điều chỉnh ngày 03/12)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/916-thong-bao-sv-danh-gia-mon-h-c-gv-hk1-2025-2026-chuong-trinh-d-an)
  - [Thông báo thay đổi Phòng thi HKI/25-26 tại cơ sở NVC](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/915-thong-bao-thay-d-i-phong-thi-hki-25-26-t-i-co-s-nvc)
 
 ***
