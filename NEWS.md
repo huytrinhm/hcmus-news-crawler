@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-12-09 15:21:40.946596+07:00**_
+_Last update: **2025-12-09 16:17:55.218196+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,8 @@ _Last update: **2025-12-09 15:21:40.946596+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 9-12-2025: [Tổng kết Chuyên đề “Kỹ năng mềm - Tư duy và Tranh biện trong học tập và cuộc sống” dành cho Tân sinh viên khóa tuyển 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17113)
+ - 9-12-2025: [Tổng kết Seminar học thuật Câu lạc bộ Nghiên cứu khoa học Tháng 12 năm 2025: Không gian kết nối và lan tỏa](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17115)
  - 9-12-2025: [Mời bình chọn cho sinh viên Võ Ngọc Minh Anh – Ứng viên “Công dân trẻ tiêu biểu TP.HCM 2025”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17112)
  - 9-12-2025: [Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17111)
  - 8-12-2025: [Khoa Công nghệ Thông tin ghi dấu ấn tại Giải thưởng Sinh viên Nghiên cứu Khoa học Euréka lần thứ 27, năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17110)
@@ -58,8 +60,6 @@ _Last update: **2025-12-09 15:21:40.946596+07:00**_
  - 5-12-2025: [Đăng ký tham quan công ty ELCA](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17107)
  - 5-12-2025: [Danh sách sinh viên tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ (Lớp 2)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17106)
  - 2-12-2025: [Đăng ký tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ ngày 9/12 (lớp 2)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17103)
- - 1-12-2025: [Danh sách sinh viên tham quan Saritasa Việt Nam ngày 10/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17100)
- - 1-12-2025: [Danh sách sinh viên tham dự Hội thảo AI – Từ công cụ đến cộng sự](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17098)
 
 ## Thông tin dành cho sinh viên
 - 09/12/2025: [Thông báo kết quả dự kiến Học bổng khuyến khích HK2/2024-2025 Chương trình cử nhân tài năng Khoa Công nghệ Thông tin](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2024-2025-chuong-trinh-cu-nhan-tai-nang-khoa-cong-nghe-thong-tin/)
@@ -82,11 +82,11 @@ _Last update: **2025-12-09 15:21:40.946596+07:00**_
 
 ***
 
+ - [Lịch thi cuối kỳ HK1/25-26 Chính quy tại LT và NVC](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/923-l-ch-thi-cu-i-ky-hk1-25-26-chinh-quy-t-i-lt-va-nvc)
  - [Lịch thi cuối kỳ HK1/25-26 CT đề án các khoa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/920-l-ch-thi-cu-i-ky-hk1-25-26-ct-d-an-cac-khoa)
  - [Lịch thi cuối kỳ HK1/25-26 CT đề án khoa Hóa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/919-l-ch-thi-cu-i-ky-hk1-25-26-ct-d-an-khoa-hoa)
  - [Lịch thi cuối kỳ HK1/25-26 CT đề án khoa CNTT](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/918-l-ch-thi-cu-i-ky-hk1-25-26-ct-d-an-khoa-cntt)
  - [Lịch thi cuối kỳ (sớm) HK1/25-26 tại LT và NVC (CẬP NHẬT 19/11)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/912-l-ch-thi-cu-i-ky-s-m-hk1-25-26-t-i-lt-va-nvc)
- - [Lịch thi giữa kỳ HK1/25-26 Chính quy tại LT và NVC (Cập nhật 19/11)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/911-l-ch-thi-gi-a-ky-hk1-25-26-chinh-quy-t-i-lt-va-nvc)
 
 ***
 
