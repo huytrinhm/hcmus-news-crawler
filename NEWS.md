@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-12-09 11:22:59.757444+07:00**_
+_Last update: **2025-12-09 12:14:41.550721+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-12-09 11:22:59.757444+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 9-12-2025: [Mời bình chọn cho sinh viên Võ Ngọc Minh Anh – Ứng viên “Công dân trẻ tiêu biểu TP.HCM 2025”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17112)
  - 9-12-2025: [Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17111)
  - 8-12-2025: [Khoa Công nghệ Thông tin ghi dấu ấn tại Giải thưởng Sinh viên Nghiên cứu Khoa học Euréka lần thứ 27, năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17110)
  - 8-12-2025: [[CQ] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp (K2022-Đợt 2, bảo vệ 07/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17109)
@@ -59,7 +60,6 @@ _Last update: **2025-12-09 11:22:59.757444+07:00**_
  - 2-12-2025: [Đăng ký tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ ngày 9/12 (lớp 2)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17103)
  - 1-12-2025: [Danh sách sinh viên tham quan Saritasa Việt Nam ngày 10/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17100)
  - 1-12-2025: [Danh sách sinh viên tham dự Hội thảo AI – Từ công cụ đến cộng sự](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17098)
- - 28-11-2025: [DSHV Khóa 34/2024 đăng ký đề tài luận văn/ đồ án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17095)
 
 ## Thông tin dành cho sinh viên
 - 09/12/2025: [Thông báo kết quả dự kiến Học bổng khuyến khích HK2/2024-2025 Chương trình cử nhân tài năng Khoa Công nghệ Thông tin](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2024-2025-chuong-trinh-cu-nhan-tai-nang-khoa-cong-nghe-thong-tin/)
