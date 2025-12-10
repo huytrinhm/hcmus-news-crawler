@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-12-10 11:28:05.864447+07:00**_
+_Last update: **2025-12-10 12:16:12.101454+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-12-10 11:28:05.864447+07:00**_
  - 5-12-2025: [Danh sách sinh viên tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ (Lớp 2)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17106)
 
 ## Thông tin dành cho sinh viên
+- 10/12/2025: [SAIH RA MẮT ĐỊNH HƯỚNG HOẠT ĐỘNG: CHÍNH THỨC MỞ CỔNG ĐĂNG KÝ TUYỂN CHỌN DỰ ÁN NGHIÊN CỨU AI](https://hcmus.edu.vn/saih-ra-mat-dinh-huong-hoat-dong-chinh-thuc-mo-cong-dang-ky-tuyen-chon-du-an-nghien-cuu-ai/)
 - 09/12/2025: [Thông báo kết quả dự kiến Học bổng khuyến khích HK2/2024-2025 Chương trình cử nhân tài năng Khoa Công nghệ Thông tin](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2024-2025-chuong-trinh-cu-nhan-tai-nang-khoa-cong-nghe-thong-tin/)
 - 09/12/2025: [Thông báo nhận hình Lễ Trao Bằng tốt nghiệp Cử nhân Khoa học Đợt 2 năm 2025 do Trường tổ chức ngày 29/11, 04/12 và 06/12/2025](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-dot-2-nam-2025-do-truong-to-chuc-ngay-29-11-04-12-va-06-12-2025/)
 - 08/12/2025: [Thông báo kết quả dự kiến Học bổng khuyến khích HK3/2024-2025 Khoa Công nghệ Thông tin (bổ sung Chương trình Tiên tiến)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2024-2025-khoa-cong-nghe-thong-tin-ctda/)
@@ -71,7 +72,6 @@ _Last update: **2025-12-10 11:28:05.864447+07:00**_
 - 01/12/2025: [Thông báo thay đổi phòng học tại cơ sở 2 các môn Kinh tế chính trị, Lịch sử Đảng – áp dụng từ 01/12/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-cac-mon-kinh-te-chinh-tri-lich-su-dang-ap-dung-tu-01-12-2025/)
 - 28/11/2025: [Thông báo kết quả dự kiến học bổng khuyến khích học tập HK2/2024-2025 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2024-2025-chuong-trinh-chuan/)
 - 28/11/2025: [Thông báo đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2026 (dành cho các sinh viên tham gia BHYT tại Trường)](https://hcmus.edu.vn/thong-bao-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2026-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/)
-- 27/11/2025: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt Công dân – sinh viên đầu năm, năm học 2025 – 2026 (Chuyên đề A), ngày 15-16-22/11/2025](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2025-2026-chuyen-de-a-ngay-15-16-22-11-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo thu thập thông tin việc học việc làm của SVTN đợt tháng 11 năm 2025](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/922-thong-bao-thu-th-p-thong-tin-vi-c-h-c-vi-c-lam-c-a-svtn-d-t-thang-11-nam-2025)
