@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-12-12 14:18:20.405278+07:00**_
+_Last update: **2025-12-12 15:21:08.555826+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-12-12 14:18:20.405278+07:00**_
  - 8-12-2025: [[CQ] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp (K2022-Đợt 2, bảo vệ 07/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17109)
 
 ## Thông tin dành cho sinh viên
+- 12/12/2025: [THÔNG BÁO KẾT QUẢ GIẢI THƯỞNG LÊ VĂN THỚI 2025](https://hcmus.edu.vn/thong-bao-ket-qua-giai-thuong-le-van-thoi-2025/)
 - 11/12/2025: [Kết quả xét Hoàn tất chương trình – đợt tháng 11/2025](https://hcmus.edu.vn/ket-qua-xet-hoan-tat-chuong-trinh-dot-thang-11-2025/)
 - 11/12/2025: [Thông báo đăng ký học phần HK2/2025-2026 – chương trình CLC, TCTA và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk2-2025-2026-chuong-trinh-clc-tcta-va-viet-phap/)
 - 10/12/2025: [SAIH RA MẮT ĐỊNH HƯỚNG HOẠT ĐỘNG: CHÍNH THỨC MỞ CỔNG ĐĂNG KÝ TUYỂN CHỌN DỰ ÁN NGHIÊN CỨU AI](https://hcmus.edu.vn/saih-ra-mat-dinh-huong-hoat-dong-chinh-thuc-mo-cong-dang-ky-tuyen-chon-du-an-nghien-cuu-ai/)
@@ -71,7 +72,6 @@ _Last update: **2025-12-12 14:18:20.405278+07:00**_
 - 08/12/2025: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK2/2024-2025 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk2-2024-2025-chuong-trinh-chuan/)
 - 08/12/2025: [TB Cuộc thi tuyên truyền phòng chống lừa đảo trực tuyến, đảm bảo an toàn, an ninh mạng “Không một mình – Cùng nhau an toàn trực tuyến”](https://hcmus.edu.vn/tb-cuoc-thi-tuyen-truyen-phong-chong-lua-dao-truc-tuyen-dam-bao-an-toan-an-ninh-mang-khong-mot-minh-cung-nhau-an-toan-truc-tuyen/)
 - 01/12/2025: [Thông báo kết quả chính thức HBKK HK3/2024-2025 Khoa Điện tử-Viễn thông, Hóa học, Khoa học&CNVL, Môi trường, Sinh học-CNSH, Vật lý-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2024-2025-khoa-dien-tu-vien-thong-hoa-hoc-khoa-hoccnvl-moi-truong-sinh-hoc-cnsh-vat-ly-vlkt-ctda/)
-- 01/12/2025: [Thông báo thay đổi phòng học tại cơ sở 2 các môn Kinh tế chính trị, Lịch sử Đảng – áp dụng từ 01/12/2025](https://hcmus.edu.vn/thong-bao-thay-doi-phong-hoc-tai-co-so-2-cac-mon-kinh-te-chinh-tri-lich-su-dang-ap-dung-tu-01-12-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo thu thập thông tin việc học việc làm của SVTN đợt tháng 11 năm 2025](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/922-thong-bao-thu-th-p-thong-tin-vi-c-h-c-vi-c-lam-c-a-svtn-d-t-thang-11-nam-2025)
@@ -82,7 +82,7 @@ _Last update: **2025-12-12 14:18:20.405278+07:00**_
 
 ***
 
- - [Lịch thi cuối kỳ HK1/25-26 Chính quy tại LT và NVC](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/923-l-ch-thi-cu-i-ky-hk1-25-26-chinh-quy-t-i-lt-va-nvc)
+ - [Lịch thi cuối kỳ HK1/25-26 Chính quy tại LT và NVC (Cập nhật 12/12)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/923-l-ch-thi-cu-i-ky-hk1-25-26-chinh-quy-t-i-lt-va-nvc)
  - [Lịch thi cuối kỳ HK1/25-26 CT đề án các khoa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/920-l-ch-thi-cu-i-ky-hk1-25-26-ct-d-an-cac-khoa)
  - [Lịch thi cuối kỳ HK1/25-26 CT đề án khoa Hóa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/919-l-ch-thi-cu-i-ky-hk1-25-26-ct-d-an-khoa-hoa)
  - [Lịch thi cuối kỳ HK1/25-26 CT đề án khoa CNTT (Cập nhật 9/12)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/918-l-ch-thi-cu-i-ky-hk1-25-26-ct-d-an-khoa-cntt)
