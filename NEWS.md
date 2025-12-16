@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-12-16 08:11:17.432937+07:00**_
+_Last update: **2025-12-16 10:19:27.901294+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-12-16 08:11:17.432937+07:00**_
  - 8-12-2025: [[CQ] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp (K2022-Đợt 2, bảo vệ 07/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17109)
 
 ## Thông tin dành cho sinh viên
+- 16/12/2025: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 2) đối với sinh viên  và học viên Sau Đại học (trừ sinh viên khóa 2025)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-2-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2025/)
 - 15/12/2025: [Thông báo Giải thưởng lương văn can lần thứ 12](https://hcmus.edu.vn/thong-bao-giai-thuong-luong-van-can-lan-thu-12/)
 - 12/12/2025: [THÔNG BÁO KẾT QUẢ GIẢI THƯỞNG LÊ VĂN THỚI 2025](https://hcmus.edu.vn/thong-bao-ket-qua-giai-thuong-le-van-thoi-2025/)
 - 11/12/2025: [Kết quả xét Hoàn tất chương trình – đợt tháng 11/2025](https://hcmus.edu.vn/ket-qua-xet-hoan-tat-chuong-trinh-dot-thang-11-2025/)
@@ -71,7 +72,6 @@ _Last update: **2025-12-16 08:11:17.432937+07:00**_
 - 09/12/2025: [Thông báo nhận hình Lễ Trao Bằng tốt nghiệp Cử nhân Khoa học Đợt 2 năm 2025 do Trường tổ chức ngày 29/11, 04/12 và 06/12/2025](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-dot-2-nam-2025-do-truong-to-chuc-ngay-29-11-04-12-va-06-12-2025/)
 - 08/12/2025: [Thông báo kết quả dự kiến Học bổng khuyến khích HK3/2024-2025 Khoa Công nghệ Thông tin (bổ sung Chương trình Tiên tiến)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk3-2024-2025-khoa-cong-nghe-thong-tin-ctda/)
 - 08/12/2025: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK2/2024-2025 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk2-2024-2025-chuong-trinh-chuan/)
-- 08/12/2025: [TB Cuộc thi tuyên truyền phòng chống lừa đảo trực tuyến, đảm bảo an toàn, an ninh mạng “Không một mình – Cùng nhau an toàn trực tuyến”](https://hcmus.edu.vn/tb-cuoc-thi-tuyen-truyen-phong-chong-lua-dao-truc-tuyen-dam-bao-an-toan-an-ninh-mang-khong-mot-minh-cung-nhau-an-toan-truc-tuyen/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo thu thập thông tin việc học việc làm của SVTN đợt tháng 11 năm 2025](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/922-thong-bao-thu-th-p-thong-tin-vi-c-h-c-vi-c-lam-c-a-svtn-d-t-thang-11-nam-2025)
