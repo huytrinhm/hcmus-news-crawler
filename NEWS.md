@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-12-17 08:05:34.000415+07:00**_
+_Last update: **2025-12-17 10:14:57.650220+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-12-17 08:05:34.000415+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 17-12-2025: [Thông báo đăng ký Học phần 1 cùng lớp cao học khóa 35/2025 đối với sinh viên khóa 2022 liên thông ĐH-ThS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17122)
  - 11-12-2025: [Danh sách tham quan ELCA ngày 17/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17121)
  - 10-12-2025: [Đội tuyển Khoa Công nghệ Thông tin đạt thành tích xuất sắc tại Olympic Trí tuệ nhân tạo Sinh viên Việt Nam lần thứ nhất, 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17119)
  - 9-12-2025: [Thông tin Hội đồng bảo vệ luận văn/ đồ án tốt nghiệp đợt tháng 12/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17116)
@@ -59,7 +60,6 @@ _Last update: **2025-12-17 08:05:34.000415+07:00**_
  - 9-12-2025: [Mời bình chọn cho sinh viên Võ Ngọc Minh Anh – Ứng viên “Công dân trẻ tiêu biểu TP.HCM 2025”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17112)
  - 9-12-2025: [Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17111)
  - 8-12-2025: [Khoa Công nghệ Thông tin ghi dấu ấn tại Giải thưởng Sinh viên Nghiên cứu Khoa học Euréka lần thứ 27, năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17110)
- - 8-12-2025: [[CQ] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp (K2022-Đợt 2, bảo vệ 07/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17109)
 
 ## Thông tin dành cho sinh viên
 - 16/12/2025: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 2) đối với sinh viên  và học viên Sau Đại học (trừ sinh viên khóa 2025)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-2-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2025/)
