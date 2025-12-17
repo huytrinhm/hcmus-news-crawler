@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-12-17 16:21:28.379589+07:00**_
+_Last update: **2025-12-17 17:18:04.954537+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -14,6 +14,7 @@ _Last update: **2025-12-17 16:21:28.379589+07:00**_
  - 30/09/2022: [[CTĐA] Kế hoạch mở học phần năm học 2022-2023 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2022/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2022-2023-du-kien/)
 
 ### Giáo vụ
+ - 17/12/2025: [[CTĐA] Lịch thi chi tiết cuối kỳ HK1/2526](https://www.ctda.hcmus.edu.vn/vi/2025/12/ctda-lich-thi-chi-tiet-cuoi-ky-hk1-2526/)
  - 12/11/2025: [THÔNG BÁO ĐĂNG KÝ LỄ TỐT NGHIỆP KHOA CÔNG NGHỆ THÔNG TIN NĂM 2025](https://www.ctda.hcmus.edu.vn/vi/2025/11/thong-bao-dang-ky-le-tot-nghiep-khoa-cong-nghe-thong-tin-nam-2025/)
  - 29/10/2025: [Khảo sát sử dụng công cụ AI trong học tập](https://www.ctda.hcmus.edu.vn/vi/2025/10/khao-sat-su-dung-cong-cu-ai-trong-hoc-tap/)
  - 29/10/2025: [Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2022 bảo vệ T8/2026](https://www.ctda.hcmus.edu.vn/vi/2025/10/thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2022-bao-ve-t8-2026/)
@@ -23,7 +24,6 @@ _Last update: **2025-12-17 16:21:28.379589+07:00**_
  - 29/09/2025: [CTTT_Thông báo về việc sử dụng tài khoản học vụ Khoá 2025](https://www.ctda.hcmus.edu.vn/vi/2025/09/cttt_thong-bao-ve-viec-su-dung-tai-khoan-hoc-vu-khoa-2025/)
  - 29/09/2025: [TCTA_Thông báo về việc sử dụng tài khoản học vụ Khoá 2025](https://www.ctda.hcmus.edu.vn/vi/2025/09/tcta_thong-bao-ve-viec-su-dung-tai-khoan-hoc-vu-khoa-2025/)
  - 24/09/2025: [[CTĐA] – DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2021-đợt 2 (bảo vệ 04/2026)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-dssv-chinh-thuc-thuc-hien-de-tai-tot-nghiep-khoa-2021-dot-2-bao-ve-04-2026/)
- - 21/09/2025: [Thông báo kết quả xét chuyên ngành đợt tháng 9/2025 – Chương trình Chất lượng cao](https://www.ctda.hcmus.edu.vn/vi/2025/09/thong-bao-ket-qua-xet-chuyen-nganh-dot-thang-9-2025-chuong-trinh-chat-luong-cao/)
 
 ### Trợ lí sinh viên
  - 04/12/2025: [Thông báo đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2026 (dành cho các sinh viên tham gia BHYT tại Trường)](https://www.ctda.hcmus.edu.vn/vi/2025/12/thong-bao-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2026-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/)
@@ -50,6 +50,7 @@ _Last update: **2025-12-17 16:21:28.379589+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 17-12-2025: [Mời tham dự buổi bảo vệ luận văn/đồ án tốt nghiệp thạc sĩ đợt tháng 12/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17124)
  - 17-12-2025: [Thông báo đăng ký Học phần 1 cùng lớp cao học khóa 35/2025 đối với sinh viên khóa 2022 liên thông ĐH-ThS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17122)
  - 11-12-2025: [Danh sách tham quan ELCA ngày 17/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17121)
  - 10-12-2025: [Đội tuyển Khoa Công nghệ Thông tin đạt thành tích xuất sắc tại Olympic Trí tuệ nhân tạo Sinh viên Việt Nam lần thứ nhất, 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17119)
@@ -59,7 +60,6 @@ _Last update: **2025-12-17 16:21:28.379589+07:00**_
  - 9-12-2025: [Tổng kết Seminar học thuật Câu lạc bộ Nghiên cứu khoa học Tháng 12 năm 2025: Không gian kết nối và lan tỏa](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17115)
  - 9-12-2025: [Mời bình chọn cho sinh viên Võ Ngọc Minh Anh – Ứng viên “Công dân trẻ tiêu biểu TP.HCM 2025”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17112)
  - 9-12-2025: [Danh sách dự kiến cấp xét học bổng tân sinh viên Khóa 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17111)
- - 8-12-2025: [Khoa Công nghệ Thông tin ghi dấu ấn tại Giải thưởng Sinh viên Nghiên cứu Khoa học Euréka lần thứ 27, năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17110)
 
 ## Thông tin dành cho sinh viên
 - 17/12/2025: [Thông báo kết quả chính thức học bổng khuyến khích HK3/2024-2025 Khoa Công nghệ Thông tin (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2024-2025-khoa-cong-nghe-thong-tin-ctda/)
