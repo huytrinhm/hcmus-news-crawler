@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-12-19 19:29:00.767214+07:00**_
+_Last update: **2025-12-19 20:28:27.144167+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-12-19 19:29:00.767214+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 19-12-2025: [Thời khóa biểu có phòng các lớp Học phần 1 Khóa 35/2025 - bắt đầu học 22/12/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17129)
  - 18-12-2025: [[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp Khóa 2022- Đợt 2 (bảo vệ tháng 7/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17126)
  - 17-12-2025: [Mời tham dự buổi bảo vệ luận văn/đồ án tốt nghiệp thạc sĩ đợt tháng 12/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17124)
  - 17-12-2025: [Thông báo đăng ký Học phần 1 cùng lớp cao học khóa 35/2025 đối với sinh viên khóa 2022 liên thông ĐH-ThS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17122)
@@ -59,7 +60,6 @@ _Last update: **2025-12-19 19:29:00.767214+07:00**_
  - 9-12-2025: [Lịch sinh hoạt đầu khóa dành cho học viên, nghiên cứu sinh Khóa 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17118)
  - 9-12-2025: [Tổng kết Chuyên đề “Kỹ năng mềm - Tư duy và Tranh biện trong học tập và cuộc sống” dành cho Tân sinh viên khóa tuyển 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17113)
  - 9-12-2025: [Tổng kết Seminar học thuật Câu lạc bộ Nghiên cứu khoa học Tháng 12 năm 2025: Không gian kết nối và lan tỏa](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17115)
- - 9-12-2025: [Mời bình chọn cho sinh viên Võ Ngọc Minh Anh – Ứng viên “Công dân trẻ tiêu biểu TP.HCM 2025”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17112)
 
 ## Thông tin dành cho sinh viên
 - 19/12/2025: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK2/2024-2025 Chương trình cử nhân tài năng Khoa Công nghệ Thông tin](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk2-2024-2025-chuong-trinh-cu-nhan-tai-nang-khoa-cong-nghe-thong-tin/)
