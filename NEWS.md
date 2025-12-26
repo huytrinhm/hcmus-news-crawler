@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-12-26 13:23:13.824174+07:00**_
+_Last update: **2025-12-26 14:17:22.705032+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-12-26 13:23:13.824174+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 26-12-2025: [V/v nộp luận văn tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T12/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17134)
  - 22-12-2025: [Mời tham dự buổi bảo vệ luận án tiến sĩ cấp đơn vị chuyên môn của NCS Phạm Minh Hoàng (14g00, 26/12, phòng F102)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17130)
  - 19-12-2025: [Thời khóa biểu có phòng các lớp Học phần 1 Khóa 35/2025 - bắt đầu học 22/12/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17129)
  - 18-12-2025: [[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp Khóa 2022- Đợt 2 (bảo vệ tháng 7/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17126)
@@ -59,7 +60,6 @@ _Last update: **2025-12-26 13:23:13.824174+07:00**_
  - 10-12-2025: [Đội tuyển Khoa Công nghệ Thông tin đạt thành tích xuất sắc tại Olympic Trí tuệ nhân tạo Sinh viên Việt Nam lần thứ nhất, 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17119)
  - 9-12-2025: [Thông tin Hội đồng bảo vệ luận văn/ đồ án tốt nghiệp đợt tháng 12/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17116)
  - 9-12-2025: [Lịch sinh hoạt đầu khóa dành cho học viên, nghiên cứu sinh Khóa 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17118)
- - 9-12-2025: [Tổng kết Chuyên đề “Kỹ năng mềm - Tư duy và Tranh biện trong học tập và cuộc sống” dành cho Tân sinh viên khóa tuyển 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17113)
 
 ## Thông tin dành cho sinh viên
 - 25/12/2025: [Thông báo Chương trình học bổng Vừ A Dính năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-vu-a-dinh-nam-2025/)
