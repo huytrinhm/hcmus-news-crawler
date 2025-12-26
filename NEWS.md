@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-12-26 15:19:57.529616+07:00**_
+_Last update: **2025-12-26 16:16:33.344092+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,7 +50,8 @@ _Last update: **2025-12-26 15:19:57.529616+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
- - 26-12-2025: [V/v nộp luận văn tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T12/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17134)
+ - 26-12-2025: [Lịch thi lớp BTKT ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 8/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17135)
+ - 26-12-2025: [V/v nộp báo cáo luận văn/đồ án tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T12/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17134)
  - 22-12-2025: [Mời tham dự buổi bảo vệ luận án tiến sĩ cấp đơn vị chuyên môn của NCS Phạm Minh Hoàng (14g00, 26/12, phòng F102)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17130)
  - 19-12-2025: [Thời khóa biểu có phòng các lớp Học phần 1 Khóa 35/2025 - bắt đầu học 22/12/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17129)
  - 18-12-2025: [[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp Khóa 2022- Đợt 2 (bảo vệ tháng 7/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17126)
@@ -59,9 +60,9 @@ _Last update: **2025-12-26 15:19:57.529616+07:00**_
  - 11-12-2025: [Danh sách tham quan ELCA ngày 17/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17121)
  - 10-12-2025: [Đội tuyển Khoa Công nghệ Thông tin đạt thành tích xuất sắc tại Olympic Trí tuệ nhân tạo Sinh viên Việt Nam lần thứ nhất, 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17119)
  - 9-12-2025: [Thông tin Hội đồng bảo vệ luận văn/ đồ án tốt nghiệp đợt tháng 12/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17116)
- - 9-12-2025: [Lịch sinh hoạt đầu khóa dành cho học viên, nghiên cứu sinh Khóa 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17118)
 
 ## Thông tin dành cho sinh viên
+- 26/12/2025: [Kế hoạch mở học phần và hướng dẫn đăng ký học phần khóa 2025, môn chung khóa 2024 về trước trong HK2/2025-2026 tại cơ sở 2](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-khoa-2025-mon-chung-khoa-2024-ve-truoc-trong-hk2-2025-2026-tai-co-so-2/)
 - 25/12/2025: [Thông báo Chương trình học bổng Vừ A Dính năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-vu-a-dinh-nam-2025/)
 - 25/12/2025: [[POSTECH] Call for 2026 POSTECH Summer Program (Research Intensive)](https://hcmus.edu.vn/postech-call-for-2026-postech-summer-program-research-intensive/)
 - 25/12/2025: [Thông báo kết quả dự kiến Học bổng khuyến khích HK3/2024-2025 Chương trình Tiên tiến K2022 (Khoa Công nghệ Thông tin)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk3-2024-2025-chuong-trinh-tien-tien-k2022-khoa-cong-nghe-thong-tin/)
@@ -71,7 +72,6 @@ _Last update: **2025-12-26 15:19:57.529616+07:00**_
 - 18/12/2025: [Thông báo kết quả chính thức học bổng khuyến khích HK3/2024-2025 Khoa Công nghệ Thông tin (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2024-2025-khoa-cong-nghe-thong-tin-ctda/)
 - 16/12/2025: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 2) đối với sinh viên  và học viên Sau Đại học (trừ sinh viên khóa 2025)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-2-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2025/)
 - 15/12/2025: [Thông báo Giải thưởng lương văn can lần thứ 12](https://hcmus.edu.vn/thong-bao-giai-thuong-luong-van-can-lan-thu-12/)
-- 12/12/2025: [THÔNG BÁO KẾT QUẢ GIẢI THƯỞNG LÊ VĂN THỚI 2025](https://hcmus.edu.vn/thong-bao-ket-qua-giai-thuong-le-van-thoi-2025/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK1/2025-2026 (Bậc Đại học hệ Chính quy)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/924-thong-bao-sv-danh-gia-mon-h-c-gv-hk1-2025-2026-b-c-d-i-h-c-h-chinh-quy)
