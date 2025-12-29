@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-12-29 13:26:03.377691+07:00**_
+_Last update: **2025-12-29 14:20:56.667207+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-12-29 13:26:03.377691+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 29-12-2025: [Đăng ký tham gia Seminar Ph.D. Opportunities at Singapore Management University and Innovative Research in Mobile and Pervasive Computing](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17140)
  - 26-12-2025: [Lịch thi lớp BTKT ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 8/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17135)
  - 26-12-2025: [V/v nộp báo cáo luận văn/đồ án tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T12/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17134)
  - 22-12-2025: [Mời tham dự buổi bảo vệ luận án tiến sĩ cấp đơn vị chuyên môn của NCS Phạm Minh Hoàng (14g00, 26/12, phòng F102)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17130)
@@ -59,7 +60,6 @@ _Last update: **2025-12-29 13:26:03.377691+07:00**_
  - 17-12-2025: [Thông báo đăng ký Học phần 1 cùng lớp cao học khóa 35/2025 đối với sinh viên khóa 2022 liên thông ĐH-ThS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17122)
  - 11-12-2025: [Danh sách tham quan ELCA ngày 17/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17121)
  - 10-12-2025: [Đội tuyển Khoa Công nghệ Thông tin đạt thành tích xuất sắc tại Olympic Trí tuệ nhân tạo Sinh viên Việt Nam lần thứ nhất, 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17119)
- - 9-12-2025: [Thông tin Hội đồng bảo vệ luận văn/ đồ án tốt nghiệp đợt tháng 12/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17116)
 
 ## Thông tin dành cho sinh viên
 - 26/12/2025: [Kế hoạch mở học phần và hướng dẫn đăng ký học phần khóa 2025, môn chung khóa 2024 về trước trong HK2/2025-2026 tại cơ sở 2](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-khoa-2025-mon-chung-khoa-2024-ve-truoc-trong-hk2-2025-2026-tai-co-so-2/)
