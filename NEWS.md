@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-12-30 14:17:45.963486+07:00**_
+_Last update: **2025-12-30 15:21:04.662112+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2025-12-30 14:17:45.963486+07:00**_
  - 11-12-2025: [Danh sách tham quan ELCA ngày 17/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17121)
 
 ## Thông tin dành cho sinh viên
+- 30/12/2025: [[THÔNG BÁO] Chương trình Winter Camp 2026 – The Chinese University of Hong Kong, Shenzhen](https://hcmus.edu.vn/thong-bao-chuong-trinh-winter-camp-2026-the-chinese-university-of-hong-kong-shenzhen/)
 - 26/12/2025: [Kế hoạch mở học phần và hướng dẫn đăng ký học phần khóa 2025, môn chung khóa 2024 về trước trong HK2/2025-2026 tại cơ sở 2](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-khoa-2025-mon-chung-khoa-2024-ve-truoc-trong-hk2-2025-2026-tai-co-so-2/)
 - 25/12/2025: [Thông báo Chương trình học bổng Vừ A Dính năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-vu-a-dinh-nam-2025/)
 - 25/12/2025: [[POSTECH] Call for 2026 POSTECH Summer Program (Research Intensive)](https://hcmus.edu.vn/postech-call-for-2026-postech-summer-program-research-intensive/)
@@ -71,7 +72,6 @@ _Last update: **2025-12-30 14:17:45.963486+07:00**_
 - 19/12/2025: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK2/2024-2025 Chương trình cử nhân tài năng Khoa Công nghệ Thông tin](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk2-2024-2025-chuong-trinh-cu-nhan-tai-nang-khoa-cong-nghe-thong-tin/)
 - 18/12/2025: [Thông báo kết quả chính thức học bổng khuyến khích HK3/2024-2025 Khoa Công nghệ Thông tin (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk3-2024-2025-khoa-cong-nghe-thong-tin-ctda/)
 - 16/12/2025: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 2) đối với sinh viên  và học viên Sau Đại học (trừ sinh viên khóa 2025)](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-2-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2025/)
-- 15/12/2025: [Thông báo Giải thưởng lương văn can lần thứ 12](https://hcmus.edu.vn/thong-bao-giai-thuong-luong-van-can-lan-thu-12/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK1/2025-2026 (Bậc Đại học hệ Chính quy)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/924-thong-bao-sv-danh-gia-mon-h-c-gv-hk1-2025-2026-b-c-d-i-h-c-h-chinh-quy)
