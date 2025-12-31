@@ -1,5 +1,5 @@
 # All news
-_Last update: **2025-12-31 16:18:41.988686+07:00**_
+_Last update: **2025-12-31 17:15:56.831863+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2025-12-31 16:18:41.988686+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 31-12-2025: [[CQ] Thông báo nộp báo cáo tiến độ thực hiện đề tài tốt nghiệp Khóa 2022- Đợt 1 (bảo vệ tháng 03/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17148)
  - 29-12-2025: [Đăng ký tham gia Buổi giới thiệu Học bổng Thạc Sỹ Fulbright toàn phần tại Hoa Kỳ năm học 2027 - 2028](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17141)
  - 29-12-2025: [Đăng ký tham gia Seminar Ph.D. Opportunities at Singapore Management University and Innovative Research in Mobile and Pervasive Computing](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17140)
  - 26-12-2025: [Lịch thi lớp BTKT ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 8/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17135)
@@ -59,7 +60,6 @@ _Last update: **2025-12-31 16:18:41.988686+07:00**_
  - 18-12-2025: [[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp Khóa 2022- Đợt 2 (bảo vệ tháng 7/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17126)
  - 17-12-2025: [Mời tham dự buổi bảo vệ luận văn/đồ án tốt nghiệp thạc sĩ đợt tháng 12/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17124)
  - 17-12-2025: [Thông báo đăng ký Học phần 1 cùng lớp cao học khóa 35/2025 đối với sinh viên khóa 2022 liên thông ĐH-ThS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17122)
- - 11-12-2025: [Danh sách tham quan ELCA ngày 17/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17121)
 
 ## Thông tin dành cho sinh viên
 - 30/12/2025: [[THÔNG BÁO] Chương trình Winter Camp 2026 – The Chinese University of Hong Kong, Shenzhen](https://hcmus.edu.vn/thong-bao-chuong-trinh-winter-camp-2026-the-chinese-university-of-hong-kong-shenzhen/)
