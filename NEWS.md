@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-01-12 08:15:58.860289+07:00**_
+_Last update: **2026-01-12 10:43:19.037710+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,8 @@ _Last update: **2026-01-12 08:15:58.860289+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 12-1-2026: [Hội nghị khoa học trẻ Trường Đại học Khoa học tự nhiên, ĐHQG-HCM Lần 3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17168)
+ - 12-1-2026: [Đăng ký tham gia Buổi giới thiệu về các chương trình PhD và hoạt động nghiên cứu của Nanyang Technological University (NTU), Singapore](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17167)
  - 10-1-2026: [Cập nhật kết quả triển khai hỗ trợ sinh viên ở vùng ảnh hưởng bão lũ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17166)
  - 9-1-2026: [Buổi giao lưu giữa chuyên gia Đại học Stanford với sinh viên, giảng viên Đại học Quốc gia Thành phố Hồ Chí Minh về các vấn đề mới trong phát triển bền vững tại Đông Nam Á](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17165)
  - 8-1-2026: [[SĐH] Thông báo thay đổi tên/số phòng học các lớp HP1 Khóa 35/2025 từ 08/1/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17162)
@@ -58,8 +60,6 @@ _Last update: **2026-01-12 08:15:58.860289+07:00**_
  - 7-1-2026: [[CQ] DSSV nộp đơn đăng ký thực hiện đề tài tốt nghiệp khóa 2022, đợt 2 (bảo vệ tháng 7/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17158)
  - 7-1-2026: [Tổng kết Seminar Ph.D. Opportunities at Singapore Management University and Innovative Research in Mobile and Pervasive Computing](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17157)
  - 6-1-2026: [Kết quả "Vòng quay may mắn" khảo sát ngành Trí tuệ nhân tạo](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17156)
- - 31-12-2025: [[CQ] Thông báo nộp báo cáo tiến độ thực hiện đề tài tốt nghiệp Khóa 2022- Đợt 1 (bảo vệ tháng 03/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17148)
- - 29-12-2025: [Đăng ký tham gia Buổi giới thiệu Học bổng Thạc Sỹ Fulbright toàn phần tại Hoa Kỳ năm học 2027 - 2028](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17141)
 
 ## Thông tin dành cho sinh viên
 - 09/01/2026: [THƯ MỜI THÚC ĐẨY CHUYỂN GIAO CÔNG NGHỆ VÀ THƯƠNG MẠI HÓA KẾT QUẢ NGHIÊN CỨU TẠI TRƯỜNG ĐH KHTN, ĐHQG-HCM](https://hcmus.edu.vn/thu-moi-thuc-day-chuyen-giao-cong-nghe-va-thuong-mai-hoa-ket-qua-nghien-cuu-tai-truong-dh-khtn-dhqg-hcm/)
