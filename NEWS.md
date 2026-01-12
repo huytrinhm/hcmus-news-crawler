@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-01-12 15:23:16.435452+07:00**_
+_Last update: **2026-01-12 16:26:00.902526+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2026-01-12 15:23:16.435452+07:00**_
  - 7-1-2026: [Tổng kết Seminar Ph.D. Opportunities at Singapore Management University and Innovative Research in Mobile and Pervasive Computing](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17157)
 
 ## Thông tin dành cho sinh viên
+- 12/01/2026: [Thông báo Chương trình Học bổng Hessen – CHLB Đức năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-hessen-chlb-duc-nam-hoc-2025-2026/)
 - 12/01/2026: [Thông báo thời gian nghỉ Tết Nguyên đán năm 2026](https://hcmus.edu.vn/thong-bao-thoi-gian-nghi-tet-nguyen-dan-nam-2026/)
 - 09/01/2026: [THƯ MỜI THÚC ĐẨY CHUYỂN GIAO CÔNG NGHỆ VÀ THƯƠNG MẠI HÓA KẾT QUẢ NGHIÊN CỨU TẠI TRƯỜNG ĐH KHTN, ĐHQG-HCM](https://hcmus.edu.vn/thu-moi-thuc-day-chuyen-giao-cong-nghe-va-thuong-mai-hoa-ket-qua-nghien-cuu-tai-truong-dh-khtn-dhqg-hcm/)
 - 06/01/2026: [Thông báo tổ chức đăng ký học phần học kỳ 2 năm học 2025-2026 cho sinh viên chương trình đại trà và tài năng](https://hcmus.edu.vn/63051-2/)
@@ -71,7 +72,6 @@ _Last update: **2026-01-12 15:23:16.435452+07:00**_
 - 26/12/2025: [Kế hoạch mở học phần và hướng dẫn đăng ký học phần khóa 2025, môn chung khóa 2024 về trước trong HK2/2025-2026 tại cơ sở 2](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-khoa-2025-mon-chung-khoa-2024-ve-truoc-trong-hk2-2025-2026-tai-co-so-2/)
 - 25/12/2025: [Thông báo Chương trình học bổng Vừ A Dính năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-vu-a-dinh-nam-2025/)
 - 25/12/2025: [[POSTECH] Call for 2026 POSTECH Summer Program (Research Intensive)](https://hcmus.edu.vn/postech-call-for-2026-postech-summer-program-research-intensive/)
-- 25/12/2025: [Thông báo kết quả dự kiến Học bổng khuyến khích HK3/2024-2025 Chương trình Tiên tiến K2022 (Khoa Công nghệ Thông tin)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk3-2024-2025-chuong-trinh-tien-tien-k2022-khoa-cong-nghe-thong-tin/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/25-26 ngành CNTT hệ Từ xa](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/927-thong-bao-phuc-kh-o-hk1-25-26-nganh-cntt-h-t-xa)
