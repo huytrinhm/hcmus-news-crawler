@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-01-16 14:19:56.387603+07:00**_
+_Last update: **2026-01-16 15:21:22.238021+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-01-16 14:19:56.387603+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 16-1-2026: [Kết quả đạt giải Cuộc thi Olympic Tin học Sinh viên trường Đại học Khoa học tự nhiên năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17175)
  - 13-1-2026: [Thông báo về việc đăng ký chuyển sang hệ tự túc áp dụng cho học viên cao học khoá 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17173)
  - 12-1-2026: [Cập nhật thành tích sinh viên khoa CNTT HK1/ 2025 - 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17171)
  - 12-1-2026: [Hội nghị khoa học trẻ Trường Đại học Khoa học tự nhiên, ĐHQG-HCM Lần 3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17168)
@@ -59,7 +60,6 @@ _Last update: **2026-01-16 14:19:56.387603+07:00**_
  - 8-1-2026: [[SĐH] Thông báo thay đổi tên/số phòng học các lớp HP1 Khóa 35/2025 từ 08/1/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17162)
  - 8-1-2026: [Lịch trực Cố vấn học tập HK2/ NH 2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17161)
  - 8-1-2026: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK2/2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17152)
- - 7-1-2026: [[CQ] DSSV nộp đơn đăng ký thực hiện đề tài tốt nghiệp khóa 2022, đợt 2 (bảo vệ tháng 7/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17158)
 
 ## Thông tin dành cho sinh viên
 - 12/01/2026: [Thông báo Chương trình Học bổng Hessen – CHLB Đức năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-hessen-chlb-duc-nam-hoc-2025-2026/)
