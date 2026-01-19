@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-01-19 15:24:23.903298+07:00**_
+_Last update: **2026-01-19 16:28:20.359094+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -74,11 +74,11 @@ _Last update: **2026-01-19 15:24:23.903298+07:00**_
 - 25/12/2025: [Thông báo Chương trình học bổng Vừ A Dính năm 2025](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-vu-a-dinh-nam-2025/)
 
 ## Các thông báo về Khảo thí
+ - [Thông báo phúc khảo HK1/25-26 CT đề án các khoa](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/930-thong-bao-phuc-kh-o-hk1-25-26-ct-d-an-cac-khoa)
+ - [Thông báo phúc khảo HK1/25-26 CT đề án khoa CNTT](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/929-thong-bao-phuc-kh-o-hk1-25-26-ct-d-an-khoa-cntt)
  - [Thông báo thay đổi phòng thi HK1/25-26 tại Cơ sở Linh Trung](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/928-thong-bao-thay-d-i-phong-thi-hk1-25-26-t-i-co-s-linh-trung)
  - [Thông báo phúc khảo HK1/25-26 ngành CNTT hệ Từ xa](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/927-thong-bao-phuc-kh-o-hk1-25-26-nganh-cntt-h-t-xa)
  - [Thông báo phòng thi HK1/25-26 (các môn thi Vấn đáp)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/926-thong-bao-phong-thi-hk1-25-26-cac-mon-thi-v-n-dap)
- - [Thông báo SV đánh giá môn học - GV HK1/2025-2026 (Bậc Đại học hệ Chính quy)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/924-thong-bao-sv-danh-gia-mon-h-c-gv-hk1-2025-2026-b-c-d-i-h-c-h-chinh-quy)
- - [Thông báo thu thập thông tin việc học việc làm của SVTN đợt tháng 11 năm 2025](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/922-thong-bao-thu-th-p-thong-tin-vi-c-h-c-vi-c-lam-c-a-svtn-d-t-thang-11-nam-2025)
 
 ***
 
