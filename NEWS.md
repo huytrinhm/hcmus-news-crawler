@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-01-19 17:21:36.993522+07:00**_
+_Last update: **2026-01-19 18:16:38.246181+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-01-19 17:21:36.993522+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 17-1-2026: [Tổng kết Buổi giới thiệu về các chương trình PhD và hoạt động nghiên cứu của Nanyang Technological University (NTU), Singapore](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17176)
  - 16-1-2026: [Kết quả đạt giải Cuộc thi Olympic Tin học Sinh viên trường Đại học Khoa học tự nhiên năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17175)
  - 13-1-2026: [Thông báo về việc đăng ký chuyển sang hệ tự túc áp dụng cho học viên cao học khoá 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17173)
  - 12-1-2026: [Cập nhật thành tích sinh viên khoa CNTT HK1/ 2025 - 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17171)
@@ -59,7 +60,6 @@ _Last update: **2026-01-19 17:21:36.993522+07:00**_
  - 9-1-2026: [Buổi giao lưu giữa chuyên gia Đại học Stanford với sinh viên, giảng viên Đại học Quốc gia Thành phố Hồ Chí Minh về các vấn đề mới trong phát triển bền vững tại Đông Nam Á](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17165)
  - 8-1-2026: [[SĐH] Thông báo thay đổi tên/số phòng học các lớp HP1 Khóa 35/2025 từ 08/1/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17162)
  - 8-1-2026: [Lịch trực Cố vấn học tập HK2/ NH 2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17161)
- - 8-1-2026: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK2/2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17152)
 
 ## Thông tin dành cho sinh viên
 - 19/01/2026: [[THÔNG BÁO] Chương trình hè UBC Vancouver 2026 – ĐH British Columbia, Canada](https://hcmus.edu.vn/thong-bao-chuong-trinh-he-ubc-vancouver-2026-dh-british-columbia-canada/)
