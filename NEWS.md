@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-01-23 15:21:58.099057+07:00**_
+_Last update: **2026-01-23 16:23:55.551016+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2026-01-23 15:21:58.099057+07:00**_
  - 8-1-2026: [[SĐH] Thông báo thay đổi tên/số phòng học các lớp HP1 Khóa 35/2025 từ 08/1/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17162)
 
 ## Thông tin dành cho sinh viên
+- 23/01/2026: [Thông báo nhận bằng tốt nghiệp đại học, cao đẳng (đợt tháng 11 /2025)](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-dai-hoc-cao-dang-dot-thang-11-2025/)
 - 22/01/2026: [THÔNG BÁO  Về Chương trình Học bổng Love Fund của Tập đoàn HQTS](https://hcmus.edu.vn/thong-bao-ve-chuong-trinh-hoc-bong-love-fund-cua-tap-doan-hqts/)
 - 22/01/2026: [Thông báo thu học phí học kỳ 2 năm học 2025-2026 đối với sinh viên trình độ đại học các chương trình theo đề án](https://hcmus.edu.vn/thong-bao-thu-hoc-phi-hoc-ky-2-nam-hoc-2025-2026-doi-voi-sinh-vien-trinh-do-dai-hoc-cac-chuong-trinh-theo-de-an/)
 - 21/01/2026: [TB Về việc tích lũy hoạt động cho chuyên đề B  trong đợt Sinh hoạt công dân – sinh viên đầu năm học, năm học 2026-2027](https://hcmus.edu.vn/tb-ve-viec-tich-luy-hoat-dong-cho-chuyen-de-b-trong-dot-sinh-hoat-cong-dan-sinh-vien-dau-nam-hoc-nam-hoc-2026-2027/)
@@ -71,7 +72,6 @@ _Last update: **2026-01-23 15:21:58.099057+07:00**_
 - 12/01/2026: [Thông báo thời gian nghỉ Tết Nguyên đán năm 2026](https://hcmus.edu.vn/thong-bao-thoi-gian-nghi-tet-nguyen-dan-nam-2026/)
 - 09/01/2026: [THƯ MỜI THÚC ĐẨY CHUYỂN GIAO CÔNG NGHỆ VÀ THƯƠNG MẠI HÓA KẾT QUẢ NGHIÊN CỨU TẠI TRƯỜNG ĐH KHTN, ĐHQG-HCM](https://hcmus.edu.vn/thu-moi-thuc-day-chuyen-giao-cong-nghe-va-thuong-mai-hoa-ket-qua-nghien-cuu-tai-truong-dh-khtn-dhqg-hcm/)
 - 06/01/2026: [Thông báo tổ chức đăng ký học phần học kỳ 2 năm học 2025-2026 cho sinh viên chương trình đại trà và tài năng](https://hcmus.edu.vn/63051-2/)
-- 06/01/2026: [Thông báo triển khai thu thập thông tin sức khỏe sinh viên năm học 2025 – 2026](https://hcmus.edu.vn/thong-bao-trien-khai-thu-thap-thong-tin-suc-khoe-sinh-vien-nam-hoc-2025-2026/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/25-26 CT đề án các khoa](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/930-thong-bao-phuc-kh-o-hk1-25-26-ct-d-an-cac-khoa)
