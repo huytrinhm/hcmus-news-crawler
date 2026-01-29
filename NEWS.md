@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-01-29 08:23:55.459317+07:00**_
+_Last update: **2026-01-29 11:02:18.335209+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,8 @@ _Last update: **2026-01-29 08:23:55.459317+07:00**_
  - 10-1-2026: [Cập nhật kết quả triển khai hỗ trợ sinh viên ở vùng ảnh hưởng bão lũ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17166)
 
 ## Thông tin dành cho sinh viên
+- 29/01/2026: [Thông báo nộp hồ sơ xét tốt nghiệp đợt 1 và đợt 2 năm 2026  đối với sinh viên trình độ đại học hệ chính quy các chương trình,  công bố danh sách tốt nghiệp vào tháng 4 và tháng 6 năm 2026](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dot-1-va-dot-2-nam-2026-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-cong-bo-danh-sach-tot-nghiep-vao-thang-4-va-thang-6-nam-2026/)
+- 29/01/2026: [Thông báo cập nhật thông tin chuyên ngành cho sinh viên đại học hệ chính quy các chương trình – Khóa tuyển 2022 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-chuyen-nganh-cho-sinh-vien-dai-hoc-he-chinh-quy-cac-chuong-trinh-khoa-tuyen-2022-tro-ve-truoc/)
 - 23/01/2026: [Thông báo nhận bằng tốt nghiệp đại học, cao đẳng (đợt tháng 11 /2025)](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-dai-hoc-cao-dang-dot-thang-11-2025/)
 - 22/01/2026: [THÔNG BÁO  Về Chương trình Học bổng Love Fund của Tập đoàn HQTS](https://hcmus.edu.vn/thong-bao-ve-chuong-trinh-hoc-bong-love-fund-cua-tap-doan-hqts/)
 - 22/01/2026: [Thông báo thu học phí học kỳ 2 năm học 2025-2026 đối với sinh viên trình độ đại học các chương trình theo đề án](https://hcmus.edu.vn/thong-bao-thu-hoc-phi-hoc-ky-2-nam-hoc-2025-2026-doi-voi-sinh-vien-trinh-do-dai-hoc-cac-chuong-trinh-theo-de-an/)
@@ -70,8 +72,6 @@ _Last update: **2026-01-29 08:23:55.459317+07:00**_
 - 19/01/2026: [[THÔNG BÁO] Chương trình hè UBC Vancouver 2026 – ĐH British Columbia, Canada](https://hcmus.edu.vn/thong-bao-chuong-trinh-he-ubc-vancouver-2026-dh-british-columbia-canada/)
 - 12/01/2026: [Thông báo Chương trình Học bổng Hessen – CHLB Đức năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-hessen-chlb-duc-nam-hoc-2025-2026/)
 - 12/01/2026: [Thông báo thời gian nghỉ Tết Nguyên đán năm 2026](https://hcmus.edu.vn/thong-bao-thoi-gian-nghi-tet-nguyen-dan-nam-2026/)
-- 09/01/2026: [THƯ MỜI THÚC ĐẨY CHUYỂN GIAO CÔNG NGHỆ VÀ THƯƠNG MẠI HÓA KẾT QUẢ NGHIÊN CỨU TẠI TRƯỜNG ĐH KHTN, ĐHQG-HCM](https://hcmus.edu.vn/thu-moi-thuc-day-chuyen-giao-cong-nghe-va-thuong-mai-hoa-ket-qua-nghien-cuu-tai-truong-dh-khtn-dhqg-hcm/)
-- 06/01/2026: [Thông báo tổ chức đăng ký học phần học kỳ 2 năm học 2025-2026 cho sinh viên chương trình đại trà và tài năng](https://hcmus.edu.vn/63051-2/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/25-26 CT đề án các khoa](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/930-thong-bao-phuc-kh-o-hk1-25-26-ct-d-an-cac-khoa)
