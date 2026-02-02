@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-02-02 17:37:15.289078+07:00**_
+_Last update: **2026-02-02 18:30:38.803001+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-02-02 17:37:15.289078+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 2-2-2026: [[SĐH] Kế hoạch bảo vệ đề tài tốt nghiệp dành cho học viên cao học năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17189)
  - 2-2-2026: [Thông báo xét tuyển sinh viên tham gia chương trình liên thông môn học ĐH-ThS năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17188)
  - 26-1-2026: [Thư ngỏ mời Doanh nghiệp tham gia Ngày hội việc làm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17180)
  - 26-1-2026: [[CQ] Điều chỉnh thời gian bảo vệ các đề tài tốt nghiệp Khóa 2022-1 (tháng 3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17179)
@@ -59,7 +60,6 @@ _Last update: **2026-02-02 17:37:15.289078+07:00**_
  - 13-1-2026: [Thông báo về việc đăng ký chuyển sang hệ tự túc áp dụng cho học viên cao học khoá 33/2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17173)
  - 12-1-2026: [Cập nhật thành tích sinh viên khoa CNTT HK1/ 2025 - 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17171)
  - 12-1-2026: [Hội nghị khoa học trẻ Trường Đại học Khoa học tự nhiên, ĐHQG-HCM Lần 3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17168)
- - 12-1-2026: [Đăng ký tham gia Buổi giới thiệu về các chương trình PhD và hoạt động nghiên cứu của Nanyang Technological University (NTU), Singapore](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17167)
 
 ## Thông tin dành cho sinh viên
 - 02/02/2026: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – ​Universitas Airlangga (UNAIR), Indonesia](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-universitas-airlangga-unair-indonesia/)
