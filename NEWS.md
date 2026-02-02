@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-02-02 16:39:08.006483+07:00**_
+_Last update: **2026-02-02 17:37:15.289078+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -14,6 +14,7 @@ _Last update: **2026-02-02 16:39:08.006483+07:00**_
  - 30/09/2022: [[CTĐA] Kế hoạch mở học phần năm học 2022-2023 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2022/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2022-2023-du-kien/)
 
 ### Giáo vụ
+ - 02/02/2026: [[CTĐA] – DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2022-đợt 1 (bảo vệ 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/02/ctda-dssv-chinh-thuc-thuc-hien-de-tai-tot-nghiep-khoa-2022-dot-1-bao-ve-08-2026/)
  - 22/01/2026: [[CTĐA] – Thông báo phúc khảo HK1/2526](https://www.ctda.hcmus.edu.vn/vi/2026/01/ctda-thong-bao-phuc-khao-hk1-2526/)
  - 06/01/2026: [[CTĐA] Thông báo nộp báo cáo tiến độ thực hiện đề tài tốt nghiệp Khóa 2021 (bảo vệ tháng 04/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/01/ctda-thong-bao-nop-bao-cao-tien-do-thuc-hien-de-tai-tot-nghiep-khoa-2021-bao-ve-thang-04-2026/)
  - 01/01/2026: [Thông báo kết quả Vòng quay may mắn –  Khảo sát sử dụng công cụ AI trong học tập](https://www.ctda.hcmus.edu.vn/vi/2026/01/thong-bao-ket-qua-vong-quay-may-man-khao-sat-su-dung-cong-cu-ai-trong-hoc-tap/)
@@ -23,7 +24,6 @@ _Last update: **2026-02-02 16:39:08.006483+07:00**_
  - 29/10/2025: [Khảo sát sử dụng công cụ AI trong học tập](https://www.ctda.hcmus.edu.vn/vi/2025/10/khao-sat-su-dung-cong-cu-ai-trong-hoc-tap/)
  - 29/10/2025: [Thông báo V/v đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập dự án tốt nghiệp/ Thực tập tốt nghiệp khóa 2022 bảo vệ T8/2026](https://www.ctda.hcmus.edu.vn/vi/2025/10/thong-bao-v-v-dang-ky-thuc-hien-de-tai-khoa-luan-tot-nghiep-thuc-tap-du-an-tot-nghiep-thuc-tap-tot-nghiep-khoa-2022-bao-ve-t8-2026/)
  - 29/10/2025: [Quy định đăng ký thực hiện và bảo vệ đề tài tốt nghiệp áp dụng từ HK1/2025-2026](https://www.ctda.hcmus.edu.vn/vi/2025/10/quy-dinh-dang-ky-thuc-hien-va-bao-ve-de-tai-tot-nghiep-ap-dung-tu-hk1-2025-2026/)
- - 22/10/2025: [[CTĐA] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2021- Đợt 2 (bảo vệ tháng 04/2026)](https://www.ctda.hcmus.edu.vn/vi/2025/10/ctda-thong-bao-nop-de-cuong-de-tai-tot-nghiep-khoa-2021-dot-2-bao-ve-thang-04-2026/)
 
 ### Trợ lí sinh viên
  - 04/12/2025: [Thông báo đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2026 (dành cho các sinh viên tham gia BHYT tại Trường)](https://www.ctda.hcmus.edu.vn/vi/2025/12/thong-bao-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2026-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/)
@@ -50,6 +50,7 @@ _Last update: **2026-02-02 16:39:08.006483+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 2-2-2026: [Thông báo xét tuyển sinh viên tham gia chương trình liên thông môn học ĐH-ThS năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17188)
  - 26-1-2026: [Thư ngỏ mời Doanh nghiệp tham gia Ngày hội việc làm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17180)
  - 26-1-2026: [[CQ] Điều chỉnh thời gian bảo vệ các đề tài tốt nghiệp Khóa 2022-1 (tháng 3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17179)
  - 22-1-2026: [Tổng kết Seminar giới thiệu Học bổng Thạc Sỹ Fulbright toàn phần tại Hoa Kỳ năm học 2027 - 2028](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17178)
@@ -59,7 +60,6 @@ _Last update: **2026-02-02 16:39:08.006483+07:00**_
  - 12-1-2026: [Cập nhật thành tích sinh viên khoa CNTT HK1/ 2025 - 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17171)
  - 12-1-2026: [Hội nghị khoa học trẻ Trường Đại học Khoa học tự nhiên, ĐHQG-HCM Lần 3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17168)
  - 12-1-2026: [Đăng ký tham gia Buổi giới thiệu về các chương trình PhD và hoạt động nghiên cứu của Nanyang Technological University (NTU), Singapore](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17167)
- - 10-1-2026: [Cập nhật kết quả triển khai hỗ trợ sinh viên ở vùng ảnh hưởng bão lũ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17166)
 
 ## Thông tin dành cho sinh viên
 - 02/02/2026: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – ​Universitas Airlangga (UNAIR), Indonesia](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-universitas-airlangga-unair-indonesia/)
