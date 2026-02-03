@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-02-03 14:37:29.287942+07:00**_
+_Last update: **2026-02-03 15:29:01.865875+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2026-02-03 14:37:29.287942+07:00**_
  - 12-1-2026: [Hội nghị khoa học trẻ Trường Đại học Khoa học tự nhiên, ĐHQG-HCM Lần 3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17168)
 
 ## Thông tin dành cho sinh viên
+- 03/02/2026: [[THÔNG BÁO] Chương trình học bổng Okazaki Kaheita 2027 – Quỹ học bổng Okazaki Kaheita, Nhật Bản](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-okazaki-kaheita-2027-quy-hoc-bong-okazaki-kaheita-nhat-ban/)
 - 02/02/2026: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – ​Universitas Airlangga (UNAIR), Indonesia](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-universitas-airlangga-unair-indonesia/)
 - 29/01/2026: [Thông báo nộp hồ sơ xét tốt nghiệp đợt 1 và đợt 2 năm 2026  đối với sinh viên trình độ đại học hệ chính quy các chương trình,  công bố danh sách tốt nghiệp vào tháng 4 và tháng 6 năm 2026](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dot-1-va-dot-2-nam-2026-doi-voi-sinh-vien-trinh-do-dai-hoc-he-chinh-quy-cac-chuong-trinh-cong-bo-danh-sach-tot-nghiep-vao-thang-4-va-thang-6-nam-2026/)
 - 29/01/2026: [Thông báo cập nhật thông tin chuyên ngành cho sinh viên đại học hệ chính quy các chương trình – Khóa tuyển 2022 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-chuyen-nganh-cho-sinh-vien-dai-hoc-he-chinh-quy-cac-chuong-trinh-khoa-tuyen-2022-tro-ve-truoc/)
@@ -71,7 +72,6 @@ _Last update: **2026-02-03 14:37:29.287942+07:00**_
 - 21/01/2026: [TB Về việc tích lũy hoạt động cho chuyên đề B  trong đợt Sinh hoạt công dân – sinh viên đầu năm học, năm học 2026-2027](https://hcmus.edu.vn/tb-ve-viec-tich-luy-hoat-dong-cho-chuyen-de-b-trong-dot-sinh-hoat-cong-dan-sinh-vien-dau-nam-hoc-nam-hoc-2026-2027/)
 - 20/01/2026: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – De la Salle University (DLSU), Philippines](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-de-la-salle-university-dlsu-philippines/)
 - 19/01/2026: [[THÔNG BÁO] Chương trình hè UBC Vancouver 2026 – ĐH British Columbia, Canada](https://hcmus.edu.vn/thong-bao-chuong-trinh-he-ubc-vancouver-2026-dh-british-columbia-canada/)
-- 12/01/2026: [Thông báo Chương trình Học bổng Hessen – CHLB Đức năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-hessen-chlb-duc-nam-hoc-2025-2026/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/25-26 CT đề án các khoa](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/930-thong-bao-phuc-kh-o-hk1-25-26-ct-d-an-cac-khoa)
