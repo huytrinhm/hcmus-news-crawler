@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-02-13 15:35:16.024957+07:00**_
+_Last update: **2026-02-13 16:36:43.579240+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-02-13 15:35:16.024957+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 13-2-2026: [[CQ] Danh sách lớp hủy HK2/25-26 do không đủ số lượng mở lớp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17202)
  - 11-2-2026: [Thầy Cao Xuân Nam bảo vệ thành công Luận án Tiến sĩ ngành Khoa học máy tính](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17196)
  - 10-2-2026: [[CQ] DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2022-đợt 2 (bảo vệ T7/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17195)
  - 9-2-2026: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2022, đợt 1 (tháng 3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17194)
@@ -59,7 +60,6 @@ _Last update: **2026-02-13 15:35:16.024957+07:00**_
  - 26-1-2026: [Thư ngỏ mời Doanh nghiệp tham gia Ngày hội việc làm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17180)
  - 26-1-2026: [[CQ] Điều chỉnh thời gian bảo vệ các đề tài tốt nghiệp Khóa 2022-1 (tháng 3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17179)
  - 22-1-2026: [Tổng kết Seminar giới thiệu Học bổng Thạc Sỹ Fulbright toàn phần tại Hoa Kỳ năm học 2027 - 2028](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17178)
- - 17-1-2026: [Tổng kết Buổi giới thiệu về các chương trình PhD và hoạt động nghiên cứu của Nanyang Technological University (NTU), Singapore](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17176)
 
 ## Thông tin dành cho sinh viên
 - 11/02/2026: [Thông báo hủy các lớp Thể dục 2, Anh văn 2 K2025](https://hcmus.edu.vn/thong-bao-huy-cac-lop-the-duc-2-anh-van-2-k2025/)
