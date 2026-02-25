@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-02-25 08:28:59.668963+07:00**_
+_Last update: **2026-02-25 11:13:32.528230+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,8 @@ _Last update: **2026-02-25 08:28:59.668963+07:00**_
  - 26-1-2026: [[CQ] Điều chỉnh thời gian bảo vệ các đề tài tốt nghiệp Khóa 2022-1 (tháng 3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17179)
 
 ## Thông tin dành cho sinh viên
+- 25/02/2026: [[THÔNG BÁO] Học bổng toàn phần ICCR năm học 2026–2027 – Chính phủ Ấn Độ](https://hcmus.edu.vn/thong-bao-hoc-bong-toan-phan-iccr-nam-hoc-2026-2027-chinh-phu-an-do/)
+- 25/02/2026: [Thông báo mở lớp bổ sung môn Lịch sử đảng, Tư tưởng HCM K2024](https://hcmus.edu.vn/thong-bao-mo-lop-bo-sung-mon-lich-su-dang-tu-tuong-hcm-k2024/)
 - 11/02/2026: [Thông báo hủy các lớp Thể dục 2, Anh văn 2 K2025](https://hcmus.edu.vn/thong-bao-huy-cac-lop-the-duc-2-anh-van-2-k2025/)
 - 11/02/2026: [Thông báo Hủy các lớp Anh văn 1, Anh văn 3 trong HK2/2025-2026](https://hcmus.edu.vn/thong-bao-huy-cac-lop-anh-van-1-anh-van-3-trong-hk2-2025-2026/)
 - 11/02/2026: [Thông báo mở bổ sung các lớp môn Lịch sử đảng, Tư tưởng HCM trong HK2/2025-2026](https://hcmus.edu.vn/thong-bao-mo-bo-sung-cac-lop-mon-lich-su-dang-tu-tuong-hcm-trong-hk2-2025-2026/)
@@ -70,8 +72,6 @@ _Last update: **2026-02-25 08:28:59.668963+07:00**_
 - 05/02/2026: [Thông báo điều chỉnh thời gian đăng ký học phần học kỳ 2 năm học 2025-2026 cho sinh viên Đại học hệ chính quy, chương trình đại trà](https://hcmus.edu.vn/thong-bao-dieu-chinh-thoi-gian-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2025-2026-cho-sinh-vien-dai-hoc-he-chinh-quy-chuong-trinh-dai-tra/)
 - 05/02/2026: [Thông báo nộp hồ sơ xét tốt nghiệp đợt 1 và đợt 2 năm 2026 đối với sinh viên hệ chính quy chương trình liên thông đại học](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dot-1-va-dot-2-nam-2026-doi-voi-sinh-vien-he-chinh-quy-chuong-trinh-lien-thong-dai-hoc/)
 - 04/02/2026: [Thông báo Kế hoạch dạy và học các môn chính trị trong HK2/2025-2026](https://hcmus.edu.vn/thong-bao-ke-hoach-day-va-hoc-cac-mon-chinh-tri-trong-hk2-2025-2026/)
-- 04/02/2026: [Thông báo mở lớp học lại (vét) môn MTH00083-Thực hành Đại số tuyến tính cho khóa tuyển 2024 về trước các nhóm ngành CNTT, Trí tuệ nhân tạo, KH dữ liệu](https://hcmus.edu.vn/thong-bao-mo-lop-hoc-lai-vet-mon-mth00083-thuc-hanh-dai-so-tuyen-tinh-cho-khoa-tuyen-2024-ve-truoc-cac-nhom-nganh-cntt-tri-tue-nhan-tao-kh-du-lieu/)
-- 03/02/2026: [[THÔNG BÁO] Chương trình học bổng Okazaki Kaheita 2027 – Quỹ học bổng Okazaki Kaheita, Nhật Bản](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-okazaki-kaheita-2027-quy-hoc-bong-okazaki-kaheita-nhat-ban/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/25-26 CT đề án các khoa](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/930-thong-bao-phuc-kh-o-hk1-25-26-ct-d-an-cac-khoa)
