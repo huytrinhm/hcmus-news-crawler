@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-02-26 11:10:20.174094+07:00**_
+_Last update: **2026-02-26 12:52:55.942159+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-02-26 11:10:20.174094+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 26-2-2026: [Danh sách sinh viên tham quan công ty mgm technology partners ngày 5/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17207)
  - 25-2-2026: [Đăng ký tham gia Workshop on Sensor Informatics](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17206)
  - 23-2-2026: [Đăng ký tham quan công ty mgm technology partners Vietnam ngày 5/3/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17203)
  - 13-2-2026: [[CQ] Danh sách lớp hủy HK2/25-26 do không đủ số lượng mở lớp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17202)
@@ -59,7 +60,6 @@ _Last update: **2026-02-26 11:10:20.174094+07:00**_
  - 6-2-2026: [[SĐH] Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Cao Xuân Nam (8g00, 10/02, phòng F102)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17193)
  - 2-2-2026: [[SĐH] Kế hoạch bảo vệ đề tài tốt nghiệp dành cho học viên cao học năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17189)
  - 2-2-2026: [Thông báo xét tuyển sinh viên tham gia chương trình liên thông môn học ĐH-ThS năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17188)
- - 26-1-2026: [Thư ngỏ mời Doanh nghiệp tham gia Ngày hội việc làm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17180)
 
 ## Thông tin dành cho sinh viên
 - 25/02/2026: [[THÔNG BÁO] Học bổng toàn phần ICCR năm học 2026–2027 – Chính phủ Ấn Độ](https://hcmus.edu.vn/thong-bao-hoc-bong-toan-phan-iccr-nam-hoc-2026-2027-chinh-phu-an-do/)
