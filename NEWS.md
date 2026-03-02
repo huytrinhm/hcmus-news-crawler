@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-03-02 14:43:47.045394+07:00**_
+_Last update: **2026-03-02 15:35:59.493711+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2026-03-02 14:43:47.045394+07:00**_
  - 9-2-2026: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2022, đợt 1 (tháng 3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17194)
 
 ## Thông tin dành cho sinh viên
+- 02/03/2026: [Thông báo hủy các lớp Kinh tế ĐC, Lịch sử Đảng, PP luận sáng tạo do không đủ số lượng đăng ký tại cơ sở 2,](https://hcmus.edu.vn/thong-bao-huy-cac-lop-kinh-te-dc-lich-su-dang-pp-luan-sang-tao-do-khong-du-so-luong-dang-ky-tai-co-so-2/)
 - 02/03/2026: [Thông báo cập nhật TKB Thể dục 2 HK2/2025-2026](https://hcmus.edu.vn/thong-bao-cap-nhat-tkb-the-duc-2-hk2-2025-2026/)
 - 27/02/2026: [Thông báo thực hiện miễn, giảm học phí và chế độ chính sách cho sinh viên học kỳ 2/2025-2026](https://hcmus.edu.vn/thong-bao-thuc-hien-mien-giam-hoc-phi-va-che-do-chinh-sach-cho-sinh-vien-hoc-ky-2-2025-2026/)
 - 25/02/2026: [[THÔNG BÁO] Học bổng toàn phần ICCR năm học 2026–2027 – Chính phủ Ấn Độ](https://hcmus.edu.vn/thong-bao-hoc-bong-toan-phan-iccr-nam-hoc-2026-2027-chinh-phu-an-do/)
@@ -71,7 +72,6 @@ _Last update: **2026-03-02 14:43:47.045394+07:00**_
 - 11/02/2026: [Thông báo mở bổ sung các lớp môn Lịch sử đảng, Tư tưởng HCM trong HK2/2025-2026](https://hcmus.edu.vn/thong-bao-mo-bo-sung-cac-lop-mon-lich-su-dang-tu-tuong-hcm-trong-hk2-2025-2026/)
 - 10/02/2026: [[THÔNG BÁO] Chương trình thực tập tại Trường kỹ thuật, Đại học Quốc lập Chung Cheng Đài Loan năm 2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-thuc-tap-tai-truong-ky-thuat-dai-hoc-quoc-lap-chung-cheng-dai-loan-nam-2026/)
 - 06/02/2026: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 4) đối với sinh viên và học viên Sau Đại học](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-4-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc/)
-- 05/02/2026: [Thông báo điều chỉnh thời gian đăng ký học phần học kỳ 2 năm học 2025-2026 cho sinh viên Đại học hệ chính quy, chương trình đại trà](https://hcmus.edu.vn/thong-bao-dieu-chinh-thoi-gian-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2025-2026-cho-sinh-vien-dai-hoc-he-chinh-quy-chuong-trinh-dai-tra/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/25-26 CT đề án các khoa](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/930-thong-bao-phuc-kh-o-hk1-25-26-ct-d-an-cac-khoa)
