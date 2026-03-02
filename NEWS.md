@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-03-02 15:35:59.493711+07:00**_
+_Last update: **2026-03-02 16:40:24.796837+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-03-02 15:35:59.493711+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 2-3-2026: [Đăng ký tham quan công ty BioTuring ngày 9/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17215)
  - 2-3-2026: [[CQ] Thông báo nghỉ học lớp Hệ thống viễn thông và Mạng máy tính ngày 4/3/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17214)
  - 27-2-2026: [[CQ] TKB lý thuyết có phòng học kỳ 2, năm học 2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17212)
  - 27-2-2026: [[CQ] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2022, đợt 1 (T3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17209)
@@ -59,7 +60,6 @@ _Last update: **2026-03-02 15:35:59.493711+07:00**_
  - 13-2-2026: [[CQ] Danh sách lớp hủy HK2/25-26 do không đủ số lượng mở lớp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17202)
  - 11-2-2026: [Thầy Cao Xuân Nam bảo vệ thành công Luận án Tiến sĩ ngành Khoa học máy tính](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17196)
  - 10-2-2026: [[CQ] DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2022-đợt 2 (bảo vệ T7/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17195)
- - 9-2-2026: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2022, đợt 1 (tháng 3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17194)
 
 ## Thông tin dành cho sinh viên
 - 02/03/2026: [Thông báo hủy các lớp Kinh tế ĐC, Lịch sử Đảng, PP luận sáng tạo do không đủ số lượng đăng ký tại cơ sở 2,](https://hcmus.edu.vn/thong-bao-huy-cac-lop-kinh-te-dc-lich-su-dang-pp-luan-sang-tao-do-khong-du-so-luong-dang-ky-tai-co-so-2/)
@@ -74,11 +74,11 @@ _Last update: **2026-03-02 15:35:59.493711+07:00**_
 - 06/02/2026: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 4) đối với sinh viên và học viên Sau Đại học](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-4-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc/)
 
 ## Các thông báo về Khảo thí
+ - [Thông báo phúc khảo HK1/25-26 hệ Chính quy](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/933-thong-bao-phuc-kh-o-hk1-25-26-h-chinh-quy)
  - [Thông báo phúc khảo HK1/25-26 CT đề án các khoa](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/930-thong-bao-phuc-kh-o-hk1-25-26-ct-d-an-cac-khoa)
  - [Thông báo phúc khảo HK1/25-26 CT đề án khoa CNTT](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/929-thong-bao-phuc-kh-o-hk1-25-26-ct-d-an-khoa-cntt)
  - [Thông báo thay đổi phòng thi HK1/25-26 tại Cơ sở Linh Trung](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/928-thong-bao-thay-d-i-phong-thi-hk1-25-26-t-i-co-s-linh-trung)
  - [Thông báo phúc khảo HK1/25-26 ngành CNTT hệ Từ xa](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/927-thong-bao-phuc-kh-o-hk1-25-26-nganh-cntt-h-t-xa)
- - [Thông báo phòng thi HK1/25-26 (các môn thi Vấn đáp)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/926-thong-bao-phong-thi-hk1-25-26-cac-mon-thi-v-n-dap)
 
 ***
 
