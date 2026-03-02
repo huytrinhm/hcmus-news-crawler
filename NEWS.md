@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-03-02 13:48:51.298849+07:00**_
+_Last update: **2026-03-02 14:43:47.045394+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-03-02 13:48:51.298849+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 2-3-2026: [[CQ] Thông báo nghỉ học lớp Hệ thống viễn thông và Mạng máy tính ngày 4/3/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17214)
  - 27-2-2026: [[CQ] TKB lý thuyết có phòng học kỳ 2, năm học 2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17212)
  - 27-2-2026: [[CQ] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2022, đợt 1 (T3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17209)
  - 26-2-2026: [Danh sách sinh viên tham quan công ty mgm technology partners ngày 5/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17207)
@@ -59,9 +60,9 @@ _Last update: **2026-03-02 13:48:51.298849+07:00**_
  - 11-2-2026: [Thầy Cao Xuân Nam bảo vệ thành công Luận án Tiến sĩ ngành Khoa học máy tính](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17196)
  - 10-2-2026: [[CQ] DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2022-đợt 2 (bảo vệ T7/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17195)
  - 9-2-2026: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2022, đợt 1 (tháng 3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17194)
- - 6-2-2026: [[SĐH] Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Cao Xuân Nam (8g00, 10/02, phòng F102)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17193)
 
 ## Thông tin dành cho sinh viên
+- 02/03/2026: [Thông báo cập nhật TKB Thể dục 2 HK2/2025-2026](https://hcmus.edu.vn/thong-bao-cap-nhat-tkb-the-duc-2-hk2-2025-2026/)
 - 27/02/2026: [Thông báo thực hiện miễn, giảm học phí và chế độ chính sách cho sinh viên học kỳ 2/2025-2026](https://hcmus.edu.vn/thong-bao-thuc-hien-mien-giam-hoc-phi-va-che-do-chinh-sach-cho-sinh-vien-hoc-ky-2-2025-2026/)
 - 25/02/2026: [[THÔNG BÁO] Học bổng toàn phần ICCR năm học 2026–2027 – Chính phủ Ấn Độ](https://hcmus.edu.vn/thong-bao-hoc-bong-toan-phan-iccr-nam-hoc-2026-2027-chinh-phu-an-do/)
 - 25/02/2026: [Thông báo mở lớp bổ sung môn Lịch sử đảng, Tư tưởng HCM K2024](https://hcmus.edu.vn/thong-bao-mo-lop-bo-sung-mon-lich-su-dang-tu-tuong-hcm-k2024/)
@@ -71,7 +72,6 @@ _Last update: **2026-03-02 13:48:51.298849+07:00**_
 - 10/02/2026: [[THÔNG BÁO] Chương trình thực tập tại Trường kỹ thuật, Đại học Quốc lập Chung Cheng Đài Loan năm 2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-thuc-tap-tai-truong-ky-thuat-dai-hoc-quoc-lap-chung-cheng-dai-loan-nam-2026/)
 - 06/02/2026: [Thông báo thu phí bảo hiểm y tế năm 2026 (đợt 4) đối với sinh viên và học viên Sau Đại học](https://hcmus.edu.vn/thong-bao-thu-phi-bao-hiem-y-te-nam-2026-dot-4-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc/)
 - 05/02/2026: [Thông báo điều chỉnh thời gian đăng ký học phần học kỳ 2 năm học 2025-2026 cho sinh viên Đại học hệ chính quy, chương trình đại trà](https://hcmus.edu.vn/thong-bao-dieu-chinh-thoi-gian-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2025-2026-cho-sinh-vien-dai-hoc-he-chinh-quy-chuong-trinh-dai-tra/)
-- 05/02/2026: [Thông báo nộp hồ sơ xét tốt nghiệp đợt 1 và đợt 2 năm 2026 đối với sinh viên hệ chính quy chương trình liên thông đại học](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-tot-nghiep-dot-1-va-dot-2-nam-2026-doi-voi-sinh-vien-he-chinh-quy-chuong-trinh-lien-thong-dai-hoc/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/25-26 CT đề án các khoa](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/930-thong-bao-phuc-kh-o-hk1-25-26-ct-d-an-cac-khoa)
