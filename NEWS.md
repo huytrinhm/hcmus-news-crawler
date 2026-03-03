@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-03-03 13:41:08.388623+07:00**_
+_Last update: **2026-03-03 14:37:23.150147+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-03-03 13:41:08.388623+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 3-3-2026: [Thời khóa biểu lớp bổ túc kiến thức khóa tháng 3/2026 dành cho học viên cao học](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17221)
  - 3-3-2026: [Thông báo đăng ký phương thức đào tạo dành cho học viên cao học khoá 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17220)
  - 3-3-2026: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 4/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17219)
  - 3-3-2026: [[CQ] Thông báo nghỉ học lớp Trực quan hóa dữ liệu ngày 5/3/2026 (Thứ 5)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17216)
@@ -59,9 +60,9 @@ _Last update: **2026-03-03 13:41:08.388623+07:00**_
  - 27-2-2026: [[CQ] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2022, đợt 1 (T3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17209)
  - 26-2-2026: [Danh sách sinh viên tham quan công ty mgm technology partners ngày 5/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17207)
  - 25-2-2026: [Đăng ký tham gia Workshop on Sensor Informatics](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17206)
- - 23-2-2026: [Đăng ký tham quan công ty mgm technology partners Vietnam ngày 5/3/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17203)
 
 ## Thông tin dành cho sinh viên
+- 03/03/2026: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 1 năm 2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sinh-vien-cua-cong-ty-duong-nhat-dot-1-nam-2026/)
 - 03/03/2026: [Thông báo Kết quả dự kiến Điểm rèn luyện HK1/2025 – 2026 đối với sinh viên](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk1-2025-2026-doi-voi-sinh-vien/)
 - 02/03/2026: [Thông báo ghép các lớp Kinh tế ĐC, Lịch sử Đảng, PP luận sáng tạo do không đủ số lượng đăng ký tại cơ sở 2](https://hcmus.edu.vn/thong-bao-huy-cac-lop-kinh-te-dc-lich-su-dang-pp-luan-sang-tao-do-khong-du-so-luong-dang-ky-tai-co-so-2/)
 - 02/03/2026: [Thông báo cập nhật TKB Thể dục 2 HK2/2025-2026](https://hcmus.edu.vn/thong-bao-cap-nhat-tkb-the-duc-2-hk2-2025-2026/)
@@ -71,7 +72,6 @@ _Last update: **2026-03-03 13:41:08.388623+07:00**_
 - 11/02/2026: [Thông báo hủy các lớp Thể dục 2, Anh văn 2 K2025](https://hcmus.edu.vn/thong-bao-huy-cac-lop-the-duc-2-anh-van-2-k2025/)
 - 11/02/2026: [Thông báo Hủy các lớp Anh văn 1, Anh văn 3 trong HK2/2025-2026](https://hcmus.edu.vn/thong-bao-huy-cac-lop-anh-van-1-anh-van-3-trong-hk2-2025-2026/)
 - 11/02/2026: [Thông báo mở bổ sung các lớp môn Lịch sử đảng, Tư tưởng HCM trong HK2/2025-2026](https://hcmus.edu.vn/thong-bao-mo-bo-sung-cac-lop-mon-lich-su-dang-tu-tuong-hcm-trong-hk2-2025-2026/)
-- 10/02/2026: [[THÔNG BÁO] Chương trình thực tập tại Trường kỹ thuật, Đại học Quốc lập Chung Cheng Đài Loan năm 2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-thuc-tap-tai-truong-ky-thuat-dai-hoc-quoc-lap-chung-cheng-dai-loan-nam-2026/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/25-26 hệ Chính quy](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/933-thong-bao-phuc-kh-o-hk1-25-26-h-chinh-quy)
