@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-03-03 12:43:11.613018+07:00**_
+_Last update: **2026-03-03 13:41:08.388623+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-03-03 12:43:11.613018+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 3-3-2026: [Thông báo đăng ký phương thức đào tạo dành cho học viên cao học khoá 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17220)
  - 3-3-2026: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 4/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17219)
  - 3-3-2026: [[CQ] Thông báo nghỉ học lớp Trực quan hóa dữ liệu ngày 5/3/2026 (Thứ 5)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17216)
  - 2-3-2026: [Đăng ký tham quan công ty BioTuring ngày 9/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17215)
@@ -59,7 +60,6 @@ _Last update: **2026-03-03 12:43:11.613018+07:00**_
  - 26-2-2026: [Danh sách sinh viên tham quan công ty mgm technology partners ngày 5/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17207)
  - 25-2-2026: [Đăng ký tham gia Workshop on Sensor Informatics](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17206)
  - 23-2-2026: [Đăng ký tham quan công ty mgm technology partners Vietnam ngày 5/3/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17203)
- - 13-2-2026: [[CQ] Danh sách lớp hủy HK2/25-26 do không đủ số lượng mở lớp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17202)
 
 ## Thông tin dành cho sinh viên
 - 03/03/2026: [Thông báo Kết quả dự kiến Điểm rèn luyện HK1/2025 – 2026 đối với sinh viên](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk1-2025-2026-doi-voi-sinh-vien/)
