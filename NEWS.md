@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-03-04 08:23:56.559138+07:00**_
+_Last update: **2026-03-04 11:02:53.096155+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2026-03-04 08:23:56.559138+07:00**_
  - 25-2-2026: [Đăng ký tham gia Workshop on Sensor Informatics](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17206)
 
 ## Thông tin dành cho sinh viên
+- 04/03/2026: [Kế hoạch học tập môn Thực tập Sinh học đại cương 2](https://hcmus.edu.vn/ke-hoach-hoc-tap-mon-thuc-tap-sinh-hoc-dai-cuong-2-2/)
 - 03/03/2026: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 1 năm 2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sinh-vien-cua-cong-ty-duong-nhat-dot-1-nam-2026/)
 - 03/03/2026: [Thông báo Kết quả dự kiến Điểm rèn luyện HK1/2025 – 2026 đối với sinh viên](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk1-2025-2026-doi-voi-sinh-vien/)
 - 02/03/2026: [Thông báo ghép các lớp Kinh tế ĐC, Lịch sử Đảng, PP luận sáng tạo do không đủ số lượng đăng ký tại cơ sở 2](https://hcmus.edu.vn/thong-bao-huy-cac-lop-kinh-te-dc-lich-su-dang-pp-luan-sang-tao-do-khong-du-so-luong-dang-ky-tai-co-so-2/)
@@ -71,7 +72,6 @@ _Last update: **2026-03-04 08:23:56.559138+07:00**_
 - 25/02/2026: [Thông báo mở lớp bổ sung môn Lịch sử đảng, Tư tưởng HCM K2024](https://hcmus.edu.vn/thong-bao-mo-lop-bo-sung-mon-lich-su-dang-tu-tuong-hcm-k2024/)
 - 11/02/2026: [Thông báo hủy các lớp Thể dục 2, Anh văn 2 K2025](https://hcmus.edu.vn/thong-bao-huy-cac-lop-the-duc-2-anh-van-2-k2025/)
 - 11/02/2026: [Thông báo Hủy các lớp Anh văn 1, Anh văn 3 trong HK2/2025-2026](https://hcmus.edu.vn/thong-bao-huy-cac-lop-anh-van-1-anh-van-3-trong-hk2-2025-2026/)
-- 11/02/2026: [Thông báo mở bổ sung các lớp môn Lịch sử đảng, Tư tưởng HCM trong HK2/2025-2026](https://hcmus.edu.vn/thong-bao-mo-bo-sung-cac-lop-mon-lich-su-dang-tu-tuong-hcm-trong-hk2-2025-2026/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/25-26 hệ Chính quy](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/933-thong-bao-phuc-kh-o-hk1-25-26-h-chinh-quy)
