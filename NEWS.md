@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-03-05 08:26:15.446393+07:00**_
+_Last update: **2026-03-05 11:06:17.290312+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,8 @@ _Last update: **2026-03-05 08:26:15.446393+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 5-3-2026: [Danh sách sinh viên tham quan công ty BioTuring ngày 9/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17231)
+ - 5-3-2026: [[CQ] Thông báo mở lại lớp Chuyên đề tốt nghiệp mạng máy tính và mở thêm 1 lớp Nhập môn điện toán đám mây HK2/25-26](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17230)
  - 4-3-2026: [Mời tham dự hội thảo: Giới thiệu chương trình liên thông môn học ĐH–ThS và Sau đại học (07/3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17227)
  - 3-3-2026: [Thời khóa biểu lớp bổ túc kiến thức khóa tháng 3/2026 dành cho học viên cao học](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17221)
  - 3-3-2026: [Thông báo đăng ký phương thức đào tạo dành cho học viên cao học khoá 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17220)
@@ -58,8 +60,6 @@ _Last update: **2026-03-05 08:26:15.446393+07:00**_
  - 2-3-2026: [Đăng ký tham quan công ty BioTuring ngày 9/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17215)
  - 2-3-2026: [[CQ] Thông báo nghỉ học lớp Hệ thống viễn thông và Mạng máy tính ngày 4/3/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17214)
  - 27-2-2026: [[CQ] TKB lý thuyết có phòng học kỳ 2, năm học 2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17212)
- - 27-2-2026: [[CQ] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2022, đợt 1 (T3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17209)
- - 26-2-2026: [Danh sách sinh viên tham quan công ty mgm technology partners ngày 5/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17207)
 
 ## Thông tin dành cho sinh viên
 - 04/03/2026: [[Thông báo] Đăng ký tham dự lớp Masterclass title: AI-Driven Security Analysis – SMU](https://hcmus.edu.vn/thong-bao-dang-ky-tham-du-lop-masterclass-title-ai-driven-security-analysis-smu/)
