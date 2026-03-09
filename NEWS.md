@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-03-09 15:36:22.371094+07:00**_
+_Last update: **2026-03-09 16:41:28.189913+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2026-03-09 15:36:22.371094+07:00**_
  - 3-3-2026: [[CQ] Thông báo nghỉ học lớp Trực quan hóa dữ liệu ngày 5/3/2026 (Thứ 5)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17216)
 
 ## Thông tin dành cho sinh viên
+- 09/03/2026: [Triển khai chương trình  “ACB đồng hành cùng sinh viên ĐHQG-HCM” học kỳ 2 năm học 2025-2026 đợt 1](https://hcmus.edu.vn/trien-khai-chuong-trinh-acb-dong-hanh-cung-sinh-vien-dhqg-hcm-hoc-ky-2-nam-hoc-2025-2026/)
 - 09/03/2026: [TB Về việc đăng ký tiếp tục tham gia “Chương trình cho sinh viên vay ưu đãi học tập tại ĐHQG-HCM”, học kỳ 2 năm học 2025–2026](https://hcmus.edu.vn/tb-ve-viec-dang-ky-tiep-tuc-tham-gia-chuong-trinh-cho-sinh-vien-vay-uu-dai-hoc-tap-tai-dhqg-hcm-hoc-ky-2-nam-hoc-2025-2026/)
 - 04/03/2026: [[Thông báo] Đăng ký tham dự lớp Masterclass title: AI-Driven Security Analysis – SMU](https://hcmus.edu.vn/thong-bao-dang-ky-tham-du-lop-masterclass-title-ai-driven-security-analysis-smu/)
 - 04/03/2026: [Kế hoạch học tập môn Thực tập Sinh học đại cương 2](https://hcmus.edu.vn/ke-hoach-hoc-tap-mon-thuc-tap-sinh-hoc-dai-cuong-2-2/)
@@ -71,7 +72,6 @@ _Last update: **2026-03-09 15:36:22.371094+07:00**_
 - 02/03/2026: [Thông báo cập nhật TKB Thể dục 2 HK2/2025-2026](https://hcmus.edu.vn/thong-bao-cap-nhat-tkb-the-duc-2-hk2-2025-2026/)
 - 27/02/2026: [Thông báo thực hiện miễn, giảm học phí và chế độ chính sách cho sinh viên học kỳ 2/2025-2026](https://hcmus.edu.vn/thong-bao-thuc-hien-mien-giam-hoc-phi-va-che-do-chinh-sach-cho-sinh-vien-hoc-ky-2-2025-2026/)
 - 25/02/2026: [[THÔNG BÁO] Học bổng toàn phần ICCR năm học 2026–2027 – Chính phủ Ấn Độ](https://hcmus.edu.vn/thong-bao-hoc-bong-toan-phan-iccr-nam-hoc-2026-2027-chinh-phu-an-do/)
-- 25/02/2026: [Thông báo mở lớp bổ sung môn Lịch sử đảng, Tư tưởng HCM K2024](https://hcmus.edu.vn/thong-bao-mo-lop-bo-sung-mon-lich-su-dang-tu-tuong-hcm-k2024/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK1/25-26 hệ Chính quy](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/933-thong-bao-phuc-kh-o-hk1-25-26-h-chinh-quy)
