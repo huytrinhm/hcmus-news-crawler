@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-03-10 08:22:04.801119+07:00**_
+_Last update: **2026-03-10 11:02:57.272699+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-03-10 08:22:04.801119+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 10-3-2026: [[CQ] Thông báo mở lại lớp Mạng máy tính HK2/25-26](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17239)
  - 9-3-2026: [Mời tham dự buổi bảo vệ LATS cấp đơn vị chuyên môn của NCS Hồ Thị Hoàng Vy (8g00, 12/3, phòng F102)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17237)
  - 6-3-2026: [Đăng ký tham gia Seminar Physical Reservoir Computing Using Oscillator Networks](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17235)
  - 5-3-2026: [Đăng ký tham quan công ty Netcompany ngày 27/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17233)
@@ -59,7 +60,6 @@ _Last update: **2026-03-10 08:22:04.801119+07:00**_
  - 3-3-2026: [Thời khóa biểu lớp bổ túc kiến thức khóa tháng 3/2026 dành cho học viên cao học](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17221)
  - 3-3-2026: [Thông báo đăng ký phương thức đào tạo dành cho học viên cao học khoá 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17220)
  - 3-3-2026: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 4/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17219)
- - 3-3-2026: [[CQ] Thông báo nghỉ học lớp Trực quan hóa dữ liệu ngày 5/3/2026 (Thứ 5)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17216)
 
 ## Thông tin dành cho sinh viên
 - 09/03/2026: [Triển khai chương trình  “ACB đồng hành cùng sinh viên ĐHQG-HCM” học kỳ 2 năm học 2025-2026 đợt 1](https://hcmus.edu.vn/trien-khai-chuong-trinh-acb-dong-hanh-cung-sinh-vien-dhqg-hcm-hoc-ky-2-nam-hoc-2025-2026/)
