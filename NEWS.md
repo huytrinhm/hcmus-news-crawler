@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-03-13 08:25:34.869583+07:00**_
+_Last update: **2026-03-13 11:06:18.880242+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-03-13 08:25:34.869583+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 13-3-2026: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 9/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17253)
  - 12-3-2026: [Tổng kết Workshop on Sensor Informatics](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17248)
  - 10-3-2026: [Danh sách sinh viên tham quan công ty Netcompany ngày 27/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17240)
  - 10-3-2026: [[CQ] Thông báo mở lại lớp Mạng máy tính HK2/25-26](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17239)
@@ -59,7 +60,6 @@ _Last update: **2026-03-13 08:25:34.869583+07:00**_
  - 5-3-2026: [Danh sách sinh viên tham quan công ty BioTuring ngày 9/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17231)
  - 5-3-2026: [[CQ] Thông báo mở lại lớp Chuyên đề tốt nghiệp mạng máy tính và mở thêm 1 lớp Nhập môn điện toán đám mây HK2/25-26](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17230)
  - 4-3-2026: [Mời tham dự hội thảo: Giới thiệu chương trình liên thông môn học ĐH–ThS và Sau đại học (07/3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17227)
- - 3-3-2026: [Thời khóa biểu lớp bổ túc kiến thức khóa tháng 3/2026 dành cho học viên cao học](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17221)
 
 ## Thông tin dành cho sinh viên
 - 10/03/2026: [[THÔNG BÁO] TRIỂN LÃM GIÁO DỤC CANADA MÙA XUÂN 2026](https://hcmus.edu.vn/thong-bao-trien-lam-giao-duc-canada-mua-xuan-2026/)
