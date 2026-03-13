@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-03-13 16:32:37.716216+07:00**_
+_Last update: **2026-03-13 17:29:11.245934+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-03-13 16:32:37.716216+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 13-3-2026: [Tổng kết Seminar Physical Reservoir Computing Using Oscillator Networks](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17256)
  - 13-3-2026: [Lịch thi kết thúc học phần 1 các lớp cao học khóa 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17254)
  - 13-3-2026: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 9/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17253)
  - 12-3-2026: [Tổng kết Workshop on Sensor Informatics](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17248)
@@ -59,7 +60,6 @@ _Last update: **2026-03-13 16:32:37.716216+07:00**_
  - 6-3-2026: [Đăng ký tham gia Seminar Physical Reservoir Computing Using Oscillator Networks](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17235)
  - 5-3-2026: [Đăng ký tham quan công ty Netcompany ngày 27/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17233)
  - 5-3-2026: [Danh sách sinh viên tham quan công ty BioTuring ngày 9/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17231)
- - 5-3-2026: [[CQ] Thông báo mở lại lớp Chuyên đề tốt nghiệp mạng máy tính và mở thêm 1 lớp Nhập môn điện toán đám mây HK2/25-26](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17230)
 
 ## Thông tin dành cho sinh viên
 - 13/03/2026: [THÔNG BÁO GIẢI THƯỞNG KHCN DÀNH CHO SINH VIÊN CƠ SỞ GDĐH NĂM 2026](https://hcmus.edu.vn/thong-bao-giai-thuong-khcn-danh-cho-sinh-vien-co-so-gddh-nam-2026/)
@@ -74,19 +74,19 @@ _Last update: **2026-03-13 16:32:37.716216+07:00**_
 - 02/03/2026: [Thông báo cập nhật TKB Thể dục 2 HK2/2025-2026](https://hcmus.edu.vn/thong-bao-cap-nhat-tkb-the-duc-2-hk2-2025-2026/)
 
 ## Các thông báo về Khảo thí
+ - [Thông báo thay đổi phòng thi giữa HK2/25-26 tại cơ sở NVC](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/935-thong-bao-thay-d-i-phong-thi-gi-a-hk2-25-26-t-i-co-s-nvc)
  - [Thông báo phúc khảo HK1/25-26 hệ Chính quy](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/933-thong-bao-phuc-kh-o-hk1-25-26-h-chinh-quy)
  - [Thông báo phúc khảo HK1/25-26 CT đề án các khoa](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/930-thong-bao-phuc-kh-o-hk1-25-26-ct-d-an-cac-khoa)
  - [Thông báo phúc khảo HK1/25-26 CT đề án khoa CNTT](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/929-thong-bao-phuc-kh-o-hk1-25-26-ct-d-an-khoa-cntt)
  - [Thông báo thay đổi phòng thi HK1/25-26 tại Cơ sở Linh Trung](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/928-thong-bao-thay-d-i-phong-thi-hk1-25-26-t-i-co-s-linh-trung)
- - [Thông báo phúc khảo HK1/25-26 ngành CNTT hệ Từ xa](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/927-thong-bao-phuc-kh-o-hk1-25-26-nganh-cntt-h-t-xa)
 
 ***
 
+ - [Lịch thi cuối kỳ (sớm) HK2/25-26 CT đề án khoa Sinh học-CNSH](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/934-l-ch-thi-cu-i-ky-s-m-hk2-25-26-ct-d-an-khoa-sinh-h-c-cnsh)
  - [Lịch thi giữa kỳ HK2/25-26 CT đề án khoa Hóa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/932-l-ch-thi-gi-a-ky-hk2-25-26-ct-d-an-khoa-hoa)
  - [Lịch thi giữa kỳ HK2/25-26 CT đề án các Khoa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/931-l-ch-thi-gi-a-ky-hk2-25-26-ct-d-an-cac-khoa)
  - [Lịch thi cuối kỳ HK1/25-26 Chính quy tại LT và NVC (Cập nhật 31/12)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/923-l-ch-thi-cu-i-ky-hk1-25-26-chinh-quy-t-i-lt-va-nvc)
  - [Lịch thi cuối kỳ HK1/25-26 CT đề án các khoa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/920-l-ch-thi-cu-i-ky-hk1-25-26-ct-d-an-cac-khoa)
- - [Lịch thi cuối kỳ HK1/25-26 CT đề án khoa Hóa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/919-l-ch-thi-cu-i-ky-hk1-25-26-ct-d-an-khoa-hoa)
 
 ***
 
