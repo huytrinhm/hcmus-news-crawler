@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-03-16 06:22:47.466920+07:00**_
+_Last update: **2026-03-16 08:51:00.204312+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2026-03-16 06:22:47.466920+07:00**_
  - 5-3-2026: [Danh sách sinh viên tham quan công ty BioTuring ngày 9/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17231)
 
 ## Thông tin dành cho sinh viên
+- 16/03/2026: [Thông báo tổ chức hoạt động Workshop “Hệ phương trình 2 ẩn: Anh và Em”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-he-phuong-trinh-2-an-anh-va-em/)
 - 14/03/2026: [Thông báo Cuộc thi trực tuyến “HCMUS: Unlock the Rules” 2026](https://hcmus.edu.vn/thong-bao-cuoc-thi-truc-tuyen-hcmus-unlock-the-rules-2026/)
 - 13/03/2026: [THÔNG BÁO GIẢI THƯỞNG KHCN DÀNH CHO SINH VIÊN CƠ SỞ GDĐH NĂM 2026](https://hcmus.edu.vn/thong-bao-giai-thuong-khcn-danh-cho-sinh-vien-co-so-gddh-nam-2026/)
 - 10/03/2026: [[THÔNG BÁO] TRIỂN LÃM GIÁO DỤC CANADA MÙA XUÂN 2026](https://hcmus.edu.vn/thong-bao-trien-lam-giao-duc-canada-mua-xuan-2026/)
@@ -71,7 +72,6 @@ _Last update: **2026-03-16 06:22:47.466920+07:00**_
 - 04/03/2026: [Kế hoạch học tập môn Thực tập Sinh học đại cương 2](https://hcmus.edu.vn/ke-hoach-hoc-tap-mon-thuc-tap-sinh-hoc-dai-cuong-2-2/)
 - 03/03/2026: [Thông báo chương trình học bổng“ CHẮP CÁNH ƯỚC MƠ” tài trợ sinh viên của Công ty Dương Nhật đợt 1 năm 2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-chap-canh-uoc-mo-tai-tro-sinh-vien-cua-cong-ty-duong-nhat-dot-1-nam-2026/)
 - 03/03/2026: [Thông báo Kết quả dự kiến Điểm rèn luyện HK1/2025 – 2026 đối với sinh viên](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk1-2025-2026-doi-voi-sinh-vien/)
-- 02/03/2026: [Thông báo ghép các lớp Kinh tế ĐC, Lịch sử Đảng, PP luận sáng tạo do không đủ số lượng đăng ký tại cơ sở 2](https://hcmus.edu.vn/thong-bao-huy-cac-lop-kinh-te-dc-lich-su-dang-pp-luan-sang-tao-do-khong-du-so-luong-dang-ky-tai-co-so-2/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo thay đổi phòng thi giữa HK2/25-26 tại cơ sở NVC](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/935-thong-bao-thay-d-i-phong-thi-gi-a-hk2-25-26-t-i-co-s-nvc)
