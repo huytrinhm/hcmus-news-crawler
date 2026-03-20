@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-03-20 06:23:47.177469+07:00**_
+_Last update: **2026-03-20 08:26:59.857419+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2026-03-20 06:23:47.177469+07:00**_
  - 10-3-2026: [[CQ] Thông báo mở lại lớp Mạng máy tính HK2/25-26](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17239)
 
 ## Thông tin dành cho sinh viên
+- 20/03/2026: [Thông báo học bổng Cao Minh Thì năm 2026](https://hcmus.edu.vn/thong-bao-hoc-bong-cao-minh-thi-nam-2026/)
 - 16/03/2026: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – Burapha University (BUU)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-burapha-university-buu/)
 - 16/03/2026: [THÔNG BÁO ĐĂNG KÝ CỤM/CHUỖI NHIỆM VỤ KHOA HỌC VÀ CÔNG NGHỆ CẤP ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-dang-ky-cum-chuoi-nhiem-vu-khoa-hoc-va-cong-nghe-cap-dhqg-hcm/)
 - 16/03/2026: [Thông báo tổ chức hoạt động Workshop “Hệ phương trình 2 ẩn: Anh và Em”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-he-phuong-trinh-2-an-anh-va-em/)
@@ -71,7 +72,6 @@ _Last update: **2026-03-20 06:23:47.177469+07:00**_
 - 09/03/2026: [Triển khai chương trình  “ACB đồng hành cùng sinh viên ĐHQG-HCM” học kỳ 2 năm học 2025-2026 đợt 1](https://hcmus.edu.vn/trien-khai-chuong-trinh-acb-dong-hanh-cung-sinh-vien-dhqg-hcm-hoc-ky-2-nam-hoc-2025-2026/)
 - 09/03/2026: [TB Về việc đăng ký tiếp tục tham gia “Chương trình cho sinh viên vay ưu đãi học tập tại ĐHQG-HCM”, học kỳ 2 năm học 2025–2026](https://hcmus.edu.vn/tb-ve-viec-dang-ky-tiep-tuc-tham-gia-chuong-trinh-cho-sinh-vien-vay-uu-dai-hoc-tap-tai-dhqg-hcm-hoc-ky-2-nam-hoc-2025-2026/)
 - 04/03/2026: [[Thông báo] Đăng ký tham dự lớp Masterclass title: AI-Driven Security Analysis – SMU](https://hcmus.edu.vn/thong-bao-dang-ky-tham-du-lop-masterclass-title-ai-driven-security-analysis-smu/)
-- 04/03/2026: [Kế hoạch học tập môn Thực tập Sinh học đại cương 2](https://hcmus.edu.vn/ke-hoach-hoc-tap-mon-thuc-tap-sinh-hoc-dai-cuong-2-2/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo thay đổi phòng thi giữa HK2/25-26 tại cơ sở NVC](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/935-thong-bao-thay-d-i-phong-thi-gi-a-hk2-25-26-t-i-co-s-nvc)
