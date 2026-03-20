@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-03-20 08:26:59.857419+07:00**_
+_Last update: **2026-03-20 11:08:02.748012+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-03-20 08:26:59.857419+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 20-3-2026: [Danh sách sinh viên tham quan công ty TecAlliance Việt Nam ngày 9/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17269)
  - 18-3-2026: [[CQ] Thông báo thay đổi phòng học một số lớp từ ngày 23/3 đến 29/3/2026 (HK2/25-26)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17265)
  - 17-3-2026: [Danh sách môn mở trong Học phần 2 lớp cao học khóa 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17261)
  - 16-3-2026: [Thông báo tuyển sinh Sau Đại học năm 2026 - đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17260)
@@ -59,9 +60,9 @@ _Last update: **2026-03-20 08:26:59.857419+07:00**_
  - 13-3-2026: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 9/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17253)
  - 12-3-2026: [Tổng kết Workshop on Sensor Informatics](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17248)
  - 10-3-2026: [Danh sách sinh viên tham quan công ty Netcompany ngày 27/3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17240)
- - 10-3-2026: [[CQ] Thông báo mở lại lớp Mạng máy tính HK2/25-26](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17239)
 
 ## Thông tin dành cho sinh viên
+- 20/03/2026: [Chương trình học bổng Christina Noble Education Programme dành cho sinh viên năm cuối và kế cuối, hệ đại học chính quy năm học 2025-2026](https://hcmus.edu.vn/chuong-trinh-hoc-bong-christina-noble-education-programme-danh-cho-sinh-vien-nam-cuoi-va-ke-cuoi-he-dai-hoc-chinh-quy-nam-hoc-2025-2026/)
 - 20/03/2026: [Thông báo học bổng Cao Minh Thì năm 2026](https://hcmus.edu.vn/thong-bao-hoc-bong-cao-minh-thi-nam-2026/)
 - 16/03/2026: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – Burapha University (BUU)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-burapha-university-buu/)
 - 16/03/2026: [THÔNG BÁO ĐĂNG KÝ CỤM/CHUỖI NHIỆM VỤ KHOA HỌC VÀ CÔNG NGHỆ CẤP ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-dang-ky-cum-chuoi-nhiem-vu-khoa-hoc-va-cong-nghe-cap-dhqg-hcm/)
@@ -71,7 +72,6 @@ _Last update: **2026-03-20 08:26:59.857419+07:00**_
 - 10/03/2026: [[THÔNG BÁO] TRIỂN LÃM GIÁO DỤC CANADA MÙA XUÂN 2026](https://hcmus.edu.vn/thong-bao-trien-lam-giao-duc-canada-mua-xuan-2026/)
 - 09/03/2026: [Triển khai chương trình  “ACB đồng hành cùng sinh viên ĐHQG-HCM” học kỳ 2 năm học 2025-2026 đợt 1](https://hcmus.edu.vn/trien-khai-chuong-trinh-acb-dong-hanh-cung-sinh-vien-dhqg-hcm-hoc-ky-2-nam-hoc-2025-2026/)
 - 09/03/2026: [TB Về việc đăng ký tiếp tục tham gia “Chương trình cho sinh viên vay ưu đãi học tập tại ĐHQG-HCM”, học kỳ 2 năm học 2025–2026](https://hcmus.edu.vn/tb-ve-viec-dang-ky-tiep-tuc-tham-gia-chuong-trinh-cho-sinh-vien-vay-uu-dai-hoc-tap-tai-dhqg-hcm-hoc-ky-2-nam-hoc-2025-2026/)
-- 04/03/2026: [[Thông báo] Đăng ký tham dự lớp Masterclass title: AI-Driven Security Analysis – SMU](https://hcmus.edu.vn/thong-bao-dang-ky-tham-du-lop-masterclass-title-ai-driven-security-analysis-smu/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo thay đổi phòng thi giữa HK2/25-26 tại cơ sở NVC](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/935-thong-bao-thay-d-i-phong-thi-gi-a-hk2-25-26-t-i-co-s-nvc)
