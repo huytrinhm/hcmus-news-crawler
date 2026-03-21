@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-03-22 03:18:30.859886+07:00**_
+_Last update: **2026-03-22 04:18:24.930381+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,16 @@ _Last update: **2026-03-22 03:18:30.859886+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 20-3-2026: [Thông báo đổi phòng thực hành các lớp Thứ 2 và Thứ 6, áp dụng từ tuần 23/3/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17270)
+ - 20-3-2026: [Danh sách sinh viên tham quan công ty TecAlliance Việt Nam ngày 9/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17269)
+ - 18-3-2026: [[CQ] Thông báo thay đổi phòng học một số lớp từ ngày 23/3 đến 29/3/2026 (HK2/25-26)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17265)
+ - 17-3-2026: [Danh sách môn mở trong Học phần 2 lớp cao học khóa 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17261)
+ - 16-3-2026: [Thông báo tuyển sinh Sau Đại học năm 2026 - đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17260)
+ - 16-3-2026: [[CQ] Mời tham dự buổi bảo vệ đề tài tốt nghiệp khóa 2022 đợt 1 (17/3 - 20/3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17257)
+ - 13-3-2026: [Tổng kết Seminar Physical Reservoir Computing Using Oscillator Networks](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17256)
+ - 13-3-2026: [Lịch thi kết thúc học phần 1 các lớp cao học khóa 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17254)
+ - 13-3-2026: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 9/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17253)
+ - 12-3-2026: [Tổng kết Workshop on Sensor Informatics](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17248)
 
 ## Thông tin dành cho sinh viên
 - 20/03/2026: [Chương trình học bổng Christina Noble Education Programme dành cho sinh viên năm cuối và kế cuối, hệ đại học chính quy năm học 2025-2026](https://hcmus.edu.vn/chuong-trinh-hoc-bong-christina-noble-education-programme-danh-cho-sinh-vien-nam-cuoi-va-ke-cuoi-he-dai-hoc-chinh-quy-nam-hoc-2025-2026/)
