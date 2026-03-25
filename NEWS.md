@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-03-25 15:41:04.527810+07:00**_
+_Last update: **2026-03-25 16:46:06.479661+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-03-25 15:41:04.527810+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 25-3-2026: [Lê Kiến Thành – từ bảng vàng tin học đến danh hiệu Gương mặt trẻ Việt Nam tiêu biểu 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17276)
  - 25-3-2026: [Thông tin các buổi phỏng vấn chương trình liên thông ĐH-ThS năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17275)
  - 24-3-2026: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2022, đợt 1 (bảo vệ tháng 3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17273)
  - 20-3-2026: [Thông báo đổi phòng thực hành các lớp Thứ 2 và Thứ 6, áp dụng từ tuần 23/3/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17270)
@@ -59,9 +60,9 @@ _Last update: **2026-03-25 15:41:04.527810+07:00**_
  - 16-3-2026: [Thông báo tuyển sinh Sau Đại học năm 2026 - đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17260)
  - 16-3-2026: [[CQ] Mời tham dự buổi bảo vệ đề tài tốt nghiệp khóa 2022 đợt 1 (17/3 - 20/3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17257)
  - 13-3-2026: [Tổng kết Seminar Physical Reservoir Computing Using Oscillator Networks](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17256)
- - 13-3-2026: [Lịch thi kết thúc học phần 1 các lớp cao học khóa 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17254)
 
 ## Thông tin dành cho sinh viên
+- 25/03/2026: [Chính sách học bổng cho sinh viên](https://hcmus.edu.vn/chinh-sach-hoc-bong-cho-sinh-vien/)
 - 24/03/2026: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – Mahidol University (MU)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-mahidol-university-mu/)
 - 24/03/2026: [THÔNG BÁO GIẢI BÓNG ĐÁ SINH VIÊN HCMUS CUP 2026](https://hcmus.edu.vn/giai-bong-da-sinh-vien-hcmus-cup-2026/)
 - 23/03/2026: [Chương trình học bổng toàn phần dành cho sinh viên có hoàn cảnh đặc biệt khó khăn, khuyết tật năm học 2025-2026](https://hcmus.edu.vn/chuong-trinh-hoc-bong-toan-phan-danh-cho-sinh-vien-co-hoan-canh-dac-biet-kho-khan-khuyet-tat-nam-hoc-2025-2026/)
@@ -71,7 +72,6 @@ _Last update: **2026-03-25 15:41:04.527810+07:00**_
 - 20/03/2026: [Thông báo học bổng Cao Minh Thì năm 2026](https://hcmus.edu.vn/thong-bao-hoc-bong-cao-minh-thi-nam-2026/)
 - 16/03/2026: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – Burapha University (BUU)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-burapha-university-buu/)
 - 16/03/2026: [THÔNG BÁO ĐĂNG KÝ CỤM/CHUỖI NHIỆM VỤ KHOA HỌC VÀ CÔNG NGHỆ CẤP ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-dang-ky-cum-chuoi-nhiem-vu-khoa-hoc-va-cong-nghe-cap-dhqg-hcm/)
-- 16/03/2026: [Thông báo tổ chức hoạt động Workshop “Hệ phương trình 2 ẩn: Anh và Em”](https://hcmus.edu.vn/thong-bao-to-chuc-hoat-dong-workshop-he-phuong-trinh-2-an-anh-va-em/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK2/2025-2026 (Chương trình đề án)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/936-thong-bao-sv-danh-gia-mon-h-c-gv-hk2-2025-2026-chuong-trinh-d-an)
