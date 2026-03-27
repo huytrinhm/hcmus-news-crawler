@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-03-27 08:49:20.388752+07:00**_
+_Last update: **2026-03-27 11:29:01.395758+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-03-27 08:49:20.388752+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 27-3-2026: [Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Hồ Thị Thanh Tuyến (8g00, 03/4, Phòng F.102)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17279)
  - 25-3-2026: [Lê Kiến Thành – từ bảng vàng tin học đến danh hiệu Gương mặt trẻ Việt Nam tiêu biểu 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17276)
  - 25-3-2026: [Thông tin các buổi phỏng vấn chương trình liên thông ĐH-ThS năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17275)
  - 24-3-2026: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2022, đợt 1 (bảo vệ tháng 3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17273)
@@ -59,7 +60,6 @@ _Last update: **2026-03-27 08:49:20.388752+07:00**_
  - 17-3-2026: [Danh sách môn mở trong Học phần 2 lớp cao học khóa 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17261)
  - 16-3-2026: [Thông báo tuyển sinh Sau Đại học năm 2026 - đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17260)
  - 16-3-2026: [[CQ] Mời tham dự buổi bảo vệ đề tài tốt nghiệp khóa 2022 đợt 1 (17/3 - 20/3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17257)
- - 13-3-2026: [Tổng kết Seminar Physical Reservoir Computing Using Oscillator Networks](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17256)
 
 ## Thông tin dành cho sinh viên
 - 25/03/2026: [Chính sách học bổng cho sinh viên](https://hcmus.edu.vn/chinh-sach-hoc-bong-cho-sinh-vien/)
