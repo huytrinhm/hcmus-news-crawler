@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-03-30 15:18:34.821491+07:00**_
+_Last update: **2026-03-30 17:10:13.034428+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -55,11 +55,11 @@ _Last update: **2026-03-30 15:18:34.821491+07:00**_
  - 25-3-2026: [Lê Kiến Thành – từ bảng vàng tin học đến danh hiệu Gương mặt trẻ Việt Nam tiêu biểu 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17276)
  - 25-3-2026: [Thông tin các buổi phỏng vấn chương trình liên thông ĐH-ThS năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17275)
  - 24-3-2026: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2022, đợt 1 (bảo vệ tháng 3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17273)
+ - 23-3-2026: [Thông báo đăng ký tín chỉ học phần 2 chương trình cao học khoá 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17282)
  - 20-3-2026: [Thông báo đổi phòng thực hành các lớp Thứ 2 và Thứ 6, áp dụng từ tuần 23/3/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17270)
  - 20-3-2026: [Danh sách sinh viên tham quan công ty TecAlliance Việt Nam ngày 9/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17269)
  - 18-3-2026: [[CQ] Thông báo thay đổi phòng học một số lớp từ ngày 23/3 đến 29/3/2026 (HK2/25-26)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17265)
  - 17-3-2026: [Danh sách môn mở trong Học phần 2 lớp cao học khóa 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17261)
- - 16-3-2026: [Thông báo tuyển sinh Sau Đại học năm 2026 - đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17260)
 
 ## Thông tin dành cho sinh viên
 - 30/03/2026: [Thông báo danh sách sinh viên được miễn, giảm học phí học kỳ 2 năm học 2025-2026 (Đợt 1)](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-duoc-mien-giam-hoc-phi-hoc-ky-2-nam-hoc-2025-2026-dot-1/)
