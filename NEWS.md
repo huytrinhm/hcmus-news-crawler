@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-03-30 13:26:05.970826+07:00**_
+_Last update: **2026-03-30 15:18:34.821491+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2026-03-30 13:26:05.970826+07:00**_
  - 16-3-2026: [Thông báo tuyển sinh Sau Đại học năm 2026 - đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17260)
 
 ## Thông tin dành cho sinh viên
+- 30/03/2026: [Thông báo danh sách sinh viên được miễn, giảm học phí học kỳ 2 năm học 2025-2026 (Đợt 1)](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-duoc-mien-giam-hoc-phi-hoc-ky-2-nam-hoc-2025-2026-dot-1/)
 - 25/03/2026: [Chính sách học bổng cho sinh viên](https://hcmus.edu.vn/chinh-sach-hoc-bong-cho-sinh-vien/)
 - 24/03/2026: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – Mahidol University (MU)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-mahidol-university-mu/)
 - 24/03/2026: [THÔNG BÁO GIẢI BÓNG ĐÁ SINH VIÊN HCMUS CUP 2026](https://hcmus.edu.vn/giai-bong-da-sinh-vien-hcmus-cup-2026/)
@@ -71,7 +72,6 @@ _Last update: **2026-03-30 13:26:05.970826+07:00**_
 - 20/03/2026: [Chương trình học bổng Christina Noble Education Programme dành cho sinh viên năm cuối và kế cuối, hệ đại học chính quy năm học 2025-2026](https://hcmus.edu.vn/chuong-trinh-hoc-bong-christina-noble-education-programme-danh-cho-sinh-vien-nam-cuoi-va-ke-cuoi-he-dai-hoc-chinh-quy-nam-hoc-2025-2026/)
 - 20/03/2026: [Thông báo học bổng Cao Minh Thì năm 2026](https://hcmus.edu.vn/thong-bao-hoc-bong-cao-minh-thi-nam-2026/)
 - 16/03/2026: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – Burapha University (BUU)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-burapha-university-buu/)
-- 16/03/2026: [THÔNG BÁO ĐĂNG KÝ CỤM/CHUỖI NHIỆM VỤ KHOA HỌC VÀ CÔNG NGHỆ CẤP ĐHQG-HCM](https://hcmus.edu.vn/thong-bao-dang-ky-cum-chuoi-nhiem-vu-khoa-hoc-va-cong-nghe-cap-dhqg-hcm/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK2/2025-2026 (Chương trình đề án)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/936-thong-bao-sv-danh-gia-mon-h-c-gv-hk2-2025-2026-chuong-trinh-d-an)
