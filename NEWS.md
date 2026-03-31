@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-03-31 13:12:43.567965+07:00**_
+_Last update: **2026-03-31 15:03:42.197967+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2026-03-31 13:12:43.567965+07:00**_
  - 18-3-2026: [[CQ] Thông báo thay đổi phòng học một số lớp từ ngày 23/3 đến 29/3/2026 (HK2/25-26)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17265)
 
 ## Thông tin dành cho sinh viên
+- 31/03/2026: [Thông báo đăng ký thay đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 2/2026](https://hcmus.edu.vn/thong-bao-dang-ky-thay-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-2-2026/)
 - 31/03/2026: [Thông báo nghỉ lễ Giỗ Tổ Hùng Vương 10/3 âm lịch, ngày Chiến thắng 30/4 và ngày Quốc tế Lao động 01/5 năm 2026](https://hcmus.edu.vn/thong-bao-nghi-le-gio-to-hung-vuong-10-3-am-lich-ngay-chien-thang-30-4-va-ngay-quoc-te-lao-dong-01-5-nam-2026/)
 - 30/03/2026: [Thông báo danh sách sinh viên được miễn, giảm học phí học kỳ 2 năm học 2025-2026 (Đợt 1)](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-duoc-mien-giam-hoc-phi-hoc-ky-2-nam-hoc-2025-2026-dot-1/)
 - 25/03/2026: [Chính sách học bổng cho sinh viên](https://hcmus.edu.vn/chinh-sach-hoc-bong-cho-sinh-vien/)
@@ -71,7 +72,6 @@ _Last update: **2026-03-31 13:12:43.567965+07:00**_
 - 23/03/2026: [Thông báo nộp học phí học kỳ 2/2025-2026 chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-2-2025-2026-chuong-trinh-dai-tra/)
 - 23/03/2026: [THÔNG BÁO CỦA SỞ KHOA HỌC VÀ CÔNG NGHỆ TỈNH AN GIANG VV TUYỂN CHỌN TỔ CHỨC, CÁ NHÂN THỰC HIỆN NHIỆM VỤ KHOA HỌC VÀ CÔNG NGHỆ CẤP CƠ SỞ NĂM 2026](https://hcmus.edu.vn/thong-bao-cua-so-khoa-hoc-va-cong-nghe-tinh-an-giang-vv-tuyen-chon-to-chuc-ca-nhan-thuc-hien-nhiem-vu-khoa-hoc-va-cong-nghe-cap-co-so-nam-2026/)
 - 20/03/2026: [Chương trình học bổng Christina Noble Education Programme dành cho sinh viên năm cuối và kế cuối, hệ đại học chính quy năm học 2025-2026](https://hcmus.edu.vn/chuong-trinh-hoc-bong-christina-noble-education-programme-danh-cho-sinh-vien-nam-cuoi-va-ke-cuoi-he-dai-hoc-chinh-quy-nam-hoc-2025-2026/)
-- 20/03/2026: [Thông báo học bổng Cao Minh Thì năm 2026](https://hcmus.edu.vn/thong-bao-hoc-bong-cao-minh-thi-nam-2026/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK2/2025-2026 (Chương trình đề án)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/936-thong-bao-sv-danh-gia-mon-h-c-gv-hk2-2025-2026-chuong-trinh-d-an)
