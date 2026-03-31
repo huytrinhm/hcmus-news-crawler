@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-03-31 06:28:30.198599+07:00**_
+_Last update: **2026-03-31 08:50:19.073505+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-03-31 06:28:30.198599+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 31-3-2026: [Thông báo học bổng Thạc sĩ JAIST (Nhật Bản) năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17283)
  - 27-3-2026: [Đăng ký tham quan công ty Saritasa Việt Nam ngày 22/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17280)
  - 27-3-2026: [Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Hồ Thị Thanh Tuyến (8g00, 03/4, Phòng F.102)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17279)
  - 25-3-2026: [Lê Kiến Thành – từ bảng vàng tin học đến danh hiệu Gương mặt trẻ Việt Nam tiêu biểu 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17276)
@@ -59,7 +60,6 @@ _Last update: **2026-03-31 06:28:30.198599+07:00**_
  - 20-3-2026: [Thông báo đổi phòng thực hành các lớp Thứ 2 và Thứ 6, áp dụng từ tuần 23/3/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17270)
  - 20-3-2026: [Danh sách sinh viên tham quan công ty TecAlliance Việt Nam ngày 9/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17269)
  - 18-3-2026: [[CQ] Thông báo thay đổi phòng học một số lớp từ ngày 23/3 đến 29/3/2026 (HK2/25-26)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17265)
- - 17-3-2026: [Danh sách môn mở trong Học phần 2 lớp cao học khóa 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17261)
 
 ## Thông tin dành cho sinh viên
 - 30/03/2026: [Thông báo danh sách sinh viên được miễn, giảm học phí học kỳ 2 năm học 2025-2026 (Đợt 1)](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-duoc-mien-giam-hoc-phi-hoc-ky-2-nam-hoc-2025-2026-dot-1/)
