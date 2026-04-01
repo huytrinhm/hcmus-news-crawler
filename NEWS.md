@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-04-01 08:58:07.517924+07:00**_
+_Last update: **2026-04-01 11:47:34.348165+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-04-01 08:58:07.517924+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 1-4-2026: [Đăng ký tham dự chương trình "Phỏng vấn thử - việc thật" năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17285)
  - 31-3-2026: [Đăng kí tham gia Seminar Bộ môn Công nghệ Phần mềm lần 1 năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17284)
  - 31-3-2026: [Thông báo học bổng Thạc sĩ JAIST (Nhật Bản) năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17283)
  - 27-3-2026: [Đăng ký tham quan công ty Saritasa Việt Nam ngày 22/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17280)
@@ -59,7 +60,6 @@ _Last update: **2026-04-01 08:58:07.517924+07:00**_
  - 24-3-2026: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2022, đợt 1 (bảo vệ tháng 3/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17273)
  - 23-3-2026: [Thông báo đăng ký tín chỉ học phần 2 chương trình cao học khoá 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17282)
  - 20-3-2026: [Thông báo đổi phòng thực hành các lớp Thứ 2 và Thứ 6, áp dụng từ tuần 23/3/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17270)
- - 20-3-2026: [Danh sách sinh viên tham quan công ty TecAlliance Việt Nam ngày 9/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17269)
 
 ## Thông tin dành cho sinh viên
 - 31/03/2026: [Thông báo đăng ký thay đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 2/2026](https://hcmus.edu.vn/thong-bao-dang-ky-thay-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-2-2026/)
