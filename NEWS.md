@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-04-03 15:56:49.874663+07:00**_
+_Last update: **2026-04-03 16:50:53.799146+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-04-03 15:56:49.874663+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 3-4-2026: [Danh sách sinh viên tham dự hội thảo "Cách xây dựng hồ sơ cá nhân nổi bật trong lĩnh vực IT"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17299)
  - 3-4-2026: [[CQ] DSSV nộp đề cương đề tài tốt nghiệp K2022 đợt 2 (bảo vệ tháng 7/2026), HK2/25-26](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17298)
  - 2-4-2026: [Hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17297)
  - 2-4-2026: [Thông báo đăng ký phương thức đào tạo và kế hoạch học tập nghiên cứu sinh khoá năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17296)
@@ -59,7 +60,6 @@ _Last update: **2026-04-03 15:56:49.874663+07:00**_
  - 2-4-2026: [Kết quả xét duyệt sinh viên khóa 2023 tham gia chương trình liên thông môn học ĐH-ThS năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17291)
  - 1-4-2026: [Đăng ký tham dự chương trình "Phỏng vấn thử - việc thật" năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17285)
  - 31-3-2026: [Đăng kí tham gia Seminar Bộ môn Công nghệ Phần mềm lần 1 năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17284)
- - 31-3-2026: [Thông báo học bổng Thạc sĩ JAIST (Nhật Bản) năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17283)
 
 ## Thông tin dành cho sinh viên
 - 01/04/2026: [Thông báo tổ chức Chương trình tập huấn Ban cán sự lớp  “Thực hành kỹ năng quan sát, lắng nghe & kết nối trong hỗ trợ bạn học cùng lớp”  (Chuyên đề 1)](https://hcmus.edu.vn/thong-bao-to-chuc-chuong-trinh-tap-huan-ban-can-su-lop-thuc-hanh-ky-nang-quan-sat-lang-nghe-ket-noi-trong-ho-tro-ban-hoc-cung-lop-chuyen-de-1/)
