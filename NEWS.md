@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-04-03 11:24:46.999746+07:00**_
+_Last update: **2026-04-03 13:08:17.367115+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -82,11 +82,11 @@ _Last update: **2026-04-03 11:24:46.999746+07:00**_
 
 ***
 
+ - [Lịch thi cuối kỳ HK2/25-26 CT đề án khoa CNTT](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/939-l-ch-thi-cu-i-ky-hk2-25-26-ct-d-an-khoa-cntt)
+ - [Lịch thi cuối kỳ HK2/25-26 CT đề án khoa Hóa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/938-l-ch-thi-cu-i-ky-hk2-25-26-ct-d-an-cac-khoa-hoa)
+ - [Lịch thi cuối kỳ HK2/25-26 CT đề án các Khoa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/937-l-ch-thi-cu-i-ky-hk2-25-26-ct-d-an-cac-khoa)
  - [Lịch thi cuối kỳ (sớm) HK2/25-26 CT đề án khoa Sinh học-CNSH](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/934-l-ch-thi-cu-i-ky-s-m-hk2-25-26-ct-d-an-khoa-sinh-h-c-cnsh)
  - [Lịch thi giữa kỳ HK2/25-26 CT đề án khoa Hóa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/932-l-ch-thi-gi-a-ky-hk2-25-26-ct-d-an-khoa-hoa)
- - [Lịch thi giữa kỳ HK2/25-26 CT đề án các Khoa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/931-l-ch-thi-gi-a-ky-hk2-25-26-ct-d-an-cac-khoa)
- - [Lịch thi cuối kỳ HK1/25-26 Chính quy tại LT và NVC (Cập nhật 31/12)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/923-l-ch-thi-cu-i-ky-hk1-25-26-chinh-quy-t-i-lt-va-nvc)
- - [Lịch thi cuối kỳ HK1/25-26 CT đề án các khoa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/920-l-ch-thi-cu-i-ky-hk1-25-26-ct-d-an-cac-khoa)
 
 ***
 
