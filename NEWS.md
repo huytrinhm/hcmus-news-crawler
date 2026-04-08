@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-04-08 08:51:36.951300+07:00**_
+_Last update: **2026-04-08 11:32:06.712335+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -14,6 +14,7 @@ _Last update: **2026-04-08 08:51:36.951300+07:00**_
  - 30/09/2022: [[CTĐA] Kế hoạch mở học phần năm học 2022-2023 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2022/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2022-2023-du-kien/)
 
 ### Giáo vụ
+ - 08/04/2026: [[CTĐA] Thông báo nộp đề tài tốt nghiệp SAU bảo vệ khóa 2021, đợt 2 (bảo vệ tháng 04/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/04/ctda-thong-bao-nop-de-tai-tot-nghiep-sau-bao-ve-khoa-2021-dot-2-bao-ve-thang-04-2026/)
  - 27/03/2026: [[CTĐA] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2022 (bảo vệ tháng 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/03/ctda-thong-bao-nop-de-cuong-de-tai-tot-nghiep-khoa-2022-bao-ve-thang-08-2026/)
  - 21/03/2026: [[Quan trọng] Thông báo thay đổi thời gian tổ chức thi cuối kỳ HK2/2526](https://www.ctda.hcmus.edu.vn/vi/2026/03/quan-trong-thong-bao-thay-doi-thoi-gian-to-chuc-thi-cuoi-ky-hk2-2526/)
  - 19/03/2026: [Chương trình thực tập thực tế học kỳ 3 năm học 2025-2026 dành cho sinh viên CTĐA](https://www.ctda.hcmus.edu.vn/vi/2026/03/chuong-trinh-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2025-2026-danh-cho-sinh-vien-ctda/)
@@ -23,7 +24,6 @@ _Last update: **2026-04-08 08:51:36.951300+07:00**_
  - 22/01/2026: [[CTĐA] – Thông báo phúc khảo HK1/2526](https://www.ctda.hcmus.edu.vn/vi/2026/01/ctda-thong-bao-phuc-khao-hk1-2526/)
  - 09/01/2026: [CTĐA_Thời khóa biểu HK2/2526](https://www.ctda.hcmus.edu.vn/vi/2026/01/ctda_thoi-khoa-bieu-hk2-2526/)
  - 06/01/2026: [[CTĐA] Thông báo nộp báo cáo tiến độ thực hiện đề tài tốt nghiệp Khóa 2021 (bảo vệ tháng 04/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/01/ctda-thong-bao-nop-bao-cao-tien-do-thuc-hien-de-tai-tot-nghiep-khoa-2021-bao-ve-thang-04-2026/)
- - 01/01/2026: [Thông báo kết quả Vòng quay may mắn –  Khảo sát sử dụng công cụ AI trong học tập](https://www.ctda.hcmus.edu.vn/vi/2026/01/thong-bao-ket-qua-vong-quay-may-man-khao-sat-su-dung-cong-cu-ai-trong-hoc-tap/)
 
 ### Trợ lí sinh viên
  - 04/12/2025: [Thông báo đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2026 (dành cho các sinh viên tham gia BHYT tại Trường)](https://www.ctda.hcmus.edu.vn/vi/2025/12/thong-bao-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2026-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/)
@@ -62,6 +62,7 @@ _Last update: **2026-04-08 08:51:36.951300+07:00**_
  - 2-4-2026: [Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 22/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17294)
 
 ## Thông tin dành cho sinh viên
+- 08/04/2026: [[THÔNG BÁO] BUỔI NÓI CHUYỆN GIỚI THIỆU CHƯƠNG TRÌNH VEF 2.0 – HỌC KỲ FALL 2027](https://hcmus.edu.vn/thong-bao-buoi-noi-chuyen-gioi-thieu-chuong-trinh-vef-2-0-hoc-ky-fall-2027/)
 - 07/04/2026: [Triển khai chương trình  “ACB đồng hành cùng sinh viên ĐHQG-HCM” học kỳ 2 năm học 2025-2026 đợt 2](https://hcmus.edu.vn/trien-khai-chuong-trinh-acb-dong-hanh-cung-sinh-vien-dhqg-hcm-hoc-ky-2-nam-hoc-2025-2026-dot-2/)
 - 07/04/2026: [Kết quả đăng ký Sinh hoạt công dân – sinh viên cuối khóa, năm học 2025-2026](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-sinh-vien-cuoi-khoa-nam-hoc-2025-2026/)
 - 01/04/2026: [Thông báo tổ chức Chương trình tập huấn Ban cán sự lớp  “Thực hành kỹ năng quan sát, lắng nghe & kết nối trong hỗ trợ bạn học cùng lớp”  (Chuyên đề 1)](https://hcmus.edu.vn/thong-bao-to-chuc-chuong-trinh-tap-huan-ban-can-su-lop-thuc-hanh-ky-nang-quan-sat-lang-nghe-ket-noi-trong-ho-tro-ban-hoc-cung-lop-chuyen-de-1/)
@@ -71,7 +72,6 @@ _Last update: **2026-04-08 08:51:36.951300+07:00**_
 - 30/03/2026: [Thông báo danh sách sinh viên được miễn, giảm học phí học kỳ 2 năm học 2025-2026 (Đợt 1)](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-duoc-mien-giam-hoc-phi-hoc-ky-2-nam-hoc-2025-2026-dot-1/)
 - 25/03/2026: [Chính sách học bổng cho sinh viên](https://hcmus.edu.vn/chinh-sach-hoc-bong-cho-sinh-vien/)
 - 24/03/2026: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – Mahidol University (MU)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-mahidol-university-mu/)
-- 24/03/2026: [THÔNG BÁO GIẢI BÓNG ĐÁ SINH VIÊN HCMUS CUP 2026](https://hcmus.edu.vn/giai-bong-da-sinh-vien-hcmus-cup-2026/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK2/2025-2026 (Chương trình đề án)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/936-thong-bao-sv-danh-gia-mon-h-c-gv-hk2-2025-2026-chuong-trinh-d-an)
