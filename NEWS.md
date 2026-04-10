@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-04-10 08:55:31.269525+07:00**_
+_Last update: **2026-04-10 11:42:49.417830+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-04-10 08:55:31.269525+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 10-4-2026: [Thời khóa biểu có phòng các lớp Học phần 2 Khóa 35/2025 - bắt đầu học 13/4/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17314)
  - 9-4-2026: [Danh sách sinh viên tham dự hội thảo Interview Mindset – Làm chủ buổi phỏng vấn công nghệ ngày 14/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17313)
  - 7-4-2026: [Ngày hội việc làm Khoa Công nghệ thông tin 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17309)
  - 7-4-2026: [Đăng ký tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17308)
@@ -59,7 +60,6 @@ _Last update: **2026-04-10 08:55:31.269525+07:00**_
  - 3-4-2026: [[CQ] DSSV nộp đề cương đề tài tốt nghiệp K2022 đợt 2 (bảo vệ tháng 7/2026), HK2/25-26](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17298)
  - 2-4-2026: [Hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17297)
  - 2-4-2026: [Thông báo đăng ký phương thức đào tạo và kế hoạch học tập nghiên cứu sinh khoá năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17296)
- - 2-4-2026: [Đăng ký tham gia Hội thảo Cách xây dựng hồ sơ cá nhân nổi bật trong lĩnh vực IT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17295)
 
 ## Thông tin dành cho sinh viên
 - 08/04/2026: [[THÔNG BÁO] BUỔI NÓI CHUYỆN GIỚI THIỆU CHƯƠNG TRÌNH VEF 2.0 – HỌC KỲ FALL 2027](https://hcmus.edu.vn/thong-bao-buoi-noi-chuyen-gioi-thieu-chuong-trinh-vef-2-0-hoc-ky-fall-2027/)
