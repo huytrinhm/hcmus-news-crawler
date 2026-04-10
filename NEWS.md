@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-04-10 15:17:57.375528+07:00**_
+_Last update: **2026-04-10 17:03:24.789047+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2026-04-10 15:17:57.375528+07:00**_
  - 2-4-2026: [Thông báo đăng ký phương thức đào tạo và kế hoạch học tập nghiên cứu sinh khoá năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17296)
 
 ## Thông tin dành cho sinh viên
+- 10/04/2026: [Thông báo tổ chức Talkshow “Sa mạc nở hoa & hành trình vượt lên chính mình”](https://hcmus.edu.vn/thong-bao-to-chuc-talkshow-sa-mac-no-hoa-hanh-trinh-vuot-len-chinh-minh/)
 - 08/04/2026: [[THÔNG BÁO] BUỔI NÓI CHUYỆN GIỚI THIỆU CHƯƠNG TRÌNH VEF 2.0 – HỌC KỲ FALL 2027](https://hcmus.edu.vn/thong-bao-buoi-noi-chuyen-gioi-thieu-chuong-trinh-vef-2-0-hoc-ky-fall-2027/)
 - 07/04/2026: [Triển khai chương trình  “ACB đồng hành cùng sinh viên ĐHQG-HCM” học kỳ 2 năm học 2025-2026 đợt 2](https://hcmus.edu.vn/trien-khai-chuong-trinh-acb-dong-hanh-cung-sinh-vien-dhqg-hcm-hoc-ky-2-nam-hoc-2025-2026-dot-2/)
 - 07/04/2026: [Kết quả đăng ký Sinh hoạt công dân – sinh viên cuối khóa, năm học 2025-2026](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-sinh-vien-cuoi-khoa-nam-hoc-2025-2026/)
@@ -71,7 +72,6 @@ _Last update: **2026-04-10 15:17:57.375528+07:00**_
 - 31/03/2026: [Thông báo nghỉ lễ Giỗ Tổ Hùng Vương 10/3 âm lịch, ngày Chiến thắng 30/4 và ngày Quốc tế Lao động 01/5 năm 2026](https://hcmus.edu.vn/thong-bao-nghi-le-gio-to-hung-vuong-10-3-am-lich-ngay-chien-thang-30-4-va-ngay-quoc-te-lao-dong-01-5-nam-2026/)
 - 30/03/2026: [Thông báo danh sách sinh viên được miễn, giảm học phí học kỳ 2 năm học 2025-2026 (Đợt 1)](https://hcmus.edu.vn/thong-bao-danh-sach-sinh-vien-duoc-mien-giam-hoc-phi-hoc-ky-2-nam-hoc-2025-2026-dot-1/)
 - 25/03/2026: [Chính sách học bổng cho sinh viên](https://hcmus.edu.vn/chinh-sach-hoc-bong-cho-sinh-vien/)
-- 24/03/2026: [[THÔNG BÁO] Chương trình AUN Summer Camp 2026 – Mahidol University (MU)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-mahidol-university-mu/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK2/2025-2026 (Chương trình đề án)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/936-thong-bao-sv-danh-gia-mon-h-c-gv-hk2-2025-2026-chuong-trinh-d-an)
