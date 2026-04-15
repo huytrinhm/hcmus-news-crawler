@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-04-15 15:24:05.770171+07:00**_
+_Last update: **2026-04-15 17:11:09.258694+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,8 @@ _Last update: **2026-04-15 15:24:05.770171+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 15-4-2026: [Hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17337)
+ - 15-4-2026: [Đăng ký tham quan công ty DXC Vietnam ngày 13/5/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17336)
  - 15-4-2026: [Tổng kết Seminar Bộ môn Công nghệ Phần mềm lần 1 năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17332)
  - 14-4-2026: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 35/2025 - đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17331)
  - 14-4-2026: [Khoa Công nghệ thông tin đẩy mạnh nâng cao chất lượng hoạt động với trí tuệ nhân tạo](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17330)
@@ -58,8 +60,6 @@ _Last update: **2026-04-15 15:24:05.770171+07:00**_
  - 10-4-2026: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 34/2024 - đợt 3](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17315)
  - 10-4-2026: [Thời khóa biểu có phòng các lớp Học phần 2 Khóa 35/2025 - bắt đầu học 13/4/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17314)
  - 9-4-2026: [Danh sách sinh viên tham dự hội thảo Interview Mindset – Làm chủ buổi phỏng vấn công nghệ ngày 14/4](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17313)
- - 7-4-2026: [Ngày hội việc làm Khoa Công nghệ thông tin 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17309)
- - 7-4-2026: [Đăng ký tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17308)
 
 ## Thông tin dành cho sinh viên
 - 15/04/2026: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK1/2025-2026](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk1-2025-2026/)
