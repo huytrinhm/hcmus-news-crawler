@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-04-17 06:34:13.021207+07:00**_
+_Last update: **2026-04-17 08:58:14.670371+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2026-04-17 06:34:13.021207+07:00**_
  - 10-4-2026: [Thời khóa biểu có phòng các lớp Học phần 2 Khóa 35/2025 - bắt đầu học 13/4/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17314)
 
 ## Thông tin dành cho sinh viên
+- 17/04/2026: [Thông báo đăng ký học phần học kỳ 3 năm học 2025-2026 – Chương trình Chất lượng cao / Tăng cường tiếng Anh và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-3-nam-hoc-2025-2026-chuong-trinh-chat-luong-cao-tang-cuong-tieng-anh-va-viet-phap/)
 - 16/04/2026: [Kết quả xét tốt nghiệp đợt 1 năm 2026](https://hcmus.edu.vn/ket-qua-xet-tot-nghiep-dot-1-nam-2026/)
 - 16/04/2026: [Thông báo Triển khai đăng ký tham gia Cuộc thi chính luận về bảo vệ nền tảng tư tưởng của Đảng lần thứ Sáu, năm 2026](https://hcmus.edu.vn/thong-bao-trie%cc%89n-khai-dang-ky-tham-gia-cuoc-thi-chinh-luan-ve-bao-ve-nen-tang-tu-tuong-cua-dang-lan-thu-sau-nam-2026/)
 - 15/04/2026: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK1/2025-2026](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk1-2025-2026/)
@@ -71,7 +72,6 @@ _Last update: **2026-04-17 06:34:13.021207+07:00**_
 - 08/04/2026: [[THÔNG BÁO] BUỔI NÓI CHUYỆN GIỚI THIỆU CHƯƠNG TRÌNH VEF 2.0 – HỌC KỲ FALL 2027](https://hcmus.edu.vn/thong-bao-buoi-noi-chuyen-gioi-thieu-chuong-trinh-vef-2-0-hoc-ky-fall-2027/)
 - 07/04/2026: [Triển khai chương trình  “ACB đồng hành cùng sinh viên ĐHQG-HCM” học kỳ 2 năm học 2025-2026 đợt 2](https://hcmus.edu.vn/trien-khai-chuong-trinh-acb-dong-hanh-cung-sinh-vien-dhqg-hcm-hoc-ky-2-nam-hoc-2025-2026-dot-2/)
 - 07/04/2026: [Kết quả đăng ký Sinh hoạt công dân – sinh viên cuối khóa, năm học 2025-2026](https://hcmus.edu.vn/ket-qua-dang-ky-sinh-hoat-cong-dan-sinh-vien-cuoi-khoa-nam-hoc-2025-2026/)
-- 01/04/2026: [Thông báo tổ chức Chương trình tập huấn Ban cán sự lớp  “Thực hành kỹ năng quan sát, lắng nghe & kết nối trong hỗ trợ bạn học cùng lớp”  (Chuyên đề 1)](https://hcmus.edu.vn/thong-bao-to-chuc-chuong-trinh-tap-huan-ban-can-su-lop-thuc-hanh-ky-nang-quan-sat-lang-nghe-ket-noi-trong-ho-tro-ban-hoc-cung-lop-chuyen-de-1/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK2/2025-2026 (Chương trình đề án)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/936-thong-bao-sv-danh-gia-mon-h-c-gv-hk2-2025-2026-chuong-trinh-d-an)
