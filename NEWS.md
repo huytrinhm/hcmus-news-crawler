@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-04-21 15:49:44.994199+07:00**_
+_Last update: **2026-04-21 17:14:20.349325+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-04-21 15:49:44.994199+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 21-4-2026: [Danh sách học phần tiến sĩ mở cho Nghiên cứu sinh khóa tuyển năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17356)
  - 21-4-2026: [Danh sách tham quan DXC Vietnam ngày 13/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17353)
  - 21-4-2026: [[Phỏng vấn thử - việc thật] Nộp giấy xác nhận phỏng vấn tại sự kiện Ngày hội việc làm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17350)
  - 21-4-2026: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 34/2024 (đợt tháng 5/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17349)
@@ -59,7 +60,6 @@ _Last update: **2026-04-21 15:49:44.994199+07:00**_
  - 15-4-2026: [Đăng ký tham quan công ty DXC Vietnam ngày 13/5/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17336)
  - 15-4-2026: [Tổng kết Seminar Bộ môn Công nghệ Phần mềm lần 1 năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17332)
  - 14-4-2026: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 35/2025 - đợt 1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17331)
- - 14-4-2026: [Khoa Công nghệ thông tin đẩy mạnh nâng cao chất lượng hoạt động với trí tuệ nhân tạo](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17330)
 
 ## Thông tin dành cho sinh viên
 - 21/04/2026: [THÔNG BÁO Triển khai Chương trình Phát triển Nhân tài số 2026](https://hcmus.edu.vn/thong-bao-trien-khai-chuong-trinh-phat-trien-nhan-tai-so-2026/)
