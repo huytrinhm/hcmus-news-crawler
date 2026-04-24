@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-04-24 09:02:02.291876+07:00**_
+_Last update: **2026-04-24 12:28:55.193330+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-04-24 09:02:02.291876+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 24-4-2026: [Chương trình tham quan Nhà máy Bosch Việt Nam, Long Thành](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17360)
  - 23-4-2026: [Thông báo đóng học phí học phần 2 các lớp cao học khoá 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17359)
  - 23-4-2026: [Ngày hội việc làm Khoa Công nghệ thông tin - Kết nối và định hướng nghề nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17358)
  - 21-4-2026: [Danh sách học phần tiến sĩ mở cho Nghiên cứu sinh khóa tuyển năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17356)
@@ -59,7 +60,6 @@ _Last update: **2026-04-24 09:02:02.291876+07:00**_
  - 20-4-2026: [Mời tham dự buổi bảo vệ luận văn tốt nghiệp thạc sĩ đợt tháng 4/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17347)
  - 16-4-2026: [Đăng ký tham dự Hội thảo Giao tiếp hiệu quả khi làm việc trong môi trường IT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17343)
  - 15-4-2026: [Hội thảo Giới thiệu Doanh nghiệp và các vị trí tuyển dụng 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17337)
- - 15-4-2026: [Đăng ký tham quan công ty DXC Vietnam ngày 13/5/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17336)
 
 ## Thông tin dành cho sinh viên
 - 23/04/2026: [THÔNG BÁO TUYỂN CHỌN NHIỆM VỤ KHCN CẤP ĐHQG-HCM KẾ HOẠCH 2026-2027](https://hcmus.edu.vn/thong-bao-tuyen-chon-nhiem-vu-khcn-cap-dhqg-hcm-ke-hoach-2026-2027/)
