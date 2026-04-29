@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-04-29 09:23:48.235024+07:00**_
+_Last update: **2026-04-29 12:47:37.707897+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-04-29 09:23:48.235024+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 29-4-2026: [V/v nộp báo cáo luận văn/đồ án tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T4/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17367)
  - 28-4-2026: [[CQ] Thông báo nộp báo cáo tiến độ thực hiện đề tài tốt nghiệp Khóa 2022- Đợt 2 (bảo vệ tháng 7/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17366)
  - 24-4-2026: [Đăng ký tham quan công ty FAST](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17364)
  - 24-4-2026: [Danh sách sinh viên tham dự hội thảo Giao tiếp hiệu quả khi làm việc trong môi trường IT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17363)
@@ -59,7 +60,6 @@ _Last update: **2026-04-29 09:23:48.235024+07:00**_
  - 21-4-2026: [Danh sách học phần tiến sĩ mở cho Nghiên cứu sinh khóa tuyển năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17356)
  - 21-4-2026: [Danh sách tham quan DXC Vietnam ngày 13/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17353)
  - 21-4-2026: [[Phỏng vấn thử - việc thật] Nộp giấy xác nhận phỏng vấn tại sự kiện Ngày hội việc làm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17350)
- - 21-4-2026: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 34/2024 (đợt tháng 5/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17349)
 
 ## Thông tin dành cho sinh viên
 - 28/04/2026: [THƯ MỜI ĐĂNG KÝ VÀ VIẾT BÀI THAM GIA HỘI NGHỊ XÚC TÁC VÀ HẤP PHỤ TOÀN QUỐC LẦN THỨ XIII](https://hcmus.edu.vn/thu-moi-dang-ky-va-viet-bai-tham-gia-hoi-nghi-xuc-tac-va-hap-phu-toan-quoc-lan-thu-xiii/)
