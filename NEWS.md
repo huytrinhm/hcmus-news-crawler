@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-05-06 04:56:46.071680+07:00**_
+_Last update: **2026-05-06 05:53:05.073002+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,5 +62,15 @@ _Last update: **2026-05-06 04:56:46.071680+07:00**_
  - 23-4-2026: [Thông báo đóng học phí học phần 2 các lớp cao học khoá 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17359)
 
 ## Thông tin dành cho sinh viên
+- 05/05/2026: [Thông báo về việc hoàn thành nghĩa vụ học phí trước khi xét học bổng khuyến khích HK1/2025-2026](https://hcmus.edu.vn/thong-bao-ve-viec-hoan-thanh-nghia-vu-hoc-phi-truoc-khi-xet-hoc-bong-khuyen-khich-hoc-ky-1-nam-hoc-2025-2026/)
+- 28/04/2026: [THƯ MỜI ĐĂNG KÝ VÀ VIẾT BÀI THAM GIA HỘI NGHỊ XÚC TÁC VÀ HẤP PHỤ TOÀN QUỐC LẦN THỨ XIII](https://hcmus.edu.vn/thu-moi-dang-ky-va-viet-bai-tham-gia-hoi-nghi-xuc-tac-va-hap-phu-toan-quoc-lan-thu-xiii/)
+- 24/04/2026: [TRIỂN KHAI CHƯƠNG TRÌNH ƯU ĐÃI “ĐI BUÝT XANH – VỀ TẾT MIỄN PHÍ”](https://hcmus.edu.vn/trien-khai-chuong-trinh-uu-dai-di-buyt-xanh-ve-tet-mien-phi/)
+- 23/04/2026: [THÔNG BÁO TUYỂN CHỌN NHIỆM VỤ KHCN CẤP ĐHQG-HCM KẾ HOẠCH 2026-2027](https://hcmus.edu.vn/thong-bao-tuyen-chon-nhiem-vu-khcn-cap-dhqg-hcm-ke-hoach-2026-2027/)
+- 23/04/2026: [Thông báo tuyển sinh đại học ngành Công nghệ thông tin, hình thức đào tạo từ xa năm 2026](https://hcmus.edu.vn/thong-bao-tuyen-sinh-dai-hoc-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-tu-xa-nam-2026/)
+- 22/04/2026: [QUY TRÌNH THU HỌC PHÍ, LỆ PHÍ VÀ CÁC KHOẢN THU KHÁC CỦA NGƯỜI HỌC](https://hcmus.edu.vn/quy-trinh-thu-hoc-phi-le-phi-va-cac-khoan-thu-khac-cua-nguoi-hoc/)
+- 22/04/2026: [[THÔNG BÁO] Trại hè về ngôn ngữ và văn hóa MCUT 2026 – Trường ĐH Kỹ thuật Ming Chi, Đài Loan](https://hcmus.edu.vn/thong-bao-trai-he-ve-ngon-ngu-va-van-hoa-mcut-2026-truong-dh-ky-thuat-ming-chi-dai-loan/)
+- 22/04/2026: [[THÔNG BÁO] Chương trình AUN Summer Camp 202​6 – Universiti Brunei Darussalam (UBD)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-universiti-brunei-darussalam-ubd/)
+- 22/04/2026: [Chương trình đào tạo trình độ đại học khóa 2025](https://hcmus.edu.vn/chuong-trinh-dao-tao-trinh-do-dai-hoc-khoa-2025/)
+- 21/04/2026: [THÔNG BÁO Triển khai Chương trình Phát triển Nhân tài số 2026](https://hcmus.edu.vn/thong-bao-trien-khai-chuong-trinh-phat-trien-nhan-tai-so-2026/)
 
 ## Các thông báo về Khảo thí
