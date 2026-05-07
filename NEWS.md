@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-05-07 09:12:37.470975+07:00**_
+_Last update: **2026-05-07 12:54:50.682920+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-05-07 09:12:37.470975+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 7-5-2026: [Đăng ký tham quan FireGroup ngày 22/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17381)
  - 5-5-2026: [Danh sách tham quan NAB Vietnam ngày 21/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17380)
  - 4-5-2026: [Đăng ký tham quan NAB Vietnam ngày 21/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17375)
  - 4-5-2026: [Danh sách tham quan FAST ngày 15/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17373)
@@ -59,9 +60,9 @@ _Last update: **2026-05-07 09:12:37.470975+07:00**_
  - 24-4-2026: [Đăng ký tham quan công ty FAST](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17364)
  - 24-4-2026: [Danh sách sinh viên tham dự hội thảo Giao tiếp hiệu quả khi làm việc trong môi trường IT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17363)
  - 24-4-2026: [Chương trình tham quan Nhà máy Bosch Việt Nam, Long Thành](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17360)
- - 23-4-2026: [Thông báo đóng học phí học phần 2 các lớp cao học khoá 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17359)
 
 ## Thông tin dành cho sinh viên
+- 07/05/2026: [[THÔNG BÁO] Tuyển sinh đi học tại Ca-dắc-xtan & Ma-rốc năm 2026](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-ca-dac-xtan-ma-roc-nam-2026/)
 - 05/05/2026: [Thông báo về việc hoàn thành nghĩa vụ học phí trước khi xét học bổng khuyến khích HK1/2025-2026](https://hcmus.edu.vn/thong-bao-ve-viec-hoan-thanh-nghia-vu-hoc-phi-truoc-khi-xet-hoc-bong-khuyen-khich-hoc-ky-1-nam-hoc-2025-2026/)
 - 28/04/2026: [THƯ MỜI ĐĂNG KÝ VÀ VIẾT BÀI THAM GIA HỘI NGHỊ XÚC TÁC VÀ HẤP PHỤ TOÀN QUỐC LẦN THỨ XIII](https://hcmus.edu.vn/thu-moi-dang-ky-va-viet-bai-tham-gia-hoi-nghi-xuc-tac-va-hap-phu-toan-quoc-lan-thu-xiii/)
 - 24/04/2026: [TRIỂN KHAI CHƯƠNG TRÌNH ƯU ĐÃI “ĐI BUÝT XANH – VỀ TẾT MIỄN PHÍ”](https://hcmus.edu.vn/trien-khai-chuong-trinh-uu-dai-di-buyt-xanh-ve-tet-mien-phi/)
@@ -71,7 +72,6 @@ _Last update: **2026-05-07 09:12:37.470975+07:00**_
 - 22/04/2026: [[THÔNG BÁO] Trại hè về ngôn ngữ và văn hóa MCUT 2026 – Trường ĐH Kỹ thuật Ming Chi, Đài Loan](https://hcmus.edu.vn/thong-bao-trai-he-ve-ngon-ngu-va-van-hoa-mcut-2026-truong-dh-ky-thuat-ming-chi-dai-loan/)
 - 22/04/2026: [[THÔNG BÁO] Chương trình AUN Summer Camp 202​6 – Universiti Brunei Darussalam (UBD)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-universiti-brunei-darussalam-ubd/)
 - 22/04/2026: [Chương trình đào tạo trình độ đại học khóa 2025](https://hcmus.edu.vn/chuong-trinh-dao-tao-trinh-do-dai-hoc-khoa-2025/)
-- 21/04/2026: [THÔNG BÁO Triển khai Chương trình Phát triển Nhân tài số 2026](https://hcmus.edu.vn/thong-bao-trien-khai-chuong-trinh-phat-trien-nhan-tai-so-2026/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK2/2025-2026 (Chương trình đề án)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/936-thong-bao-sv-danh-gia-mon-h-c-gv-hk2-2025-2026-chuong-trinh-d-an)
