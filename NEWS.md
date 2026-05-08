@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-05-08 12:24:35.670202+07:00**_
+_Last update: **2026-05-08 14:19:46.236645+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-05-08 12:24:35.670202+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 8-5-2026: [Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2025 - 2026 (dành cho sinh viên năm 4)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17384)
  - 7-5-2026: [Đăng ký tham quan FireGroup ngày 22/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17381)
  - 5-5-2026: [Danh sách tham quan NAB Vietnam ngày 21/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17380)
  - 4-5-2026: [Đăng ký tham quan NAB Vietnam ngày 21/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17375)
@@ -59,7 +60,6 @@ _Last update: **2026-05-08 12:24:35.670202+07:00**_
  - 28-4-2026: [[CQ] Thông báo nộp báo cáo tiến độ thực hiện đề tài tốt nghiệp Khóa 2022- Đợt 2 (bảo vệ tháng 7/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17366)
  - 24-4-2026: [Đăng ký tham quan công ty FAST](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17364)
  - 24-4-2026: [Danh sách sinh viên tham dự hội thảo Giao tiếp hiệu quả khi làm việc trong môi trường IT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17363)
- - 24-4-2026: [Chương trình tham quan Nhà máy Bosch Việt Nam, Long Thành](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17360)
 
 ## Thông tin dành cho sinh viên
 - 07/05/2026: [[THÔNG BÁO] Tuyển sinh đi học tại Ca-dắc-xtan & Ma-rốc năm 2026](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-ca-dac-xtan-ma-roc-nam-2026/)
