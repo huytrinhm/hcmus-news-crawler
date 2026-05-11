@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-05-11 09:33:20.168355+07:00**_
+_Last update: **2026-05-11 13:31:43.191030+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-05-11 09:33:20.168355+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 11-5-2026: [Đăng ký tham quan VNG ngày 25/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17386)
  - 8-5-2026: [Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2025 - 2026 (dành cho sinh viên năm 4)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17385)
  - 7-5-2026: [Đăng ký tham quan FireGroup ngày 22/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17381)
  - 5-5-2026: [Danh sách tham quan NAB Vietnam ngày 21/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17380)
@@ -59,7 +60,6 @@ _Last update: **2026-05-11 09:33:20.168355+07:00**_
  - 29-4-2026: [V/v nộp báo cáo luận văn/đồ án tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T4/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17367)
  - 28-4-2026: [[CQ] Thông báo nộp báo cáo tiến độ thực hiện đề tài tốt nghiệp Khóa 2022- Đợt 2 (bảo vệ tháng 7/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17366)
  - 24-4-2026: [Đăng ký tham quan công ty FAST](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17364)
- - 24-4-2026: [Danh sách sinh viên tham dự hội thảo Giao tiếp hiệu quả khi làm việc trong môi trường IT](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17363)
 
 ## Thông tin dành cho sinh viên
 - 08/05/2026: [Thông báo Tổ chức Chương trình tập huấn Ban cán sự lớp – Chuyên đề 2 “Thực hành mô phỏng tình huống sơ cứu tâm lý cho bạn học và kỹ thuật tự chăm sóc sức khỏe tinh thần cho bản thân”](https://hcmus.edu.vn/thong-bao-to-chuc-chuong-trinh-tap-huan-ban-can-su-lop-chuyen-de-2-thuc-hanh-mo-phong-tinh-huong-so-cuu-tam-ly-cho-ban-hoc-va-ky-thuat-tu-cham-soc-suc-khoe-tinh-than-cho-ba%cc%89n-tha/)
