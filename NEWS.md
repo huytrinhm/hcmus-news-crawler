@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-05-12 07:01:36.446919+07:00**_
+_Last update: **2026-05-12 11:32:11.861940+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-05-12 07:01:36.446919+07:00**_
  - 25/05/2021: [Quy định xét học bổng khuyến khích năm học 2020-2021 Các chương trình đào tạo theo đề án.](https://www.ctda.hcmus.edu.vn/vi/2021/05/quy-dinh-xet-hoc-bong-khuyen-khich-nam-hoc-2020-2021-cac-chuong-trinh-dao-tao-theo-de-an/)
 
 ## FIT
+ - 12-5-2026: [Danh sách tham quan FireGroup ngày 22/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17390)
  - 11-5-2026: [Danh sách sinh viên tham quan VNG ngày 25/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17388)
  - 11-5-2026: [Đăng ký tham quan VNG ngày 25/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17386)
  - 8-5-2026: [Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2025 - 2026 (dành cho sinh viên năm 4)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17385)
@@ -59,9 +60,9 @@ _Last update: **2026-05-12 07:01:36.446919+07:00**_
  - 4-5-2026: [Danh sách tham quan FAST ngày 15/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17373)
  - 4-5-2026: [Thông báo về việc cập nhật chuyên ngành cho sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn–Khóa 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17370)
  - 29-4-2026: [V/v nộp báo cáo luận văn/đồ án tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T4/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17367)
- - 28-4-2026: [[CQ] Thông báo nộp báo cáo tiến độ thực hiện đề tài tốt nghiệp Khóa 2022- Đợt 2 (bảo vệ tháng 7/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17366)
 
 ## Thông tin dành cho sinh viên
+- 12/05/2026: [[THÔNG BÁO] Chương trình AUN Summer Camp 202​6 – Chulalongkorn University](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-chulalongkorn-university/)
 - 08/05/2026: [Thông báo Tổ chức Chương trình tập huấn Ban cán sự lớp – Chuyên đề 2 “Thực hành mô phỏng tình huống sơ cứu tâm lý cho bạn học và kỹ thuật tự chăm sóc sức khỏe tinh thần cho bản thân”](https://hcmus.edu.vn/thong-bao-to-chuc-chuong-trinh-tap-huan-ban-can-su-lop-chuyen-de-2-thuc-hanh-mo-phong-tinh-huong-so-cuu-tam-ly-cho-ban-hoc-va-ky-thuat-tu-cham-soc-suc-khoe-tinh-than-cho-ba%cc%89n-tha/)
 - 07/05/2026: [[THÔNG BÁO] Tuyển sinh đi học tại Ca-dắc-xtan & Ma-rốc năm 2026](https://hcmus.edu.vn/thong-bao-tuyen-sinh-di-hoc-tai-ca-dac-xtan-ma-roc-nam-2026/)
 - 05/05/2026: [Thông báo về việc hoàn thành nghĩa vụ học phí trước khi xét học bổng khuyến khích HK1/2025-2026](https://hcmus.edu.vn/thong-bao-ve-viec-hoan-thanh-nghia-vu-hoc-phi-truoc-khi-xet-hoc-bong-khuyen-khich-hoc-ky-1-nam-hoc-2025-2026/)
@@ -71,7 +72,6 @@ _Last update: **2026-05-12 07:01:36.446919+07:00**_
 - 23/04/2026: [Thông báo tuyển sinh đại học ngành Công nghệ thông tin, hình thức đào tạo từ xa năm 2026](https://hcmus.edu.vn/thong-bao-tuyen-sinh-dai-hoc-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-tu-xa-nam-2026/)
 - 22/04/2026: [QUY TRÌNH THU HỌC PHÍ, LỆ PHÍ VÀ CÁC KHOẢN THU KHÁC CỦA NGƯỜI HỌC](https://hcmus.edu.vn/quy-trinh-thu-hoc-phi-le-phi-va-cac-khoan-thu-khac-cua-nguoi-hoc/)
 - 22/04/2026: [[THÔNG BÁO] Trại hè về ngôn ngữ và văn hóa MCUT 2026 – Trường ĐH Kỹ thuật Ming Chi, Đài Loan](https://hcmus.edu.vn/thong-bao-trai-he-ve-ngon-ngu-va-van-hoa-mcut-2026-truong-dh-ky-thuat-ming-chi-dai-loan/)
-- 22/04/2026: [[THÔNG BÁO] Chương trình AUN Summer Camp 202​6 – Universiti Brunei Darussalam (UBD)](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-universiti-brunei-darussalam-ubd/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK2/2025-2026 (Chương trình đề án)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/936-thong-bao-sv-danh-gia-mon-h-c-gv-hk2-2025-2026-chuong-trinh-d-an)
