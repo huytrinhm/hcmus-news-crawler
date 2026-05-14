@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-05-14 11:38:07.895879+07:00**_
+_Last update: **2026-05-14 14:38:15.969199+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2026-05-14 11:38:07.895879+07:00**_
  - 4-5-2026: [Thông báo về việc cập nhật chuyên ngành cho sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn–Khóa 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17370)
 
 ## Thông tin dành cho sinh viên
+- 14/05/2026: [THÔNG BÁO Đăng ký tham gia Giải thưởng Sáng tạo tương lai – VietFuture Awards 2026](https://hcmus.edu.vn/thong-bao-dang-ky-tham-gia-giai-thuong-sang-tao-tuong-lai-vietfuture-awards-2026/)
 - 13/05/2026: [Thông báo kết quả dự kiến học bổng khuyến khích HK1/2025-2026 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2025-2026-chuong-trinh-chuan/)
 - 12/05/2026: [[THÔNG BÁO] Chương trình AUN Summer Camp 202​6 – Chulalongkorn University](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-chulalongkorn-university/)
 - 08/05/2026: [Thông báo Tổ chức Chương trình tập huấn Ban cán sự lớp – Chuyên đề 2 “Thực hành mô phỏng tình huống sơ cứu tâm lý cho bạn học và kỹ thuật tự chăm sóc sức khỏe tinh thần cho bản thân”](https://hcmus.edu.vn/thong-bao-to-chuc-chuong-trinh-tap-huan-ban-can-su-lop-chuyen-de-2-thuc-hanh-mo-phong-tinh-huong-so-cuu-tam-ly-cho-ban-hoc-va-ky-thuat-tu-cham-soc-suc-khoe-tinh-than-cho-ba%cc%89n-tha/)
@@ -71,7 +72,6 @@ _Last update: **2026-05-14 11:38:07.895879+07:00**_
 - 24/04/2026: [TRIỂN KHAI CHƯƠNG TRÌNH ƯU ĐÃI “ĐI BUÝT XANH – VỀ TẾT MIỄN PHÍ”](https://hcmus.edu.vn/trien-khai-chuong-trinh-uu-dai-di-buyt-xanh-ve-tet-mien-phi/)
 - 23/04/2026: [THÔNG BÁO TUYỂN CHỌN NHIỆM VỤ KHCN CẤP ĐHQG-HCM KẾ HOẠCH 2026-2027](https://hcmus.edu.vn/thong-bao-tuyen-chon-nhiem-vu-khcn-cap-dhqg-hcm-ke-hoach-2026-2027/)
 - 23/04/2026: [Thông báo tuyển sinh đại học ngành Công nghệ thông tin, hình thức đào tạo từ xa năm 2026](https://hcmus.edu.vn/thong-bao-tuyen-sinh-dai-hoc-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-tu-xa-nam-2026/)
-- 22/04/2026: [QUY TRÌNH THU HỌC PHÍ, LỆ PHÍ VÀ CÁC KHOẢN THU KHÁC CỦA NGƯỜI HỌC](https://hcmus.edu.vn/quy-trinh-thu-hoc-phi-le-phi-va-cac-khoan-thu-khac-cua-nguoi-hoc/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo SV đánh giá môn học - GV HK2/2025-2026 (Chương trình Chính quy)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/943-thong-bao-sv-danh-gia-mon-h-c-gv-hk2-2025-2026-chuong-trinh-chinh-quy)
