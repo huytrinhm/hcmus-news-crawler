@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-05-15 13:27:15.558102+07:00**_
+_Last update: **2026-05-15 16:40:57.040408+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-05-15 13:27:15.558102+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 15-5-2026: [Khoa Công nghệ thông tin đổi mới chương trình đào tạo, chuẩn bị nguồn nhân lực cho kỷ nguyên AI](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17393)
  - 13-5-2026: [Thông tin chương trình tài trợ câu lạc bộ tài năng nghiên cứu khoa học của Quỹ Đổi mới sáng tạo Vingroup (VINIF)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17391)
  - 12-5-2026: [Danh sách tham quan FireGroup ngày 22/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17390)
  - 11-5-2026: [Danh sách sinh viên tham quan VNG ngày 25/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17388)
@@ -59,7 +60,6 @@ _Last update: **2026-05-15 13:27:15.558102+07:00**_
  - 5-5-2026: [Danh sách tham quan NAB Vietnam ngày 21/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17380)
  - 4-5-2026: [Đăng ký tham quan NAB Vietnam ngày 21/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17375)
  - 4-5-2026: [Danh sách tham quan FAST ngày 15/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17373)
- - 4-5-2026: [Thông báo về việc cập nhật chuyên ngành cho sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn–Khóa 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17370)
 
 ## Thông tin dành cho sinh viên
 - 14/05/2026: [THÔNG BÁO Đăng ký tham gia Giải thưởng Sáng tạo tương lai – VietFuture Awards 2026](https://hcmus.edu.vn/thong-bao-dang-ky-tham-gia-giai-thuong-sang-tao-tuong-lai-vietfuture-awards-2026/)
