@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-05-15 22:59:12.929272+07:00**_
+_Last update: **2026-05-16 00:43:09.374937+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-05-15 22:59:12.929272+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 15-5-2026: [Đăng ký tham gia Buổi giới thiệu về các chương trình học bổng trường Đại học Quốc gia Seoul (Hàn Quốc) dành cho Sinh viên Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17396)
  - 15-5-2026: [Danh sách sinh viên đã đăng ký sinh hoạt công dân cuối khóa năm học 2025 - 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17395)
  - 15-5-2026: [Khoa Công nghệ thông tin đổi mới chương trình đào tạo, chuẩn bị nguồn nhân lực cho kỷ nguyên AI](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17393)
  - 13-5-2026: [Thông tin chương trình tài trợ câu lạc bộ tài năng nghiên cứu khoa học của Quỹ Đổi mới sáng tạo Vingroup (VINIF)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17391)
@@ -59,7 +60,6 @@ _Last update: **2026-05-15 22:59:12.929272+07:00**_
  - 8-5-2026: [Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2025 - 2026 (dành cho sinh viên năm 4)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17385)
  - 7-5-2026: [Đăng ký tham quan FireGroup ngày 22/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17381)
  - 5-5-2026: [Danh sách tham quan NAB Vietnam ngày 21/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17380)
- - 4-5-2026: [Đăng ký tham quan NAB Vietnam ngày 21/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17375)
 
 ## Thông tin dành cho sinh viên
 - 14/05/2026: [THÔNG BÁO Đăng ký tham gia Giải thưởng Sáng tạo tương lai – VietFuture Awards 2026](https://hcmus.edu.vn/thong-bao-dang-ky-tham-gia-giai-thuong-sang-tao-tuong-lai-vietfuture-awards-2026/)
