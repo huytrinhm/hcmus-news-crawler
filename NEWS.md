@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-05-18 09:41:30.286413+07:00**_
+_Last update: **2026-05-18 13:50:06.797418+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-05-18 09:41:30.286413+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 18-5-2026: [Khảo sát mức độ quan tâm ngành/ chuyên ngành Khóa 2024 - Chương trình chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17400)
  - 17-5-2026: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Nguyễn Ngọc Trung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17397)
  - 15-5-2026: [Đăng ký tham gia Buổi giới thiệu về các chương trình học bổng trường Đại học Quốc gia Seoul (Hàn Quốc) dành cho Sinh viên Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17396)
  - 15-5-2026: [Danh sách sinh viên đã đăng ký sinh hoạt công dân cuối khóa năm học 2025 - 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17395)
@@ -59,7 +60,6 @@ _Last update: **2026-05-18 09:41:30.286413+07:00**_
  - 11-5-2026: [Danh sách sinh viên tham quan VNG ngày 25/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17388)
  - 11-5-2026: [Đăng ký tham quan VNG ngày 25/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17386)
  - 8-5-2026: [Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2025 - 2026 (dành cho sinh viên năm 4)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17385)
- - 7-5-2026: [Đăng ký tham quan FireGroup ngày 22/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17381)
 
 ## Thông tin dành cho sinh viên
 - 14/05/2026: [THÔNG BÁO Đăng ký tham gia Giải thưởng Sáng tạo tương lai – VietFuture Awards 2026](https://hcmus.edu.vn/thong-bao-dang-ky-tham-gia-giai-thuong-sang-tao-tuong-lai-vietfuture-awards-2026/)
