@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-05-19 06:59:00.110402+07:00**_
+_Last update: **2026-05-19 10:55:14.277809+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-05-19 06:59:00.110402+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 19-5-2026: [Thông báo chuyên ngành chính thức cho sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn Khóa 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17402)
  - 18-5-2026: [Khảo sát mức độ quan tâm ngành/ chuyên ngành Khóa 2024 - Chương trình chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17400)
  - 17-5-2026: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Nguyễn Ngọc Trung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17397)
  - 15-5-2026: [Đăng ký tham gia Buổi giới thiệu về các chương trình học bổng trường Đại học Quốc gia Seoul (Hàn Quốc) dành cho Sinh viên Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17396)
@@ -59,7 +60,6 @@ _Last update: **2026-05-19 06:59:00.110402+07:00**_
  - 12-5-2026: [Danh sách tham quan FireGroup ngày 22/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17390)
  - 11-5-2026: [Danh sách sinh viên tham quan VNG ngày 25/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17388)
  - 11-5-2026: [Đăng ký tham quan VNG ngày 25/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17386)
- - 8-5-2026: [Thông báo về Chương trình Sinh hoạt công dân cuối khóa năm học 2025 - 2026 (dành cho sinh viên năm 4)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17385)
 
 ## Thông tin dành cho sinh viên
 - 18/05/2026: [Thông báo chương trình học bổng vượt khó học tốt do ACB tài trợ năm học 2025-2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-vuo%cc%a3t-kho-ho%cc%a3c-tot-nam-ho%cc%a3c-2025-2026-2/)
