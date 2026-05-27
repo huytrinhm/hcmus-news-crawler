@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-05-27 13:58:09.134825+07:00**_
+_Last update: **2026-05-27 17:55:29.791810+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -14,6 +14,7 @@ _Last update: **2026-05-27 13:58:09.134825+07:00**_
  - 30/09/2022: [[CTĐA] Kế hoạch mở học phần năm học 2022-2023 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2022/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2022-2023-du-kien/)
 
 ### Giáo vụ
+ - 27/05/2026: [[CTĐA] Thời khoá biểu HK3 năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/05/ctda-thoi-khoa-bieu-hk3-nam-hoc-2025-2026/)
  - 13/05/2026: [[CTĐA] Thông báo nộp báo cáo tiến độ thực hiện đề tài tốt nghiệp Khóa 2022 (bảo vệ tháng 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/05/ctda-thong-bao-nop-bao-cao-tien-do-thuc-hien-de-tai-tot-nghiep-khoa-2022-bao-ve-thang-08-2026/)
  - 24/04/2026: [[CTĐA] Lịch thi chi tiết cuối kỳ HK2/2526](https://www.ctda.hcmus.edu.vn/vi/2026/04/ctda-lich-thi-chi-tiet-cuoi-ky-hk2-2526/)
  - 20/04/2026: [[CTĐA] DSSV nộp đề cương đề tài tốt nghiệp K2022 đợt 1 (bảo vệ tháng 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/04/ctda-dssv-nop-de-cuong-de-tai-tot-nghiep-k2022-dot-1-bao-ve-thang-08-2026/)
@@ -23,7 +24,6 @@ _Last update: **2026-05-27 13:58:09.134825+07:00**_
  - 19/03/2026: [Chương trình thực tập thực tế học kỳ 3 năm học 2025-2026 dành cho sinh viên CTĐA](https://www.ctda.hcmus.edu.vn/vi/2026/03/chuong-trinh-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2025-2026-danh-cho-sinh-vien-ctda/)
  - 19/03/2026: [Mời tham gia sinh hoạt về kế hoạch tổ chức học phần Thực tập thực tế – Học kỳ 3 năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/03/moi-tham-gia-sinh-hoat-ve-ke-hoach-to-chuc-hoc-phan-thuc-tap-thuc-te-hoc-ky-3-nam-hoc-2025-2026/)
  - 24/02/2026: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2021, đợt tháng 4/2026](https://www.ctda.hcmus.edu.vn/vi/2026/02/thong-bao-nop-don-dang-ky-bao-ve-huy-bao-ve-de-tai-tot-nghiep-khoa-2021-dot-thang-4-2026/)
- - 02/02/2026: [[CTĐA] – DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2022-đợt 1 (bảo vệ 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/02/ctda-dssv-chinh-thuc-thuc-hien-de-tai-tot-nghiep-khoa-2022-dot-1-bao-ve-08-2026/)
 
 ### Trợ lí sinh viên
  - 04/12/2025: [Thông báo đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2026 (dành cho các sinh viên tham gia BHYT tại Trường)](https://www.ctda.hcmus.edu.vn/vi/2025/12/thong-bao-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2026-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/)
@@ -74,19 +74,19 @@ _Last update: **2026-05-27 13:58:09.134825+07:00**_
 - 28/04/2026: [THƯ MỜI ĐĂNG KÝ VÀ VIẾT BÀI THAM GIA HỘI NGHỊ XÚC TÁC VÀ HẤP PHỤ TOÀN QUỐC LẦN THỨ XIII](https://hcmus.edu.vn/thu-moi-dang-ky-va-viet-bai-tham-gia-hoi-nghi-xuc-tac-va-hap-phu-toan-quoc-lan-thu-xiii/)
 
 ## Các thông báo về Khảo thí
+ - [Thông báo thu thập thông tin việc học việc làm của SVTN đợt 1 năm 2026](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/946-thong-bao-thu-th-p-thong-tin-vi-c-h-c-vi-c-lam-c-a-svtn-d-t-1-nam-2026)
  - [Thông báo phúc khảo HK2/25-26 CT đề án các khoa](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/945-thong-bao-phuc-kh-o-hk1-25-26-ct-d-an-cac-khoa-2)
  - [Thông báo phúc khảo HK2/25-26 CT đề án khoa CNTT](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/944-thong-bao-phuc-kh-o-hk2-25-26-ct-d-an-khoa-cntt)
  - [Thông báo SV đánh giá môn học - GV HK2/2025-2026 (Chương trình Chính quy)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/943-thong-bao-sv-danh-gia-mon-h-c-gv-hk2-2025-2026-chuong-trinh-chinh-quy)
  - [Thông báo SV đánh giá môn học - GV HK2/2025-2026 (Chương trình đề án)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/936-thong-bao-sv-danh-gia-mon-h-c-gv-hk2-2025-2026-chuong-trinh-d-an)
- - [Thông báo thay đổi phòng thi giữa HK2/25-26 tại cơ sở NVC](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/935-thong-bao-thay-d-i-phong-thi-gi-a-hk2-25-26-t-i-co-s-nvc)
 
 ***
 
+ - [Lịch thi cuối kỳ HK2/25-26 Chính quy tại LT và NVC](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/947-l-ch-thi-cu-i-ky-hk2-25-26-chinh-quy-t-i-lt-va-nvc)
  - [Lịch thi cuối kỳ HK2/25-26 hệ ĐTTX](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/942-l-ch-thi-cu-i-ky-hk2-25-26-h-dttx)
  - [Lịch thi giữa kỳ HK2/25-26 các lớp Chính quy tại NVC và LT](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/941-l-ch-thi-gi-a-ky-hk2-25-26-cac-l-p-chinh-quy-d-i-tra-t-i-nvc-va-lt)
  - [Lịch thi cuối kỳ (sớm) HK2/25-26 các môn thi sớm tại LT (CẬP NHẬT 09/04)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/940-l-ch-thi-cu-i-ky-s-m-hk2-25-26-cac-mon-thi-s-m-t-i-lt)
  - [Lịch thi cuối kỳ HK2/25-26 CT đề án khoa CNTT (Cập nhật 13/04)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/939-l-ch-thi-cu-i-ky-hk2-25-26-ct-d-an-khoa-cntt)
- - [Lịch thi cuối kỳ HK2/25-26 CT đề án khoa Hóa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/938-l-ch-thi-cu-i-ky-hk2-25-26-ct-d-an-cac-khoa-hoa)
 
 ***
 
