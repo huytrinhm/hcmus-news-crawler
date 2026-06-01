@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-06-01 18:15:55.310166+07:00**_
+_Last update: **2026-06-02 00:22:56.083357+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-06-01 18:15:55.310166+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 1-6-2026: [Danh sách tham quan KMS Technology ngày 10/6](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17426)
  - 1-6-2026: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Trần Thống](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17422)
  - 31-5-2026: [Danh sách sinh viên tham dự hội thảo Hội thảo Interview Mindset: Làm chủ buổi phỏng vấn công nghệ.](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17421)
  - 29-5-2026: [Đăng ký tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17420)
@@ -59,7 +60,6 @@ _Last update: **2026-06-01 18:15:55.310166+07:00**_
  - 23-5-2026: [Tọa đàm “Giải mã ngành/chuyên ngành cho sinh viên khóa tuyển 2024 – Chương trình Chuẩn”](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17408)
  - 19-5-2026: [Thông báo chuyên ngành chính thức cho sinh viên bậc Đại học hệ chính quy Chương trình Chuẩn Khóa 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17402)
  - 18-5-2026: [Khảo sát mức độ quan tâm ngành/ chuyên ngành Khóa 2024 - Chương trình chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17400)
- - 17-5-2026: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Nguyễn Ngọc Trung](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17397)
 
 ## Thông tin dành cho sinh viên
 - 01/06/2026: [Thông tin về Chương trình Học bổng Synopsys IC Design Scholarship 2026](https://hcmus.edu.vn/thong-tin-ve-chuong-trinh-hoc-bong-synopsys-ic-design-scholarship-2026/)
