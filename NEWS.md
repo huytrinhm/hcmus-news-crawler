@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-06-02 14:18:59.985538+07:00**_
+_Last update: **2026-06-02 18:58:36.290512+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2026-06-02 14:18:59.985538+07:00**_
  - 18-5-2026: [Khảo sát mức độ quan tâm ngành/ chuyên ngành Khóa 2024 - Chương trình chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17400)
 
 ## Thông tin dành cho sinh viên
+- 02/06/2026: [Thông báo kết quả dự kiến HBKK HK1/2025-2026 Khoa Hóa học, Môi trường, Điện tử-Viễn thông, Sinh học-CNSH, Khoa học&CNVL, Vật lý-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk1-2025-2026-khoa-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-khoa-hoccnvl-vat-ly-vlkt-ctda/)
 - 02/06/2026: [Thông báo Chương trình học bổng Vallet 2026 (Dành cho Sinh viên Đại học)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-vallet-2026-danh-cho-sinh-vien-dai-hoc/)
 - 01/06/2026: [Thông tin về Chương trình Học bổng Synopsys IC Design Scholarship 2026](https://hcmus.edu.vn/thong-tin-ve-chuong-trinh-hoc-bong-synopsys-ic-design-scholarship-2026/)
 - 30/05/2026: [Thông báo nộp hồ sơ xét hoàn tất chương trình đào tạo trình độ đại học hệ chính quy – Đợt tháng 6 năm 2026](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-dot-thang-6-nam-2026/)
@@ -71,7 +72,6 @@ _Last update: **2026-06-02 14:18:59.985538+07:00**_
 - 14/05/2026: [THÔNG BÁO Đăng ký tham gia Giải thưởng Sáng tạo tương lai – VietFuture Awards 2026](https://hcmus.edu.vn/thong-bao-dang-ky-tham-gia-giai-thuong-sang-tao-tuong-lai-vietfuture-awards-2026/)
 - 13/05/2026: [Thông báo kết quả dự kiến học bổng khuyến khích HK1/2025-2026 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk1-2025-2026-chuong-trinh-chuan/)
 - 12/05/2026: [[THÔNG BÁO] Chương trình AUN Summer Camp 202​6 – Chulalongkorn University](https://hcmus.edu.vn/thong-bao-chuong-trinh-aun-summer-camp-2026-chulalongkorn-university/)
-- 08/05/2026: [Thông báo Tổ chức Chương trình tập huấn Ban cán sự lớp – Chuyên đề 2 “Thực hành mô phỏng tình huống sơ cứu tâm lý cho bạn học và kỹ thuật tự chăm sóc sức khỏe tinh thần cho bản thân”](https://hcmus.edu.vn/thong-bao-to-chuc-chuong-trinh-tap-huan-ban-can-su-lop-chuyen-de-2-thuc-hanh-mo-phong-tinh-huong-so-cuu-tam-ly-cho-ban-hoc-va-ky-thuat-tu-cham-soc-suc-khoe-tinh-than-cho-ba%cc%89n-tha/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo thu thập thông tin việc học việc làm của SVTN đợt 1 năm 2026](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/946-thong-bao-thu-th-p-thong-tin-vi-c-h-c-vi-c-lam-c-a-svtn-d-t-1-nam-2026)
