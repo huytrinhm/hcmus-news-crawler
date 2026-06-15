@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-06-15 16:53:43.680843+07:00**_
+_Last update: **2026-06-15 22:38:59.553801+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -62,16 +62,6 @@ _Last update: **2026-06-15 16:53:43.680843+07:00**_
  - 29-5-2026: [Đăng ký tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17420)
 
 ## Thông tin dành cho sinh viên
-- 12/06/2026: [Thông báo nhận bằng tốt nghiệp bậc Đại học/Liên thông đại học hệ Chính quy, bậc Cao đẳng ngành Công nghệ thông tin và hệ Đào tạo từ xa cho các đợt xét tốt nghiệp tháng 3 và tháng 4 năm 2026](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-bac-dai-hoc-lien-thong-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-va-he-dao-tao-tu-xa-cho-cac-dot-xet-tot-nghiep-thang-3-va-thang-4-nam-2026/)
-- 11/06/2026: [Thông báo đăng ký học phần học kỳ 3 năm học 2025-2026 cho sinh viên Đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-3-nam-hoc-2025-2026-cho-sinh-vien-dai-hoc-he-chinh-quy/)
-- 05/06/2026: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK1/2025-2026 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk1-2025-2026-chuong-trinh-chuan/)
-- 04/06/2026: [Thông báo tổ chức Workshop: “Hội chứng Dunning – Kruger, nhận thức đúng về năng lực bản thân”](https://hcmus.edu.vn/thong-bao-to-chuc-workshop-hoi-chung-dunning-kruger-nhan-thuc-dung-ve-nang-luc-ban-than/)
-- 02/06/2026: [Thông báo kết quả dự kiến HBKK HK1/2025-2026 Khoa Hóa học, Môi trường, Điện tử-Viễn thông, Sinh học-CNSH, Khoa học&CNVL, Vật lý-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk1-2025-2026-khoa-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-khoa-hoccnvl-vat-ly-vlkt-ctda/)
-- 02/06/2026: [Thông báo Chương trình học bổng Vallet 2026 (Dành cho Sinh viên Đại học)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-vallet-2026-danh-cho-sinh-vien-dai-hoc/)
-- 01/06/2026: [Thông tin về Chương trình Học bổng Synopsys IC Design Scholarship 2026](https://hcmus.edu.vn/thong-tin-ve-chuong-trinh-hoc-bong-synopsys-ic-design-scholarship-2026/)
-- 30/05/2026: [Thông báo nộp hồ sơ xét hoàn tất chương trình đào tạo trình độ đại học hệ chính quy – Đợt tháng 6 năm 2026](https://hcmus.edu.vn/thong-bao-nop-ho-so-xet-hoan-tat-chuong-trinh-dao-tao-trinh-do-dai-hoc-he-chinh-quy-dot-thang-6-nam-2026/)
-- 21/05/2026: [Kế hoạch mở học phần và hướng dẫn đăng ký học phần chương trình chuẩn/đại trà trong HK3/2025-2026 tại cơ sở 2 (cập nhật)](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-chuong-trinh-chuan-dai-tra-trong-hk3-2025-2026-tai-co-so-2/)
-- 21/05/2026: [Thông báo v/v phát thuốc tẩy giun Đợt 1 năm 2026 cho VC-NLĐ và người học Trường ĐH Khoa học tự nhiên](https://hcmus.edu.vn/thong-bao-v-v-phat-thuoc-tay-giun-dot-1-nam-2026-cho-vc-nld-va-nguoi-hoc-truong-dh-khoa-hoc-tu-nhien/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo thu thập thông tin việc học việc làm của SVTN đợt 1 năm 2026](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/946-thong-bao-thu-th-p-thong-tin-vi-c-h-c-vi-c-lam-c-a-svtn-d-t-1-nam-2026)
@@ -82,11 +72,11 @@ _Last update: **2026-06-15 16:53:43.680843+07:00**_
 
 ***
 
+ - [Lịch thi giữa kỳ HK3/25-26 CT đề án các Khoa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/949-l-ch-thi-gi-a-ky-hk3-25-26-ct-d-an-cac-khoa)
+ - [Lịch thi giữa kỳ HK3/25-26 CT đề án khoa Hóa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/948-l-ch-thi-gi-a-ky-hk3-25-26-ct-d-an-khoa-hoa)
  - [Lịch thi cuối kỳ HK2/25-26 Chính quy tại LT và NVC (Cập nhật 02/06)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/947-l-ch-thi-cu-i-ky-hk2-25-26-chinh-quy-t-i-lt-va-nvc)
  - [Lịch thi cuối kỳ HK2/25-26 hệ ĐTTX](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/942-l-ch-thi-cu-i-ky-hk2-25-26-h-dttx)
  - [Lịch thi giữa kỳ HK2/25-26 các lớp Chính quy tại NVC và LT](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/941-l-ch-thi-gi-a-ky-hk2-25-26-cac-l-p-chinh-quy-d-i-tra-t-i-nvc-va-lt)
- - [Lịch thi cuối kỳ (sớm) HK2/25-26 các môn thi sớm tại LT (CẬP NHẬT 09/04)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/940-l-ch-thi-cu-i-ky-s-m-hk2-25-26-cac-mon-thi-s-m-t-i-lt)
- - [Lịch thi cuối kỳ HK2/25-26 CT đề án khoa CNTT (Cập nhật 13/04)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/939-l-ch-thi-cu-i-ky-hk2-25-26-ct-d-an-khoa-cntt)
 
 ***
 
