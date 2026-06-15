@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-06-15 06:01:33.103936+07:00**_
+_Last update: **2026-06-15 10:30:02.991321+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 19/09/2025: [[CTĐA] Kế hoạch mở học phần năm học 2025-2026 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2025/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-06-15 06:01:33.103936+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 15-6-2026: [Chung kết HCMUS-CTF 2026: Khép lại mùa giải đầy kịch tính và ấn tượng](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17442)
  - 14-6-2026: [Đăng ký tham gia Seminar on Legal AI Beyond the Demo: Building systems that work in practice](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17436)
  - 9-6-2026: [Các mốc thời gian đăng ký và thực hiện Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp Khóa 2023](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17433)
  - 8-6-2026: [Danh sách sinh viên tham gia sinh hoạt công dân cuối khóa ngày 6/6](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17432)
@@ -59,7 +60,6 @@ _Last update: **2026-06-15 06:01:33.103936+07:00**_
  - 31-5-2026: [Danh sách sinh viên tham dự hội thảo Hội thảo Interview Mindset: Làm chủ buổi phỏng vấn công nghệ.](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17421)
  - 29-5-2026: [Thông báo về việc tổ chức Lễ tốt nghiệp Thạc sĩ, Tiến sĩ năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17430)
  - 29-5-2026: [Đăng ký tham dự hội thảo: Interview Mindset – Làm chủ buổi phỏng vấn công nghệ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17420)
- - 29-5-2026: [Danh sách sinh viên tham gia sinh hoạt công dân cuối khóa ngày 23/5](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17419)
 
 ## Thông tin dành cho sinh viên
 - 12/06/2026: [Thông báo nhận bằng tốt nghiệp bậc Đại học/Liên thông đại học hệ Chính quy, bậc Cao đẳng ngành Công nghệ thông tin và hệ Đào tạo từ xa cho các đợt xét tốt nghiệp tháng 3 và tháng 4 năm 2026](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-bac-dai-hoc-lien-thong-dai-hoc-he-chinh-quy-bac-cao-dang-nganh-cong-nghe-thong-tin-va-he-dao-tao-tu-xa-cho-cac-dot-xet-tot-nghiep-thang-3-va-thang-4-nam-2026/)
