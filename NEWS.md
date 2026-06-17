@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-06-17 07:11:34.730405+07:00**_
+_Last update: **2026-06-17 13:03:42.755912+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 16/06/2026: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
@@ -62,6 +62,8 @@ _Last update: **2026-06-17 07:11:34.730405+07:00**_
  - 29-5-2026: [Thông báo về việc tổ chức Lễ tốt nghiệp Thạc sĩ, Tiến sĩ năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17430)
 
 ## Thông tin dành cho sinh viên
+- 17/06/2026: [Thông báo nộp học phí HK3/2025-2026 – Chương trình Tiên tiến, CLC, TCTA và Việt-Pháp](https://hcmus.edu.vn/67968-2/)
+- 17/06/2026: [Thông báo Kết quả dự kiến Điểm rèn luyện HK2/2025-2026 đối với sinh viên Chương trình Đề án](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk1-2025-2026-doi-voi-sinh-vien-chuong-trinh-de-an/)
 - 16/06/2026: [KÊU GỌI ĐỀ XUẤT Ý TƯỞNG PHÁT TRIỂN CÔNG NGHỆ CHIẾN LƯỢC TỪ BỘ KHOA HỌC VÀ CÔNG NGHỆ](https://hcmus.edu.vn/keu-goi-de-xuat-y-tuong-phat-trien-cong-nghe-chien-luoc-tu-bo-khoa-hoc-va-cong-nghe/)
 - 16/06/2026: [[THÔNG BÁO] Đăng ký tham dự Masterclass – Assoc. Prof. Theodor Cojoianu – Singapore Management University (SMU)](https://hcmus.edu.vn/thong-bao-dang-ky-tham-du-masterclass-assoc-prof-theodor-cojoianu-singapore-management-university-smu/)
 - 15/06/2026: [Thông báo kết quả dự kiến HBKK HK1/2025-2026 Khoa Công nghệ Thông tin (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk1-2025-2026-khoa-cong-nghe-thong-tin-ctda/)
@@ -70,8 +72,6 @@ _Last update: **2026-06-17 07:11:34.730405+07:00**_
 - 11/06/2026: [Thông báo đăng ký học phần học kỳ 3 năm học 2025-2026 cho sinh viên Đại học hệ chính quy](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-3-nam-hoc-2025-2026-cho-sinh-vien-dai-hoc-he-chinh-quy/)
 - 05/06/2026: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK1/2025-2026 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk1-2025-2026-chuong-trinh-chuan/)
 - 04/06/2026: [Thông báo tổ chức Workshop: “Hội chứng Dunning – Kruger, nhận thức đúng về năng lực bản thân”](https://hcmus.edu.vn/thong-bao-to-chuc-workshop-hoi-chung-dunning-kruger-nhan-thuc-dung-ve-nang-luc-ban-than/)
-- 02/06/2026: [Thông báo kết quả dự kiến HBKK HK1/2025-2026 Khoa Hóa học, Môi trường, Điện tử-Viễn thông, Sinh học-CNSH, Khoa học&CNVL, Vật lý-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk1-2025-2026-khoa-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-khoa-hoccnvl-vat-ly-vlkt-ctda/)
-- 02/06/2026: [Thông báo Chương trình học bổng Vallet 2026 (Dành cho Sinh viên Đại học)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-vallet-2026-danh-cho-sinh-vien-dai-hoc/)
 
 ## Các thông báo về Khảo thí
  - [Thông báo thu thập thông tin việc học việc làm của SVTN đợt 1 năm 2026](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/946-thong-bao-thu-th-p-thong-tin-vi-c-h-c-vi-c-lam-c-a-svtn-d-t-1-nam-2026)
