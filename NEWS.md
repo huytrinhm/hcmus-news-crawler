@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-06-25 18:34:21.184798+07:00**_
+_Last update: **2026-06-25 21:09:54.780180+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 16/06/2026: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
@@ -50,6 +50,7 @@ _Last update: **2026-06-25 18:34:21.184798+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 25-6-2026: [Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Nguyễn Ngọc Trung (8g00, 29/6, F205b)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17449)
  - 17-6-2026: [[CQ] Thời khóa biểu học kỳ 3 năm học 2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17446)
  - 16-6-2026: [Thông báo đăng ký chương trình thực tập ngắn hạn tại trường Kyoto Institute of Technology (KIT), Nhật Bản năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17445)
  - 15-6-2026: [Chung kết HCMUS-CTF 2026: Khép lại mùa giải đầy kịch tính và ấn tượng](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17442)
@@ -59,7 +60,6 @@ _Last update: **2026-06-25 18:34:21.184798+07:00**_
  - 3-6-2026: [Thông báo v/v nộp đề cương luận án và báo cáo tổng quan của NCS khóa năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17427)
  - 1-6-2026: [Danh sách tham quan KMS Technology ngày 10/6](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17426)
  - 1-6-2026: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Trần Thống](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17422)
- - 31-5-2026: [Danh sách sinh viên tham dự hội thảo Hội thảo Interview Mindset: Làm chủ buổi phỏng vấn công nghệ.](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17421)
 
 ## Thông tin dành cho sinh viên
 - 22/06/2026: [THÔNG BÁO Triển khai Giải thưởng Khoa học và Công nghệ của Bộ Giáo dục và Đào tạo dành cho sinh viên năm 2026](https://hcmus.edu.vn/thong-bao-trien-khai-giai-thuong-khoa-hoc-va-cong-nghe-cua-bo-giao-duc-va-dao-tao-danh-cho-sinh-vien-nam-2026/)
