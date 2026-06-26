@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-06-26 13:48:18.737823+07:00**_
+_Last update: **2026-06-26 17:17:14.036785+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 16/06/2026: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
@@ -82,11 +82,11 @@ _Last update: **2026-06-26 13:48:18.737823+07:00**_
 
 ***
 
+ - [Lịch thi cuối kỳ HK3/25-26 CT đề án khoa Hóa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/952-l-ch-thi-cu-i-ky-hk2-25-26-ct-d-an-khoa-hoa)
+ - [Lịch thi cuối kỳ HK3/25-26 CT đề án các Khoa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/951-l-ch-thi-cu-i-ky-hk3-25-26-ct-d-an-cac-khoa)
  - [Lịch thi giữa kỳ HK3/25-26 CT đề án các Khoa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/949-l-ch-thi-gi-a-ky-hk3-25-26-ct-d-an-cac-khoa)
  - [Lịch thi giữa kỳ HK3/25-26 CT đề án khoa Hóa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/948-l-ch-thi-gi-a-ky-hk3-25-26-ct-d-an-khoa-hoa)
  - [Lịch thi cuối kỳ HK2/25-26 Chính quy tại LT và NVC (Cập nhật 02/06)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/947-l-ch-thi-cu-i-ky-hk2-25-26-chinh-quy-t-i-lt-va-nvc)
- - [Lịch thi cuối kỳ HK2/25-26 hệ ĐTTX](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/942-l-ch-thi-cu-i-ky-hk2-25-26-h-dttx)
- - [Lịch thi giữa kỳ HK2/25-26 các lớp Chính quy tại NVC và LT](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/941-l-ch-thi-gi-a-ky-hk2-25-26-cac-l-p-chinh-quy-d-i-tra-t-i-nvc-va-lt)
 
 ***
 
