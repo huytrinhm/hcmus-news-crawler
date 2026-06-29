@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-06-29 14:23:46.554672+07:00**_
+_Last update: **2026-06-29 19:24:50.621203+07:00**_
 ## APCS
 ### Kế hoạch học tập
  - 16/06/2026: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
@@ -50,6 +50,7 @@ _Last update: **2026-06-29 14:23:46.554672+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 29-6-2026: [Tổng kết Seminar on Legal AI Beyond the Demo: Building systems that work in practice](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17454)
  - 25-6-2026: [Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Nguyễn Ngọc Trung (8g00, 29/6, F205b)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17449)
  - 17-6-2026: [[CQ] Thời khóa biểu học kỳ 3 năm học 2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17446)
  - 16-6-2026: [Thông báo đăng ký chương trình thực tập ngắn hạn tại trường Kyoto Institute of Technology (KIT), Nhật Bản năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17445)
@@ -59,7 +60,6 @@ _Last update: **2026-06-29 14:23:46.554672+07:00**_
  - 8-6-2026: [Danh sách sinh viên tham gia sinh hoạt công dân cuối khóa ngày 6/6](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17432)
  - 3-6-2026: [Thông báo v/v nộp đề cương luận án và báo cáo tổng quan của NCS khóa năm 2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17427)
  - 1-6-2026: [Danh sách tham quan KMS Technology ngày 10/6](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17426)
- - 1-6-2026: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Trần Thống](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17422)
 
 ## Thông tin dành cho sinh viên
 - 26/06/2026: [Kế hoạch giảng dạy, học tập năm học 2026-2027 – Chương trình đại trà](https://hcmus.edu.vn/ke-hoach-giang-day-hoc-tap-nam-hoc-2026-2027-chuong-trinh-dai-tra/)
@@ -74,11 +74,11 @@ _Last update: **2026-06-29 14:23:46.554672+07:00**_
 - 16/06/2026: [[THÔNG BÁO] Đăng ký tham dự Masterclass – Assoc. Prof. Theodor Cojoianu – Singapore Management University (SMU)](https://hcmus.edu.vn/thong-bao-dang-ky-tham-du-masterclass-assoc-prof-theodor-cojoianu-singapore-management-university-smu/)
 
 ## Các thông báo về Khảo thí
+ - [Thông báo thay đổi phòng thi HK2 HK3/25-26 tại Cơ sở NVC](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/954-thong-bao-thay-d-i-phong-thi-hk2-hk3-25-26-t-i-co-s-nvc)
  - [Thông báo phúc khảo HK2/25-26 ngành CNTT hệ Từ xa](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/953-thong-bao-phuc-kh-o-hk2-25-26-nganh-cntt-h-t-xa)
  - [Thông báo thu thập thông tin việc học việc làm của SVTN đợt 1 năm 2026](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/946-thong-bao-thu-th-p-thong-tin-vi-c-h-c-vi-c-lam-c-a-svtn-d-t-1-nam-2026)
  - [Thông báo phúc khảo HK2/25-26 CT đề án các khoa](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/945-thong-bao-phuc-kh-o-hk1-25-26-ct-d-an-cac-khoa-2)
  - [Thông báo phúc khảo HK2/25-26 CT đề án khoa CNTT](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/944-thong-bao-phuc-kh-o-hk2-25-26-ct-d-an-khoa-cntt)
- - [Thông báo SV đánh giá môn học - GV HK2/2025-2026 (Chương trình Chính quy)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/943-thong-bao-sv-danh-gia-mon-h-c-gv-hk2-2025-2026-chuong-trinh-chinh-quy)
 
 ***
 
