@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-07-06 17:42:50.308682+07:00**_
+_Last update: **2026-07-06 22:39:29.213306+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 16/06/2026: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
@@ -62,6 +62,7 @@ _Last update: **2026-07-06 17:42:50.308682+07:00**_
  - 15-6-2026: [Chung kết HCMUS-CTF 2026: Khép lại mùa giải đầy kịch tính và ấn tượng](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17442)
 
 ## Thông tin dành cho sinh viên
+- 06/07/2026: [Thông báo tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 1 năm 2026](https://hcmus.edu.vn/thong-bao-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-1-nam-2026/)
 - 06/07/2026: [Thông báo chương trình học bổng Sau Đại học do Ngân hàng LPBank tài trợ năm 2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-sau-dai-hoc-do-ngan-hang-lpbank-tai-tro-nam-2026/)
 - 06/07/2026: [Thông báo chuyển tiền Học bổng khuyến khích HK1/2025-2026 dành cho sinh viên Đại học Chính quy (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2025-2026-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-chuan/)
 - 03/07/2026: [Thông báo kết quả xét Hoàn tất chương trình đợt tháng 6 năm 2026](https://hcmus.edu.vn/thong-bao-ket-qua-xet-hoan-tat-chuong-trinh-dot-thang-6-nam-2026/)
@@ -71,7 +72,6 @@ _Last update: **2026-07-06 17:42:50.308682+07:00**_
 - 26/06/2026: [Kế hoạch giảng dạy, học tập năm học 2026-2027 – Chương trình đại trà](https://hcmus.edu.vn/ke-hoach-giang-day-hoc-tap-nam-hoc-2026-2027-chuong-trinh-dai-tra/)
 - 26/06/2026: [Kế hoạch giảng dạy, học tập năm học 2026-2027 – Chương trình đề án](https://hcmus.edu.vn/ke-hoach-giang-day-hoc-tap-nam-hoc-2026-2027-chuong-trinh-de-an/)
 - 22/06/2026: [THÔNG BÁO Triển khai Giải thưởng Khoa học và Công nghệ của Bộ Giáo dục và Đào tạo dành cho sinh viên năm 2026](https://hcmus.edu.vn/thong-bao-trien-khai-giai-thuong-khoa-hoc-va-cong-nghe-cua-bo-giao-duc-va-dao-tao-danh-cho-sinh-vien-nam-2026/)
-- 22/06/2026: [Thông báo Chương trình Học bổng Đinh Thiện Lý năm học 2026-2027 (Dành cho sinh viên khóa 2023)](https://hcmus.edu.vn/thong-bao-chuong-trinh-hoc-bong-dinh-thien-ly-nam-hoc-2026-2027-danh-cho-sinh-vien-khoa-2023/)
 
 ## Các thông báo về Khảo thí
  - 06/07/2026: [Thông báo SV đánh giá môn học - GV HK3/2025-2026 (Chương trình đề án)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/955-thong-bao-sv-danh-gia-mon-h-c-gv-hk3-2025-2026-chuong-trinh-d-an)
