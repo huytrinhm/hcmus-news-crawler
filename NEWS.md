@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-07-07 03:02:06.712292+07:00**_
+_Last update: **2026-07-07 10:40:51.980776+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 16/06/2026: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
@@ -74,11 +74,11 @@ _Last update: **2026-07-07 03:02:06.712292+07:00**_
 - 22/06/2026: [THÔNG BÁO Triển khai Giải thưởng Khoa học và Công nghệ của Bộ Giáo dục và Đào tạo dành cho sinh viên năm 2026](https://hcmus.edu.vn/thong-bao-trien-khai-giai-thuong-khoa-hoc-va-cong-nghe-cua-bo-giao-duc-va-dao-tao-danh-cho-sinh-vien-nam-2026/)
 
 ## Các thông báo về Khảo thí
+ - 07/07/2026: [Thông báo thu thập thông tin việc học việc làm của SVTN đợt tháng 6 năm 2026](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/956-thong-bao-thu-th-p-thong-tin-vi-c-h-c-vi-c-lam-c-a-svtn-d-t-thang-6-nam-2026)
  - 06/07/2026: [Thông báo SV đánh giá môn học - GV HK3/2025-2026 (Chương trình đề án)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/955-thong-bao-sv-danh-gia-mon-h-c-gv-hk3-2025-2026-chuong-trinh-d-an)
  - 29/06/2026: [Thông báo thay đổi phòng thi HK2 HK3/25-26 tại Cơ sở NVC](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/954-thong-bao-thay-d-i-phong-thi-hk2-hk3-25-26-t-i-co-s-nvc)
  - 29/06/2026: [Thông báo phúc khảo HK2/25-26 ngành CNTT hệ Từ xa](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/953-thong-bao-phuc-kh-o-hk2-25-26-nganh-cntt-h-t-xa)
  - 27/05/2026: [Thông báo thu thập thông tin việc học việc làm của SVTN đợt 1 năm 2026](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/946-thong-bao-thu-th-p-thong-tin-vi-c-h-c-vi-c-lam-c-a-svtn-d-t-1-nam-2026)
- - 21/05/2026: [Thông báo phúc khảo HK2/25-26 CT đề án các khoa](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/945-thong-bao-phuc-kh-o-hk1-25-26-ct-d-an-cac-khoa-2)
 
 ***
 
