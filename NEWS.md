@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-07-10 10:36:08.500601+07:00**_
+_Last update: **2026-07-10 16:40:33.879802+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 16/06/2026: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
@@ -50,6 +50,7 @@ _Last update: **2026-07-10 10:36:08.500601+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 10-7-2026: [Đăng ký tham gia Seminar Human-AI Hybrid System in Algorithmic Trading: Introduction and Bachelor Thesis Topics](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17484)
  - 8-7-2026: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17464)
  - 8-7-2026: [Lịch thi kết thúc học phần 2 các lớp cao học khóa 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17477)
  - 6-7-2026: [[Góc Sẻ Chia - We talk 2026] KHOA CNTT x LUMOS: Vững tâm lý, Sáng tương lai](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17474)
@@ -59,7 +60,6 @@ _Last update: **2026-07-10 10:36:08.500601+07:00**_
  - 30-6-2026: [Đăng kí tham gia Seminar Bộ môn Công nghệ Tri thức lần 1 năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17457)
  - 29-6-2026: [Tổng kết Seminar on Legal AI Beyond the Demo: Building systems that work in practice](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17454)
  - 25-6-2026: [Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Nguyễn Ngọc Trung (8g00, 29/6, F205b)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17449)
- - 17-6-2026: [[CQ] Thời khóa biểu học kỳ 3 năm học 2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17446)
 
 ## Thông tin dành cho sinh viên
 - 09/07/2026: [Thông báo tổ chức cho sinh viên bậc đại học hệ chính quy khóa 2025 học môn Giáo dục Quốc phòng – An ninh](https://hcmus.edu.vn/thong-bao-to-chuc-cho-sinh-vien-bac-dai-hoc-he-chinh-quy-khoa-2025-hoc-mon-giao-duc-quoc-phong-an-ninh/)
