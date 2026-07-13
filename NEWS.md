@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-07-13 10:18:40.091276+07:00**_
+_Last update: **2026-07-13 16:32:55.089314+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 16/06/2026: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
@@ -14,6 +14,7 @@ _Last update: **2026-07-13 10:18:40.091276+07:00**_
  - 09/05/2023: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2023-2024](https://www.ctda.hcmus.edu.vn/vi/2023/05/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2023-2024/)
 
 ### Giáo vụ
+ - 13/07/2026: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2022, đợt tháng 8/2026](https://www.ctda.hcmus.edu.vn/vi/2026/07/thong-bao-nop-don-dang-ky-bao-ve-huy-bao-ve-de-tai-tot-nghiep-khoa-2022-dot-thang-8-2026/)
  - 05/07/2026: [[Chương trình TCTA] – Mời tham gia sinh hoạt cung cấp thông tin về các chuyên ngành và định hướng nghề nghiệp – Đợt tháng 9 năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/07/chuong-trinh-tcta-moi-tham-gia-sinh-hoat-cung-cap-thong-tin-ve-cac-chuyen-nganh-va-dinh-huong-nghe-nghiep-dot-thang-9-nam-hoc-2025-2026/)
  - 05/07/2026: [[Chương trình TCTA] – Mời tham gia sinh hoạt phổ biến quy định về việc chia chuyên ngành – Đợt tháng 9 năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/07/chuong-trinh-tcta-moi-tham-gia-sinh-hoat-pho-bien-quy-dinh-ve-viec-chia-chuyen-nganh-dot-thang-9-nam-hoc-2025-2026/)
  - 16/06/2026: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
@@ -23,7 +24,6 @@ _Last update: **2026-07-13 10:18:40.091276+07:00**_
  - 24/04/2026: [[CTĐA] Lịch thi chi tiết cuối kỳ HK2/2526](https://www.ctda.hcmus.edu.vn/vi/2026/04/ctda-lich-thi-chi-tiet-cuoi-ky-hk2-2526/)
  - 20/04/2026: [[CTĐA] DSSV nộp đề cương đề tài tốt nghiệp K2022 đợt 1 (bảo vệ tháng 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/04/ctda-dssv-nop-de-cuong-de-tai-tot-nghiep-k2022-dot-1-bao-ve-thang-08-2026/)
  - 08/04/2026: [[CTĐA] Thông báo nộp đề tài tốt nghiệp SAU bảo vệ khóa 2021, đợt 2 (bảo vệ tháng 04/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/04/ctda-thong-bao-nop-de-tai-tot-nghiep-sau-bao-ve-khoa-2021-dot-2-bao-ve-thang-04-2026/)
- - 27/03/2026: [[CTĐA] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2022 (bảo vệ tháng 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/03/ctda-thong-bao-nop-de-cuong-de-tai-tot-nghiep-khoa-2022-bao-ve-thang-08-2026/)
 
 ### Trợ lí sinh viên
  - 04/12/2025: [Thông báo đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2026 (dành cho các sinh viên tham gia BHYT tại Trường)](https://www.ctda.hcmus.edu.vn/vi/2025/12/thong-bao-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2026-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/)
@@ -50,6 +50,7 @@ _Last update: **2026-07-13 10:18:40.091276+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 13-7-2026: [[Media support] ICAMM'26_Call for Abstracts - The 2nd International Conference on Advanced and Multifunctional Materials](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17487)
  - 10-7-2026: [Đăng ký tham gia Seminar Human-AI Hybrid System in Algorithmic Trading: Introduction and Bachelor Thesis Topics](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17484)
  - 8-7-2026: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17464)
  - 8-7-2026: [Lịch thi kết thúc học phần 2 các lớp cao học khóa 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17477)
@@ -59,7 +60,6 @@ _Last update: **2026-07-13 10:18:40.091276+07:00**_
  - 1-7-2026: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ tháng 03-04/2027](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17458)
  - 30-6-2026: [Đăng kí tham gia Seminar Bộ môn Công nghệ Tri thức lần 1 năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17457)
  - 29-6-2026: [Tổng kết Seminar on Legal AI Beyond the Demo: Building systems that work in practice](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17454)
- - 25-6-2026: [Mời tham dự buổi bảo vệ LATS cấp ĐVCM của NCS Nguyễn Ngọc Trung (8g00, 29/6, F205b)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17449)
 
 ## Thông tin dành cho sinh viên
 - 13/07/2026: [TUYỂN CHỌN TỔ CHỨC, CÁ NHÂN THỰC HIỆN NV KHCN NĂM 2026 LẦN 2 SỞ KHCN TP. HCM](https://hcmus.edu.vn/tuyen-chon-to-chuc-ca-nhan-thuc-hien-nv-khcn-nam-2026-lan-2-so-khcn-tp-hcm/)
@@ -82,11 +82,11 @@ _Last update: **2026-07-13 10:18:40.091276+07:00**_
 
 ***
 
+ - 13/07/2026: [Lịch thi cuối kỳ HK3/25-26 CT đề án khoa CNTT](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/958-l-ch-thi-cu-i-ky-hk3-25-26-ct-d-an-khoa-cntt)
  - 26/06/2026: [Lịch thi cuối kỳ HK3/25-26 CT đề án khoa Hóa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/952-l-ch-thi-cu-i-ky-hk2-25-26-ct-d-an-khoa-hoa)
  - 26/06/2026: [Lịch thi cuối kỳ HK3/25-26 CT đề án các Khoa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/951-l-ch-thi-cu-i-ky-hk3-25-26-ct-d-an-cac-khoa)
  - 15/06/2026: [Lịch thi giữa kỳ HK3/25-26 CT đề án các Khoa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/949-l-ch-thi-gi-a-ky-hk3-25-26-ct-d-an-cac-khoa)
  - 15/06/2026: [Lịch thi giữa kỳ HK3/25-26 CT đề án khoa Hóa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/948-l-ch-thi-gi-a-ky-hk3-25-26-ct-d-an-khoa-hoa)
- - 27/05/2026: [Lịch thi cuối kỳ HK2/25-26 Chính quy tại LT và NVC (Cập nhật 02/06)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/947-l-ch-thi-cu-i-ky-hk2-25-26-chinh-quy-t-i-lt-va-nvc)
 
 ***
 
