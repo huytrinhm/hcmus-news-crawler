@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-07-15 09:41:21.949978+07:00**_
+_Last update: **2026-07-15 15:18:08.186119+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 16/06/2026: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
@@ -62,6 +62,8 @@ _Last update: **2026-07-15 09:41:21.949978+07:00**_
  - 29-6-2026: [Tổng kết Seminar on Legal AI Beyond the Demo: Building systems that work in practice](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17454)
 
 ## Thông tin dành cho sinh viên
+- 15/07/2026: [THƯ MỜI THAM GIA VIẾT BÀI HỘI NGHỊ QUỐC TẾ THƯỜNG NIÊN KHU CÔNG NGHỆ CAO LẦN THỨ 8 NĂM 2026](https://hcmus.edu.vn/thu-moi-tham-gia-viet-bai-hoi-nghi-quoc-te-thuong-nien-khu-cong-nghe-cao-lan-thu-8-nam-2026/)
+- 15/07/2026: [Thông báo chuyển tiền Học bổng khuyến khích HK1/2025-2026 dành cho sinh viên Đại học Chính quy (Chương trình Đề án)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2025-2026-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-de-an/)
 - 13/07/2026: [TUYỂN CHỌN TỔ CHỨC, CÁ NHÂN THỰC HIỆN NV KHCN NĂM 2026 LẦN 2 SỞ KHCN TP. HCM](https://hcmus.edu.vn/tuyen-chon-to-chuc-ca-nhan-thuc-hien-nv-khcn-nam-2026-lan-2-so-khcn-tp-hcm/)
 - 09/07/2026: [Thông báo tổ chức cho sinh viên bậc đại học hệ chính quy khóa 2025 học môn Giáo dục Quốc phòng – An ninh](https://hcmus.edu.vn/thong-bao-to-chuc-cho-sinh-vien-bac-dai-hoc-he-chinh-quy-khoa-2025-hoc-mon-giao-duc-quoc-phong-an-ninh/)
 - 06/07/2026: [Thông báo tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 1 năm 2026](https://hcmus.edu.vn/thong-bao-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-1-nam-2026/)
@@ -70,8 +72,6 @@ _Last update: **2026-07-15 09:41:21.949978+07:00**_
 - 03/07/2026: [Thông báo kết quả xét Hoàn tất chương trình đợt tháng 6 năm 2026](https://hcmus.edu.vn/thong-bao-ket-qua-xet-hoan-tat-chuong-trinh-dot-thang-6-nam-2026/)
 - 01/07/2026: [Thông báo đăng ký thay đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 3/2026](https://hcmus.edu.vn/thong-bao-dang-ky-thay-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-3-2026/)
 - 01/07/2026: [THÔNG BÁO GIẢI THƯỞNG LÊ VĂN THỚI NĂM 2026](https://hcmus.edu.vn/thong-bao-giai-thuong-le-van-thoi-nam-2026/)
-- 01/07/2026: [Thông báo kết quả chính thức HBKK HK1/2025-2026 Khoa Công nghệ Thông tin (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk1-2025-2026-khoa-cong-nghe-thong-tin-ctda/)
-- 26/06/2026: [Kế hoạch giảng dạy, học tập năm học 2026-2027 – Chương trình đại trà](https://hcmus.edu.vn/ke-hoach-giang-day-hoc-tap-nam-hoc-2026-2027-chuong-trinh-dai-tra/)
 
 ## Các thông báo về Khảo thí
  - 08/07/2026: [Thông báo phúc khảo HK2/25-26 ngành CNTT hệ Từ xa (Đợt bổ sung)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/957-thong-bao-phuc-kh-o-hk2-25-26-nganh-cntt-h-t-xa-d-t-b-sung)
