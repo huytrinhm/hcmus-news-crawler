@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-07-16 15:18:41.875989+07:00**_
+_Last update: **2026-07-16 20:59:26.645157+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 16/06/2026: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
@@ -50,6 +50,7 @@ _Last update: **2026-07-16 15:18:41.875989+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 16-7-2026: [Đăng ký tham gia Trường hè "FIT@HCMUS Summer School on Intelligent Agents and Agentic AI" năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17496)
  - 13-7-2026: [[Media support] ICAMM'26_Call for Abstracts - The 2nd International Conference on Advanced and Multifunctional Materials](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17487)
  - 13-7-2026: [Thông báo đăng ký tín chỉ học phần 3 chương trình cao học khoá 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17495)
  - 10-7-2026: [Đăng ký tham gia Seminar Human-AI Hybrid System in Algorithmic Trading: Introduction and Bachelor Thesis Topics](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17484)
@@ -59,7 +60,6 @@ _Last update: **2026-07-16 15:18:41.875989+07:00**_
  - 6-7-2026: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2022, đợt 2 (tháng 7,8/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17468)
  - 6-7-2026: [Cập nhật thành tích sinh viên khoa CNTT HK2/ 2025 - 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17465)
  - 1-7-2026: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ tháng 03-04/2027](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17458)
- - 30-6-2026: [Đăng kí tham gia Seminar Bộ môn Công nghệ Tri thức lần 1 năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17457)
 
 ## Thông tin dành cho sinh viên
 - 15/07/2026: [THƯ MỜI THAM GIA VIẾT BÀI HỘI NGHỊ QUỐC TẾ THƯỜNG NIÊN KHU CÔNG NGHỆ CAO LẦN THỨ 8 NĂM 2026](https://hcmus.edu.vn/thu-moi-tham-gia-viet-bai-hoi-nghi-quoc-te-thuong-nien-khu-cong-nghe-cao-lan-thu-8-nam-2026/)
