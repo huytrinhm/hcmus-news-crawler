@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-07-20 10:45:58.909099+07:00**_
+_Last update: **2026-07-20 16:19:49.773337+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 16/06/2026: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
@@ -50,6 +50,7 @@ _Last update: **2026-07-20 10:45:58.909099+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 20-7-2026: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 9/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17501)
  - 19-7-2026: [[CQ-CNTN] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2022, đợt 2 (T7,8/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17500)
  - 17-7-2026: [Thông báo đăng ký nguyện vọng chuyên ngành Khóa 2024, chương trình Chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17499)
  - 16-7-2026: [Đăng ký tham gia Trường hè "FIT@HCMUS Summer School on Intelligent Agents and Agentic AI" năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17496)
@@ -59,7 +60,6 @@ _Last update: **2026-07-20 10:45:58.909099+07:00**_
  - 8-7-2026: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17464)
  - 8-7-2026: [Lịch thi kết thúc học phần 2 các lớp cao học khóa 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17477)
  - 6-7-2026: [[Góc Sẻ Chia - We talk 2026] KHOA CNTT x LUMOS: Vững tâm lý, Sáng tương lai](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17474)
- - 6-7-2026: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2022, đợt 2 (tháng 7,8/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17468)
 
 ## Thông tin dành cho sinh viên
 - 17/07/2026: [Thông báo nhận bằng tốt nghiệp đợt tháng 6/2026](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-dot-thang-6-2026/)
