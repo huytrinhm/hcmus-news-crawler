@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-07-24 09:52:20.405766+07:00**_
+_Last update: **2026-07-24 15:31:07.002395+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 16/06/2026: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
@@ -62,6 +62,7 @@ _Last update: **2026-07-24 09:52:20.405766+07:00**_
  - 8-7-2026: [Lịch thi kết thúc học phần 2 các lớp cao học khóa 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17477)
 
 ## Thông tin dành cho sinh viên
+- 24/07/2026: [](https://hcmus.edu.vn/69210-2/)
 - 22/07/2026: [Thông báo nghỉ học sáng Thứ sáu, ngày 24/7/2026 tại cơ sở 2 do cúp điện](https://hcmus.edu.vn/thong-bao-nghi-hoc-sang-thu-sau-ngay-24-7-2026-tai-co-so-2-do-cup-dien/)
 - 22/07/2026: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2025-2026 Chương trình Đề án](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2025-2026-chuong-trinh-de-an/)
 - 17/07/2026: [Thông báo nhận bằng tốt nghiệp đợt tháng 6/2026](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-dot-thang-6-2026/)
@@ -71,7 +72,6 @@ _Last update: **2026-07-24 09:52:20.405766+07:00**_
 - 09/07/2026: [Thông báo tổ chức cho sinh viên bậc đại học hệ chính quy khóa 2025 học môn Giáo dục Quốc phòng – An ninh](https://hcmus.edu.vn/thong-bao-to-chuc-cho-sinh-vien-bac-dai-hoc-he-chinh-quy-khoa-2025-hoc-mon-giao-duc-quoc-phong-an-ninh/)
 - 06/07/2026: [Thông báo tổ chức lễ trao bằng tốt nghiệp cho sinh viên bậc Đại học đợt 1 năm 2026](https://hcmus.edu.vn/thong-bao-to-chuc-le-trao-bang-tot-nghiep-cho-sinh-vien-bac-dai-hoc-dot-1-nam-2026/)
 - 06/07/2026: [Thông báo chương trình học bổng Sau Đại học do Ngân hàng LPBank tài trợ năm 2026](https://hcmus.edu.vn/thong-bao-chuong-trinh-ho%cc%a3c-bo%cc%89ng-sau-dai-hoc-do-ngan-hang-lpbank-tai-tro-nam-2026/)
-- 06/07/2026: [Thông báo chuyển tiền Học bổng khuyến khích HK1/2025-2026 dành cho sinh viên Đại học Chính quy (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk1-2025-2026-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-chuan/)
 
 ## Các thông báo về Khảo thí
  - 16/07/2026: [Thông báo thay đổi phòng thi HK2/25-26 tại Cơ sở NVC (Chương trình chính quy)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/959-thong-bao-thay-d-i-phong-thi-hk2-25-26-t-i-co-s-nvc-chuong-trinh-chinh-quy)
