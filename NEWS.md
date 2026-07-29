@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-07-29 02:28:07.552346+07:00**_
+_Last update: **2026-07-29 09:50:40.418629+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 16/06/2026: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
