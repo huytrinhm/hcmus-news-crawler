@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-07-30 09:35:15.670285+07:00**_
+_Last update: **2026-07-30 15:30:49.736210+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 29/07/2026: [[CTĐA] Kế hoạch năm học 2026 – 2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/07/ctda-ke-hoach-nam-hoc-2026-2027-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-07-30 09:35:15.670285+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 30-7-2026: [Talkshow Innovate Your Future – Đối mới tư duy, Kiến tạo giá trị, Dẫn lỗi tương lai](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17519)
  - 29-7-2026: [Đăng kí tham gia Seminar Bộ môn Công nghệ Tri thức lần 2 năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17517)
  - 29-7-2026: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17515)
  - 27-7-2026: [Thông tin học bổng MEXT 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17513)
@@ -59,9 +60,9 @@ _Last update: **2026-07-30 09:35:15.670285+07:00**_
  - 22-7-2026: [Lịch trực cố vấn học tập học kỳ 3 năm học 2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17506)
  - 20-7-2026: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 9/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17501)
  - 19-7-2026: [[CQ-CNTN] Thứ tự bảo vệ, thời gian bảo vệ, danh sách giảng viên phản biện đề tài tốt nghiệp khóa 2022, đợt 2 (T7,8/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17500)
- - 17-7-2026: [Thông báo đăng ký nguyện vọng chuyên ngành Khóa 2024, chương trình Chuẩn ĐHCQ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17499)
 
 ## Thông tin dành cho sinh viên
+- 30/07/2026: [Chương trình tuyển chọn sinh viên ký hợp đồng thực hiện nhiệm vụ Chuyển đổi số và Phát triển Khoa học Công nghệ tại Văn phòng Đảng ủy Phường An Nhơn](https://hcmus.edu.vn/chuong-trinh-tuyen-chon-sinh-vien-ky-hop-dong-thuc-hien-nhiem-vu-chuyen-doi-so-va-phat-trien-khoa-hoc-cong-nghe-tai-van-phong-dang-uy-phuong-an-nhon/)
 - 28/07/2026: [THÔNG BÁO Về việc cung cấp thông tin cư trú năm học 2026-2027](https://hcmus.edu.vn/thong-bao-ve-viec-cung-cap-thong-tin-cu-tru-nam-hoc-2026-2027/)
 - 28/07/2026: [Thông báo thu học phí học kỳ 3 năm học 2025-2026 đối với sinh viên đại học hệ chính quy – chương trình đại trà ](https://hcmus.edu.vn/thong-bao-thu-hoc-phi-hoc-ky-3-nam-hoc-2025-2026-doi-voi-sinh-vien-dai-hoc-he-chinh-quy-chuong-trinh-dai-tra/)
 - 28/07/2026: [Thông báo cập nhật thông tin ngành/chuyên ngành cho sinh viên đại học hệ chính quy các chương trình – Khóa tuyển 2023 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-nganh-chuyen-nganh-cho-sinh-vien-dai-hoc-he-chinh-quy-cac-chuong-trinh-khoa-tuyen-2023-tro-ve-truoc/)
@@ -71,7 +72,6 @@ _Last update: **2026-07-30 09:35:15.670285+07:00**_
 - 22/07/2026: [Thông báo nghỉ học sáng Thứ sáu, ngày 24/7/2026 tại cơ sở 2 do cúp điện](https://hcmus.edu.vn/thong-bao-nghi-hoc-sang-thu-sau-ngay-24-7-2026-tai-co-so-2-do-cup-dien/)
 - 22/07/2026: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2025-2026 Chương trình Đề án](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2025-2026-chuong-trinh-de-an/)
 - 17/07/2026: [Thông báo nhận bằng tốt nghiệp đợt tháng 6/2026](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-dot-thang-6-2026/)
-- 15/07/2026: [THƯ MỜI THAM GIA VIẾT BÀI HỘI NGHỊ QUỐC TẾ THƯỜNG NIÊN KHU CÔNG NGHỆ CAO LẦN THỨ 8 NĂM 2026](https://hcmus.edu.vn/thu-moi-tham-gia-viet-bai-hoi-nghi-quoc-te-thuong-nien-khu-cong-nghe-cao-lan-thu-8-nam-2026/)
 
 ## Các thông báo về Khảo thí
  - 16/07/2026: [Thông báo thay đổi phòng thi HK2/25-26 tại Cơ sở NVC (Chương trình chính quy)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/959-thong-bao-thay-d-i-phong-thi-hk2-25-26-t-i-co-s-nvc-chuong-trinh-chinh-quy)
