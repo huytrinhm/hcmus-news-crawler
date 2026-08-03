@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-08-03 21:44:44.759426+07:00**_
+_Last update: **2026-08-04 02:40:45.717645+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 29/07/2026: [[CTĐA] Kế hoạch năm học 2026 – 2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/07/ctda-ke-hoach-nam-hoc-2026-2027-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-08-03 21:44:44.759426+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 4-8-2026: [Tổng kết Trường hè “FIT@HCMUS Summer School on Intelligent Agents and Agentic AI" năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17521)
  - 3-8-2026: [Sinh viên Khoa Công nghệ thông tin tham dự Diễn đàn Văn hóa Thanh niên ASEAN và ASEAN+3 năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17520)
  - 30-7-2026: [Talkshow Innovate Your Future – Đối mới tư duy, Kiến tạo giá trị, Dẫn lối tương lai](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17519)
  - 29-7-2026: [Đăng kí tham gia Seminar Bộ môn Công nghệ Tri thức lần 2 năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17517)
@@ -59,7 +60,6 @@ _Last update: **2026-08-03 21:44:44.759426+07:00**_
  - 24-7-2026: [Tổng kết Seminar Human-AI Hybrid System in Algorithmic Trading: Introduction and Bachelor Thesis Topics](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17507)
  - 23-7-2026: [Mời tham gia khảo sát tình trạng học tập, việc làm và chương trình đào tạo đối với chương trình thạc sĩ năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17512)
  - 22-7-2026: [Lịch trực cố vấn học tập học kỳ 3 năm học 2025-2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17506)
- - 20-7-2026: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 9/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17501)
 
 ## Thông tin dành cho sinh viên
 - 30/07/2026: [Chương trình tuyển chọn sinh viên ký hợp đồng thực hiện nhiệm vụ Chuyển đổi số và Phát triển Khoa học Công nghệ tại Văn phòng Đảng ủy Phường An Nhơn](https://hcmus.edu.vn/chuong-trinh-tuyen-chon-sinh-vien-ky-hop-dong-thuc-hien-nhiem-vu-chuyen-doi-so-va-phat-trien-khoa-hoc-cong-nghe-tai-van-phong-dang-uy-phuong-an-nhon/)
