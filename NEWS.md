@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-08-07 14:19:44.505533+07:00**_
+_Last update: **2026-08-07 20:09:31.257353+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 29/07/2026: [[CTĐA] Kế hoạch năm học 2026 – 2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/07/ctda-ke-hoach-nam-hoc-2026-2027-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-08-07 14:19:44.505533+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 7-8-2026: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Nguyễn Tấn Công](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17527)
  - 4-8-2026: [Tổng kết Trường hè “FIT@HCMUS Summer School on Intelligent Agents and Agentic AI" năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17521)
  - 3-8-2026: [Sinh viên Khoa Công nghệ thông tin tham dự Diễn đàn Văn hóa Thanh niên ASEAN và ASEAN+3 năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17520)
  - 31-7-2026: [Thời khóa biểu có phòng các lớp Học phần 3 Khóa 35/2025 - bắt đầu học 03/8/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17522)
@@ -59,7 +60,6 @@ _Last update: **2026-08-07 14:19:44.505533+07:00**_
  - 27-7-2026: [Thông tin học bổng MEXT 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17513)
  - 25-7-2026: [[CQ-CNTN] Mời tham dự buổi bảo vệ đề tài tốt nghiệp khóa 2022 đợt 2 (27/7 - 17/8/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17508)
  - 24-7-2026: [Tổng kết Seminar Human-AI Hybrid System in Algorithmic Trading: Introduction and Bachelor Thesis Topics](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17507)
- - 23-7-2026: [Mời tham gia khảo sát tình trạng học tập, việc làm và chương trình đào tạo đối với chương trình thạc sĩ năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17512)
 
 ## Thông tin dành cho sinh viên
 - 07/08/2026: [Thông báo thời gian nhập học môn Giáo dục Quốc phòng – An ninh và thông tin đăng ký ngoại trú đối với sinh viên Khóa 2025](https://hcmus.edu.vn/thong-bao-thoi-gian-nhap-hoc-mon-giao-duc-quoc-phong-an-ninh-va-thong-tin-dang-ky-ngoai-tru-doi-voi-sinh-vien-khoa-2025/)
