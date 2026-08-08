@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-08-08 02:00:42.728814+07:00**_
+_Last update: **2026-08-08 08:48:29.945557+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 29/07/2026: [[CTĐA] Kế hoạch năm học 2026 – 2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/07/ctda-ke-hoach-nam-hoc-2026-2027-du-kien/)
@@ -82,11 +82,11 @@ _Last update: **2026-08-08 02:00:42.728814+07:00**_
 
 ***
 
+ - 08/08/2026: [Lịch thi chi tiết giữa kỳ HK3/25-26 môn MTH00040 (Xác xuất thống kê)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/961-l-ch-thi-chi-ti-t-gi-a-ky-hk3-25-26-mon-mth00040-xac-xu-t-th-ng-ke)
  - 05/08/2026: [Lịch thi giữa kỳ HK3/25-26 các lớp đại trà Chính quy](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/960-l-ch-thi-gi-a-ky-hk3-25-26-cac-l-p-d-i-tra-chinh-quy)
  - 13/07/2026: [Lịch thi cuối kỳ HK3/25-26 CT đề án khoa CNTT](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/958-l-ch-thi-cu-i-ky-hk3-25-26-ct-d-an-khoa-cntt)
  - 26/06/2026: [Lịch thi cuối kỳ HK3/25-26 CT đề án khoa Hóa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/952-l-ch-thi-cu-i-ky-hk2-25-26-ct-d-an-khoa-hoa)
  - 26/06/2026: [Lịch thi cuối kỳ HK3/25-26 CT đề án các Khoa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/951-l-ch-thi-cu-i-ky-hk3-25-26-ct-d-an-cac-khoa)
- - 15/06/2026: [Lịch thi giữa kỳ HK3/25-26 CT đề án các Khoa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/949-l-ch-thi-gi-a-ky-hk3-25-26-ct-d-an-cac-khoa)
 
 ***
 
