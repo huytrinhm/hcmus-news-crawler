@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-08-11 08:55:17.483254+07:00**_
+_Last update: **2026-08-11 14:12:04.470954+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 29/07/2026: [[CTĐA] Kế hoạch năm học 2026 – 2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/07/ctda-ke-hoach-nam-hoc-2026-2027-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2026-08-11 08:55:17.483254+07:00**_
  - 25-7-2026: [[CQ-CNTN] Mời tham dự buổi bảo vệ đề tài tốt nghiệp khóa 2022 đợt 2 (27/7 - 17/8/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17508)
 
 ## Thông tin dành cho sinh viên
+- 11/08/2026: [THÔNG BÁO triển khai thử nghiệm website Phòng Công tác Sinh viên](https://hcmus.edu.vn/thong-bao-trien-khai-thu-nghiem-website-phong-cong-tac-sinh-vien/)
 - 07/08/2026: [Thông báo thời gian nhập học môn Giáo dục Quốc phòng – An ninh và thông tin đăng ký ngoại trú đối với sinh viên Khóa 2025](https://hcmus.edu.vn/thong-bao-thoi-gian-nhap-hoc-mon-giao-duc-quoc-phong-an-ninh-va-thong-tin-dang-ky-ngoai-tru-doi-voi-sinh-vien-khoa-2025/)
 - 06/08/2026: [Quy định học bổng Khuyến khích (sửa đổi, bổ sung)](https://hcmus.edu.vn/quy-dinh-hoc-bong-khuyen-khich-sua-doi-bo-sung/)
 - 06/08/2026: [Thông báo đăng ký học phần Học kỳ 1 /2026-2027, chương trình đại trà và tài năng](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-1-2026-2027-chuong-trinh-dai-tra-va-tai-nang/)
@@ -71,7 +72,6 @@ _Last update: **2026-08-11 08:55:17.483254+07:00**_
 - 28/07/2026: [Thông báo cập nhật thông tin ngành/chuyên ngành cho sinh viên đại học hệ chính quy các chương trình – Khóa tuyển 2023 trở về trước](https://hcmus.edu.vn/thong-bao-cap-nhat-thong-tin-nganh-chuyen-nganh-cho-sinh-vien-dai-hoc-he-chinh-quy-cac-chuong-trinh-khoa-tuyen-2023-tro-ve-truoc/)
 - 27/07/2026: [Thông báo nhận hình Lễ Trao Bằng tốt nghiệp Cử nhân Khoa học Đợt 1 năm 2026 do Trường tổ chức ngày 18/7 và 23/7/2026](https://hcmus.edu.vn/thong-bao-nhan-hinh-le-trao-bang-tot-nghiep-cu-nhan-khoa-hoc-dot-1-nam-2026-do-truong-to-chuc-ngay-18-7-va-23-7-2026/)
 - 27/07/2026: [Thông báo chương trình DiscoverNUS của Đại học Quốc gia Singapore](https://hcmus.edu.vn/thong-bao-chuong-trinh-discovernus-cua-dai-hoc-quoc-gia-singapore/)
-- 24/07/2026: [Thông báo nộp hồ sơ xét tốt nghiệp đợt 3 và đợt 4 năm 2026 đối với sinh viên đại học hệ chính quy các chương trình](https://hcmus.edu.vn/69210-2/)
 
 ## Các thông báo về Khảo thí
  - 10/08/2026: [Thông báo phúc khảo HK2/25-26 hệ Chính quy](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/962-thong-bao-phuc-kh-o-hk2-25-26-h-chinh-quy)
