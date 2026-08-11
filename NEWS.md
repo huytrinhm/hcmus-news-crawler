@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-08-11 14:12:04.470954+07:00**_
+_Last update: **2026-08-11 20:11:16.517121+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 29/07/2026: [[CTĐA] Kế hoạch năm học 2026 – 2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/07/ctda-ke-hoach-nam-hoc-2026-2027-du-kien/)
@@ -74,11 +74,11 @@ _Last update: **2026-08-11 14:12:04.470954+07:00**_
 - 27/07/2026: [Thông báo chương trình DiscoverNUS của Đại học Quốc gia Singapore](https://hcmus.edu.vn/thong-bao-chuong-trinh-discovernus-cua-dai-hoc-quoc-gia-singapore/)
 
 ## Các thông báo về Khảo thí
+ - 11/08/2026: [Thông báo thay đổi phòng thi HK3/25-26 tại NVC](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/964-thong-bao-thay-d-i-phong-thi-hk3-25-26-t-i-nvc)
  - 10/08/2026: [Thông báo phúc khảo HK2/25-26 hệ Chính quy](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/962-thong-bao-phuc-kh-o-hk2-25-26-h-chinh-quy)
  - 16/07/2026: [Thông báo thay đổi phòng thi HK2/25-26 tại Cơ sở NVC (Chương trình chính quy)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/959-thong-bao-thay-d-i-phong-thi-hk2-25-26-t-i-co-s-nvc-chuong-trinh-chinh-quy)
  - 08/07/2026: [Thông báo phúc khảo HK2/25-26 ngành CNTT hệ Từ xa (Đợt bổ sung)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/957-thong-bao-phuc-kh-o-hk2-25-26-nganh-cntt-h-t-xa-d-t-b-sung)
  - 07/07/2026: [Thông báo thu thập thông tin việc học việc làm của SVTN đợt tháng 6 năm 2026](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/956-thong-bao-thu-th-p-thong-tin-vi-c-h-c-vi-c-lam-c-a-svtn-d-t-thang-6-nam-2026)
- - 06/07/2026: [Thông báo SV đánh giá môn học - GV HK3/2025-2026 (Chương trình đề án)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/955-thong-bao-sv-danh-gia-mon-h-c-gv-hk3-2025-2026-chuong-trinh-d-an)
 
 ***
 
