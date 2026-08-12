@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-08-12 09:08:07.122323+07:00**_
+_Last update: **2026-08-12 14:28:19.241241+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 29/07/2026: [[CTĐA] Kế hoạch năm học 2026 – 2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/07/ctda-ke-hoach-nam-hoc-2026-2027-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-08-12 09:08:07.122323+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 12-8-2026: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2022, đợt 2 (bảo vệ tháng 7,8/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17530)
  - 10-8-2026: [Thông báo tuyển sinh Sau Đại học năm 2026 - đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17529)
  - 7-8-2026: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Nguyễn Tấn Công](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17527)
  - 4-8-2026: [Tổng kết Trường hè “FIT@HCMUS Summer School on Intelligent Agents and Agentic AI" năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17521)
@@ -59,7 +60,6 @@ _Last update: **2026-08-12 09:08:07.122323+07:00**_
  - 29-7-2026: [Đăng kí tham gia Seminar Bộ môn Công nghệ Tri thức lần 2 năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17517)
  - 29-7-2026: [Thông báo đăng ký thực hiện đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17515)
  - 27-7-2026: [Thông tin học bổng MEXT 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17513)
- - 25-7-2026: [[CQ-CNTN] Mời tham dự buổi bảo vệ đề tài tốt nghiệp khóa 2022 đợt 2 (27/7 - 17/8/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17508)
 
 ## Thông tin dành cho sinh viên
 - 11/08/2026: [THÔNG BÁO triển khai thử nghiệm website Phòng Công tác Sinh viên](https://hcmus.edu.vn/thong-bao-trien-khai-thu-nghiem-website-phong-cong-tac-sinh-vien/)
@@ -82,7 +82,7 @@ _Last update: **2026-08-12 09:08:07.122323+07:00**_
 
 ***
 
- - 10/08/2026: [Lịch thi cuối kỳ HK3/25-26 các lớp đại trà Chính quy](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/963-l-ch-thi-cu-i-ky-hk3-25-26-cac-l-p-d-i-tra-chinh-quy)
+ - 10/08/2026: [Lịch thi cuối kỳ HK3/25-26 các lớp đại trà Chính quy (Cập nhật 12/08)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/963-l-ch-thi-cu-i-ky-hk3-25-26-cac-l-p-d-i-tra-chinh-quy)
  - 08/08/2026: [Lịch thi chi tiết giữa kỳ HK3/25-26 môn MTH00040 (Xác xuất thống kê)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/961-l-ch-thi-chi-ti-t-gi-a-ky-hk3-25-26-mon-mth00040-xac-xu-t-th-ng-ke)
  - 05/08/2026: [Lịch thi giữa kỳ HK3/25-26 các lớp đại trà Chính quy](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/960-l-ch-thi-gi-a-ky-hk3-25-26-cac-l-p-d-i-tra-chinh-quy)
  - 13/07/2026: [Lịch thi cuối kỳ HK3/25-26 CT đề án khoa CNTT](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/958-l-ch-thi-cu-i-ky-hk3-25-26-ct-d-an-khoa-cntt)
