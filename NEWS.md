@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-08-20 13:50:35.962220+07:00**_
+_Last update: **2026-08-20 19:53:54.070362+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 29/07/2026: [[CTĐA] Kế hoạch năm học 2026 – 2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/07/ctda-ke-hoach-nam-hoc-2026-2027-du-kien/)
@@ -62,7 +62,7 @@ _Last update: **2026-08-20 13:50:35.962220+07:00**_
  - 7-8-2026: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Nguyễn Tấn Công](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17527)
 
 ## Thông tin dành cho sinh viên
-- 19/08/2026: [Thông báo về việc kiểm tra Anh văn đầu khóa, quy định học tiếng Anh và chuẩn ngoại ngữ đầu ra đối với sinh viên khóa 2026](https://hcmus.edu.vn/70115-2/)
+- 19/08/2026: [Thông báo về việc kiểm tra Anh văn đầu khóa, quy định học tiếng Anh và chuẩn ngoại ngữ đầu ra đối với sinh viên khóa 2026](https://hcmus.edu.vn/thong-bao-ve-viec-kiem-tra-anh-van-dau-khoa-quy-dinh-hoc-tieng-anh-va-chuan-ngoai-ngu-dau-ra-doi-voi-sinh-vien-khoa-2026/)
 - 15/08/2026: [Thư chúc mừng Tân Sinh viên khóa tuyển 2026 của Hiệu trưởng](https://hcmus.edu.vn/thu-chuc-mung-tan-sinh-vien-khoa-tuyen-2026-cua-hieu-truong/)
 - 14/08/2026: [Kế hoạch mở học phần và hướng dẫn đăng ký học phần HK1/2026-2027 tại cơ sở 2 – Khóa 2025, khóa 2026 và môn chung khóa 2024 về trước, chương trình đại trà/tài năng](https://hcmus.edu.vn/ke-hoach-mo-hoc-phan-va-huong-dan-dang-ky-hoc-phan-hk1-2026-2027-tai-co-so-2-hoa-2025-khoa-2026-va-mon-chung-khoa-2024-ve-truoc-chuong-trinh-dai-tra-tai-nang/)
 - 13/08/2026: [Thông báo Đăng ký học phần HK1/2026-2027 đối với sinh viên chương trình CLC, TCTA và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hk1-2026-2027-doi-voi-sinh-vien-chuong-trinh-clc-tcta-va-viet-phap/)
