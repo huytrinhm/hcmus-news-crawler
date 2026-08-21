@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-08-21 13:51:32.866498+07:00**_
+_Last update: **2026-08-21 19:52:52.108927+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 29/07/2026: [[CTĐA] Kế hoạch năm học 2026 – 2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/07/ctda-ke-hoach-nam-hoc-2026-2027-du-kien/)
@@ -14,6 +14,7 @@ _Last update: **2026-08-21 13:51:32.866498+07:00**_
  - 07/08/2023: [[CTĐA] Kế hoạch năm học 2023 – 2024](https://www.ctda.hcmus.edu.vn/vi/2023/08/ctda-ke-hoach-nam-hoc-2023-2024/)
 
 ### Giáo vụ
+ - 21/08/2026: [[CTĐA] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp (đợt bảo vệ 04/2027)](https://www.ctda.hcmus.edu.vn/vi/2026/08/ctda-dang-ky-nguyen-vong-ho-tro-de-tai-tot-nghiep-dot-bao-ve-04-2027/)
  - 19/08/2026: [[CTĐA] Lịch thi chi tiết cuối kỳ HK3/2526](https://www.ctda.hcmus.edu.vn/vi/2026/08/ctda-lich-thi-chi-tiet-cuoi-ky-hk3-2526/)
  - 31/07/2026: [Thông báo đăng ký đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp trên hệ thống Khoa đợt tháng 04/2027](https://www.ctda.hcmus.edu.vn/vi/2026/07/thong-bao-dang-ky-de-tai-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-tren-he-thong-khoa-dot-thang-04-2027/)
  - 24/07/2026: [[CLC/TCTA] – Thông báo đăng ký nguyện vọng chuyên ngành năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/07/clc-tcta-thong-bao-dang-ky-nguyen-vong-chuyen-nganh-nam-hoc-2025-2026/)
@@ -23,7 +24,6 @@ _Last update: **2026-08-21 13:51:32.866498+07:00**_
  - 05/07/2026: [[Chương trình TCTA] – Mời tham gia sinh hoạt phổ biến quy định về việc chia chuyên ngành – Đợt tháng 9 năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/07/chuong-trinh-tcta-moi-tham-gia-sinh-hoat-pho-bien-quy-dinh-ve-viec-chia-chuyen-nganh-dot-thang-9-nam-hoc-2025-2026/)
  - 16/06/2026: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
  - 28/05/2026: [Thông báo phúc khảo HK2/2526](https://www.ctda.hcmus.edu.vn/vi/2026/05/thong-bao-phuc-khao-hk2-2526/)
- - 27/05/2026: [[CTĐA] Thời khoá biểu HK3 năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/05/ctda-thoi-khoa-bieu-hk3-nam-hoc-2025-2026/)
 
 ### Trợ lí sinh viên
  - 04/12/2025: [Thông báo đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2026 (dành cho các sinh viên tham gia BHYT tại Trường)](https://www.ctda.hcmus.edu.vn/vi/2025/12/thong-bao-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2026-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/)
