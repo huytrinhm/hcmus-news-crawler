@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-08-22 13:42:59.699930+07:00**_
+_Last update: **2026-08-22 19:42:59.016520+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 29/07/2026: [[CTĐA] Kế hoạch năm học 2026 – 2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/07/ctda-ke-hoach-nam-hoc-2026-2027-du-kien/)
@@ -14,6 +14,7 @@ _Last update: **2026-08-22 13:42:59.699930+07:00**_
  - 07/08/2023: [[CTĐA] Kế hoạch năm học 2023 – 2024](https://www.ctda.hcmus.edu.vn/vi/2023/08/ctda-ke-hoach-nam-hoc-2023-2024/)
 
 ### Giáo vụ
+ - 22/08/2026: [[CTĐA] Thông báo nộp file đề tài tốt nghiệp TTDATN SAU bảo vệ khóa 2022, đợt 1 (bảo vệ tháng 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/08/ctda-thong-bao-nop-file-de-tai-tot-nghiep-ttdatn-sau-bao-ve-khoa-2022-dot-1-bao-ve-thang-08-2026/)
  - 21/08/2026: [[CTĐA] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp (đợt bảo vệ 04/2027)](https://www.ctda.hcmus.edu.vn/vi/2026/08/ctda-dang-ky-nguyen-vong-ho-tro-de-tai-tot-nghiep-dot-bao-ve-04-2027/)
  - 19/08/2026: [[CTĐA] Lịch thi chi tiết cuối kỳ HK3/2526](https://www.ctda.hcmus.edu.vn/vi/2026/08/ctda-lich-thi-chi-tiet-cuoi-ky-hk3-2526/)
  - 31/07/2026: [Thông báo đăng ký đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp trên hệ thống Khoa đợt tháng 04/2027](https://www.ctda.hcmus.edu.vn/vi/2026/07/thong-bao-dang-ky-de-tai-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-tren-he-thong-khoa-dot-thang-04-2027/)
@@ -23,7 +24,6 @@ _Last update: **2026-08-22 13:42:59.699930+07:00**_
  - 05/07/2026: [[Chương trình TCTA] – Mời tham gia sinh hoạt cung cấp thông tin về các chuyên ngành và định hướng nghề nghiệp – Đợt tháng 9 năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/07/chuong-trinh-tcta-moi-tham-gia-sinh-hoat-cung-cap-thong-tin-ve-cac-chuyen-nganh-va-dinh-huong-nghe-nghiep-dot-thang-9-nam-hoc-2025-2026/)
  - 05/07/2026: [[Chương trình TCTA] – Mời tham gia sinh hoạt phổ biến quy định về việc chia chuyên ngành – Đợt tháng 9 năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/07/chuong-trinh-tcta-moi-tham-gia-sinh-hoat-pho-bien-quy-dinh-ve-viec-chia-chuyen-nganh-dot-thang-9-nam-hoc-2025-2026/)
  - 16/06/2026: [[CTĐA] Các mốc thời gian KLTN – TTDATN – TTTN năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/06/ctda-cac-moc-thoi-gian-kltn-ttdatn-tttn-nam-hoc-2026-2027/)
- - 28/05/2026: [Thông báo phúc khảo HK2/2526](https://www.ctda.hcmus.edu.vn/vi/2026/05/thong-bao-phuc-khao-hk2-2526/)
 
 ### Trợ lí sinh viên
  - 04/12/2025: [Thông báo đăng ký cơ sở khám chữa bệnh ban đầu của Bảo hiểm y tế năm 2026 (dành cho các sinh viên tham gia BHYT tại Trường)](https://www.ctda.hcmus.edu.vn/vi/2025/12/thong-bao-dang-ky-co-so-kham-chua-benh-ban-dau-cua-bao-hiem-y-te-nam-2026-danh-cho-cac-sinh-vien-tham-gia-bhyt-tai-truong/)
@@ -50,6 +50,7 @@ _Last update: **2026-08-22 13:42:59.699930+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 22-8-2026: [Thông báo các hoạt động sắp tới dành cho tân sinh viên Khóa tuyển 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17541)
  - 20-8-2026: [[CQ] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp ( đợt bảo vệ 03 và 04/2027)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17539)
  - 19-8-2026: [V/v xét tuyển Chương trình Cử nhân tài năng nhóm ngành Máy tính và Công nghệ thông tin khóa tuyển 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17536)
  - 19-8-2026: [Chương trình Hành trang tân sinh viên Khoa Công nghệ thông tin khóa tuyển 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17538)
@@ -59,7 +60,6 @@ _Last update: **2026-08-22 13:42:59.699930+07:00**_
  - 13-8-2026: [DSHV đăng ký bảo vệ luận văn/ đồ án tốt nghiệp đợt cuối tháng 9/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17532)
  - 12-8-2026: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2022, đợt 2 (bảo vệ tháng 7,8/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17530)
  - 10-8-2026: [Thông báo tuyển sinh Sau Đại học năm 2026 - đợt 2](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17529)
- - 7-8-2026: [Mời tham dự buổi Seminar trước bảo vệ luận án tiến sĩ của NCS Nguyễn Tấn Công](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17527)
 
 ## Thông tin dành cho sinh viên
 - 21/08/2026: [Thông báo Lịch kiểm tra Anh văn đầu khóa dành cho Tân sinh viên](https://hcmus.edu.vn/thong-bao-lich-kiem-tra-anh-van-dau-khoa-danh-cho-tan-sinh-vien/)
