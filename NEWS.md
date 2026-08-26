@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-08-26 13:53:35.993041+07:00**_
+_Last update: **2026-08-26 19:56:48.539235+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 29/07/2026: [[CTĐA] Kế hoạch năm học 2026 – 2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/07/ctda-ke-hoach-nam-hoc-2026-2027-du-kien/)
@@ -50,6 +50,8 @@ _Last update: **2026-08-26 13:53:35.993041+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 26-8-2026: [Tổng kết Seminar The Composer’s Dilemma: Between Familiarity and Novelty](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17544)
+ - 26-8-2026: [Thông báo lịch kiểm tra trình độ Anh văn đầu khóa – ngành Trí tuệ nhân tạo khóa tuyển 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17543)
  - 22-8-2026: [Thông báo các hoạt động sắp tới dành cho tân sinh viên Khóa tuyển 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17541)
  - 21-8-2026: [[SĐH] Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Phạm Minh Hoàng (9g00, 26/8/2026, phòng C24)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17542)
  - 20-8-2026: [[CQ] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp ( đợt bảo vệ 03 và 04/2027)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17539)
@@ -58,8 +60,6 @@ _Last update: **2026-08-26 13:53:35.993041+07:00**_
  - 19-8-2026: [[CQ] Kết quả xét chuyên ngành sinh viên Khóa 2024, ĐHCQ chương trình Chuẩn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17537)
  - 17-8-2026: [[CQ] Thông báo đăng ký học phần dành cho sinh viên ĐHCQ HK1/2026-2027](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17535)
  - 14-8-2026: [Đăng ký tham gia Seminar The Composer’s Dilemma: Between Familiarity and Novelty](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17533)
- - 13-8-2026: [DSHV đăng ký bảo vệ luận văn/ đồ án tốt nghiệp đợt cuối tháng 9/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17532)
- - 12-8-2026: [[CQ] Quy trình nộp đề tài tốt nghiệp SAU bảo vệ khóa 2022, đợt 2 (bảo vệ tháng 7,8/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17530)
 
 ## Thông tin dành cho sinh viên
 - 26/08/2026: [Thông báo Phòng thi / Giờ thi kiểm tra trình độ Anh văn đầu khóa đối với Tân sinh viên](https://hcmus.edu.vn/thong-bao-lich-kiem-tra-trinh-do-anh-van-dau-khoa-doi-voi-tan-sinh-vien/)
