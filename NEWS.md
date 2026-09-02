@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-09-02 17:53:16.036299+07:00**_
+_Last update: **2026-09-02 23:12:14.326835+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 29/07/2026: [[CTĐA] Kế hoạch năm học 2026 – 2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/07/ctda-ke-hoach-nam-hoc-2026-2027-du-kien/)
