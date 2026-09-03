@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-09-03 03:43:50.101327+07:00**_
+_Last update: **2026-09-03 10:34:12.688722+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 29/07/2026: [[CTĐA] Kế hoạch năm học 2026 – 2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/07/ctda-ke-hoach-nam-hoc-2026-2027-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-09-03 03:43:50.101327+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 3-9-2026: [[CQ] Danh sách lớp hủy HK1/26-27 do không đủ số lượng mở lớp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17547)
  - 28-8-2026: [Thông báo khảo sát Kỹ năng lập trình dành cho Tân sinh viên khóa tuyển 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17546)
  - 27-8-2026: [Buổi bảo vệ luận án tiến sĩ cấp cơ sở đào tạo NCS Phạm Minh Hoàng ngày 26/8/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17545)
  - 26-8-2026: [Tổng kết Seminar The Composer’s Dilemma: Between Familiarity and Novelty](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17544)
@@ -59,7 +60,6 @@ _Last update: **2026-09-03 03:43:50.101327+07:00**_
  - 20-8-2026: [[CQ] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp ( đợt bảo vệ 03 và 04/2027)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17539)
  - 19-8-2026: [V/v xét tuyển Chương trình Cử nhân tài năng nhóm ngành Máy tính và Công nghệ thông tin khóa tuyển 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17536)
  - 19-8-2026: [Chương trình Hành trang tân sinh viên Khoa Công nghệ thông tin khóa tuyển 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17538)
- - 19-8-2026: [[CQ] Kết quả xét chuyên ngành sinh viên Khóa 2024, ĐHCQ chương trình Chuẩn](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17537)
 
 ## Thông tin dành cho sinh viên
 - 27/08/2026: [Kế hoạch tiếp nhận, quản lý sinh viên Khóa 2025 học Giáo dục Quốc phòng – An ninh](https://hcmus.edu.vn/ke-hoach-tiep-nhan-quan-ly-sinh-vien-khoa-2025-hoc-giao-duc-quoc-phong-an-ninh/)
