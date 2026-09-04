@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-09-04 03:41:44.130004+07:00**_
+_Last update: **2026-09-04 10:34:11.691612+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 29/07/2026: [[CTĐA] Kế hoạch năm học 2026 – 2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/07/ctda-ke-hoach-nam-hoc-2026-2027-du-kien/)
@@ -50,6 +50,7 @@ _Last update: **2026-09-04 03:41:44.130004+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 4-9-2026: [[CQ Chuẩn] Kết quả xét tuyển lớp Cử nhân tài năng Khoá tuyển 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17548)
  - 3-9-2026: [[CQ] Danh sách lớp hủy HK1/26-27 do không đủ số lượng mở lớp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17547)
  - 28-8-2026: [Thông báo khảo sát Kỹ năng lập trình dành cho Tân sinh viên khóa tuyển 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17546)
  - 27-8-2026: [Buổi bảo vệ luận án tiến sĩ cấp cơ sở đào tạo NCS Phạm Minh Hoàng ngày 26/8/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17545)
@@ -59,7 +60,6 @@ _Last update: **2026-09-04 03:41:44.130004+07:00**_
  - 21-8-2026: [[SĐH] Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Phạm Minh Hoàng (9g00, 26/8/2026, phòng C24)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17542)
  - 20-8-2026: [[CQ] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp ( đợt bảo vệ 03 và 04/2027)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17539)
  - 19-8-2026: [V/v xét tuyển Chương trình Cử nhân tài năng nhóm ngành Máy tính và Công nghệ thông tin khóa tuyển 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17536)
- - 19-8-2026: [Chương trình Hành trang tân sinh viên Khoa Công nghệ thông tin khóa tuyển 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17538)
 
 ## Thông tin dành cho sinh viên
 - 03/09/2026: [Thông báo kết quả kiểm tra Anh văn đầu khóa đối với Tân sinh viên](https://hcmus.edu.vn/thong-bao-ket-qua-kiem-tra-anh-van-dau-khoa-doi-voi-tan-sinh-vien/)
