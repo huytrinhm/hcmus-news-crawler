@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-09-07 10:35:45.748419+07:00**_
+_Last update: **2026-09-07 18:55:24.823113+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 29/07/2026: [[CTĐA] Kế hoạch năm học 2026 – 2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/07/ctda-ke-hoach-nam-hoc-2026-2027-du-kien/)
@@ -62,6 +62,7 @@ _Last update: **2026-09-07 10:35:45.748419+07:00**_
  - 19-8-2026: [V/v xét tuyển Chương trình Cử nhân tài năng nhóm ngành Máy tính và Công nghệ thông tin khóa tuyển 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17536)
 
 ## Thông tin dành cho sinh viên
+- 07/09/2026: [HƯỚNG DẪN ĐĂNG KÝ HỌC PHẦN DÀNH TÂN CHO SINH VIÊN](https://hcmus.edu.vn/huong-dan-dang-ky-hoc-phan-danh-tan-cho-sinh-vien/)
 - 04/09/2026: [Kế hoạch triển khai công tác chuẩn bị cho hoạt động giảng dạy – học tập HK1/2026-2027 đối với Tân sinh viên chương trình đại trà và tài năng](https://hcmus.edu.vn/ke-hoach-trien-khai-cong-tac-chuan-bi-cho-hoat-dong-giang-day-hoc-tap-hk1-2026-2027-doi-voi-tan-sinh-vien-chuong-trinh-dai-tra-va-tai-nang/)
 - 03/09/2026: [Thông báo kết quả kiểm tra Anh văn đầu khóa đối với Tân sinh viên](https://hcmus.edu.vn/thong-bao-ket-qua-kiem-tra-anh-van-dau-khoa-doi-voi-tan-sinh-vien/)
 - 03/09/2026: [Thông báo kết quả dự kiến HBKK HK2/2025-2026 Khoa Công nghệ Thông tin, Hóa học, Môi trường, Điện tử-Viễn thông, Sinh học-CNSH, Khoa học & CNVL, Vật lý-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-2025-2026-khoa-cong-nghe-thong-tin-hoa-hoc-moi-truong-dien-tu-vien-thong-sinh-hoc-cnsh-khoa-hoc-cnvl-vat-ly-vlkt-ctda/)
@@ -71,7 +72,6 @@ _Last update: **2026-09-07 10:35:45.748419+07:00**_
 - 26/08/2026: [Thông báo Danh sách học viên cao học khóa năm 2025 thuộc đối tượng được xét cấp học bổng đợt 1](https://hcmus.edu.vn/thong-bao-danh-sach-hoc-vien-cao-hoc-khoa-nam-2025-thuoc-doi-tuong-duoc-xet-cap-hoc-bong-dot-1/)
 - 21/08/2026: [Thông báo Lịch kiểm tra Anh văn đầu khóa dành cho Tân sinh viên](https://hcmus.edu.vn/thong-bao-lich-kiem-tra-anh-van-dau-khoa-danh-cho-tan-sinh-vien/)
 - 19/08/2026: [Thông báo về việc kiểm tra Anh văn đầu khóa, quy định học tiếng Anh và chuẩn ngoại ngữ đầu ra đối với sinh viên khóa 2026](https://hcmus.edu.vn/thong-bao-ve-viec-kiem-tra-anh-van-dau-khoa-quy-dinh-hoc-tieng-anh-va-chuan-ngoai-ngu-dau-ra-doi-voi-sinh-vien-khoa-2026/)
-- 15/08/2026: [Thư chúc mừng Tân Sinh viên khóa tuyển 2026 của Hiệu trưởng](https://hcmus.edu.vn/thu-chuc-mung-tan-sinh-vien-khoa-tuyen-2026-cua-hieu-truong/)
 
 ## Các thông báo về Khảo thí
  - 11/08/2026: [Thông báo thay đổi phòng thi HK3/25-26 tại NVC](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/964-thong-bao-thay-d-i-phong-thi-hk3-25-26-t-i-nvc)
