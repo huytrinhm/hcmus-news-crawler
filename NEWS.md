@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-09-13 18:19:16.448359+07:00**_
+_Last update: **2026-09-13 22:49:19.385978+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 29/07/2026: [[CTĐA] Kế hoạch năm học 2026 – 2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/07/ctda-ke-hoach-nam-hoc-2026-2027-du-kien/)
@@ -50,6 +50,8 @@ _Last update: **2026-09-13 18:19:16.448359+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 13-9-2026: [[CQ] TKB lý thuyết có phòng học kỳ 1, năm học 2026-2027](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17553)
+ - 13-9-2026: [[CQ] Danh sách lớp HK1/26-27 nghỉ học tuần 14/9/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17551)
  - 8-9-2026: [[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp Khóa 2023- Đợt 1 (bảo vệ tháng 3/2027)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17550)
  - 4-9-2026: [[CQ Chuẩn] Kết quả xét tuyển lớp Cử nhân tài năng Khoá tuyển 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17548)
  - 3-9-2026: [[CQ] Danh sách lớp hủy HK1/26-27 do không đủ số lượng mở lớp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17547)
@@ -58,8 +60,6 @@ _Last update: **2026-09-13 18:19:16.448359+07:00**_
  - 26-8-2026: [Tổng kết Seminar The Composer’s Dilemma: Between Familiarity and Novelty](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17544)
  - 26-8-2026: [Thông báo lịch kiểm tra trình độ Anh văn đầu khóa – ngành Trí tuệ nhân tạo khóa tuyển 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17543)
  - 22-8-2026: [Thông báo các hoạt động sắp tới dành cho tân sinh viên Khóa tuyển 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17541)
- - 21-8-2026: [[SĐH] Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Phạm Minh Hoàng (9g00, 26/8/2026, phòng C24)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17542)
- - 20-8-2026: [[CQ] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp ( đợt bảo vệ 03 và 04/2027)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17539)
 
 ## Thông tin dành cho sinh viên
 - 13/09/2026: [Thời khóa biểu chính thức môn giai đoạn đại cương, chương trình đại trà/tài năng trong HK1/2026-2027 tại cơ sở 2](https://hcmus.edu.vn/thoi-khoa-bieu-chinh-thuc-mon-giai-doan-dai-cuong-chuong-trinh-dai-tra-tai-nang-trong-hk1-2026-2027-tai-co-so-2/)
