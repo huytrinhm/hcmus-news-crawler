@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-09-15 18:20:58.093085+07:00**_
+_Last update: **2026-09-15 23:32:26.744759+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -50,6 +50,7 @@ _Last update: **2026-09-15 18:20:58.093085+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 15-9-2026: [Thông báo đăng ký tham dự ICPC-HCMUS 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17554)
  - 13-9-2026: [[CQ] TKB lý thuyết có phòng học kỳ 1, năm học 2026-2027](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17553)
  - 13-9-2026: [[CQ] Danh sách lớp HK1/26-27 nghỉ học tuần 14/9/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17551)
  - 8-9-2026: [[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp Khóa 2023- Đợt 1 (bảo vệ tháng 3/2027)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17550)
@@ -59,7 +60,6 @@ _Last update: **2026-09-15 18:20:58.093085+07:00**_
  - 27-8-2026: [Buổi bảo vệ luận án tiến sĩ cấp cơ sở đào tạo NCS Phạm Minh Hoàng ngày 26/8/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17545)
  - 26-8-2026: [Tổng kết Seminar The Composer’s Dilemma: Between Familiarity and Novelty](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17544)
  - 26-8-2026: [Thông báo lịch kiểm tra trình độ Anh văn đầu khóa – ngành Trí tuệ nhân tạo khóa tuyển 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17543)
- - 22-8-2026: [Thông báo các hoạt động sắp tới dành cho tân sinh viên Khóa tuyển 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17541)
 
 ## Thông tin dành cho sinh viên
 - 14/09/2026: [SINH HOẠT CÔNG DÂN ĐẦU KHÓA 2026](https://hcmus.edu.vn/sinh-hoat-cong-dan-dau-khoa-2026/)
