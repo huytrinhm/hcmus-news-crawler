@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-09-15 04:37:59.272933+07:00**_
+_Last update: **2026-09-15 10:59:23.311161+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 29/07/2026: [[CTĐA] Kế hoạch năm học 2026 – 2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/07/ctda-ke-hoach-nam-hoc-2026-2027-du-kien/)
@@ -64,7 +64,7 @@ _Last update: **2026-09-15 04:37:59.272933+07:00**_
 ## Thông tin dành cho sinh viên
 - 14/09/2026: [SINH HOẠT CÔNG DÂN ĐẦU KHÓA 2026](https://hcmus.edu.vn/sinh-hoat-cong-dan-dau-khoa-2026/)
 - 13/09/2026: [Thời khóa biểu chính thức môn giai đoạn đại cương, chương trình đại trà/tài năng trong HK1/2026-2027 tại cơ sở 2](https://hcmus.edu.vn/thoi-khoa-bieu-chinh-thuc-mon-giai-doan-dai-cuong-chuong-trinh-dai-tra-tai-nang-trong-hk1-2026-2027-tai-co-so-2/)
-- 13/09/2026: [Thông tin kế hoạch học tập môn Hóa đại cương 1 và 2, HK1/2026-2027](https://hcmus.edu.vn/thong-tin-ke-hoach-hoc-tap-mon-hoa-dai-cuong-1-va-2-hk1-2026-2027/)
+- 13/09/2026: [Thông tin kế hoạch học thực tập môn Hóa đại cương 1 và 2, HK1/2026-2027, chương trình đại trà và tài năng](https://hcmus.edu.vn/thong-tin-ke-hoach-hoc-tap-mon-hoa-dai-cuong-1-va-2-hk1-2026-2027/)
 - 13/09/2026: [Thời khóa biểu chính thức môn THỂ DỤC 1 khóa tuyển 2026 chương trình đại trà/tài năng trong HK1/2026-2027 tại cơ sở 2](https://hcmus.edu.vn/thoi-khoa-bieu-chinh-thuc-mon-the-duc-1-khoa-tuyen-2026-chuong-trinh-dai-tra-tai-nang-trong-hk1-2026-2027-tai-co-so-2/)
 - 11/09/2026: [Á khoa 29,75 điểm khối A00 toàn quốc chọn Thiết kế vi mạch tại Trường ĐH Khoa học tự nhiên](https://hcmus.edu.vn/a-khoa-2975-diem-khoi-a00-toan-quoc-chon-thiet-ke-vi-mach-tai-truong-dh-khoa-hoc-tu-nhien/)
 - 09/09/2026: [Khảo sát mức độ sẵn sàng của tân sinh viên đối với ngành học, trường học và kênh tư vấn hướng nghiệp – tuyển sinh năm 2026](https://hcmus.edu.vn/khao-sat-muc-do-san-sang-cua-tan-sinh-vien-doi-voi-nganh-hoc-truong-hoc-va-kenh-tu-van-huong-nghiep-tuyen-sinh-nam-2026/)
