@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-09-18 10:49:34.256479+07:00**_
+_Last update: **2026-09-18 17:47:33.739057+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -50,6 +50,9 @@ _Last update: **2026-09-18 10:49:34.256479+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 18-9-2026: [Thông báo v/v đăng ký tham dự Kỳ thi Olympic tin học sinh viên trường Đại học Khoa học tự nhiên năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17560)
+ - 18-9-2026: [Chúc mừng nhóm Sinh viên Cử nhân tài năng của FIT@HCMUS đã có các công bố tại Tạp chí uy tín quốc tế Q1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17558)
+ - 18-9-2026: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 8/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17557)
  - 16-9-2026: [82 Tân sinh viên Khoa Công nghệ thông tin nhận Học bổng Tinh hoa khoa học năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17556)
  - 16-9-2026: [Chúc mừng Sinh viên Trí tuệ nhân tạo của #FITHCMUS công bố bài báo trên Hội nghị  uy tín quốc tế rank A*](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17555)
  - 15-9-2026: [Thông báo đăng ký tham dự ICPC-HCMUS 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17554)
@@ -57,9 +60,6 @@ _Last update: **2026-09-18 10:49:34.256479+07:00**_
  - 13-9-2026: [[CQ] Danh sách lớp HK1/26-27 nghỉ học tuần 14/9/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17551)
  - 8-9-2026: [[CQ] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp Khóa 2023- Đợt 1 (bảo vệ tháng 3/2027)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17550)
  - 4-9-2026: [[CQ Chuẩn] Kết quả xét tuyển lớp Cử nhân tài năng Khoá tuyển 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17548)
- - 3-9-2026: [[CQ] Danh sách lớp hủy HK1/26-27 do không đủ số lượng mở lớp](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17547)
- - 28-8-2026: [Thông báo khảo sát Kỹ năng lập trình dành cho Tân sinh viên khóa tuyển 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17546)
- - 27-8-2026: [Buổi bảo vệ luận án tiến sĩ cấp cơ sở đào tạo NCS Phạm Minh Hoàng ngày 26/8/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17545)
 
 ## Thông tin dành cho sinh viên
 - 18/09/2026: [Thông báo kết quả chính thức HBKK HK2/2025-2026 Khoa Công nghệ Thông tin, Điện tử-Viễn thông, Hóa học, Khoa học&CNVL, Môi trường, Sinh học-CNSH, Vật lý-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk2-2025-2026-khoa-cong-nghe-thong-tin-dien-tu-vien-thong-hoa-hoc-khoa-hoccnvl-moi-truong-sinh-hoc-cnsh-vat-ly-vlkt-ctda/)
