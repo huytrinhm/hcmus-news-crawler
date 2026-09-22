@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-09-22 10:57:14.625218+07:00**_
+_Last update: **2026-09-22 18:10:47.889073+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -50,6 +50,7 @@ _Last update: **2026-09-22 10:57:14.625218+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 22-9-2026: [Danh sách tham quan công ty AXON ngày 1/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17567)
  - 21-9-2026: [THƯ NGỎ QUỸ HỌC BỔNG CỰU SINH VIÊN KHOA CÔNG NGHỆ THÔNG TIN NĂM HỌC 2026 - 2027](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17566)
  - 21-9-2026: [Thông báo lịch cố vấn học tập học kỳ 1, năm học 2026-2027](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17565)
  - 21-9-2026: [Chúc mừng nhóm Sinh viên Cử nhân tài năng và Trí tuệ nhân tạo của FIT@HCMUS đã có các công bố trên Hội nghị uy tín quốc tế rank A](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17564)
@@ -59,9 +60,9 @@ _Last update: **2026-09-22 10:57:14.625218+07:00**_
  - 18-9-2026: [Chúc mừng nhóm Sinh viên Cử nhân tài năng của FIT@HCMUS đã có các công bố tại Tạp chí uy tín quốc tế Q1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17558)
  - 18-9-2026: [Đăng ký tham quan công ty TecAlliance Việt Nam ngày 8/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17557)
  - 16-9-2026: [82 Tân sinh viên Khoa Công nghệ thông tin nhận Học bổng Tinh hoa khoa học năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17556)
- - 16-9-2026: [Chúc mừng Sinh viên Trí tuệ nhân tạo của #FITHCMUS công bố bài báo trên Hội nghị  uy tín quốc tế rank A*](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17555)
 
 ## Thông tin dành cho sinh viên
+- 22/09/2026: [[THÔNG BÁO] Chương trình FPT Frontier Innovators 2026 – Viện Quantum AI & Cyber Security (QACI) – Tập đoàn FPT](https://hcmus.edu.vn/thong-bao-chuong-trinh-fpt-frontier-innovators-2026-vien-quantum-ai-cyber-security-qaci-tap-doan-fpt/)
 - 22/09/2026: [Thư mời đăng ký tham dự Chương trình InnovaConnect năm 2026, với chủ đề “Catalyzing Innovation in Chemistry and Drug Discovery” 01/10/2026](https://hcmus.edu.vn/thu-moi-dang-ky-tham-du-chuong-trinh-innovaconnect-nam-2026-voi-chu-de-catalyzing-innovation-in-chemistry-and-drug-discovery-01-10-2026/)
 - 18/09/2026: [Thông báo kết quả chính thức HBKK HK2/2025-2026 Khoa Công nghệ Thông tin, Điện tử-Viễn thông, Hóa học, Khoa học&CNVL, Môi trường, Sinh học-CNSH, Vật lý-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk2-2025-2026-khoa-cong-nghe-thong-tin-dien-tu-vien-thong-hoa-hoc-khoa-hoccnvl-moi-truong-sinh-hoc-cnsh-vat-ly-vlkt-ctda/)
 - 17/09/2026: [Thông báo Kết quả dự kiến Điểm rèn luyện HK2/2025-2026 (CT Chuẩn) và HK3/2025-2026 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2025-2026-ct-chuan-va-hk3-2025-2026-ct-de-an/)
@@ -71,7 +72,6 @@ _Last update: **2026-09-22 10:57:14.625218+07:00**_
 - 13/09/2026: [Thời khóa biểu chính thức môn THỂ DỤC 1 khóa tuyển 2026 chương trình đại trà/tài năng trong HK1/2026-2027 tại cơ sở 2](https://hcmus.edu.vn/thoi-khoa-bieu-chinh-thuc-mon-the-duc-1-khoa-tuyen-2026-chuong-trinh-dai-tra-tai-nang-trong-hk1-2026-2027-tai-co-so-2/)
 - 09/09/2026: [Khảo sát mức độ sẵn sàng của tân sinh viên đối với ngành học, trường học và kênh tư vấn hướng nghiệp – tuyển sinh năm 2026](https://hcmus.edu.vn/khao-sat-muc-do-san-sang-cua-tan-sinh-vien-doi-voi-nganh-hoc-truong-hoc-va-kenh-tu-van-huong-nghiep-tuyen-sinh-nam-2026/)
 - 08/09/2026: [Thông báo nghỉ học sáng thứ Hai ngày 14/9 đối với sinh viên Khóa 2026 để dự Lễ chào mừng năm học mới](https://hcmus.edu.vn/thong-bao-nghi-hoc-sang-thu-hai-ngay-14-9-doi-voi-sinh-vien-khoa-2026-de-du-le-chao-mung-nam-hoc-moi/)
-- 07/09/2026: [HƯỚNG DẪN ĐĂNG KÝ HỌC PHẦN DÀNH TÂN CHO SINH VIÊN](https://hcmus.edu.vn/huong-dan-dang-ky-hoc-phan-danh-tan-cho-sinh-vien/)
 
 ## Các thông báo về Khảo thí
  - 10/09/2026: [Thông báo phúc khảo HK3/25-26 chương trình Chính quy](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/967-thong-bao-phuc-kh-o-hk3-25-26-chuong-trinh-chinh-quy)
