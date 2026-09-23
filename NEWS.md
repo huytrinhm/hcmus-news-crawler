@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-09-23 10:55:00.076953+07:00**_
+_Last update: **2026-09-23 18:02:01.218396+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -51,6 +51,7 @@ _Last update: **2026-09-23 10:55:00.076953+07:00**_
 
 ## FIT
  - 23-9-2026: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 9/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17571)
+ - 23-9-2026: [Mời tham dự buổi bảo vệ đề tài tốt nghiệp thạc sĩ đợt tháng 9, 10/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17572)
  - 23-9-2026: [Chúc mừng nhóm Sinh viên chương trình Chính quy của FIT@HCMUS đã có đề tài tốt nghiệp xuất sắc cùng với các công bố trên Hội nghị uy tín quốc tế rank B](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17570)
  - 22-9-2026: [Danh sách tham quan công ty AXON ngày 1/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17567)
  - 21-9-2026: [THƯ NGỎ QUỸ HỌC BỔNG CỰU SINH VIÊN KHOA CÔNG NGHỆ THÔNG TIN NĂM HỌC 2026 - 2027](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17566)
@@ -59,7 +60,6 @@ _Last update: **2026-09-23 10:55:00.076953+07:00**_
  - 21-9-2026: [Đăng ký tham quan công ty AXON ngày 1/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17563)
  - 21-9-2026: [Danh sách sinh viên tham quan công ty TecAlliance Việt Nam ngày 8/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17562)
  - 18-9-2026: [Thông báo v/v đăng ký tham dự Kỳ thi Olympic tin học sinh viên trường Đại học Khoa học tự nhiên năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17560)
- - 18-9-2026: [Chúc mừng nhóm Sinh viên Cử nhân tài năng của FIT@HCMUS đã có các công bố tại Tạp chí uy tín quốc tế Q1](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17558)
 
 ## Thông tin dành cho sinh viên
 - 22/09/2026: [[THÔNG BÁO] Chương trình FPT Frontier Innovators 2026 – Viện Quantum AI & Cyber Security (QACI) – Tập đoàn FPT](https://hcmus.edu.vn/thong-bao-chuong-trinh-fpt-frontier-innovators-2026-vien-quantum-ai-cyber-security-qaci-tap-doan-fpt/)
