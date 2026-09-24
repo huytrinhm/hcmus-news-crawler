@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-09-24 10:47:38.771722+07:00**_
+_Last update: **2026-09-24 18:20:15.008018+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -50,6 +50,7 @@ _Last update: **2026-09-24 10:47:38.771722+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 24-9-2026: [[CQ] TKB lý thuyết và thực hành chính thức HK1/26-27](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17575)
  - 24-9-2026: [Đăng ký tham quan TMA Tech Group ngày 14/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17574)
  - 23-9-2026: [Đăng ký tham quan công ty Axon Active Việt Nam ngày 9/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17571)
  - 23-9-2026: [Mời tham dự buổi bảo vệ đề tài tốt nghiệp thạc sĩ đợt tháng 9, 10/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17572)
@@ -59,7 +60,6 @@ _Last update: **2026-09-24 10:47:38.771722+07:00**_
  - 21-9-2026: [Thông báo lịch cố vấn học tập học kỳ 1, năm học 2026-2027](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17565)
  - 21-9-2026: [Chúc mừng nhóm Sinh viên Cử nhân tài năng và Trí tuệ nhân tạo của FIT@HCMUS đã có các công bố trên Hội nghị uy tín quốc tế rank A](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17564)
  - 21-9-2026: [Đăng ký tham quan công ty AXON ngày 1/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17563)
- - 21-9-2026: [Danh sách sinh viên tham quan công ty TecAlliance Việt Nam ngày 8/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17562)
 
 ## Thông tin dành cho sinh viên
 - 22/09/2026: [[THÔNG BÁO] Chương trình FPT Frontier Innovators 2026 – Viện Quantum AI & Cyber Security (QACI) – Tập đoàn FPT](https://hcmus.edu.vn/thong-bao-chuong-trinh-fpt-frontier-innovators-2026-vien-quantum-ai-cyber-security-qaci-tap-doan-fpt/)
