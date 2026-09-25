@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-09-25 04:17:17.667759+07:00**_
+_Last update: **2026-09-25 11:03:16.560128+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -14,6 +14,7 @@ _Last update: **2026-09-25 04:17:17.667759+07:00**_
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
 
 ### Giáo vụ
+ - 25/09/2026: [Thông báo phúc khảo HK3/2526](https://www.ctda.hcmus.edu.vn/vi/2026/09/thong-bao-phuc-khao-hk3-2526/)
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
  - 08/09/2026: [[CTĐA] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp Khóa 2022 (bảo vệ tháng 04/2027)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-thong-bao-nop-don-dang-ky-thuc-hien-de-tai-tot-nghiep-khoa-2022-bao-ve-thang-04-2027/)
  - 08/09/2026: [[CTĐA] Thông báo nộp file đề tài tốt nghiệp KLTN/ TTTN SAU bảo vệ khóa 2022 (bảo vệ tháng 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-thong-bao-nop-file-de-tai-tot-nghiep-sau-bao-ve-khoa-2022-dot-1-bao-ve-thang-08-2026/)
@@ -23,7 +24,6 @@ _Last update: **2026-09-25 04:17:17.667759+07:00**_
  - 31/07/2026: [Thông báo đăng ký đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp trên hệ thống Khoa đợt tháng 04/2027](https://www.ctda.hcmus.edu.vn/vi/2026/07/thong-bao-dang-ky-de-tai-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-tren-he-thong-khoa-dot-thang-04-2027/)
  - 24/07/2026: [[CLC/TCTA] – Thông báo đăng ký nguyện vọng chuyên ngành năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/07/clc-tcta-thong-bao-dang-ky-nguyen-vong-chuyen-nganh-nam-hoc-2025-2026/)
  - 17/07/2026: [Thông báo SV đánh giá môn học – GV HK3/2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/07/thong-bao-sv-danh-gia-mon-hoc-gv-hk3-2025-2026/)
- - 13/07/2026: [Thông báo nộp đơn đăng ký bảo vệ/ huỷ bảo vệ đề tài tốt nghiệp khóa 2022, đợt tháng 8/2026](https://www.ctda.hcmus.edu.vn/vi/2026/07/thong-bao-nop-don-dang-ky-bao-ve-huy-bao-ve-de-tai-tot-nghiep-khoa-2022-dot-thang-8-2026/)
 
 ### Trợ lí sinh viên
  - 21/09/2026: [Hướng dẫn truy cập email fitus dành cho sinh viên Chương trình đào tạo theo Đề án – khóa 2026](https://www.ctda.hcmus.edu.vn/vi/2026/09/huong-dan-truy-cap-email-fitus-danh-cho-sinh-vien-chuong-trinh-dao-tao-theo-de-an-khoa-2026/)
