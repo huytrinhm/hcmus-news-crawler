@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-10-02 11:42:57.208551+07:00**_
+_Last update: **2026-10-02 19:06:16.346116+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -50,6 +50,8 @@ _Last update: **2026-10-02 11:42:57.208551+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 2-10-2026: [Đăng ký tham gia SAP Open House](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17589)
+ - 2-10-2026: [Danh sách sinh viên tham quan công ty Netcompany ngày 23/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17588)
  - 1-10-2026: [Thông báo về việc tổ chức Chuỗi Hội thảo kỹ năng - Công nghệ năm 2026 (Chương trình Cử nhân tài năng và ngành Trí tuệ nhân tạo)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17586)
  - 30-9-2026: [Chúc mừng Sinh viên Chương trình Cử nhân tài năng của FIT@HCMUS đã có công bố trên Hội nghị uy tín quốc tế nằm trong Top 20 các công bố khoa học hàng đầu thế giới của nhóm ngành Computer Vision & Pattern Recognition](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17585)
  - 30-9-2026: [V/v thực hiện khảo sát các môn mở trong Học phần 4 - lớp cao học Khóa 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17584)
@@ -58,8 +60,6 @@ _Last update: **2026-10-02 11:42:57.208551+07:00**_
  - 29-9-2026: [[CQ] DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2023-đợt 1 (bảo vệ T3/2027)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17581)
  - 28-9-2026: [[SĐH] Kế hoạch bảo vệ đề tài tốt nghiệp dành cho học viên cao học đợt tháng 12/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17580)
  - 28-9-2026: [Chúc mừng nhóm Sinh viên Chương trình Chất lượng cao của FIT@HCMUS đã có đề tài tốt nghiệp xuất sắc cùng với công bố trên Hội nghị uy tín quốc tế](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17579)
- - 28-9-2026: [Chúc mừng nhóm Sinh viên Chương trình Tiên tiến của FIT@HCMUS đã có đề tài tốt nghiệp xuất sắc cùng với công bố trên Hội nghị uy tín quốc tế rank B](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17578)
- - 28-9-2026: [Danh sách sinh viên tham quan công ty Axon Active Việt Nam ngày 9/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17577)
 
 ## Thông tin dành cho sinh viên
 - 22/09/2026: [[THÔNG BÁO] Chương trình FPT Frontier Innovators 2026 – Viện Quantum AI & Cyber Security (QACI) – Tập đoàn FPT](https://hcmus.edu.vn/thong-bao-chuong-trinh-fpt-frontier-innovators-2026-vien-quantum-ai-cyber-security-qaci-tap-doan-fpt/)
