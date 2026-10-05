@@ -84,6 +84,22 @@ def crawl_ktdbcl():
 
     return result
 
+def crawl_ctsv():
+    base_url = "https://ctsv.hcmus.edu.vn"
+    page = requests.get(f"{base_url}/api/news/latest", params={'limit': 10}, headers=headers)
+    items = page.json()['data']
+
+    result = '## CTSV\n'
+    for item in items:
+        date = datetime.fromisoformat(item['createdAt'].replace('Z', '+00:00')) \
+            .astimezone(ZoneInfo('Asia/Ho_Chi_Minh')).strftime('%d/%m/%Y')
+        title = item['title'].strip()
+        result += f" - {date}: [{title}]({base_url}/news/{item['slug']})\n"
+
+    result += '\n'
+
+    return result
+
 def crawl_hcmus():
     page = requests.get("https://hcmus.edu.vn/category/dao-tao/dai-hoc/thong-tin-danh-cho-sinh-vien/feed/", headers=headers)
     soup = bs(page.content, features="xml")
@@ -108,5 +124,6 @@ if __name__ == '__main__':
         f.write(f'_Last update: **{datetime.now(tz=ZoneInfo("Asia/Ho_Chi_Minh"))}**_\n')
         f.write(crawl_ctda())
         f.write(crawl_fit())
+        f.write(crawl_ctsv())
         f.write(crawl_hcmus())
         f.write(crawl_ktdbcl())
