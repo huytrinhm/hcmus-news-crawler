@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-10-07 05:29:28.703361+07:00**_
+_Last update: **2026-10-07 11:59:35.566927+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -50,6 +50,7 @@ _Last update: **2026-10-07 05:29:28.703361+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 7-10-2026: [Danh sách sinh viên tham dự SAP Open House](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17595)
  - 5-10-2026: [V/v nộp báo cáo luận văn/đồ án tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T9-10/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17591)
  - 3-10-2026: [Đăng ký đội thi Olympic AI HCMUS 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17590)
  - 2-10-2026: [Đăng ký tham gia SAP Open House](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17589)
@@ -59,7 +60,6 @@ _Last update: **2026-10-07 05:29:28.703361+07:00**_
  - 30-9-2026: [V/v thực hiện khảo sát các môn mở trong Học phần 4 - lớp cao học Khóa 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17584)
  - 29-9-2026: [Danh sách sinh viên tham quan TMA Tech Group ngày 14/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17583)
  - 29-9-2026: [Đăng ký tham quan công ty Netcompany ngày 23/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17582)
- - 29-9-2026: [[CQ] DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2023-đợt 1 (bảo vệ T3/2027)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17581)
 
 ## CTSV
  - 06/10/2026: [KẾ HOẠCH Tổ chức Đường chạy sinh viên “UPRACExHCMUS Campus Run” năm 2026](https://ctsv.hcmus.edu.vn/news/ke-hoach-to-chuc-duong-chay-sinh-vien-upracexhcmus-campus-run-nam-2026)
