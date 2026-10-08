@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-10-08 05:52:42.545362+07:00**_
+_Last update: **2026-10-08 12:10:11.511502+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -62,16 +62,16 @@ _Last update: **2026-10-08 05:52:42.545362+07:00**_
  - 29-9-2026: [Danh sách sinh viên tham quan TMA Tech Group ngày 14/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17583)
 
 ## CTSV
+ - 08/10/2026: [TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM ĐỒNG HÀNH CÙNG UPRACE 2026 - KÊU GỌI SỨC TRẺ SINH VIÊN SẢI BƯỚC VÌ CỘNG ĐỒNG](https://ctsv.hcmus.edu.vn/news/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-dong-hanh-cung-uprace-2026-keu-goi-suc-tre-sinh-vien-sai-buoc-vi-cong-dong)
+ - 08/10/2026: [CHƯƠNG TRÌNH HỌC BỔNG SAU ĐẠI HỌC NĂM 2026](https://ctsv.hcmus.edu.vn/news/chuong-trinh-hoc-bong-sau-dai-hoc-nam-2026)
+ - 08/10/2026: [Thông báo Tổ chức Sinh hoạt Công dân – sinh viên đầu năm, năm học 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-to-chuc-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2026-2027)
+ - 08/10/2026: [BÍ QUYẾT "DE-STRESS" & BỨT PHÁ TẠI ĐẠI HỌC](https://ctsv.hcmus.edu.vn/news/bi-quyet-de-stress-va-but-pha-tai-dai-hoc-khi-hanh-phuc-va-dong-luc-hoc-tap-nam-trong-tam-tay)
  - 06/10/2026: [KẾ HOẠCH Tổ chức Đường chạy sinh viên “UPRACExHCMUS Campus Run” năm 2026](https://ctsv.hcmus.edu.vn/news/ke-hoach-to-chuc-duong-chay-sinh-vien-upracexhcmus-campus-run-nam-2026)
  - 06/10/2026: [Thông báo đăng ký thay đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 4/2026](https://ctsv.hcmus.edu.vn/news/thong-bao-dang-ky-thay-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-4-2026)
  - 05/10/2026: [TRIỂN KHAI CHƯƠNG TRÌNH HỌC BỔNG SYLFF NĂM HỌC 2026-2027](https://ctsv.hcmus.edu.vn/news/trien-khai-chuong-trinh-hoc-bong-sylff-nam-hoc-2026-2027)
  - 05/10/2026: [Đội tuyển Trường Đại học Khoa học tự nhiên đạt Giải Nhì toàn đoàn tại Hội thao sinh viên Đại học Quốc gia TP. Hồ Chí Minh năm 2026](https://ctsv.hcmus.edu.vn/news/doi-tuyen-truong-dai-hoc-khoa-hoc-tu-nhien-dat-giai-nhi-toan-doan-tai-hoi-thao-sinh-vien-dai-hoc-quoc-gia-tp-ho-chi-minh-nam-2026)
  - 02/10/2026: [Chương trình Học bổng POSCO TJ Park năm học 2026-2027](https://ctsv.hcmus.edu.vn/news/chuong-trinh-hoc-bong-posco-tj-park-nam-hoc-2026-2027)
  - 02/10/2026: [Thông báo Tổ chức Chương trình Workshop “Bứt phá giới hạn – Chinh phục đam mê”](https://ctsv.hcmus.edu.vn/news/thong-bao-to-chuc-chuong-trinh-workshop-but-pha-gioi-han-chinh-phuc-dam-me)
- - 30/09/2026: [Thông báo về việc triển khai chương trình “ACB đồng hành cùng sinh viên ĐHQG-HCM”  học kỳ 1 năm học 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-ve-viec-trien-khai-chuong-trinh-acb-dong-hanh-cung-sinh-vien-dhqg-hcm-hoc-ky-1-nam-hoc-2026-2027)
- - 28/09/2026: [TÂN SINH VIÊN KHÓA 2026 HOÀN THÀNH TUẦN SINH HOẠT CÔNG DÂN – SINH VIÊN ĐẦU KHÓA 2026](https://ctsv.hcmus.edu.vn/news/tan-sinh-vien-khoa-2026-hoan-thanh-tuan-sinh-hoat-cong-dan-sinh-vien-dau-khoa-2026)
- - 28/09/2026: [SINH VIÊN HIỂU GÌ VỀ SỨC KHỎE TINH THẦN](https://ctsv.hcmus.edu.vn/news/sinh-vien-hieu-gi-ve-suc-khoe-tinh-than)
- - 25/09/2026: [THÔNG BÁO V/v thực hiện bài thu hoạch Tuần Sinh hoạt Công dân – sinh viên đầu khóa và và khảo sát công tác đầu năm, năm học 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-v-v-thuc-hien-bai-thu-hoach-tuan-sinh-hoat-cong-dan-sinh-vien-dau-khoa-va-va-khao-sat-cong-tac-dau-nam-nam-hoc-2026-2027)
 
 ## Thông tin dành cho sinh viên
 - 22/09/2026: [[THÔNG BÁO] Chương trình FPT Frontier Innovators 2026 – Viện Quantum AI & Cyber Security (QACI) – Tập đoàn FPT](https://hcmus.edu.vn/thong-bao-chuong-trinh-fpt-frontier-innovators-2026-vien-quantum-ai-cyber-security-qaci-tap-doan-fpt/)
