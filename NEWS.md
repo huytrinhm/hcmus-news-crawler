@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-10-09 19:48:39.349369+07:00**_
+_Last update: **2026-10-10 05:24:57.488871+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -62,6 +62,7 @@ _Last update: **2026-10-09 19:48:39.349369+07:00**_
  - 30-9-2026: [Chúc mừng Sinh viên Chương trình Cử nhân tài năng của FIT@HCMUS đã có công bố trên Hội nghị uy tín quốc tế nằm trong Top 20 các công bố khoa học hàng đầu thế giới của nhóm ngành Computer Vision & Pattern Recognition](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17585)
 
 ## CTSV
+ - 09/10/2026: [Tổ chức cuộc thi “KHTN ZERO+” năm 2026](https://ctsv.hcmus.edu.vn/news/to-chuc-cuoc-thi-khtn-zero-nam-2026)
  - 08/10/2026: [Thông báo v/v đăng ký lịch khám sức khỏe định kỳ cho sinh viên đợt 1 năm 2026](https://ctsv.hcmus.edu.vn/news/thong-bao-v-v-dang-ky-lich-kham-suc-khoe-dinh-ky-cho-sinh-vien-dot-1-nam-2026)
  - 08/10/2026: [TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM ĐỒNG HÀNH CÙNG UPRACE 2026 - KÊU GỌI SỨC TRẺ SINH VIÊN SẢI BƯỚC VÌ CỘNG ĐỒNG](https://ctsv.hcmus.edu.vn/news/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-dong-hanh-cung-uprace-2026-keu-goi-suc-tre-sinh-vien-sai-buoc-vi-cong-dong)
  - 08/10/2026: [CHƯƠNG TRÌNH HỌC BỔNG SAU ĐẠI HỌC NĂM 2026](https://ctsv.hcmus.edu.vn/news/chuong-trinh-hoc-bong-sau-dai-hoc-nam-2026)
@@ -71,7 +72,6 @@ _Last update: **2026-10-09 19:48:39.349369+07:00**_
  - 06/10/2026: [Thông báo đăng ký thay đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 4/2026](https://ctsv.hcmus.edu.vn/news/thong-bao-dang-ky-thay-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-4-2026)
  - 05/10/2026: [TRIỂN KHAI CHƯƠNG TRÌNH HỌC BỔNG SYLFF NĂM HỌC 2026-2027](https://ctsv.hcmus.edu.vn/news/trien-khai-chuong-trinh-hoc-bong-sylff-nam-hoc-2026-2027)
  - 05/10/2026: [Đội tuyển Trường Đại học Khoa học tự nhiên đạt Giải Nhì toàn đoàn tại Hội thao sinh viên Đại học Quốc gia TP. Hồ Chí Minh năm 2026](https://ctsv.hcmus.edu.vn/news/doi-tuyen-truong-dai-hoc-khoa-hoc-tu-nhien-dat-giai-nhi-toan-doan-tai-hoi-thao-sinh-vien-dai-hoc-quoc-gia-tp-ho-chi-minh-nam-2026)
- - 02/10/2026: [Chương trình Học bổng POSCO TJ Park năm học 2026-2027](https://ctsv.hcmus.edu.vn/news/chuong-trinh-hoc-bong-posco-tj-park-nam-hoc-2026-2027)
 
 ## Thông tin dành cho sinh viên
 - 22/09/2026: [[THÔNG BÁO] Chương trình FPT Frontier Innovators 2026 – Viện Quantum AI & Cyber Security (QACI) – Tập đoàn FPT](https://hcmus.edu.vn/thong-bao-chuong-trinh-fpt-frontier-innovators-2026-vien-quantum-ai-cyber-security-qaci-tap-doan-fpt/)
