@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-10-12 12:01:28.588269+07:00**_
+_Last update: **2026-10-12 21:47:02.722551+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -50,6 +50,7 @@ _Last update: **2026-10-12 12:01:28.588269+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 12-10-2026: [Danh sách sinh viên tham quan công ty Bosch ngày 3/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17603)
  - 9-10-2026: [Chúc mừng Sinh viên Chương trình Cử nhân tài năng của FIT@HCMUS đã có công bố trên Hội nghị uy tín quốc tế uy tín rank B và nhận được giải thưởng Women in Technology & Innovation Award (WITI) từ Australia-Vietnam Strategic Technology Centre (AVSTC)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17602)
  - 9-10-2026: [Chương trình thực tập quốc tế - Trường kỹ thuật, Đại học Quốc lập Chung Cheng Đài Loan năm 2027](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17600)
  - 7-10-2026: [Đăng ký tham quan công ty Bosch ngày 3/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17596)
@@ -59,7 +60,6 @@ _Last update: **2026-10-12 12:01:28.588269+07:00**_
  - 2-10-2026: [Đăng ký tham gia SAP Open House](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17589)
  - 2-10-2026: [Danh sách sinh viên tham quan công ty Netcompany ngày 23/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17588)
  - 1-10-2026: [Thông báo về việc tổ chức Chuỗi Hội thảo kỹ năng - Công nghệ năm 2026 (Chương trình Cử nhân tài năng và ngành Trí tuệ nhân tạo)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17586)
- - 30-9-2026: [Chúc mừng Sinh viên Chương trình Cử nhân tài năng của FIT@HCMUS đã có công bố trên Hội nghị uy tín quốc tế nằm trong Top 20 các công bố khoa học hàng đầu thế giới của nhóm ngành Computer Vision & Pattern Recognition](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17585)
 
 ## CTSV
  - 09/10/2026: [Tổ chức cuộc thi “KHTN ZERO+” năm 2026](https://ctsv.hcmus.edu.vn/news/to-chuc-cuoc-thi-khtn-zero-nam-2026)
