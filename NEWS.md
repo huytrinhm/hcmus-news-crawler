@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-10-13 07:18:17.577930+07:00**_
+_Last update: **2026-10-13 20:48:21.739308+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -50,6 +50,9 @@ _Last update: **2026-10-13 07:18:17.577930+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 13-10-2026: [Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Nguyễn Ngọc Trung (9g00, 17/10/2026, Phòng I23)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17606)
+ - 13-10-2026: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 35/2025 (đợt tháng 10/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17605)
+ - 13-10-2026: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 35/2025 - đợt 2 (tháng 10/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17604)
  - 12-10-2026: [Danh sách sinh viên tham quan công ty Bosch ngày 3/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17603)
  - 9-10-2026: [Chúc mừng Sinh viên Chương trình Cử nhân tài năng của FIT@HCMUS đã có công bố trên Hội nghị uy tín quốc tế uy tín rank B và nhận được giải thưởng Women in Technology & Innovation Award (WITI) từ Australia-Vietnam Strategic Technology Centre (AVSTC)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17602)
  - 9-10-2026: [Chương trình thực tập quốc tế - Trường kỹ thuật, Đại học Quốc lập Chung Cheng Đài Loan năm 2027](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17600)
@@ -57,9 +60,6 @@ _Last update: **2026-10-13 07:18:17.577930+07:00**_
  - 7-10-2026: [Danh sách sinh viên tham dự SAP Open House](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17595)
  - 5-10-2026: [V/v nộp báo cáo luận văn/đồ án tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T9-10/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17591)
  - 3-10-2026: [Đăng ký đội thi Olympic AI HCMUS 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17590)
- - 2-10-2026: [Đăng ký tham gia SAP Open House](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17589)
- - 2-10-2026: [Danh sách sinh viên tham quan công ty Netcompany ngày 23/10](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17588)
- - 1-10-2026: [Thông báo về việc tổ chức Chuỗi Hội thảo kỹ năng - Công nghệ năm 2026 (Chương trình Cử nhân tài năng và ngành Trí tuệ nhân tạo)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17586)
 
 ## CTSV
  - 09/10/2026: [Tổ chức cuộc thi “KHTN ZERO+” năm 2026](https://ctsv.hcmus.edu.vn/news/to-chuc-cuoc-thi-khtn-zero-nam-2026)
@@ -86,11 +86,11 @@ _Last update: **2026-10-13 07:18:17.577930+07:00**_
 - 09/09/2026: [Khảo sát mức độ sẵn sàng của tân sinh viên đối với ngành học, trường học và kênh tư vấn hướng nghiệp – tuyển sinh năm 2026](https://hcmus.edu.vn/khao-sat-muc-do-san-sang-cua-tan-sinh-vien-doi-voi-nganh-hoc-truong-hoc-va-kenh-tu-van-huong-nghiep-tuyen-sinh-nam-2026/)
 
 ## Các thông báo về Khảo thí
+ - 13/10/2026: [Thông báo khảo sát sự hài lòng của VC-NLD về môi trường làm việc tại trường năm 2026](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/969-thong-bao-kh-o-sat-s-hai-long-c-a-vc-nld-v-moi-tru-ng-lam-vi-c-t-i-tru-ng-nam-2026)
  - 10/09/2026: [Thông báo phúc khảo HK3/25-26 chương trình Chính quy](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/967-thong-bao-phuc-kh-o-hk3-25-26-chuong-trinh-chinh-quy)
  - 10/09/2026: [Thông báo phúc khảo HK/25-26 chương trình đề án khoa CNTT](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/966-thong-bao-phuc-kh-o-hk-25-26-chuong-trinh-d-an-khoa-cntt)
  - 10/09/2026: [Thông báo phúc khảo HK3/25-26 chương trình đề án các Khoa](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/965-thong-bao-phuc-kh-o-hk3-25-26-chuong-trinh-d-an-cac-khoa)
  - 11/08/2026: [Thông báo thay đổi phòng thi HK3/25-26 tại NVC](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/964-thong-bao-thay-d-i-phong-thi-hk3-25-26-t-i-nvc)
- - 10/08/2026: [Thông báo phúc khảo HK2/25-26 hệ Chính quy](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/962-thong-bao-phuc-kh-o-hk2-25-26-h-chinh-quy)
 
 ***
 
