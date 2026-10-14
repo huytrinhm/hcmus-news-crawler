@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-10-14 11:04:57.296098+07:00**_
+_Last update: **2026-10-14 18:25:50.080670+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -50,6 +50,8 @@ _Last update: **2026-10-14 11:04:57.296098+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 14-10-2026: [Tổng kết Seminar học thuật Câu lạc bộ Nghiên cứu khoa học Tháng 10 năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17611)
+ - 14-10-2026: [Khảo sát về chủ đề hội thảo sinh viên Khoa Công nhệ thông tin quan tâm](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17610)
  - 13-10-2026: [Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Nguyễn Ngọc Trung (9g00, 17/10/2026, Phòng I23)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17606)
  - 13-10-2026: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 35/2025 (đợt tháng 10/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17605)
  - 13-10-2026: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 35/2025 - đợt 2 (tháng 10/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17604)
@@ -58,8 +60,6 @@ _Last update: **2026-10-14 11:04:57.296098+07:00**_
  - 9-10-2026: [Chương trình thực tập quốc tế - Trường kỹ thuật, Đại học Quốc lập Chung Cheng Đài Loan năm 2027](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17600)
  - 7-10-2026: [Đăng ký tham quan công ty Bosch ngày 3/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17596)
  - 7-10-2026: [Danh sách sinh viên tham dự SAP Open House](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17595)
- - 5-10-2026: [V/v nộp báo cáo luận văn/đồ án tại thư viện và nộp hồ sơ xét tốt nghiệp đối với các HVCH đã bảo vệ đợt T9-10/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17591)
- - 3-10-2026: [Đăng ký đội thi Olympic AI HCMUS 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17590)
 
 ## CTSV
  - 14/10/2026: [LẮNG NGHE TIẾNG NÓI CHÂN THỰC](https://ctsv.hcmus.edu.vn/news/lang-nghe-tieng-noi-chan-thuc-khi-moi-trai-nghiem-deu-dang-duoc-lang-nghe-va-thau-cam)
