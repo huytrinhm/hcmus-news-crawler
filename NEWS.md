@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-10-15 18:02:37.877899+07:00**_
+_Last update: **2026-10-15 23:32:59.225189+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -62,6 +62,7 @@ _Last update: **2026-10-15 18:02:37.877899+07:00**_
  - 9-10-2026: [Chương trình thực tập quốc tế - Trường kỹ thuật, Đại học Quốc lập Chung Cheng Đài Loan năm 2027](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17600)
 
 ## CTSV
+ - 15/10/2026: [Thông báo kết quả đăng ký lịch Sinh hoạt Công dân – sinh viên đầu năm, năm học 2026-2027 (Chuyên đề A)](https://ctsv.hcmus.edu.vn/news/thong-bao-ket-qua-dang-ky-lich-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2026-2027-chuyen-de-a)
  - 15/10/2026: [THÔNG BÁO TUYỂN SINH HỌC BỔNG SAIGONCHILDREN DÀNH CHO NỮ SINH VIÊN](https://ctsv.hcmus.edu.vn/news/thong-bao-tuyen-sinh-hoc-bong-saigonchildren-danh-cho-nu-sinh-vien)
  - 14/10/2026: [LẮNG NGHE TIẾNG NÓI CHÂN THỰC](https://ctsv.hcmus.edu.vn/news/lang-nghe-tieng-noi-chan-thuc-khi-moi-trai-nghiem-deu-dang-duoc-lang-nghe-va-thau-cam)
  - 09/10/2026: [Tổ chức cuộc thi “KHTN ZERO+” năm 2026](https://ctsv.hcmus.edu.vn/news/to-chuc-cuoc-thi-khtn-zero-nam-2026)
@@ -71,7 +72,6 @@ _Last update: **2026-10-15 18:02:37.877899+07:00**_
  - 08/10/2026: [Thông báo Tổ chức Sinh hoạt Công dân – sinh viên đầu năm, năm học 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-to-chuc-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2026-2027)
  - 08/10/2026: [BÍ QUYẾT "DE-STRESS" & BỨT PHÁ TẠI ĐẠI HỌC](https://ctsv.hcmus.edu.vn/news/bi-quyet-de-stress-va-but-pha-tai-dai-hoc-khi-hanh-phuc-va-dong-luc-hoc-tap-nam-trong-tam-tay)
  - 06/10/2026: [KẾ HOẠCH Tổ chức Đường chạy sinh viên “UPRACExHCMUS Campus Run” năm 2026](https://ctsv.hcmus.edu.vn/news/ke-hoach-to-chuc-duong-chay-sinh-vien-upracexhcmus-campus-run-nam-2026)
- - 06/10/2026: [Thông báo đăng ký thay đổi cơ sở khám chữa bệnh bảo hiểm y tế đợt Quý 4/2026](https://ctsv.hcmus.edu.vn/news/thong-bao-dang-ky-thay-doi-co-so-kham-chua-benh-bao-hiem-y-te-dot-quy-4-2026)
 
 ## Thông tin dành cho sinh viên
 - 12/10/2026: [QUY ĐỊNH CHI TIẾT MỘT SỐ NỘI DUNG VÀ BIỆN PHÁP TỔ CHỨC THỰC HIỆN CHÍNH SÁCH HỌC BỔNG ĐỐI VỚI NGƯỜI HỌC CÁC NGÀNH KHOA HỌC CƠ BẢN, KỸ THUẬT THEN CHỐT VÀ CÔNG NGHỆ CHIẾN LƯỢC](https://hcmus.edu.vn/quy-dinh-chi-tiet-mot-so-noi-dung-va-bien-phap-to-chuc-thuc-hien-chinh-sach-hoc-bong-doi-voi-nguoi-hoc-cac-nganh-khoa-hoc-co-ban-ky-thuat-then-chot-va-cong-nghe-chien-luoc/)
