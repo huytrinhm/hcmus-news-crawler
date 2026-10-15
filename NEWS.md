@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-10-15 10:47:05.914304+07:00**_
+_Last update: **2026-10-15 18:02:37.877899+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -50,6 +50,8 @@ _Last update: **2026-10-15 10:47:05.914304+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 15-10-2026: [Giới thiệu sách mới của Thư viện Khoa Công nghệ thông tin FIT.HCMUS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17614)
+ - 15-10-2026: [Đăng ký tham quan công ty Fujinet Systems ngày 10/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17613)
  - 14-10-2026: [Tổng kết Seminar học thuật Câu lạc bộ Nghiên cứu khoa học Tháng 10 năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17611)
  - 14-10-2026: [Khảo sát về chủ đề hội thảo sinh viên Khoa Công nhệ thông tin quan tâm](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17610)
  - 13-10-2026: [Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Nguyễn Ngọc Trung (9g00, 17/10/2026, Phòng I23)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17606)
@@ -58,8 +60,6 @@ _Last update: **2026-10-15 10:47:05.914304+07:00**_
  - 12-10-2026: [Danh sách sinh viên tham quan công ty Bosch ngày 3/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17603)
  - 9-10-2026: [Chúc mừng Sinh viên Chương trình Cử nhân tài năng của FIT@HCMUS đã có công bố trên Hội nghị uy tín quốc tế uy tín rank B và nhận được giải thưởng Women in Technology & Innovation Award (WITI) từ Australia-Vietnam Strategic Technology Centre (AVSTC)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17602)
  - 9-10-2026: [Chương trình thực tập quốc tế - Trường kỹ thuật, Đại học Quốc lập Chung Cheng Đài Loan năm 2027](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17600)
- - 7-10-2026: [Đăng ký tham quan công ty Bosch ngày 3/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17596)
- - 7-10-2026: [Danh sách sinh viên tham dự SAP Open House](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17595)
 
 ## CTSV
  - 15/10/2026: [THÔNG BÁO TUYỂN SINH HỌC BỔNG SAIGONCHILDREN DÀNH CHO NỮ SINH VIÊN](https://ctsv.hcmus.edu.vn/news/thong-bao-tuyen-sinh-hoc-bong-saigonchildren-danh-cho-nu-sinh-vien)
