@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-10-16 10:42:56.283802+07:00**_
+_Last update: **2026-10-16 17:58:18.461144+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -14,6 +14,7 @@ _Last update: **2026-10-16 10:42:56.283802+07:00**_
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
 
 ### Giáo vụ
+ - 16/10/2026: [Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp (bảo vệ 07-08/2027)](https://www.ctda.hcmus.edu.vn/vi/2026/10/thong-bao-dang-ky-hoc-phan-khoa-luan-thuc-tap-va-thuc-tap-du-an-tot-nghiep-dot-2-nam-2026-bao-ve-07-08-2027/)
  - 28/09/2026: [[CTĐA] – DSSV chính thức thực hiện đề tài tốt nghiệp Khóa 2022 (bảo vệ 04/2027)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-dssv-chinh-thuc-thuc-hien-de-tai-tot-nghiep-khoa-2022-bao-ve-04-2027/)
  - 25/09/2026: [Thông báo phúc khảo HK3/2526](https://www.ctda.hcmus.edu.vn/vi/2026/09/thong-bao-phuc-khao-hk3-2526/)
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -23,7 +24,6 @@ _Last update: **2026-10-16 10:42:56.283802+07:00**_
  - 21/08/2026: [[CTĐA] Đăng ký nguyện vọng hỗ trợ đề tài tốt nghiệp (đợt bảo vệ 04/2027)](https://www.ctda.hcmus.edu.vn/vi/2026/08/ctda-dang-ky-nguyen-vong-ho-tro-de-tai-tot-nghiep-dot-bao-ve-04-2027/)
  - 19/08/2026: [[CTĐA] Lịch thi chi tiết cuối kỳ HK3/2526](https://www.ctda.hcmus.edu.vn/vi/2026/08/ctda-lich-thi-chi-tiet-cuoi-ky-hk3-2526/)
  - 31/07/2026: [Thông báo đăng ký đề tài Khóa luận tốt nghiệp/ Thực tập tốt nghiệp/ Thực tập dự án tốt nghiệp trên hệ thống Khoa đợt tháng 04/2027](https://www.ctda.hcmus.edu.vn/vi/2026/07/thong-bao-dang-ky-de-tai-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-tren-he-thong-khoa-dot-thang-04-2027/)
- - 24/07/2026: [[CLC/TCTA] – Thông báo đăng ký nguyện vọng chuyên ngành năm học 2025-2026](https://www.ctda.hcmus.edu.vn/vi/2026/07/clc-tcta-thong-bao-dang-ky-nguyen-vong-chuyen-nganh-nam-hoc-2025-2026/)
 
 ### Trợ lí sinh viên
  - 21/09/2026: [Hướng dẫn truy cập email fitus dành cho sinh viên Chương trình đào tạo theo Đề án – khóa 2026](https://www.ctda.hcmus.edu.vn/vi/2026/09/huong-dan-truy-cap-email-fitus-danh-cho-sinh-vien-chuong-trinh-dao-tao-theo-de-an-khoa-2026/)
@@ -50,6 +50,8 @@ _Last update: **2026-10-16 10:42:56.283802+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 16-10-2026: [Mời nộp bài và trình bày tại Tiểu ban Công nghệ Thông tin và Truyền thông, Hội nghị khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17617)
+ - 16-10-2026: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ tháng 07-08/2027](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17615)
  - 15-10-2026: [Giới thiệu sách mới của Thư viện Khoa Công nghệ thông tin FIT.HCMUS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17614)
  - 15-10-2026: [Đăng ký tham quan công ty Fujinet Systems ngày 10/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17613)
  - 14-10-2026: [Tổng kết Seminar học thuật Câu lạc bộ Nghiên cứu khoa học Tháng 10 năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17611)
@@ -58,8 +60,6 @@ _Last update: **2026-10-16 10:42:56.283802+07:00**_
  - 13-10-2026: [Thông báo đăng ký học phần Thực tập dành cho học viên đăng ký Phương thức 3 - Khóa 35/2025 (đợt tháng 10/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17605)
  - 13-10-2026: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 35/2025 - đợt 2 (tháng 10/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17604)
  - 12-10-2026: [Danh sách sinh viên tham quan công ty Bosch ngày 3/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17603)
- - 9-10-2026: [Chúc mừng Sinh viên Chương trình Cử nhân tài năng của FIT@HCMUS đã có công bố trên Hội nghị uy tín quốc tế uy tín rank B và nhận được giải thưởng Women in Technology & Innovation Award (WITI) từ Australia-Vietnam Strategic Technology Centre (AVSTC)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17602)
- - 9-10-2026: [Chương trình thực tập quốc tế - Trường kỹ thuật, Đại học Quốc lập Chung Cheng Đài Loan năm 2027](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17600)
 
 ## CTSV
  - 15/10/2026: [Thông báo kết quả đăng ký lịch Sinh hoạt Công dân – sinh viên đầu năm, năm học 2026-2027 (Chuyên đề A)](https://ctsv.hcmus.edu.vn/news/thong-bao-ket-qua-dang-ky-lich-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2026-2027-chuyen-de-a)
