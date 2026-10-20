@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-10-20 05:07:13.217678+07:00**_
+_Last update: **2026-10-20 11:01:01.912764+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -62,6 +62,7 @@ _Last update: **2026-10-20 05:07:13.217678+07:00**_
  - 13-10-2026: [Thông báo về việc đăng ký đề tài tốt nghiệp dành cho học viên cao học khoá 35/2025 - đợt 2 (tháng 10/2026)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17604)
 
 ## CTSV
+ - 20/10/2026: [Thông báo V/v khai báo thông tin Bảo hiểm y tế được cấp miễn phí tại địa phương hoặc mua tại doanh nghiệp năm học 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-v-v-khai-bao-thong-tin-bao-hiem-y-te-duoc-cap-mien-phi-tai-dia-phuong-hoac-mua-tai-doanh-nghiep-nam-hoc-2026-2027)
  - 19/10/2026: [Thông báo Đăng ký bổ sung Sinh hoạt công dân – sinh viên đầu năm (Chuyên đề A),  năm học 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-dang-ky-bo-sung-sinh-hoat-cong-dan-sinh-vien-dau-nam-chuyen-de-a-nam-hoc-2026-2027)
  - 15/10/2026: [Thông báo kết quả đăng ký lịch Sinh hoạt Công dân – sinh viên đầu năm, năm học 2026-2027 (Chuyên đề A)](https://ctsv.hcmus.edu.vn/news/thong-bao-ket-qua-dang-ky-lich-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2026-2027-chuyen-de-a)
  - 15/10/2026: [THÔNG BÁO TUYỂN SINH HỌC BỔNG SAIGONCHILDREN DÀNH CHO NỮ SINH VIÊN](https://ctsv.hcmus.edu.vn/news/thong-bao-tuyen-sinh-hoc-bong-saigonchildren-danh-cho-nu-sinh-vien)
@@ -71,7 +72,6 @@ _Last update: **2026-10-20 05:07:13.217678+07:00**_
  - 08/10/2026: [TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM ĐỒNG HÀNH CÙNG UPRACE 2026 - KÊU GỌI SỨC TRẺ SINH VIÊN SẢI BƯỚC VÌ CỘNG ĐỒNG](https://ctsv.hcmus.edu.vn/news/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-dong-hanh-cung-uprace-2026-keu-goi-suc-tre-sinh-vien-sai-buoc-vi-cong-dong)
  - 08/10/2026: [CHƯƠNG TRÌNH HỌC BỔNG SAU ĐẠI HỌC NĂM 2026](https://ctsv.hcmus.edu.vn/news/chuong-trinh-hoc-bong-sau-dai-hoc-nam-2026)
  - 08/10/2026: [Thông báo Tổ chức Sinh hoạt Công dân – sinh viên đầu năm, năm học 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-to-chuc-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2026-2027)
- - 08/10/2026: [BÍ QUYẾT "DE-STRESS" & BỨT PHÁ TẠI ĐẠI HỌC](https://ctsv.hcmus.edu.vn/news/bi-quyet-de-stress-va-but-pha-tai-dai-hoc-khi-hanh-phuc-va-dong-luc-hoc-tap-nam-trong-tam-tay)
 
 ## Thông tin dành cho sinh viên
 - 16/10/2026: [Thông báo chuyển tiền Học bổng khuyến khích HK2/2025-2026 dành cho sinh viên Đại học Chính quy (Chương trình Đề án)](https://hcmus.edu.vn/71537-2/)
