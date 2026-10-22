@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-10-22 18:23:01.256111+07:00**_
+_Last update: **2026-10-22 23:50:23.491111+07:00**_
 ## CTDA
 ## FIT
  - 20-10-2026: [Danh sách sinh viên tham quan công ty Fujinet Systems ngày 10/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17620)
