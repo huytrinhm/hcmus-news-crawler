@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-10-22 04:24:12.819677+07:00**_
+_Last update: **2026-10-22 10:50:01.761575+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -62,6 +62,7 @@ _Last update: **2026-10-22 04:24:12.819677+07:00**_
  - 13-10-2026: [Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Nguyễn Ngọc Trung (9g00, 17/10/2026, Phòng I23)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17606)
 
 ## CTSV
+ - 22/10/2026: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2025-2026 (CT Chuẩn)](https://ctsv.hcmus.edu.vn/news/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2025-2026-ct-chuan)
  - 21/10/2026: [Thông báo thực hiện miễn, giảm học phí và chế độ chính sách cho sinh viên học kỳ 1/2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-thuc-hien-mien-giam-hoc-phi-va-che-do-chinh-sach-cho-sinh-vien-hoc-ky-1-2026-2027)
  - 20/10/2026: [Thông báo V/v khai báo thông tin Bảo hiểm y tế được cấp miễn phí tại địa phương hoặc mua tại doanh nghiệp năm học 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-v-v-khai-bao-thong-tin-bao-hiem-y-te-duoc-cap-mien-phi-tai-dia-phuong-hoac-mua-tai-doanh-nghiep-nam-hoc-2026-2027)
  - 19/10/2026: [Thông báo Đăng ký bổ sung Sinh hoạt công dân – sinh viên đầu năm (Chuyên đề A),  năm học 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-dang-ky-bo-sung-sinh-hoat-cong-dan-sinh-vien-dau-nam-chuyen-de-a-nam-hoc-2026-2027)
@@ -71,9 +72,9 @@ _Last update: **2026-10-22 04:24:12.819677+07:00**_
  - 09/10/2026: [Tổ chức cuộc thi “KHTN ZERO+” năm 2026](https://ctsv.hcmus.edu.vn/news/to-chuc-cuoc-thi-khtn-zero-nam-2026)
  - 08/10/2026: [Thông báo v/v đăng ký lịch khám sức khỏe định kỳ cho sinh viên đợt 1 năm 2026](https://ctsv.hcmus.edu.vn/news/thong-bao-v-v-dang-ky-lich-kham-suc-khoe-dinh-ky-cho-sinh-vien-dot-1-nam-2026)
  - 08/10/2026: [TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM ĐỒNG HÀNH CÙNG UPRACE 2026 - KÊU GỌI SỨC TRẺ SINH VIÊN SẢI BƯỚC VÌ CỘNG ĐỒNG](https://ctsv.hcmus.edu.vn/news/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-dong-hanh-cung-uprace-2026-keu-goi-suc-tre-sinh-vien-sai-buoc-vi-cong-dong)
- - 08/10/2026: [CHƯƠNG TRÌNH HỌC BỔNG SAU ĐẠI HỌC NĂM 2026](https://ctsv.hcmus.edu.vn/news/chuong-trinh-hoc-bong-sau-dai-hoc-nam-2026)
 
 ## Thông tin dành cho sinh viên
+- 22/10/2026: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2025-2026 (CT Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2025-2026-ct-dai-tra-va-hk3-2025-2026-ct-de-an/)
 - 21/10/2026: [Thông báo nộp học phí học kỳ 1/2026-2027, chương trình đề án](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2026-2027-chuong-trinh-de-an/)
 - 20/10/2026: [Thông báo nộp học phí học kỳ 1/2026-2027, chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2026-2027-chuong-trinh-dai-tra/)
 - 16/10/2026: [Thông báo chuyển tiền Học bổng khuyến khích HK2/2025-2026 dành cho sinh viên Đại học Chính quy (Chương trình Đề án)](https://hcmus.edu.vn/71537-2/)
@@ -83,7 +84,6 @@ _Last update: **2026-10-22 04:24:12.819677+07:00**_
 - 22/09/2026: [Thư mời đăng ký tham dự Chương trình InnovaConnect năm 2026, với chủ đề “Catalyzing Innovation in Chemistry and Drug Discovery” 01/10/2026](https://hcmus.edu.vn/thu-moi-dang-ky-tham-du-chuong-trinh-innovaconnect-nam-2026-voi-chu-de-catalyzing-innovation-in-chemistry-and-drug-discovery-01-10-2026/)
 - 18/09/2026: [Thông báo kết quả chính thức HBKK HK2/2025-2026 Khoa Công nghệ Thông tin, Điện tử-Viễn thông, Hóa học, Khoa học&CNVL, Môi trường, Sinh học-CNSH, Vật lý-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk2-2025-2026-khoa-cong-nghe-thong-tin-dien-tu-vien-thong-hoa-hoc-khoa-hoccnvl-moi-truong-sinh-hoc-cnsh-vat-ly-vlkt-ctda/)
 - 17/09/2026: [Thông báo Kết quả dự kiến Điểm rèn luyện HK2/2025-2026 (CT Chuẩn) và HK3/2025-2026 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2025-2026-ct-chuan-va-hk3-2025-2026-ct-de-an/)
-- 14/09/2026: [SINH HOẠT CÔNG DÂN ĐẦU KHÓA 2026](https://hcmus.edu.vn/sinh-hoat-cong-dan-dau-khoa-2026/)
 
 ## Các thông báo về Khảo thí
  - 13/10/2026: [Thông báo khảo sát sự hài lòng của VC-NLD về môi trường làm việc tại trường năm 2026](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/969-thong-bao-kh-o-sat-s-hai-long-c-a-vc-nld-v-moi-tru-ng-lam-vi-c-t-i-tru-ng-nam-2026)
@@ -94,11 +94,11 @@ _Last update: **2026-10-22 04:24:12.819677+07:00**_
 
 ***
 
+ - 22/10/2026: [Lịch thi giữa kỳ HK1/26-27 CT đề án các Khoa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/971-l-ch-thi-gi-a-ky-hk1-26-27-ct-d-an-cac-khoa)
+ - 22/10/2026: [Lịch thi giữa kỳ và cuối kỳ sớm HK1/26-27 CT đề án khoa Hóa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/970-l-ch-thi-gi-a-ky-va-cu-i-ky-s-m-hk1-26-27-ct-d-an-khoa-hoa)
  - 10/08/2026: [Lịch thi cuối kỳ HK3/25-26 các lớp đại trà Chính quy (Cập nhật 12/08)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/963-l-ch-thi-cu-i-ky-hk3-25-26-cac-l-p-d-i-tra-chinh-quy)
  - 08/08/2026: [Lịch thi chi tiết giữa kỳ HK3/25-26 môn MTH00040 (Xác xuất thống kê)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/961-l-ch-thi-chi-ti-t-gi-a-ky-hk3-25-26-mon-mth00040-xac-xu-t-th-ng-ke)
  - 05/08/2026: [Lịch thi giữa kỳ HK3/25-26 các lớp đại trà Chính quy](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/960-l-ch-thi-gi-a-ky-hk3-25-26-cac-l-p-d-i-tra-chinh-quy)
- - 13/07/2026: [Lịch thi cuối kỳ HK3/25-26 CT đề án khoa CNTT](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/958-l-ch-thi-cu-i-ky-hk3-25-26-ct-d-an-khoa-cntt)
- - 26/06/2026: [Lịch thi cuối kỳ HK3/25-26 CT đề án khoa Hóa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/952-l-ch-thi-cu-i-ky-hk2-25-26-ct-d-an-khoa-hoa)
 
 ***
 
