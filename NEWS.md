@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-10-23 04:18:59.364505+07:00**_
+_Last update: **2026-10-23 10:54:11.419802+07:00**_
 ## CTDA
 ## FIT
  - 20-10-2026: [Danh sách sinh viên tham quan công ty Fujinet Systems ngày 10/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17620)
@@ -26,6 +26,7 @@ _Last update: **2026-10-23 04:18:59.364505+07:00**_
  - 08/10/2026: [TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM ĐỒNG HÀNH CÙNG UPRACE 2026 - KÊU GỌI SỨC TRẺ SINH VIÊN SẢI BƯỚC VÌ CỘNG ĐỒNG](https://ctsv.hcmus.edu.vn/news/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-dong-hanh-cung-uprace-2026-keu-goi-suc-tre-sinh-vien-sai-buoc-vi-cong-dong)
 
 ## Thông tin dành cho sinh viên
+- 23/10/2026: [Pháp luật với sinh viên thời đại số: Cư trú, sở hữu trí tuệ và sử dụng AI có trách nhiệm.](https://hcmus.edu.vn/phap-luat-voi-sinh-vien-thoi-dai-so-cu-tru-so-huu-tri-tue-va-su-dung-ai-co-trach-nhiem/)
 - 21/10/2026: [Thông báo nộp học phí học kỳ 1/2026-2027, chương trình đề án](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2026-2027-chuong-trinh-de-an/)
 - 20/10/2026: [Thông báo nộp học phí học kỳ 1/2026-2027, chương trình đại trà](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2026-2027-chuong-trinh-dai-tra/)
 - 16/10/2026: [Thông báo chuyển tiền Học bổng khuyến khích HK2/2025-2026 dành cho sinh viên Đại học Chính quy (Chương trình Đề án)](https://hcmus.edu.vn/71537-2/)
@@ -35,7 +36,6 @@ _Last update: **2026-10-23 04:18:59.364505+07:00**_
 - 22/09/2026: [Thư mời đăng ký tham dự Chương trình InnovaConnect năm 2026, với chủ đề “Catalyzing Innovation in Chemistry and Drug Discovery” 01/10/2026](https://hcmus.edu.vn/thu-moi-dang-ky-tham-du-chuong-trinh-innovaconnect-nam-2026-voi-chu-de-catalyzing-innovation-in-chemistry-and-drug-discovery-01-10-2026/)
 - 18/09/2026: [Thông báo kết quả chính thức HBKK HK2/2025-2026 Khoa Công nghệ Thông tin, Điện tử-Viễn thông, Hóa học, Khoa học&CNVL, Môi trường, Sinh học-CNSH, Vật lý-VLKT (CTĐA) ](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hbkk-hk2-2025-2026-khoa-cong-nghe-thong-tin-dien-tu-vien-thong-hoa-hoc-khoa-hoccnvl-moi-truong-sinh-hoc-cnsh-vat-ly-vlkt-ctda/)
 - 17/09/2026: [Thông báo Kết quả dự kiến Điểm rèn luyện HK2/2025-2026 (CT Chuẩn) và HK3/2025-2026 (CT Đề án)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-diem-ren-luyen-hk2-2025-2026-ct-chuan-va-hk3-2025-2026-ct-de-an/)
-- 14/09/2026: [SINH HOẠT CÔNG DÂN ĐẦU KHÓA 2026](https://hcmus.edu.vn/sinh-hoat-cong-dan-dau-khoa-2026/)
 
 ## Các thông báo về Khảo thí
  - 13/10/2026: [Thông báo khảo sát sự hài lòng của VC-NLD về môi trường làm việc tại trường năm 2026](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/969-thong-bao-kh-o-sat-s-hai-long-c-a-vc-nld-v-moi-tru-ng-lam-vi-c-t-i-tru-ng-nam-2026)
