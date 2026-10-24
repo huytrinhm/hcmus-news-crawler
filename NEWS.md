@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-10-24 17:31:39.503395+07:00**_
+_Last update: **2026-10-24 22:35:24.403588+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -62,6 +62,8 @@ _Last update: **2026-10-24 17:31:39.503395+07:00**_
  - 13-10-2026: [Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Nguyễn Ngọc Trung (9g00, 17/10/2026, Phòng I23)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17606)
 
 ## CTSV
+ - 24/10/2026: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt công dân – sinh viên đầu năm (Chuyên đề A), năm học 2026-2027 vào ngày 17-18/10/2026](https://ctsv.hcmus.edu.vn/news/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-dau-nam-chuyen-de-a-nam-hoc-2026-2027-vao-ngay-17-18-10-2026)
+ - 24/10/2026: [Thông báo v/v đăng ký lịch khám sức khỏe định kỳ cho sinh viên đợt 2 năm 2026](https://ctsv.hcmus.edu.vn/news/thong-bao-v-v-dang-ky-lich-kham-suc-khoe-dinh-ky-cho-sinh-vien-dot-2-nam-2026)
  - 24/10/2026: [Thông báo tổ chức Chuyên đề "Tập huấn kiến thức, kỹ năng và thực tập phương án phòng cháy chữa cháy, cứu nạn, cứu hộ" năm 2026 tại Trường ĐH Khoa học tự nhiên](https://ctsv.hcmus.edu.vn/news/thong-bao-to-chuc-chuyen-de-tap-huan-kien-thuc-ky-nang-va-thuc-tap-phuong-an-phong-chay-chua-chay-cuu-nan-cuu-ho-nam-2026-tai-truong-dh-khoa-hoc-tu-nh)
  - 23/10/2026: [Thông báo về các chính sách tín dụng đối với người học](https://ctsv.hcmus.edu.vn/news/thong-bao-ve-cac-chinh-sach-tin-dung-doi-voi-nguoi-hoc-2)
  - 22/10/2026: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2025-2026 (CT Chuẩn)](https://ctsv.hcmus.edu.vn/news/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2025-2026-ct-chuan)
@@ -70,8 +72,6 @@ _Last update: **2026-10-24 17:31:39.503395+07:00**_
  - 19/10/2026: [Thông báo Đăng ký bổ sung Sinh hoạt công dân – sinh viên đầu năm (Chuyên đề A),  năm học 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-dang-ky-bo-sung-sinh-hoat-cong-dan-sinh-vien-dau-nam-chuyen-de-a-nam-hoc-2026-2027)
  - 15/10/2026: [Thông báo kết quả đăng ký lịch Sinh hoạt Công dân – sinh viên đầu năm, năm học 2026-2027 (Chuyên đề A)](https://ctsv.hcmus.edu.vn/news/thong-bao-ket-qua-dang-ky-lich-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2026-2027-chuyen-de-a)
  - 15/10/2026: [THÔNG BÁO TUYỂN SINH HỌC BỔNG SAIGONCHILDREN DÀNH CHO NỮ SINH VIÊN](https://ctsv.hcmus.edu.vn/news/thong-bao-tuyen-sinh-hoc-bong-saigonchildren-danh-cho-nu-sinh-vien)
- - 14/10/2026: [LẮNG NGHE TIẾNG NÓI CHÂN THỰC](https://ctsv.hcmus.edu.vn/news/lang-nghe-tieng-noi-chan-thuc-khi-moi-trai-nghiem-deu-dang-duoc-lang-nghe-va-thau-cam)
- - 09/10/2026: [Tổ chức cuộc thi “KHTN ZERO+” năm 2026](https://ctsv.hcmus.edu.vn/news/to-chuc-cuoc-thi-khtn-zero-nam-2026)
 
 ## Thông tin dành cho sinh viên
 - 23/10/2026: [Pháp luật với sinh viên thời đại số: Cư trú, sở hữu trí tuệ và sử dụng AI có trách nhiệm.](https://hcmus.edu.vn/phap-luat-voi-sinh-vien-thoi-dai-so-cu-tru-so-huu-tri-tue-va-su-dung-ai-co-trach-nhiem/)
