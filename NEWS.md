@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-10-25 10:47:44.582246+07:00**_
+_Last update: **2026-10-25 17:58:04.323836+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -51,6 +51,8 @@ _Last update: **2026-10-25 10:47:44.582246+07:00**_
 
 ## FIT
  - 25-10-2026: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17624)
+ - 24-10-2026: [Thông báo đăng ký tín chỉ học phần 4 chương trình cao học khoá 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17626)
+ - 23-10-2026: [Thông báo kết quả xét hồ sơ trình độ thạc sĩ năm 2026 - Đợt 2 (phương thức xét tuyển)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17625)
  - 20-10-2026: [Danh sách sinh viên tham quan công ty Fujinet Systems ngày 10/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17620)
  - 19-10-2026: [Sinh viên Khoa Công nghệ thông tin-FITHCMUS ghi dấu ấn tại AI Challenge 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17619)
  - 18-10-2026: [Buổi bảo vệ luận án tiến sĩ cấp cơ sở đào tạo NCS Nguyễn Ngọc Trung ngày 17/10/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17621)
@@ -58,8 +60,6 @@ _Last update: **2026-10-25 10:47:44.582246+07:00**_
  - 16-10-2026: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ tháng 07-08/2027](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17615)
  - 15-10-2026: [Giới thiệu sách mới của Thư viện Khoa Công nghệ thông tin FIT.HCMUS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17614)
  - 15-10-2026: [Đăng ký tham quan công ty Fujinet Systems ngày 10/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17613)
- - 14-10-2026: [Tổng kết Seminar học thuật Câu lạc bộ Nghiên cứu khoa học Tháng 10 năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17611)
- - 14-10-2026: [Khảo sát về chủ đề hội thảo sinh viên Khoa Công nghệ thông tin quan tâm](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17610)
 
 ## CTSV
  - 24/10/2026: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt công dân – sinh viên đầu năm (Chuyên đề A), năm học 2026-2027 vào ngày 17-18/10/2026](https://ctsv.hcmus.edu.vn/news/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-dau-nam-chuyen-de-a-nam-hoc-2026-2027-vao-ngay-17-18-10-2026)
