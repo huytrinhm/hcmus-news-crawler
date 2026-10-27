@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-10-27 11:13:31.910201+07:00**_
+_Last update: **2026-10-27 18:47:28.576374+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -62,6 +62,7 @@ _Last update: **2026-10-27 11:13:31.910201+07:00**_
  - 15-10-2026: [Đăng ký tham quan công ty Fujinet Systems ngày 10/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17613)
 
 ## CTSV
+ - 27/10/2026: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt công dân – sinh viên đầu năm (Chuyên đề A), năm học 2026-2027 vào ngày 24-25/10/2026](https://ctsv.hcmus.edu.vn/news/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-dau-nam-chuyen-de-a-nam-hoc-2026-2027-vao-ngay-24-25-10-2026)
  - 26/10/2026: [Thông báo tổ chức Workshop "Sơ cấp cứu: những kỹ năng cần thiết cho sinh viên"](https://ctsv.hcmus.edu.vn/news/thong-bao-to-chuc-workshop-so-cap-cuu-nhung-ky-nang-can-thiet-cho-sinh-vien)
  - 24/10/2026: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt công dân – sinh viên đầu năm (Chuyên đề A), năm học 2026-2027 vào ngày 17-18/10/2026](https://ctsv.hcmus.edu.vn/news/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-dau-nam-chuyen-de-a-nam-hoc-2026-2027-vao-ngay-17-18-10-2026)
  - 24/10/2026: [Thông báo v/v đăng ký lịch khám sức khỏe định kỳ cho sinh viên đợt 2 năm 2026](https://ctsv.hcmus.edu.vn/news/thong-bao-v-v-dang-ky-lich-kham-suc-khoe-dinh-ky-cho-sinh-vien-dot-2-nam-2026)
@@ -71,7 +72,6 @@ _Last update: **2026-10-27 11:13:31.910201+07:00**_
  - 21/10/2026: [Thông báo thực hiện miễn, giảm học phí và chế độ chính sách cho sinh viên học kỳ 1/2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-thuc-hien-mien-giam-hoc-phi-va-che-do-chinh-sach-cho-sinh-vien-hoc-ky-1-2026-2027)
  - 20/10/2026: [Thông báo V/v khai báo thông tin Bảo hiểm y tế được cấp miễn phí tại địa phương hoặc mua tại doanh nghiệp năm học 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-v-v-khai-bao-thong-tin-bao-hiem-y-te-duoc-cap-mien-phi-tai-dia-phuong-hoac-mua-tai-doanh-nghiep-nam-hoc-2026-2027)
  - 19/10/2026: [Thông báo Đăng ký bổ sung Sinh hoạt công dân – sinh viên đầu năm (Chuyên đề A),  năm học 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-dang-ky-bo-sung-sinh-hoat-cong-dan-sinh-vien-dau-nam-chuyen-de-a-nam-hoc-2026-2027)
- - 15/10/2026: [Thông báo kết quả đăng ký lịch Sinh hoạt Công dân – sinh viên đầu năm, năm học 2026-2027 (Chuyên đề A)](https://ctsv.hcmus.edu.vn/news/thong-bao-ket-qua-dang-ky-lich-sinh-hoat-cong-dan-sinh-vien-dau-nam-nam-hoc-2026-2027-chuyen-de-a)
 
 ## Thông tin dành cho sinh viên
 - 23/10/2026: [Pháp luật với sinh viên thời đại số: Cư trú, sở hữu trí tuệ và sử dụng AI có trách nhiệm.](https://hcmus.edu.vn/phap-luat-voi-sinh-vien-thoi-dai-so-cu-tru-so-huu-tri-tue-va-su-dung-ai-co-trach-nhiem/)
@@ -94,7 +94,7 @@ _Last update: **2026-10-27 11:13:31.910201+07:00**_
 
 ***
 
- - 26/10/2026: [Lịch thi cuối kỳ sớm HK1/26-27 các môn thi sớm tại LT và NVC](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/973-l-ch-thi-cu-i-ky-s-m-hk1-26-27-cac-mon-thi-s-m-t-i-lt-va-nvc)
+ - 26/10/2026: [Lịch thi cuối kỳ sớm HK1/26-27 các môn thi sớm tại LT và NVC (Cập nhật 27/10)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/973-l-ch-thi-cu-i-ky-s-m-hk1-26-27-cac-mon-thi-s-m-t-i-lt-va-nvc)
  - 22/10/2026: [Lịch thi giữa kỳ HK1/26-27 chương trình đại trà Chính quy](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/972-l-ch-thi-gi-a-ky-hk1-26-27-chuong-trinh-d-i-tra-chinh-quy)
  - 22/10/2026: [Lịch thi giữa kỳ HK1/26-27 CT đề án các Khoa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/971-l-ch-thi-gi-a-ky-hk1-26-27-ct-d-an-cac-khoa)
  - 22/10/2026: [Lịch thi giữa kỳ và cuối kỳ sớm HK1/26-27 CT đề án khoa Hóa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/970-l-ch-thi-gi-a-ky-va-cu-i-ky-s-m-hk1-26-27-ct-d-an-khoa-hoa)
