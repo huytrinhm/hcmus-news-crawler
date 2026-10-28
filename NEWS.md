@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-10-28 11:42:46.292254+07:00**_
+_Last update: **2026-10-28 19:21:50.553054+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -50,6 +50,7 @@ _Last update: **2026-10-28 11:42:46.292254+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 28-10-2026: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp (bảo vệ tháng 7/2027)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17631)
  - 28-10-2026: [Đăng ký tham quan công ty OPSWAT ngày 12/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17629)
  - 25-10-2026: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17624)
  - 24-10-2026: [Thông báo đăng ký tín chỉ học phần 4 chương trình cao học khoá 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17626)
@@ -59,7 +60,6 @@ _Last update: **2026-10-28 11:42:46.292254+07:00**_
  - 18-10-2026: [Buổi bảo vệ luận án tiến sĩ cấp cơ sở đào tạo NCS Nguyễn Ngọc Trung ngày 17/10/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17621)
  - 16-10-2026: [Mời nộp bài và trình bày tại Tiểu ban Công nghệ Thông tin và Truyền thông, Hội nghị khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17617)
  - 16-10-2026: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ tháng 07-08/2027](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17615)
- - 15-10-2026: [Giới thiệu sách mới của Thư viện Khoa Công nghệ thông tin FIT.HCMUS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17614)
 
 ## CTSV
  - 28/10/2026: [THÔNG BÁO VỀ HỌC BỔNG MITSUBISHI UFJ NĂM HỌC 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-ve-hoc-bong-mitsubishi-ufj-nam-hoc-2026-2027)
