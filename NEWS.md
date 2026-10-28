@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-10-28 04:56:13.277493+07:00**_
+_Last update: **2026-10-28 11:42:46.292254+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -50,6 +50,7 @@ _Last update: **2026-10-28 04:56:13.277493+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 28-10-2026: [Đăng ký tham quan công ty OPSWAT ngày 12/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17629)
  - 25-10-2026: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17624)
  - 24-10-2026: [Thông báo đăng ký tín chỉ học phần 4 chương trình cao học khoá 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17626)
  - 23-10-2026: [Thông báo kết quả xét hồ sơ trình độ thạc sĩ năm 2026 - Đợt 2 (phương thức xét tuyển)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17625)
@@ -59,9 +60,9 @@ _Last update: **2026-10-28 04:56:13.277493+07:00**_
  - 16-10-2026: [Mời nộp bài và trình bày tại Tiểu ban Công nghệ Thông tin và Truyền thông, Hội nghị khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17617)
  - 16-10-2026: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ tháng 07-08/2027](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17615)
  - 15-10-2026: [Giới thiệu sách mới của Thư viện Khoa Công nghệ thông tin FIT.HCMUS](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17614)
- - 15-10-2026: [Đăng ký tham quan công ty Fujinet Systems ngày 10/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17613)
 
 ## CTSV
+ - 28/10/2026: [THÔNG BÁO VỀ HỌC BỔNG MITSUBISHI UFJ NĂM HỌC 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-ve-hoc-bong-mitsubishi-ufj-nam-hoc-2026-2027)
  - 27/10/2026: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt công dân – sinh viên đầu năm (Chuyên đề A), năm học 2026-2027 vào ngày 24-25/10/2026](https://ctsv.hcmus.edu.vn/news/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-dau-nam-chuyen-de-a-nam-hoc-2026-2027-vao-ngay-24-25-10-2026)
  - 26/10/2026: [Thông báo tổ chức Workshop "Sơ cấp cứu: những kỹ năng cần thiết cho sinh viên"](https://ctsv.hcmus.edu.vn/news/thong-bao-to-chuc-workshop-so-cap-cuu-nhung-ky-nang-can-thiet-cho-sinh-vien)
  - 24/10/2026: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt công dân – sinh viên đầu năm (Chuyên đề A), năm học 2026-2027 vào ngày 17-18/10/2026](https://ctsv.hcmus.edu.vn/news/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-dau-nam-chuyen-de-a-nam-hoc-2026-2027-vao-ngay-17-18-10-2026)
@@ -71,7 +72,6 @@ _Last update: **2026-10-28 04:56:13.277493+07:00**_
  - 22/10/2026: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2025-2026 (CT Chuẩn)](https://ctsv.hcmus.edu.vn/news/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2025-2026-ct-chuan)
  - 21/10/2026: [Thông báo thực hiện miễn, giảm học phí và chế độ chính sách cho sinh viên học kỳ 1/2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-thuc-hien-mien-giam-hoc-phi-va-che-do-chinh-sach-cho-sinh-vien-hoc-ky-1-2026-2027)
  - 20/10/2026: [Thông báo V/v khai báo thông tin Bảo hiểm y tế được cấp miễn phí tại địa phương hoặc mua tại doanh nghiệp năm học 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-v-v-khai-bao-thong-tin-bao-hiem-y-te-duoc-cap-mien-phi-tai-dia-phuong-hoac-mua-tai-doanh-nghiep-nam-hoc-2026-2027)
- - 19/10/2026: [Thông báo Đăng ký bổ sung Sinh hoạt công dân – sinh viên đầu năm (Chuyên đề A),  năm học 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-dang-ky-bo-sung-sinh-hoat-cong-dan-sinh-vien-dau-nam-chuyen-de-a-nam-hoc-2026-2027)
 
 ## Thông tin dành cho sinh viên
 - 23/10/2026: [Pháp luật với sinh viên thời đại số: Cư trú, sở hữu trí tuệ và sử dụng AI có trách nhiệm.](https://hcmus.edu.vn/phap-luat-voi-sinh-vien-thoi-dai-so-cu-tru-so-huu-tri-tue-va-su-dung-ai-co-trach-nhiem/)
