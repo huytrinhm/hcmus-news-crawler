@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-10-29 05:20:17.979229+07:00**_
+_Last update: **2026-10-29 11:54:57.484106+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -50,6 +50,7 @@ _Last update: **2026-10-29 05:20:17.979229+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 29-10-2026: [Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Hồ Thị Hoàng Vy (13g30, 05/11/2026, Phòng F102)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17633)
  - 28-10-2026: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp (bảo vệ tháng 7/2027)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17631)
  - 28-10-2026: [Đăng ký tham quan công ty OPSWAT ngày 12/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17629)
  - 25-10-2026: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17624)
@@ -59,7 +60,6 @@ _Last update: **2026-10-29 05:20:17.979229+07:00**_
  - 19-10-2026: [Sinh viên Khoa Công nghệ thông tin-FITHCMUS ghi dấu ấn tại AI Challenge 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17619)
  - 18-10-2026: [Buổi bảo vệ luận án tiến sĩ cấp cơ sở đào tạo NCS Nguyễn Ngọc Trung ngày 17/10/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17621)
  - 16-10-2026: [Mời nộp bài và trình bày tại Tiểu ban Công nghệ Thông tin và Truyền thông, Hội nghị khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17617)
- - 16-10-2026: [[CQ] Thông báo đăng ký học phần Khóa luận, Thực tập và Thực tập dự án tốt nghiệp, đợt bảo vệ tháng 07-08/2027](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17615)
 
 ## CTSV
  - 28/10/2026: [THÔNG BÁO VỀ HỌC BỔNG MITSUBISHI UFJ NĂM HỌC 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-ve-hoc-bong-mitsubishi-ufj-nam-hoc-2026-2027)
