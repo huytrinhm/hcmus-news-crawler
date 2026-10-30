@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-10-30 11:54:49.486941+07:00**_
+_Last update: **2026-10-30 19:22:26.392066+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -50,6 +50,7 @@ _Last update: **2026-10-30 11:54:49.486941+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 30-10-2026: [Mời đăng ký tham gia Hội nghị Khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM lần thứ XV năm 2026 - Tiểu ban Công nghệ Thông tin và Truyền thông](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17637)
  - 30-10-2026: [Từ mong muốn AI phục vụ con người đến giải pháp mô phỏng khiển máy bay không người lái của nhóm nghiên cứu Khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17635)
  - 29-10-2026: [Kết quả đạt giải Cuộc thi Olympic Tin học Sinh viên trường Đại học Khoa học tự nhiên năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17634)
  - 29-10-2026: [Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Hồ Thị Hoàng Vy (13g30, 05/11/2026, Phòng F102)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17633)
@@ -59,7 +60,6 @@ _Last update: **2026-10-30 11:54:49.486941+07:00**_
  - 24-10-2026: [Thông báo đăng ký tín chỉ học phần 4 chương trình cao học khoá 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17626)
  - 23-10-2026: [Thông báo kết quả xét hồ sơ trình độ thạc sĩ năm 2026 - Đợt 2 (phương thức xét tuyển)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17625)
  - 20-10-2026: [Danh sách sinh viên tham quan công ty Fujinet Systems ngày 10/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17620)
- - 19-10-2026: [Sinh viên Khoa Công nghệ thông tin-FITHCMUS ghi dấu ấn tại AI Challenge 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17619)
 
 ## CTSV
  - 29/10/2026: [Thông báo kết quả dự kiến học bổng khuyến khích HK2/2025-2026 (Chương trình Chuẩn)](https://ctsv.hcmus.edu.vn/news/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2025-2026-chuong-trinh-chuan)
