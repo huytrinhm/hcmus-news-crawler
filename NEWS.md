@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-11-02 12:01:37.686015+07:00**_
+_Last update: **2026-11-02 22:04:15.896801+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -50,6 +50,8 @@ _Last update: **2026-11-02 12:01:37.686015+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 2-11-2026: [QUỸ HỌC BỔNG CỰU SINH VIÊN – TIẾP NỐI HÀNH TRÌNH, LAN TỎA GIÁ TRỊ SẺ CHIA](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17639)
+ - 2-11-2026: [LỄ TRAO HỌC BỔNG CỰU SINH VIÊN VÀ TRAO TẶNG MÁY TÍNH NĂM 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17638)
  - 30-10-2026: [Mời đăng ký tham gia Hội nghị Khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM lần thứ XV năm 2026 - Tiểu ban Công nghệ Thông tin và Truyền thông](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17637)
  - 30-10-2026: [Từ mong muốn AI phục vụ con người đến giải pháp mô phỏng khiển máy bay không người lái của nhóm nghiên cứu Khoa Công nghệ thông tin](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17635)
  - 29-10-2026: [Kết quả đạt giải Cuộc thi Olympic Tin học Sinh viên trường Đại học Khoa học tự nhiên năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17634)
@@ -58,8 +60,6 @@ _Last update: **2026-11-02 12:01:37.686015+07:00**_
  - 28-10-2026: [Đăng ký tham quan công ty OPSWAT ngày 12/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17629)
  - 25-10-2026: [Quy trình bảo vệ luận văn/ đồ án tốt nghiệp thạc sĩ đợt cuối tháng 12/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17624)
  - 24-10-2026: [Thông báo đăng ký tín chỉ học phần 4 chương trình cao học khoá 35/2025](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17626)
- - 23-10-2026: [Thông báo kết quả xét hồ sơ trình độ thạc sĩ năm 2026 - Đợt 2 (phương thức xét tuyển)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17625)
- - 20-10-2026: [Danh sách sinh viên tham quan công ty Fujinet Systems ngày 10/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17620)
 
 ## CTSV
  - 29/10/2026: [Thông báo kết quả dự kiến học bổng khuyến khích HK2/2025-2026 (Chương trình Chuẩn)](https://ctsv.hcmus.edu.vn/news/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2025-2026-chuong-trinh-chuan)
