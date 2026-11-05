@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-11-05 06:22:50.710657+07:00**_
+_Last update: **2026-11-05 12:44:31.196940+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -50,6 +50,7 @@ _Last update: **2026-11-05 06:22:50.710657+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 5-11-2026: [Danh sách sinh viên tham dự Hội thảo: Xây dựng CV nổi bật và chinh phục phỏng vấn kỹ thuật](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17643)
  - 3-11-2026: [Đăng ký tham dự Hội thảo: Xây dựng CV nổi bật và chinh phục phỏng vấn kỹ thuật](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17642)
  - 3-11-2026: [Danh sách sinh viên tham quan công ty OPSWAT ngày 12/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17641)
  - 2-11-2026: [QUỸ HỌC BỔNG CỰU SINH VIÊN – TIẾP NỐI HÀNH TRÌNH, LAN TỎA GIÁ TRỊ SẺ CHIA](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17639)
@@ -59,7 +60,6 @@ _Last update: **2026-11-05 06:22:50.710657+07:00**_
  - 29-10-2026: [Kết quả đạt giải Cuộc thi Olympic Tin học Sinh viên trường Đại học Khoa học tự nhiên năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17634)
  - 29-10-2026: [Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Hồ Thị Hoàng Vy (13g30, 05/11/2026, Phòng F102)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17633)
  - 28-10-2026: [Nhắc nhở v/v chuẩn bị hồ sơ đăng ký thực hiện đề tài tốt nghiệp (bảo vệ tháng 7/2027)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17631)
- - 28-10-2026: [Đăng ký tham quan công ty OPSWAT ngày 12/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17629)
 
 ## CTSV
  - 04/11/2026: [Thông báo tổ chức lễ trao bằng tốt nghiệp cấp Trường đợt 2 năm 2026](https://ctsv.hcmus.edu.vn/news/thong-bao-to-chuc-le-trao-bang-tot-nghiep-cap-truong-dot-2-nam-2026)
@@ -86,11 +86,11 @@ _Last update: **2026-11-05 06:22:50.710657+07:00**_
 - 22/09/2026: [Thư mời đăng ký tham dự Chương trình InnovaConnect năm 2026, với chủ đề “Catalyzing Innovation in Chemistry and Drug Discovery” 01/10/2026](https://hcmus.edu.vn/thu-moi-dang-ky-tham-du-chuong-trinh-innovaconnect-nam-2026-voi-chu-de-catalyzing-innovation-in-chemistry-and-drug-discovery-01-10-2026/)
 
 ## Các thông báo về Khảo thí
+ - 05/11/2026: [Thông báo thu thập thông tin việc học việc làm của SVTN_đợt tháng 8,9,10 năm 2026](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/975-thong-bao-thu-th-p-thong-tin-vi-c-h-c-vi-c-lam-c-a-svtn-d-t-thang-8-9-10-nam-2026)
  - 26/10/2026: [Thông báo sinh viên đánh giá khóa học đối với sinh viên năm cuối ĐHCQ khóa 2023](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/974-thong-bao-sinh-vien-danh-gia-khoa-h-c-d-i-v-i-sinh-vien-nam-cu-i-dhcq-khoa-2023)
  - 13/10/2026: [Thông báo khảo sát sự hài lòng của VC-NLD về môi trường làm việc tại trường năm 2026](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/969-thong-bao-kh-o-sat-s-hai-long-c-a-vc-nld-v-moi-tru-ng-lam-vi-c-t-i-tru-ng-nam-2026)
  - 10/09/2026: [Thông báo phúc khảo HK3/25-26 chương trình Chính quy](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/967-thong-bao-phuc-kh-o-hk3-25-26-chuong-trinh-chinh-quy)
  - 10/09/2026: [Thông báo phúc khảo HK/25-26 chương trình đề án khoa CNTT](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/966-thong-bao-phuc-kh-o-hk-25-26-chuong-trinh-d-an-khoa-cntt)
- - 10/09/2026: [Thông báo phúc khảo HK3/25-26 chương trình đề án các Khoa](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/965-thong-bao-phuc-kh-o-hk3-25-26-chuong-trinh-d-an-cac-khoa)
 
 ***
 
