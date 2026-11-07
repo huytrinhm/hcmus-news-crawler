@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-11-07 05:50:57.249119+07:00**_
+_Last update: **2026-11-07 12:11:34.940116+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -86,11 +86,11 @@ _Last update: **2026-11-07 05:50:57.249119+07:00**_
 - 22/09/2026: [[THÔNG BÁO] Chương trình FPT Frontier Innovators 2026 – Viện Quantum AI & Cyber Security (QACI) – Tập đoàn FPT](https://hcmus.edu.vn/thong-bao-chuong-trinh-fpt-frontier-innovators-2026-vien-quantum-ai-cyber-security-qaci-tap-doan-fpt/)
 
 ## Các thông báo về Khảo thí
+ - 07/11/2026: [SẮP ĐẾN KỲ THI GIỮA KỲ – NHỮNG LƯU Ý DÀNH CHO SINH VIÊN](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/977-s-p-d-n-ky-thi-gi-a-ky-nh-ng-luu-y-danh-cho-sinh-vien)
  - 06/11/2026: [Thông báo thay đổi phòng thi HK1/26-27 CTDA tại NVC](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/976-thong-bao-thay-d-i-phong-thi-hk1-26-27-ctda-t-i-nvc)
  - 05/11/2026: [Thông báo thu thập thông tin việc học việc làm của SVTN_đợt tháng 8,9,10 năm 2026](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/975-thong-bao-thu-th-p-thong-tin-vi-c-h-c-vi-c-lam-c-a-svtn-d-t-thang-8-9-10-nam-2026)
  - 26/10/2026: [Thông báo sinh viên đánh giá khóa học đối với sinh viên năm cuối ĐHCQ khóa 2023](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/974-thong-bao-sinh-vien-danh-gia-khoa-h-c-d-i-v-i-sinh-vien-nam-cu-i-dhcq-khoa-2023)
  - 13/10/2026: [Thông báo khảo sát sự hài lòng của VC-NLD về môi trường làm việc tại trường năm 2026](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/969-thong-bao-kh-o-sat-s-hai-long-c-a-vc-nld-v-moi-tru-ng-lam-vi-c-t-i-tru-ng-nam-2026)
- - 10/09/2026: [Thông báo phúc khảo HK3/25-26 chương trình Chính quy](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/967-thong-bao-phuc-kh-o-hk3-25-26-chuong-trinh-chinh-quy)
 
 ***
 
