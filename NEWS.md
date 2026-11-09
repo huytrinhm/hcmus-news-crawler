@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-11-09 04:49:34.948766+07:00**_
+_Last update: **2026-11-09 12:17:28.581356+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -50,10 +50,10 @@ _Last update: **2026-11-09 04:49:34.948766+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 9-11-2026: [Danh sách tham dự Hội thảo "AI trong doanh nghiệp: Từ xu hướng đến thực tế"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17653)
  - 6-11-2026: [Cập nhật lịch trình bày Hội nghị Khoa học Trường Đại học Khoa học tự nhiên, ĐHQG-HCM lần thứ XV năm 2026 - Tiểu ban Công nghệ Thông tin và Truyền thông](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17652)
  - 6-11-2026: [Chúc mừng Nghiên cứu sinh Hồ Thị Hoàng Vy hoàn thành bảo vệ luận án Tiến sĩ cấp Cơ sở đào tạo](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17651)
  - 5-11-2026: [Đăng ký tham quan công ty VNG ngày 26/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17648)
- - 5-11-2026: [Đăng ký tham quan công ty VNG ngày 26/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17647)
  - 5-11-2026: [Đăng ký tham dự Hội thảo "AI trong doanh nghiệp: Từ xu hướng đến thực tế"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17646)
  - 5-11-2026: [DSHV đăng ký bảo vệ luận văn/ đồ án tốt nghiệp đợt cuối tháng 12/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17644)
  - 5-11-2026: [Danh sách sinh viên tham dự Hội thảo: Xây dựng CV nổi bật và chinh phục phỏng vấn kỹ thuật](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17643)
@@ -62,6 +62,7 @@ _Last update: **2026-11-09 04:49:34.948766+07:00**_
  - 2-11-2026: [QUỸ HỌC BỔNG CỰU SINH VIÊN – TIẾP NỐI HÀNH TRÌNH, LAN TỎA GIÁ TRỊ SẺ CHIA](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17639)
 
 ## CTSV
+ - 09/11/2026: [Thông báo tiếp nhận hồ sơ xét Học bổng “Chắp cánh ước mơ” năm học 2026 - 2027](https://ctsv.hcmus.edu.vn/news/thong-bao-tiep-nhan-ho-so-xet-hoc-bong-chap-canh-uoc-mo-nam-hoc-2026-2027)
  - 08/11/2026: [Sinh viên Trường Đại học Khoa học tự nhiên, ĐHQG-HCM đạt 02 giải Nhì và 03 giải Khuyến khích tại Giải thưởng Khoa học và Công nghệ dành cho sinh viên năm 2026](https://ctsv.hcmus.edu.vn/news/sinh-vien-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-dat-02-giai-nhi-va-03-giai-khuyen-khich-tai-giai-thuong-khoa-hoc-va-cong-nghe-danh-cho-sinh-vien-n)
  - 05/11/2026: [Thông báo thu phí bảo hiểm y tế năm 2027 (đợt 1) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2026)](https://ctsv.hcmus.edu.vn/news/thong-bao-thu-phi-bao-hiem-y-te-nam-2027-dot-1-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2026)
  - 04/11/2026: [Thông báo tổ chức lễ trao bằng tốt nghiệp Trường Đại học Khoa học tự nhiên, ĐHQG-HCM - Đợt 2, năm 2026](https://ctsv.hcmus.edu.vn/news/thong-bao-to-chuc-le-trao-bang-tot-nghiep-cap-truong-dot-2-nam-2026)
@@ -71,7 +72,6 @@ _Last update: **2026-11-09 04:49:34.948766+07:00**_
  - 27/10/2026: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt công dân – sinh viên đầu năm (Chuyên đề A), năm học 2026-2027 vào ngày 24-25/10/2026](https://ctsv.hcmus.edu.vn/news/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-dau-nam-chuyen-de-a-nam-hoc-2026-2027-vao-ngay-24-25-10-2026)
  - 26/10/2026: [Thông báo tổ chức Workshop "Sơ cấp cứu: những kỹ năng cần thiết cho sinh viên"](https://ctsv.hcmus.edu.vn/news/thong-bao-to-chuc-workshop-so-cap-cuu-nhung-ky-nang-can-thiet-cho-sinh-vien)
  - 24/10/2026: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt công dân – sinh viên đầu năm (Chuyên đề A), năm học 2026-2027 vào ngày 17-18/10/2026](https://ctsv.hcmus.edu.vn/news/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-dau-nam-chuyen-de-a-nam-hoc-2026-2027-vao-ngay-17-18-10-2026)
- - 24/10/2026: [Thông báo v/v đăng ký lịch khám sức khỏe định kỳ cho sinh viên đợt 2 năm 2026](https://ctsv.hcmus.edu.vn/news/thong-bao-v-v-dang-ky-lich-kham-suc-khoe-dinh-ky-cho-sinh-vien-dot-2-nam-2026)
 
 ## Thông tin dành cho sinh viên
 - 08/11/2026: [KHAI MẠC CHUỖI HOẠT ĐỘNG HỘI NGHỊ KHOA HỌC LẦN THỨ 15](https://hcmus.edu.vn/khai-mac-chuoi-hoat-dong-hoi-nghi-khoa-hoc-lan-thu-15/)
