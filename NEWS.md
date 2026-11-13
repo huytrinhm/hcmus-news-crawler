@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-11-13 12:41:55.445710+07:00**_
+_Last update: **2026-11-13 21:10:21.312862+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -62,6 +62,8 @@ _Last update: **2026-11-13 12:41:55.445710+07:00**_
  - 9-11-2026: [Danh sách tham dự Hội thảo "AI trong doanh nghiệp: Từ xu hướng đến thực tế"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17653)
 
 ## CTSV
+ - 13/11/2026: [CHƯƠNG TRÌNH HỌC BỔNG AMCHAM NĂM 2026](https://ctsv.hcmus.edu.vn/news/chuong-trinh-hoc-bong-amcham-nam-2026)
+ - 13/11/2026: [THÔNG BÁO CHƯƠNG TRÌNH HỌC BỔNG ĐỒNG HÀNH KỲ 49 NĂM HỌC 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ky-49-nam-hoc-2026-2027)
  - 11/11/2026: [RECAP TẬP HUẤN CHUYÊN ĐỀ "HIỂU MÌNH, HIỂU NGƯỜI VÀ NGHỆ THUẬT XÂY DỰNG MỐI QUAN HỆ TƯƠNG TRỢ" CHO BAN CÁN SỰ LỚP NĂM 2, 3 & 4](https://ctsv.hcmus.edu.vn/news/recap-tap-huan-chuyen-de-hieu-minh-hieu-nguoi-va-nghe-thuat-xay-dung-moi-quan-he-tuong-tro-cho-ban-can-su-lop-nam-2-3-va-4)
  - 10/11/2026: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK2/2025-2026 (Chương trình Chuẩn)](https://ctsv.hcmus.edu.vn/news/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk2-2025-2026-chuong-trinh-chuan)
  - 09/11/2026: [Thông báo tiếp nhận hồ sơ xét Học bổng “Chắp cánh ước mơ” năm học 2026 - 2027](https://ctsv.hcmus.edu.vn/news/thong-bao-tiep-nhan-ho-so-xet-hoc-bong-chap-canh-uoc-mo-nam-hoc-2026-2027)
@@ -70,10 +72,9 @@ _Last update: **2026-11-13 12:41:55.445710+07:00**_
  - 04/11/2026: [Thông báo tổ chức lễ trao bằng tốt nghiệp Trường Đại học Khoa học tự nhiên, ĐHQG-HCM - Đợt 2, năm 2026](https://ctsv.hcmus.edu.vn/news/thong-bao-to-chuc-le-trao-bang-tot-nghiep-cap-truong-dot-2-nam-2026)
  - 03/11/2026: [Thông báo tổ chức Workshop: “Tuyên truyền, phổ biến, tư vấn pháp luật lao động cho sinh viên”](https://ctsv.hcmus.edu.vn/news/thong-bao-to-chuc-workshop-tuyen-truyen-pho-bien-tu-van-phap-luat-lao-dong-cho-sinh-vien)
  - 29/10/2026: [Thông báo kết quả dự kiến học bổng khuyến khích HK2/2025-2026 (Chương trình Chuẩn)](https://ctsv.hcmus.edu.vn/news/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2025-2026-chuong-trinh-chuan)
- - 28/10/2026: [THÔNG BÁO VỀ HỌC BỔNG MITSUBISHI UFJ NĂM HỌC 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-ve-hoc-bong-mitsubishi-ufj-nam-hoc-2026-2027)
- - 27/10/2026: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt công dân – sinh viên đầu năm (Chuyên đề A), năm học 2026-2027 vào ngày 24-25/10/2026](https://ctsv.hcmus.edu.vn/news/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-dau-nam-chuyen-de-a-nam-hoc-2026-2027-vao-ngay-24-25-10-2026)
 
 ## Thông tin dành cho sinh viên
+- 13/11/2026: [Thông báo kiểm tra và cập nhật thông tin Căn cước công dân đối với sinh viên đã được công bố danh sách tốt nghiệp tháng 9 năm 2026](https://hcmus.edu.vn/thong-bao-kiem-tra-va-cap-nhat-thong-tin-can-cuoc-cong-dan-doi-voi-sinh-vien-da-duoc-cong-bo-danh-sach-tot-nghiep-thang-9-nam-2026/)
 - 12/11/2026: [Thông báo nghỉ học ngày văn hóa Việt Nam 24/11/2026](https://hcmus.edu.vn/thong-bao-nghi-hoc-ngay-van-hoa-viet-nam-24-11-2026/)
 - 12/11/2026: [Quyết định 50/2026/QĐ-TTg của Thủ tướng về tín dụng đối với học sinh, sinh viên](https://hcmus.edu.vn/quyet-dinh-50-2026-qd-ttg-cua-thu-tuong-ve-tin-dung-doi-voi-hoc-sinh-sinh-vien/)
 - 11/11/2026: [Quy chế đào tạo trình độ đại học năm 2026](https://hcmus.edu.vn/quy-che-dao-tao-trinh-do-dai-hoc-nam-2026/)
@@ -83,7 +84,6 @@ _Last update: **2026-11-13 12:41:55.445710+07:00**_
 - 29/10/2026: [Thông báo kết quả dự kiến học bổng khuyến khích HK2/2025-2026 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2025-2026-chuong-trinh-chuan/)
 - 23/10/2026: [Pháp luật với sinh viên thời đại số: Cư trú, sở hữu trí tuệ và sử dụng AI có trách nhiệm.](https://hcmus.edu.vn/phap-luat-voi-sinh-vien-thoi-dai-so-cu-tru-so-huu-tri-tue-va-su-dung-ai-co-trach-nhiem/)
 - 22/10/2026: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK2/2025-2026 (CT Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk2-2025-2026-ct-dai-tra-va-hk3-2025-2026-ct-de-an/)
-- 21/10/2026: [Thông báo nộp học phí học kỳ 1/2026-2027, chương trình đề án](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hoc-ky-1-2026-2027-chuong-trinh-de-an/)
 
 ## Các thông báo về Khảo thí
  - 07/11/2026: [SẮP ĐẾN KỲ THI GIỮA KỲ – NHỮNG LƯU Ý DÀNH CHO SINH VIÊN](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/977-s-p-d-n-ky-thi-gi-a-ky-nh-ng-luu-y-danh-cho-sinh-vien)
