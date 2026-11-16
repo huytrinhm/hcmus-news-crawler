@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-11-16 12:28:35.800641+07:00**_
+_Last update: **2026-11-16 22:10:36.180118+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -50,6 +50,8 @@ _Last update: **2026-11-16 12:28:35.800641+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 16-11-2026: [Đăng ký tham quan công ty GeoComply ngày 3/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17668)
+ - 16-11-2026: [Danh sách sinh viên tham dự Hội thảo: Xây dựng CV nổi bật và chinh phục phỏng vấn kỹ thuật ngày 18/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17667)
  - 12-11-2026: [Tổng kết Tiểu ban Công nghệ Thông tin và Truyền thông – Hội nghị Khoa học lần thứ XV năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17665)
  - 12-11-2026: [Đăng ký tham gia Seminar Facility Location Games, from Origin to Recent Development](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17664)
  - 12-11-2026: [Đăng ký tham gia Buổi giới thiệu về các chương trình học bổng trường Đại học Quốc gia Seoul (Hàn Quốc) dành cho Sinh viên Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17663)
@@ -58,10 +60,10 @@ _Last update: **2026-11-16 12:28:35.800641+07:00**_
  - 11-11-2026: [Danh sách sinh viên tham quan công ty VNG ngày 26/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17659)
  - 10-11-2026: [Ngày đầu tiên của Tiểu ban Công nghệ Thông tin và Truyền thông – Hội nghị Khoa học lần thứ XV năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17657)
  - 10-11-2026: [Đăng ký tham quan công ty Saritasa Việt Nam ngày 2/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17655)
- - 10-11-2026: [Sự kiện "PostGraduate PhD Pathways in Singapore": Cơ hội tìm hiểu chương trình Tiến sĩ và Thạc sĩ nghiên cứu tại Singapore](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17654)
- - 9-11-2026: [Danh sách tham dự Hội thảo "AI trong doanh nghiệp: Từ xu hướng đến thực tế"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17653)
 
 ## CTSV
+ - 16/11/2026: [CUỘC SỐNG Ý NGHĨA HƠN KHI CHÚNG TA CÓ ƯỚC MƠ VÀ MỤC ĐÍCH SỐNG](https://ctsv.hcmus.edu.vn/news/cuoc-song-y-nghia-hon-khi-chung-ta-co-uoc-mo-va-muc-dich-song)
+ - 16/11/2026: [Quyết định về việc ban hành Quy định công tác khen thưởng, kỷ luật sinh viên](https://ctsv.hcmus.edu.vn/news/quyet-dinh-ve-viec-ban-hanh-quy-dinh-cong-tac-khen-thuong-ky-luat-sinh-vien-09-11-2026)
  - 13/11/2026: [CHƯƠNG TRÌNH HỌC BỔNG AMCHAM NĂM 2026](https://ctsv.hcmus.edu.vn/news/chuong-trinh-hoc-bong-amcham-nam-2026)
  - 13/11/2026: [THÔNG BÁO CHƯƠNG TRÌNH HỌC BỔNG ĐỒNG HÀNH KỲ 49 NĂM HỌC 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ky-49-nam-hoc-2026-2027)
  - 11/11/2026: [RECAP TẬP HUẤN CHUYÊN ĐỀ "HIỂU MÌNH, HIỂU NGƯỜI VÀ NGHỆ THUẬT XÂY DỰNG MỐI QUAN HỆ TƯƠNG TRỢ" CHO BAN CÁN SỰ LỚP NĂM 2, 3 & 4](https://ctsv.hcmus.edu.vn/news/recap-tap-huan-chuyen-de-hieu-minh-hieu-nguoi-va-nghe-thuat-xay-dung-moi-quan-he-tuong-tro-cho-ban-can-su-lop-nam-2-3-va-4)
@@ -70,8 +72,6 @@ _Last update: **2026-11-16 12:28:35.800641+07:00**_
  - 08/11/2026: [Sinh viên Trường Đại học Khoa học tự nhiên, ĐHQG-HCM đạt 02 giải Nhì và 03 giải Khuyến khích tại Giải thưởng Khoa học và Công nghệ dành cho sinh viên năm 2026](https://ctsv.hcmus.edu.vn/news/sinh-vien-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-dat-02-giai-nhi-va-03-giai-khuyen-khich-tai-giai-thuong-khoa-hoc-va-cong-nghe-danh-cho-sinh-vien-n)
  - 05/11/2026: [Thông báo thu phí bảo hiểm y tế năm 2027 (đợt 1) đối với sinh viên và học viên Sau Đại học (trừ sinh viên khóa 2026)](https://ctsv.hcmus.edu.vn/news/thong-bao-thu-phi-bao-hiem-y-te-nam-2027-dot-1-doi-voi-sinh-vien-va-hoc-vien-sau-dai-hoc-tru-sinh-vien-khoa-2026)
  - 04/11/2026: [Thông báo tổ chức lễ trao bằng tốt nghiệp Trường Đại học Khoa học tự nhiên, ĐHQG-HCM - Đợt 2, năm 2026](https://ctsv.hcmus.edu.vn/news/thong-bao-to-chuc-le-trao-bang-tot-nghiep-cap-truong-dot-2-nam-2026)
- - 03/11/2026: [Thông báo tổ chức Workshop: “Tuyên truyền, phổ biến, tư vấn pháp luật lao động cho sinh viên”](https://ctsv.hcmus.edu.vn/news/thong-bao-to-chuc-workshop-tuyen-truyen-pho-bien-tu-van-phap-luat-lao-dong-cho-sinh-vien)
- - 29/10/2026: [Thông báo kết quả dự kiến học bổng khuyến khích HK2/2025-2026 (Chương trình Chuẩn)](https://ctsv.hcmus.edu.vn/news/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2025-2026-chuong-trinh-chuan)
 
 ## Thông tin dành cho sinh viên
 - 13/11/2026: [Thông báo kiểm tra và cập nhật thông tin Căn cước công dân đối với sinh viên đã được công bố danh sách tốt nghiệp tháng 9 năm 2026](https://hcmus.edu.vn/thong-bao-kiem-tra-va-cap-nhat-thong-tin-can-cuoc-cong-dan-doi-voi-sinh-vien-da-duoc-cong-bo-danh-sach-tot-nghiep-thang-9-nam-2026/)
