@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-11-19 07:00:35.575122+07:00**_
+_Last update: **2026-11-19 22:25:44.598402+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -14,6 +14,7 @@ _Last update: **2026-11-19 07:00:35.575122+07:00**_
  - 22/09/2023: [[CTĐA] Kế hoạch mở học phần năm học 2023-2024 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2023/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2023-2024-du-kien/)
 
 ### Giáo vụ
+ - 19/11/2026: [Thông báo điều kiện đăng ký thực hiện đề tài tốt nghiệp (Khóa luận tốt nghiệp, Thực tập tốt nghiệp, Thực tập dự án tốt nghiệp) từ HK1/2627](https://www.ctda.hcmus.edu.vn/vi/2026/11/thong-bao-v-v-dieu-kien-dang-ky-thuc-hien-de-tai-tot-nghiep-khoa-luan-tot-nghiep-thuc-tap-tot-nghiep-thuc-tap-du-an-tot-nghiep-tu-hk1-2627/)
  - 11/11/2026: [[CTĐA] Thông báo đăng ký thực hiện đề tài tốt nghiệp (bảo vệ tháng 07/2027) trên hệ thống Khoa](https://www.ctda.hcmus.edu.vn/vi/2026/11/ctda-thong-bao-dang-ky-thuc-hien-de-tai-tot-nghiep-bao-ve-thang-07-2027/)
  - 19/10/2026: [Thông báo về việc thay đổi địa chỉ email tiếp nhận và hỗ trợ các vấn đề liên quan đến đề tài tốt nghiệp](https://www.ctda.hcmus.edu.vn/vi/2026/10/thong-bao-ve-viec-thay-doi-dia-chi-email-tiep-nhan-va-ho-tro-cac-van-de-lien-quan-den-de-tai-tot-nghiep/)
  - 19/10/2026: [[CTĐA] Thông báo nộp đề cương đề tài tốt nghiệp Khóa 2022 (bảo vệ tháng 03/2027)](https://www.ctda.hcmus.edu.vn/vi/2026/10/ctda-thong-bao-nop-de-cuong-de-tai-tot-nghiep-khoa-2023-bao-ve-thang-03-2027/)
@@ -23,7 +24,6 @@ _Last update: **2026-11-19 07:00:35.575122+07:00**_
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
  - 08/09/2026: [[CTĐA] Thông báo nộp đơn đăng ký thực hiện đề tài tốt nghiệp Khóa 2022 (bảo vệ tháng 04/2027)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-thong-bao-nop-don-dang-ky-thuc-hien-de-tai-tot-nghiep-khoa-2022-bao-ve-thang-04-2027/)
  - 08/09/2026: [[CTĐA] Thông báo nộp file đề tài tốt nghiệp KLTN/ TTTN SAU bảo vệ khóa 2022 (bảo vệ tháng 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-thong-bao-nop-file-de-tai-tot-nghiep-sau-bao-ve-khoa-2022-dot-1-bao-ve-thang-08-2026/)
- - 22/08/2026: [[CTĐA] Thông báo nộp file đề tài tốt nghiệp TTDATN SAU bảo vệ khóa 2022, đợt 1 (bảo vệ tháng 08/2026)](https://www.ctda.hcmus.edu.vn/vi/2026/08/ctda-thong-bao-nop-file-de-tai-tot-nghiep-ttdatn-sau-bao-ve-khoa-2022-dot-1-bao-ve-thang-08-2026/)
 
 ### Trợ lí sinh viên
  - 30/10/2026: [Thông báo lịch cố vấn học tập học kỳ 1, năm học 2026-2027](https://www.ctda.hcmus.edu.vn/vi/2026/10/thong-bao-lich-co-van-hoc-tap-hoc-ky-1-nam-hoc-2026-2027/)
@@ -50,16 +50,16 @@ _Last update: **2026-11-19 07:00:35.575122+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 19-11-2026: [Đăng ký tham gia Seminar How do classifiers interact? Exact attribution for plurality-voting ensembles](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17680)
+ - 19-11-2026: [Chúc mừng nhóm Sinh viên APCS có công bố trên Hội nghị uy tín rank B và nhận được giải thưởng Best Paper Runner-up Award của PRICAI năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17679)
+ - 19-11-2026: [Đào tạo AI: Xây dựng tư duy để làm chủ công nghệ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17677)
+ - 19-11-2026: [Tổng kết Buổi giới thiệu về các chương trình học bổng trường Đại học Quốc gia Seoul (Hàn Quốc) dành cho Sinh viên Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17676)
+ - 19-11-2026: [Chương trình tham quan VNG dành cho sinh viên Cử nhân tài năng ngày 1/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17675)
+ - 19-11-2026: [Thông báo v/v báo cáo định kỳ tình hình hướng dẫn và kết quả học tập của nghiên cứu sinh năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17674)
+ - 19-11-2026: [Danh sách tham quan công ty GeoComply ngày 3/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17673)
  - 18-11-2026: [Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 2/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17671)
  - 18-11-2026: [Tổng kết Seminar Facility Location Games, from Origin to Recent Development](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17670)
  - 16-11-2026: [Đăng ký tham quan công ty GeoComply ngày 3/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17668)
- - 16-11-2026: [Danh sách sinh viên tham dự Hội thảo: Xây dựng CV nổi bật và chinh phục phỏng vấn kỹ thuật ngày 18/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17667)
- - 16-11-2026: [Thông tin buổi giới thiệu trực tuyến chương trình Thạc sĩ Khoa học Máy tính tại Bishop’s University (Canada) ngày 19/11/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17669)
- - 12-11-2026: [Tổng kết Tiểu ban Công nghệ Thông tin và Truyền thông – Hội nghị Khoa học lần thứ XV năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17665)
- - 12-11-2026: [Đăng ký tham gia Seminar Facility Location Games, from Origin to Recent Development](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17664)
- - 12-11-2026: [Đăng ký tham gia Buổi giới thiệu về các chương trình học bổng trường Đại học Quốc gia Seoul (Hàn Quốc) dành cho Sinh viên Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17663)
- - 11-11-2026: [Đăng ký tham dự Hội thảo: Xây dựng CV nổi bật và chinh phục phỏng vấn kỹ thuật ngày 18/11](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17661)
- - 11-11-2026: [Thông báo đăng ký thực hiện đề tài tốt nghiệp (bảo vệ tháng 7/2027)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17660)
 
 ## CTSV
  - 17/11/2026: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt công dân – sinh viên đầu năm (Chuyên đề A), năm học 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-dau-nam-chuyen-de-a-nam-hoc-2026-2027)
@@ -74,6 +74,7 @@ _Last update: **2026-11-19 07:00:35.575122+07:00**_
  - 08/11/2026: [Sinh viên Trường Đại học Khoa học tự nhiên, ĐHQG-HCM đạt 02 giải Nhì và 03 giải Khuyến khích tại Giải thưởng Khoa học và Công nghệ dành cho sinh viên năm 2026](https://ctsv.hcmus.edu.vn/news/sinh-vien-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-dat-02-giai-nhi-va-03-giai-khuyen-khich-tai-giai-thuong-khoa-hoc-va-cong-nghe-danh-cho-sinh-vien-n)
 
 ## Thông tin dành cho sinh viên
+- 19/11/2026: [Thông báo chuyển tiền Học bổng khuyến khích HK2/2025-2026 dành cho sinh viên Đại học Chính quy (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk2-2025-2026-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-chuan/)
 - 18/11/2026: [Thông báo đánh giá môn học dành cho sinh viên chương trình đề án](https://hcmus.edu.vn/thong-bao-danh-gia-mon-hoc-danh-cho-sinh-vien-chuong-trinh-de-an/)
 - 17/11/2026: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK3/2025-2026 (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk3-2025-2026-ctda/)
 - 13/11/2026: [Thông báo kiểm tra và cập nhật thông tin Căn cước công dân đối với sinh viên đã được công bố danh sách tốt nghiệp tháng 9 năm 2026](https://hcmus.edu.vn/thong-bao-kiem-tra-va-cap-nhat-thong-tin-can-cuoc-cong-dan-doi-voi-sinh-vien-da-duoc-cong-bo-danh-sach-tot-nghiep-thang-9-nam-2026/)
@@ -83,7 +84,6 @@ _Last update: **2026-11-19 07:00:35.575122+07:00**_
 - 10/11/2026: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK2/2025-2026 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk2-2025-2026-chuong-trinh-chuan/)
 - 08/11/2026: [KHAI MẠC CHUỖI HOẠT ĐỘNG HỘI NGHỊ KHOA HỌC LẦN THỨ 15](https://hcmus.edu.vn/khai-mac-chuoi-hoat-dong-hoi-nghi-khoa-hoc-lan-thu-15/)
 - 06/11/2026: [Thông báo nhận bằng tốt nghiệp trình độ đại học hệ chính quy, từ xa và liên thông đã được công bố danh sách tốt nghiệp tháng 9 năm 2026](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-trinh-do-dai-hoc-he-chinh-quy-tu-xa-va-lien-thong-da-duoc-cong-bo-danh-sach-tot-nghiep-thang-9-nam-2026/)
-- 29/10/2026: [Thông báo kết quả dự kiến học bổng khuyến khích HK2/2025-2026 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hoc-bong-khuyen-khich-hk2-2025-2026-chuong-trinh-chuan/)
 
 ## Các thông báo về Khảo thí
  - 17/11/2026: [Thông báo SV đánh giá môn học - GV HK1/2026-2027 (Chương trình đề án)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/978-thong-bao-sv-danh-gia-mon-h-c-gv-hk1-2026-2027-chuong-trinh-d-an)
