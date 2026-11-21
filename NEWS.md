@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-11-21 13:09:41.403179+07:00**_
+_Last update: **2026-11-22 01:51:05.061405+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -94,11 +94,11 @@ _Last update: **2026-11-21 13:09:41.403179+07:00**_
 
 ***
 
+ - 21/11/2026: [Lịch thi cuối kỳ HK1/26-27 CT đề án khoa Hóa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/981-li-ch-thi-cuo-i-ky-hk1-26-27-ct-de-a-n-khoa-ho-a)
+ - 21/11/2026: [Lịch thi cuối kỳ HK1/26-27 CT đề án khoa CNTT](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/980-li-ch-thi-cuo-i-ky-hk1-26-27-ct-de-a-n-khoa-cntt)
+ - 21/11/2026: [Lịch thi cuối kỳ HK1/26-27 CT đề án các Khoa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/979-li-ch-thi-cuo-i-ky-hk1-26-27-ct-de-a-n-ca-c-khoa)
  - 26/10/2026: [Lịch thi cuối kỳ sớm HK1/26-27 các môn thi sớm tại LT và NVC (Cập nhật 27/10)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/973-l-ch-thi-cu-i-ky-s-m-hk1-26-27-cac-mon-thi-s-m-t-i-lt-va-nvc)
  - 22/10/2026: [Lịch thi giữa kỳ HK1/26-27 chương trình đại trà Chính quy](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/972-l-ch-thi-gi-a-ky-hk1-26-27-chuong-trinh-d-i-tra-chinh-quy)
- - 22/10/2026: [Lịch thi giữa kỳ HK1/26-27 CT đề án các Khoa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/971-l-ch-thi-gi-a-ky-hk1-26-27-ct-d-an-cac-khoa)
- - 22/10/2026: [Lịch thi giữa kỳ và cuối kỳ sớm HK1/26-27 CT đề án khoa Hóa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/970-l-ch-thi-gi-a-ky-va-cu-i-ky-s-m-hk1-26-27-ct-d-an-khoa-hoa)
- - 10/08/2026: [Lịch thi cuối kỳ HK3/25-26 các lớp đại trà Chính quy (Cập nhật 12/08)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/963-l-ch-thi-cu-i-ky-hk3-25-26-cac-l-p-d-i-tra-chinh-quy)
 
 ***
 
