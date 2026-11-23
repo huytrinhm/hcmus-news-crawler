@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-11-23 13:29:23.285884+07:00**_
+_Last update: **2026-11-24 06:34:22.318293+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -50,6 +50,7 @@ _Last update: **2026-11-23 13:29:23.285884+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 23-11-2026: [Đăng ký tham dự Hội thảo “Từ giảng đường đến doanh nghiệp: Góc nhìn thực tế qua các dự án công nghệ thông tin"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17683)
  - 19-11-2026: [Đăng ký tham gia Seminar How do classifiers interact? Exact attribution for plurality-voting ensembles](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17680)
  - 19-11-2026: [Chúc mừng nhóm Sinh viên APCS có công bố trên Hội nghị uy tín rank B và nhận được giải thưởng Best Paper Runner-up Award của PRICAI năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17679)
  - 19-11-2026: [Đào tạo AI: Xây dựng tư duy để làm chủ công nghệ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17677)
@@ -59,7 +60,6 @@ _Last update: **2026-11-23 13:29:23.285884+07:00**_
  - 19-11-2026: [Danh sách tham quan công ty GeoComply ngày 3/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17673)
  - 18-11-2026: [Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 2/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17671)
  - 18-11-2026: [Tổng kết Seminar Facility Location Games, from Origin to Recent Development](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17670)
- - 16-11-2026: [Đăng ký tham quan công ty GeoComply ngày 3/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17668)
 
 ## CTSV
  - 23/11/2026: [Thông báo tuyển bổ sung cho chương trình học bổng Christina Noble Education Programme dành cho sinh viên năm cuối hệ đại học chính quy năm học 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-tuyen-bo-sung-cho-chuong-trinh-hoc-bong-christina-noble-education-programme-danh-cho-sinh-vien-nam-cuoi-he-dai-hoc-chinh-quy-nam-hoc-2026-20)
