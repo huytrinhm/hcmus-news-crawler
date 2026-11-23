@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-11-23 06:23:26.251318+07:00**_
+_Last update: **2026-11-23 13:29:23.285884+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -62,6 +62,7 @@ _Last update: **2026-11-23 06:23:26.251318+07:00**_
  - 16-11-2026: [Đăng ký tham quan công ty GeoComply ngày 3/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17668)
 
 ## CTSV
+ - 23/11/2026: [Thông báo tuyển bổ sung cho chương trình học bổng Christina Noble Education Programme dành cho sinh viên năm cuối hệ đại học chính quy năm học 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-tuyen-bo-sung-cho-chuong-trinh-hoc-bong-christina-noble-education-programme-danh-cho-sinh-vien-nam-cuoi-he-dai-hoc-chinh-quy-nam-hoc-2026-20)
  - 21/11/2026: [Thông báo về việc tổ chức khám sức khỏe định kỳ cho sinh viên đợt 3 năm 2026](https://ctsv.hcmus.edu.vn/news/thong-bao-ve-viec-to-chuc-kham-suc-khoe-dinh-ky-cho-sinh-vien-dot-3-nam-2026)
  - 20/11/2026: [[TUYỂN DỤNG] PHÒNG VIỄN THÔNG, TIN HỌC VÀ CƠ YẾU TUYỂN CHỌN SINH VIÊN THAM GIA VÀO CÔNG AN NHÂN DÂN NĂM 2026](https://ctsv.hcmus.edu.vn/news/tuyen-dung-phong-vien-thong-tin-hoc-va-co-yeu-tuyen-chon-sinh-vien-tham-gia-vao-cong-an-nhan-dan-nam-2026)
  - 17/11/2026: [Thông báo danh sách sinh viên đã tham gia Sinh hoạt công dân – sinh viên đầu năm (Chuyên đề A), năm học 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-danh-sach-sinh-vien-da-tham-gia-sinh-hoat-cong-dan-sinh-vien-dau-nam-chuyen-de-a-nam-hoc-2026-2027)
@@ -71,7 +72,6 @@ _Last update: **2026-11-23 06:23:26.251318+07:00**_
  - 13/11/2026: [CHƯƠNG TRÌNH HỌC BỔNG AMCHAM NĂM 2026](https://ctsv.hcmus.edu.vn/news/chuong-trinh-hoc-bong-amcham-nam-2026)
  - 13/11/2026: [THÔNG BÁO CHƯƠNG TRÌNH HỌC BỔNG ĐỒNG HÀNH KỲ 49 NĂM HỌC 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ky-49-nam-hoc-2026-2027)
  - 11/11/2026: [RECAP TẬP HUẤN CHUYÊN ĐỀ "HIỂU MÌNH, HIỂU NGƯỜI VÀ NGHỆ THUẬT XÂY DỰNG MỐI QUAN HỆ TƯƠNG TRỢ" CHO BAN CÁN SỰ LỚP NĂM 2, 3 & 4](https://ctsv.hcmus.edu.vn/news/recap-tap-huan-chuyen-de-hieu-minh-hieu-nguoi-va-nghe-thuat-xay-dung-moi-quan-he-tuong-tro-cho-ban-can-su-lop-nam-2-3-va-4)
- - 10/11/2026: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK2/2025-2026 (Chương trình Chuẩn)](https://ctsv.hcmus.edu.vn/news/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk2-2025-2026-chuong-trinh-chuan)
 
 ## Thông tin dành cho sinh viên
 - 19/11/2026: [Thông báo chuyển tiền Học bổng khuyến khích HK2/2025-2026 dành cho sinh viên Đại học Chính quy (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk2-2025-2026-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-chuan/)
