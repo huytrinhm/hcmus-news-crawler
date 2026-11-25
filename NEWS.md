@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-11-25 05:03:29.421112+07:00**_
+_Last update: **2026-11-25 14:36:51.289391+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -50,7 +50,9 @@ _Last update: **2026-11-25 05:03:29.421112+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 25-11-2026: [Đăng ký tham gia Buổi giới thiệu Học bổng Thạc Sỹ Fulbright toàn phần tại Hoa Kỳ năm học 2028 - 2029](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17685)
  - 23-11-2026: [Đăng ký tham dự Hội thảo “Từ giảng đường đến doanh nghiệp: Góc nhìn thực tế qua các dự án công nghệ thông tin"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17683)
+ - 20-11-2026: [Thông báo lịch thi lớp bổ túc kiến thức ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 8/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17686)
  - 19-11-2026: [Đăng ký tham gia Seminar How do classifiers interact? Exact attribution for plurality-voting ensembles](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17680)
  - 19-11-2026: [Chúc mừng nhóm Sinh viên APCS có công bố trên Hội nghị uy tín rank B và nhận được giải thưởng Best Paper Runner-up Award của PRICAI năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17679)
  - 19-11-2026: [Đào tạo AI: Xây dựng tư duy để làm chủ công nghệ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17677)
@@ -58,8 +60,6 @@ _Last update: **2026-11-25 05:03:29.421112+07:00**_
  - 19-11-2026: [Chương trình tham quan VNG dành cho sinh viên Cử nhân tài năng ngày 1/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17675)
  - 19-11-2026: [Thông báo v/v báo cáo định kỳ tình hình hướng dẫn và kết quả học tập của nghiên cứu sinh năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17674)
  - 19-11-2026: [Danh sách tham quan công ty GeoComply ngày 3/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17673)
- - 18-11-2026: [Danh sách sinh viên tham quan công ty Saritasa Việt Nam ngày 2/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17671)
- - 18-11-2026: [Tổng kết Seminar Facility Location Games, from Origin to Recent Development](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17670)
 
 ## CTSV
  - 23/11/2026: [Thông báo tuyển bổ sung cho chương trình học bổng Christina Noble Education Programme dành cho sinh viên năm cuối hệ đại học chính quy năm học 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-tuyen-bo-sung-cho-chuong-trinh-hoc-bong-christina-noble-education-programme-danh-cho-sinh-vien-nam-cuoi-he-dai-hoc-chinh-quy-nam-hoc-2026-20)
