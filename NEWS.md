@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-11-26 14:26:05.616059+07:00**_
+_Last update: **2026-11-27 04:06:19.030027+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -50,6 +50,7 @@ _Last update: **2026-11-26 14:26:05.616059+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 26-11-2026: [Tổng kết Seminar How do classifiers interact? Exact attribution for plurality-voting ensembles](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17695)
  - 26-11-2026: [Danh sách sinh viên tham gia Hội thảo “Từ giảng đường đến doanh nghiệp: Góc nhìn thực tế qua các dự án công nghệ thông tin"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17694)
  - 25-11-2026: [Đăng ký tham gia Buổi giới thiệu Học bổng Thạc Sỹ Fulbright toàn phần tại Hoa Kỳ năm học 2028 - 2029](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17685)
  - 23-11-2026: [Đăng ký tham dự Hội thảo “Từ giảng đường đến doanh nghiệp: Góc nhìn thực tế qua các dự án công nghệ thông tin"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17683)
@@ -59,9 +60,9 @@ _Last update: **2026-11-26 14:26:05.616059+07:00**_
  - 19-11-2026: [Đào tạo AI: Xây dựng tư duy để làm chủ công nghệ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17677)
  - 19-11-2026: [Tổng kết Buổi giới thiệu về các chương trình học bổng trường Đại học Quốc gia Seoul (Hàn Quốc) dành cho Sinh viên Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17676)
  - 19-11-2026: [Chương trình tham quan VNG dành cho sinh viên Cử nhân tài năng ngày 1/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17675)
- - 19-11-2026: [Thông báo v/v báo cáo định kỳ tình hình hướng dẫn và kết quả học tập của nghiên cứu sinh năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17674)
 
 ## CTSV
+ - 26/11/2026: [Thông báo phát thuốc tẩy giun cho người học đợt 2 năm 2026](https://ctsv.hcmus.edu.vn/news/thong-bao-phat-thuoc-tay-giun-cho-nguoi-hoc-dot-2-nam-2026)
  - 23/11/2026: [Thông báo tuyển bổ sung cho chương trình học bổng Christina Noble Education Programme dành cho sinh viên năm cuối hệ đại học chính quy năm học 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-tuyen-bo-sung-cho-chuong-trinh-hoc-bong-christina-noble-education-programme-danh-cho-sinh-vien-nam-cuoi-he-dai-hoc-chinh-quy-nam-hoc-2026-20)
  - 21/11/2026: [Thông báo về việc tổ chức khám sức khỏe định kỳ cho sinh viên đợt 3 năm 2026](https://ctsv.hcmus.edu.vn/news/thong-bao-ve-viec-to-chuc-kham-suc-khoe-dinh-ky-cho-sinh-vien-dot-3-nam-2026)
  - 20/11/2026: [[TUYỂN DỤNG] PHÒNG VIỄN THÔNG, TIN HỌC VÀ CƠ YẾU TUYỂN CHỌN SINH VIÊN THAM GIA VÀO CÔNG AN NHÂN DÂN NĂM 2026](https://ctsv.hcmus.edu.vn/news/tuyen-dung-phong-vien-thong-tin-hoc-va-co-yeu-tuyen-chon-sinh-vien-tham-gia-vao-cong-an-nhan-dan-nam-2026)
@@ -71,9 +72,9 @@ _Last update: **2026-11-26 14:26:05.616059+07:00**_
  - 16/11/2026: [Quyết định về việc ban hành Quy định công tác khen thưởng, kỷ luật sinh viên](https://ctsv.hcmus.edu.vn/news/quyet-dinh-ve-viec-ban-hanh-quy-dinh-cong-tac-khen-thuong-ky-luat-sinh-vien-09-11-2026)
  - 13/11/2026: [CHƯƠNG TRÌNH HỌC BỔNG AMCHAM NĂM 2026](https://ctsv.hcmus.edu.vn/news/chuong-trinh-hoc-bong-amcham-nam-2026)
  - 13/11/2026: [THÔNG BÁO CHƯƠNG TRÌNH HỌC BỔNG ĐỒNG HÀNH KỲ 49 NĂM HỌC 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ky-49-nam-hoc-2026-2027)
- - 11/11/2026: [RECAP TẬP HUẤN CHUYÊN ĐỀ "HIỂU MÌNH, HIỂU NGƯỜI VÀ NGHỆ THUẬT XÂY DỰNG MỐI QUAN HỆ TƯƠNG TRỢ" CHO BAN CÁN SỰ LỚP NĂM 2, 3 & 4](https://ctsv.hcmus.edu.vn/news/recap-tap-huan-chuyen-de-hieu-minh-hieu-nguoi-va-nghe-thuat-xay-dung-moi-quan-he-tuong-tro-cho-ban-can-su-lop-nam-2-3-va-4)
 
 ## Thông tin dành cho sinh viên
+- 26/11/2026: [Thông báo đăng ký học phần học kỳ 2 năm học 2026-2027 – Chương trình Chất lượng cao, Tăng cường tiếng Anh và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2026-2027-chuong-trinh-chat-luong-cao-tang-cuong-tieng-anh-va-viet-phap/)
 - 19/11/2026: [Thông báo chuyển tiền Học bổng khuyến khích HK2/2025-2026 dành cho sinh viên Đại học Chính quy (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hk2-2025-2026-danh-cho-sinh-vien-dai-hoc-chinh-quy-chuong-trinh-chuan/)
 - 18/11/2026: [Thông báo đánh giá môn học dành cho sinh viên chương trình đề án](https://hcmus.edu.vn/thong-bao-danh-gia-mon-hoc-danh-cho-sinh-vien-chuong-trinh-de-an/)
 - 17/11/2026: [Thông báo kết quả chính thức Điểm rèn luyện sinh viên HK3/2025-2026 (CTĐA)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-diem-ren-luyen-sinh-vien-hk3-2025-2026-ctda/)
@@ -83,7 +84,6 @@ _Last update: **2026-11-26 14:26:05.616059+07:00**_
 - 11/11/2026: [Quy chế đào tạo trình độ đại học năm 2026](https://hcmus.edu.vn/quy-che-dao-tao-trinh-do-dai-hoc-nam-2026/)
 - 10/11/2026: [Thông báo kết quả chính thức học bổng khuyến khích học tập HK2/2025-2026 (Chương trình Chuẩn)](https://hcmus.edu.vn/thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hk2-2025-2026-chuong-trinh-chuan/)
 - 08/11/2026: [KHAI MẠC CHUỖI HOẠT ĐỘNG HỘI NGHỊ KHOA HỌC LẦN THỨ 15](https://hcmus.edu.vn/khai-mac-chuoi-hoat-dong-hoi-nghi-khoa-hoc-lan-thu-15/)
-- 06/11/2026: [Thông báo nhận bằng tốt nghiệp trình độ đại học hệ chính quy, từ xa và liên thông đã được công bố danh sách tốt nghiệp tháng 9 năm 2026](https://hcmus.edu.vn/thong-bao-nhan-bang-tot-nghiep-trinh-do-dai-hoc-he-chinh-quy-tu-xa-va-lien-thong-da-duoc-cong-bo-danh-sach-tot-nghiep-thang-9-nam-2026/)
 
 ## Các thông báo về Khảo thí
  - 17/11/2026: [Thông báo SV đánh giá môn học - GV HK1/2026-2027 (Chương trình đề án)](https://ktdbcl.hcmus.edu.vn/index.php/thong-bao/978-thong-bao-sv-danh-gia-mon-h-c-gv-hk1-2026-2027-chuong-trinh-d-an)
