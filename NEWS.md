@@ -1,5 +1,5 @@
 # All news
-_Last update: **2026-11-27 04:06:19.030027+07:00**_
+_Last update: **2026-11-27 14:22:48.923741+07:00**_
 ## CTDA
 ### Kế hoạch học tập
  - 15/09/2026: [[CTĐA] Kế hoạch mở học phần năm học 2026-2027 (dự kiến)](https://www.ctda.hcmus.edu.vn/vi/2026/09/ctda-ke-hoach-mo-hoc-phan-nam-hoc-2025-2026-du-kien-2/)
@@ -50,18 +50,19 @@ _Last update: **2026-11-27 04:06:19.030027+07:00**_
  - 06/09/2021: [CTĐA – Hỗ trợ về nghiên cứu khoa học](https://www.ctda.hcmus.edu.vn/vi/2021/09/ctda-ho-tro-ve-nghien-cuu-khoa-hoc/)
 
 ## FIT
+ - 27-11-2026: [Mời tham dự buổi bảo vệ LATS cấp CSĐT của NCS Hồ Thị Thanh Tuyến (14g00, 07/12/2026, Phòng F102)](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17696)
  - 26-11-2026: [Tổng kết Seminar How do classifiers interact? Exact attribution for plurality-voting ensembles](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17695)
  - 26-11-2026: [Danh sách sinh viên tham gia Hội thảo “Từ giảng đường đến doanh nghiệp: Góc nhìn thực tế qua các dự án công nghệ thông tin"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17694)
- - 25-11-2026: [Đăng ký tham gia Buổi giới thiệu Học bổng Thạc Sỹ Fulbright toàn phần tại Hoa Kỳ năm học 2028 - 2029](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17685)
+ - 25-11-2026: [Đăng ký tham gia Buổi giới thiệu Học bổng Thạc sỹ và Nghiên cứu sinh Fulbright năm học 2028-2029](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17685)
  - 23-11-2026: [Đăng ký tham dự Hội thảo “Từ giảng đường đến doanh nghiệp: Góc nhìn thực tế qua các dự án công nghệ thông tin"](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17683)
  - 20-11-2026: [Thông báo lịch thi lớp bổ túc kiến thức ngành Khoa học máy tính, Hệ thống thông tin, Trí tuệ nhân tạo khoá tháng 8/2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17686)
  - 19-11-2026: [Đăng ký tham gia Seminar How do classifiers interact? Exact attribution for plurality-voting ensembles](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17680)
  - 19-11-2026: [Chúc mừng nhóm Sinh viên APCS có công bố trên Hội nghị uy tín rank B và nhận được giải thưởng Best Paper Runner-up Award của PRICAI năm 2026](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17679)
  - 19-11-2026: [Đào tạo AI: Xây dựng tư duy để làm chủ công nghệ](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17677)
  - 19-11-2026: [Tổng kết Buổi giới thiệu về các chương trình học bổng trường Đại học Quốc gia Seoul (Hàn Quốc) dành cho Sinh viên Việt Nam](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17676)
- - 19-11-2026: [Chương trình tham quan VNG dành cho sinh viên Cử nhân tài năng ngày 1/12](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=292&newsid=17675)
 
 ## CTSV
+ - 27/11/2026: [NGHỆ THUẬT NÓI “KHÔNG” VỚI NGƯỜI KHÁC ĐỂ BẢO VỆ SỨC KHỎE TINH THẦN CHO CHÍNH MÌNH](https://ctsv.hcmus.edu.vn/news/nghe-thuat-noi-khong-voi-nguoi-khac-de-bao-ve-suc-khoe-tinh-than-cho-chinh-minh)
  - 26/11/2026: [Thông báo phát thuốc tẩy giun cho người học đợt 2 năm 2026](https://ctsv.hcmus.edu.vn/news/thong-bao-phat-thuoc-tay-giun-cho-nguoi-hoc-dot-2-nam-2026)
  - 23/11/2026: [Thông báo tuyển bổ sung cho chương trình học bổng Christina Noble Education Programme dành cho sinh viên năm cuối hệ đại học chính quy năm học 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-tuyen-bo-sung-cho-chuong-trinh-hoc-bong-christina-noble-education-programme-danh-cho-sinh-vien-nam-cuoi-he-dai-hoc-chinh-quy-nam-hoc-2026-20)
  - 21/11/2026: [Thông báo về việc tổ chức khám sức khỏe định kỳ cho sinh viên đợt 3 năm 2026](https://ctsv.hcmus.edu.vn/news/thong-bao-ve-viec-to-chuc-kham-suc-khoe-dinh-ky-cho-sinh-vien-dot-3-nam-2026)
@@ -71,7 +72,6 @@ _Last update: **2026-11-27 04:06:19.030027+07:00**_
  - 16/11/2026: [CUỘC SỐNG Ý NGHĨA HƠN KHI CHÚNG TA CÓ ƯỚC MƠ VÀ MỤC ĐÍCH SỐNG](https://ctsv.hcmus.edu.vn/news/cuoc-song-y-nghia-hon-khi-chung-ta-co-uoc-mo-va-muc-dich-song)
  - 16/11/2026: [Quyết định về việc ban hành Quy định công tác khen thưởng, kỷ luật sinh viên](https://ctsv.hcmus.edu.vn/news/quyet-dinh-ve-viec-ban-hanh-quy-dinh-cong-tac-khen-thuong-ky-luat-sinh-vien-09-11-2026)
  - 13/11/2026: [CHƯƠNG TRÌNH HỌC BỔNG AMCHAM NĂM 2026](https://ctsv.hcmus.edu.vn/news/chuong-trinh-hoc-bong-amcham-nam-2026)
- - 13/11/2026: [THÔNG BÁO CHƯƠNG TRÌNH HỌC BỔNG ĐỒNG HÀNH KỲ 49 NĂM HỌC 2026-2027](https://ctsv.hcmus.edu.vn/news/thong-bao-chuong-trinh-hoc-bong-dong-hanh-ky-49-nam-hoc-2026-2027)
 
 ## Thông tin dành cho sinh viên
 - 26/11/2026: [Thông báo đăng ký học phần học kỳ 2 năm học 2026-2027 – Chương trình Chất lượng cao, Tăng cường tiếng Anh và Việt – Pháp](https://hcmus.edu.vn/thong-bao-dang-ky-hoc-phan-hoc-ky-2-nam-hoc-2026-2027-chuong-trinh-chat-luong-cao-tang-cuong-tieng-anh-va-viet-phap/)
@@ -94,11 +94,11 @@ _Last update: **2026-11-27 04:06:19.030027+07:00**_
 
 ***
 
- - 26/11/2026: [Lịch thi cuối kỳ (sớm) Hk1/26-27 tại LT và NVC](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/982-l-ch-thi-cu-i-ky-s-m-hk1-26-27-t-i-lt-va-nvc)
+ - 27/11/2026: [Lịch thi cuối kỳ HK1/26-27 hệ đào tạo từ xa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/983-l-ch-thi-cu-i-ky-hk1-26-27-h-dao-t-o-t-xa)
+ - 26/10/2026: [Lịch thi cuối kỳ sớm HK1/26-27 các môn thi sớm tại LT và NVC (Cập nhật 25/11)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/973-l-ch-thi-cu-i-ky-s-m-hk1-26-27-cac-mon-thi-s-m-t-i-lt-va-nvc)
  - 21/11/2026: [Lịch thi cuối kỳ HK1/26-27 CT đề án khoa Hóa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/981-li-ch-thi-cuo-i-ky-hk1-26-27-ct-de-a-n-khoa-ho-a)
  - 21/11/2026: [Lịch thi cuối kỳ HK1/26-27 CT đề án khoa CNTT](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/980-li-ch-thi-cuo-i-ky-hk1-26-27-ct-de-a-n-khoa-cntt)
  - 21/11/2026: [Lịch thi cuối kỳ HK1/26-27 CT đề án các Khoa](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/979-li-ch-thi-cuo-i-ky-hk1-26-27-ct-de-a-n-ca-c-khoa)
- - 26/10/2026: [Lịch thi cuối kỳ sớm HK1/26-27 các môn thi sớm tại LT và NVC (Cập nhật 27/10)](https://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/973-l-ch-thi-cu-i-ky-s-m-hk1-26-27-cac-mon-thi-s-m-t-i-lt-va-nvc)
 
 ***
 
